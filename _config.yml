@@ -1,7 +1,7 @@
 # Site settings
 title: Lithuanian-Economy.net
-url: ""    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "le-blog" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+url: "http://talents-for-lithuania.eu/"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
   One or more sentences introducing this blog.
