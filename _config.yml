@@ -1,0 +1,58 @@
+# Site settings
+title: Lithuanian-Economy.net
+url: ""    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "le-blog" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+#timezone: Asia/Chongqing
+description: >
+  One or more sentences introducing this blog.
+
+# Your information
+email: justas.mundeikis@pm.me
+author: Justas Mundeikis
+avatar: "/media_files/img/Justas_Mundeikis_square.jpg"
+profile: Economist, lecturer and blogger
+#twitter_username: twitter_username
+# github_username:  justasmundeikis
+profile_links:
+  Email: "mailto:justas.mundeikis@pm.me"
+  GitHub: "https://github.com/justasmundeikis"
+  # You can add more profile links above, or edit _includes/sidebar.html 
+
+# Comment Service (Disqus or 多说)
+#  choose one and un-comment the line to active it
+# disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
+# duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
+
+excerpt_separator: <!--more-->
+
+header:
+  links:             # Links on the header. Link to in-site page with a slash as prefix
+    Apie: /about/
+    Kategorijos: /category/
+
+permalink: /:year/:month/:day/:title
+plugins:
+ - jekyll-paginate
+ - jekyll-gist
+ - jemoji
+
+# Build settings
+paginate: 25
+paginate_path: "page:num"
+
+highlighter: rouge
+markdown: kramdown
+
+# https://jekyllrb.com/docs/configuration/#precedence
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  math_engine: mathjax
