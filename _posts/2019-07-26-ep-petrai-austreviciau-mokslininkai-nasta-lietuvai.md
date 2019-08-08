@@ -17,7 +17,8 @@ tags:
 <a href="https://www.facebook.com/ausra.maldeikiene/posts/2855395887858816" target="_blank" rel="noopener noreferrer">EP narė Aušra Maldeikienė savo FB paskyroje pasidalino labai įdomia pokalbio  dalimi su kitu EP nariu, liberalu Petru Auštrevčiumi</a> dėl mobilumo paketo:
 <blockquote>Susitinkame dabar su pervėžėjų lobistais dėl Mobilumo paketo. EP narys liberalas Auštrevičius, atsakydamas į mano pastabą dėl mažos pridėtinės vertės pervežimų verslo dotavimo Lietuvoje viešojo sektoriaus sąskaita, praneša : “ Tai Lietuvos mokslininkai, kurie nesugeba paruošti projektų, yra našta Lietuvai”.
 Būtų gerai, kad mokslininkai paklaustų Petro Auštrevičiaus, ką jis turi galvoje?</blockquote>
-Aš Vilniaus universiteto buvęs dėstytojas (jaunesnysis asistentas), dabartinis doktorantas, noriu Jūsų paklausti, ką reiškia, jog mes esame NAŠTA valstybei?<!--more-->
+Aš Vilniaus universiteto buvęs dėstytojas (jaunesnysis asistentas), dabartinis doktorantas, noriu Jūsų paklausti, ką reiškia, jog mes esame NAŠTA valstybei?
+<!--more-->
 
 [caption id="attachment_2428" align="aligncenter" width="515"]<a href="http://lithuanian-economy.net/wp-content/uploads/2019/07/Screenshot-from-2019-07-26-12-11-13.jpg" target="_blank" rel="noopener noreferrer"><img class="wp-image-2428 size-full" src="http://lithuanian-economy.net/wp-content/uploads/2019/07/Screenshot-from-2019-07-26-12-11-13.jpg" alt="" width="515" height="266" /></a> Šaltinis: https://www.facebook.com/ausra.maldeikiene/posts/2855395887858816[/caption]
 

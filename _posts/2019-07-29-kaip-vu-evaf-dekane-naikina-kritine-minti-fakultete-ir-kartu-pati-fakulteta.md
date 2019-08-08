@@ -18,7 +18,8 @@ tags:
   - VU EVAF
 ---
 <strong>Šiame komentare noriu papasakoti apie tai, kaip (mano supratimu) VU EVAF dekanė bando užgniaužti kritinį mastymą, atleidžiant nepatinkančius ar neįtinkančius fakulteto darbuotojus ir apie tai, kokių tikėtina ateityje tai turės pasekmių ekonomikos mokslui pačiame fakultete.
-Nors šiame komentare mano asmeninė ir labai emocionali patirtis, šio komentaro esmė ne aš, šiame komentare esmė ne-sistemoje, kurią formuoja dekanatas ir kuri sunaikins EVAF. Todėl apie tai, kas vyksta, atvirai ir viešai kalbėti - mano pareiga. Nes man universitetas, kaip institucija, rūpi labiau nei mano paties ateities perspektyvos joje. </strong><!--more-->
+Nors šiame komentare mano asmeninė ir labai emocionali patirtis, šio komentaro esmė ne aš, šiame komentare esmė ne-sistemoje, kurią formuoja dekanatas ir kuri sunaikins EVAF. Todėl apie tai, kas vyksta, atvirai ir viešai kalbėti - mano pareiga. Nes man universitetas, kaip institucija, rūpi labiau nei mano paties ateities perspektyvos joje. </strong>
+<!--more-->
 <h5>Universitetas ir doktorantūra</h5>
 Pradėti norėčiau nuo to, kaip aš suprantu universiteto kaip institucijos misiją ir kodėl aš įstojau į doktorantūros studijas. Manau svarbu atskleisti, savo poziciją ir leisti suprasti skaitytojams, kodėl tai ką rašau, rašau sunkia ranka.
 

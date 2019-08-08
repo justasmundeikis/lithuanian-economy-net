@@ -11,7 +11,7 @@ description: Praėjusią savaitę reaguodamas į Premjero S.Skvernelio bei Prezi
 ---
 
 **Praėjusią savaitę reaguodamas į Premjero S.Skvernelio bei Prezidento G.Nausėdos teigiamus vertinimus ir išsakomą viešą palaikymą finansų ministrui, parašiau [apeliavimą į demokratinius socialistus][1] šioje šalyje dėl būsimo finansų ministro. Visgi supratau, jog reikia daryti daugiau, ir birželio 21 d. blogpost'e ["Piliečių nuomonė dėl finansų ministro Seimo nariams"][2] sukūriau standartizuotą el laiško siuntimo galimybę, valdančiosios koalicijos Seimo nariams. Iki šiandienos apie 150 asmenų nusiuntė standartizuotą el. laišką visiems, arba pasirinktiems Seimo nariams. Labai džiugu, jog į raginimą užbaigti *Šaponomics* prisijungė ir NVO. Nuolat atnaujinamas NVO sąrašas bei jų kreipimaisi.**
-
+<!--more-->
 
 <h2>Kreipimasis į Seimo narius</h2>
 Lietuva vis dar yra parlamentinė respublika todėl manau, jog pirmoje vietoje dėl vykdomos socialinės bei ekonominės politikos būtina kreiptis į Seimo narius. Juo labiau, kad Seime buvo pasirašyta naujos valdančiosios koalicijos sutartis, numatanti per 5 metus padidinti išlaidos socialinei politikai iki ES vidurkio.

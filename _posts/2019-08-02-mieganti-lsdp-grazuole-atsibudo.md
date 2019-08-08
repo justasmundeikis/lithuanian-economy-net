@@ -3,15 +3,18 @@ title: Mieganti LSDP gražuolė atsibudo?
 date: 2019-08-02T23:13:54+03:00
 author: Justas Mundeikis
 layout: post
-image: /wp-content/uploads/2019/08/Screenshot-from-2019-08-02-22-50-39.jpg
-categories:
-  - Politika
+image: /media_files/img/lsdp_paluckas.jpg
+categories: 
+ - Politika
 tags:
-  - Kairioji politika
-  - LSDP
+ - Kairioji politika
+ - LSDP
 ---
-<strong>Kad ir kaip aš linkėčiau Gintautui Paluckui sėkmės reorganizuoti ir atgaivinti LSDP, visgi paskutiniu metu pastebiu labai rimtų vertybiinių problemų. Vieni pasakys, tai PR problema, tačiau aš matau kitaip, PR čia ne prie ko, čia vertybių ir prioritetų klausimas.</strong><!--more-->
-<h5>Nulinė reakcija į A.Sakalo homofibiškas sapaliones</h5>
+<strong>Kad ir kaip aš linkėčiau Gintautui Paluckui sėkmės reorganizuoti ir atgaivinti LSDP, visgi paskutiniu metu pastebiu labai rimtų vertybiinių problemų. Vieni pasakys, tai PR problema, tačiau aš matau kitaip, PR čia ne prie ko, čia vertybių ir prioritetų klausimas.</strong>
+
+<!--more-->
+
+## Nulinė reakcija į A.Sakalo homofibiškas sapaliones
 Prieš gerą mėnesį perskaičiau LSDP garbės pirmininko A.Sakalo Delfi.lt komentarą apie tai, kaip R.Dagys turi kurti savo partiją ir atstovauti konservatyvią poziciją Lietuvos politikos spektre. Savaime nieko blogo, jeigu straipsnyje nemirgėtų socialdemokratui nebūdingų homofobinių minčių.
 
 Parašiau apie tai <a href="http://lithuanian-economy.net/2019/07/07/homofobai-lsdp-tarpe/" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">blogpostą</span></a> ir manau, būtų buvę galima tikėtis kokios nors LSDP arba partijos pirmininko reakcijos. Ne, partijos pirmininkas <a href="https://www.facebook.com/lithuanianeconomy/posts/1042671609269264" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">mano tinklaraščio Facebook paskyroje</span> </a>tik atsikomentavo:
@@ -22,12 +25,6 @@ Nesiūlau jo užčiaupti ar griebtis kažkokių sankcijų, bet aiškaus, nemaži
 Nebent tos reakcijos nėra dėl pragmatinių sumetimų, pataikaujant dalies rinkėjų pažiūroms ir bijant netekti jų balsų. Jei taip – labai gaila.</span></span></blockquote>
 
 <img src="/wp-content/uploads/2019/08/Screenshot-from-2019-08-02-22-02-54.jpg">
-
-
-
-
-
-<hr>
 
 <a href="http://lithuanian-economy.net/wp-content/uploads/2019/08/Screenshot-from-2019-08-02-22-03-05.jpg"><img class="aligncenter size-full wp-image-2503" src="http://lithuanian-economy.net/wp-content/uploads/2019/08/Screenshot-from-2019-08-02-22-03-05.jpg" alt="" width="505" height="378" /></a>
 
@@ -72,7 +69,9 @@ Ar tikrai kairiajai partijai reikia laukti, jog stoti profesinių sąjungų pus�
 <strong>2019-08-02</strong> Neaišku ar proga to, kad šiandien pokalbiui pas G.Nausėda pagaliau atvyko ir pats V.Šapoka, ar proga to, kad baigė rinkti parašus Žirmunų apygardoje, pagaliau pasisako LSDP pirmininkas Delfi.lt: "<a href="https://www.delfi.lt/news/daily/lithuania/socdemu-lyderis-ministras-sapoka-geroves-valstybes-priesas.d?id=81890817" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">Socdemų lyderis: ministras Šapoka – gerovės valstybės priešas". </span></a>
 
 <em>Galima paklausiu - WTF??? </em>Taip šiandien G.Nausėda susitiko su V.Šapoka. Bet kodėl LSDP savo poziciją išsako savaitę po to, kai profesinės sąjungos, Stop skurdas, Paskutinis prioritetas jau pasisakė ir kai visa žiniasklaida skambėte skambėjo opozicija V.Šapokai? Miegančioji gražuolė atsibudo?
-<h5>Epilogas</h5>
+
+## Epilogas
+
 Nežinau kame problema, ar tame, jog LSDP vis dar tebėra "asmeninė" partija ir jeigu pirmininkas užsiėmęs parašų rinkimu, tai visa LSDP komunikacija sustoja vietoje ir turime begalvę partiją? Tikiuosi taip nėra.
 
 Gal problema tame, jog trūksta protingų ir rašyti galinčių, kairiais pažiūras turinčių darbuotojų? Kita vertus, juk prie LSDP prisijungė iš JAV grįžęs <a href="https://www.facebook.com/vaidas.navickas.LT" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">Vaidas Navickas</span></a>, kuris pasižymi aštriais ir korektiškais facebook post’ais. Taigi "resursų trūkumas" neįtikina.

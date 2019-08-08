@@ -108,7 +108,7 @@ body { background-color: #cccccc; }
 .home .post-list { margin: 0; padding: 20px 40px; list-style: none; }
 .home .post-list > li { padding-bottom: 30px; border-bottom: 1px solid #CCC; margin-bottom: 30px; }
 .home .post-list .post-title { font-size: 28px; font-weight: normal; margin: 0; }
-.home .post-list .post-meta { font-size: 14px; color: #666; margin: 0 20px; margin-bottom: .5em; }
+.home .post-list .post-meta { font-size: 14px; color: #666; margin: 0px 0px; }
 .home .post-list .post-excerpt { margin: 0 20px; }
 .home .post-list .post-excerpt, .home .post-list .post-excerpt * { font-size: 14px; padding-top: 0; padding-bottom: 0; color: #333; }
 .home .post-list .post-excerpt code, .home .post-list .post-excerpt pre, .home .post-list .post-excerpt pre * { color: #666; background-color: #eee; }
