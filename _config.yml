@@ -36,7 +36,6 @@ plugins:
  - jekyll-paginate
  - jekyll-gist
  - jemoji
- - jekyll-feed
 
 # Build settings
 paginate: 25
