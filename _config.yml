@@ -32,6 +32,7 @@ plugins:
  - jekyll-paginate
  - jekyll-gist
  - jemoji
+ - jekyll-seo-tag
 
 # Build settings
 paginate: 25
