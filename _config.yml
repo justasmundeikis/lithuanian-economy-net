@@ -9,19 +9,14 @@ description: >
 # Your information
 email: justas.mundeikis@pm.me
 author: Justas Mundeikis
-avatar: "/media_files/img/Justas_Mundeikis_square.jpg"
+avatar: "/assets/general/Justas_Mundeikis_square.jpg"
 profile: Economist, lecturer and blogger
 #twitter_username: twitter_username
 # github_username:  justasmundeikis
 profile_links:
   Email: "mailto:justas.mundeikis@lithuanian-economy.net"
   GitHub: "https://github.com/justasmundeikis"
-  # You can add more profile links above, or edit _includes/sidebar.html 
 
-# Comment Service (Disqus or 多说)
-#  choose one and un-comment the line to active it
-# disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
-# duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 excerpt_separator: <!--more-->
 
@@ -32,6 +27,7 @@ header:
     Tags: /tag/
 
 permalink: /:year/:month/:day/:title
+
 plugins:
  - jekyll-paginate
  - jekyll-gist

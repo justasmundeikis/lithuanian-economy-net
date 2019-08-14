@@ -3,8 +3,8 @@ title: Mieganti LSDP gražuolė atsibudo?
 date: 2019-08-02T23:13:54+03:00
 author: Justas Mundeikis
 layout: post
-image: /media_files/img/lsdp_paluckas.jpg
-categories: 
+image: /assets/2019/08/02/lsdp_paluckas.jpg
+categories:
  - Politika
 tags:
  - Kairioji politika

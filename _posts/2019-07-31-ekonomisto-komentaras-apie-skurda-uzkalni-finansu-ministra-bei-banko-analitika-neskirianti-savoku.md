@@ -6,8 +6,6 @@ author: Justas Mundeikis
 layout: post
 guid: http://lithuanian-economy.net/?p=2471
 permalink: /2019/07/31/ekonomisto-komentaras-apie-skurda-uzkalni-finansu-ministra-bei-banko-analitika-neskirianti-savoku/
-classic-editor-remember:
-  - classic-editor
 image: /wp-content/uploads/2019/04/shutterstock_105554129.jpg
 categories:
   - "Ekonomisto komentaras"
