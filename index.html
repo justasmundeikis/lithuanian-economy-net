@@ -12,7 +12,7 @@ layout: default
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
       <div class="post-meta">{{ post.date | date: "%Y %m %d" }} | Category: {{post.categories| join: ', '}} | Tags: {{ post.tags | join: ', '}}</div>
-      <img src="{{ post.image }}" style="float: left; height: 100px; object-fit: contain; padding: 10px">
+      <img src="{{ post.thumbnail}}" style="float: left; object-fit: contain; padding: 10px">
       <div class="post-excerpt">
         {%   if post.content contains site.excerpt_separator or post.content != post.excerpt %}{{ post.excerpt }}
         {%   else %}{{ post.content | lstrip | split: "
@@ -24,7 +24,7 @@ layout: default
     </li>
     {% endfor %}
   </ul>
-  
+
   <!-- Pagination links -->
   <div class="pagination">
     {% if paginator.previous_page %}

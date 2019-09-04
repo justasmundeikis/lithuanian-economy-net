@@ -22,7 +22,7 @@ excerpt_separator: <!--more-->
 
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
-    Apie: /about/
+    Info: /info/
     Kategorijos: /category/
     Tags: /tag/
 

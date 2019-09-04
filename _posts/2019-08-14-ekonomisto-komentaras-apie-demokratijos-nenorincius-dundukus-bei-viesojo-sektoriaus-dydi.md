@@ -3,7 +3,8 @@ title: Ekonomisto komentaras - Apie demokratijos nenorinčius dundukus bei vieš
 date: 2019-08-14 08:00:00 +03:00
 author: Justas Mundeikis
 layout: post
-image: /assets/2019/08/14/internet_trolls.jpg
+image: /assets/2019/08/14/internet_trolls.png
+thumbnail: /assets/2019/08/14/thumb.internet_trolls.png
 categories:
  - Ekonomisto komentaras
 tags:

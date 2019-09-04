@@ -4,11 +4,33 @@
     <title>Lithuanian-Economy.net</title>
     <description>One or more sentences introducing this blog.
 </description>
-    <link>http://www.lithuanian-economy.net/</link>
-    <atom:link href="http://www.lithuanian-economy.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Aug 2019 20:54:58 +0300</pubDate>
-    <lastBuildDate>Wed, 14 Aug 2019 20:54:58 +0300</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 04 Sep 2019 19:35:22 +0300</pubDate>
+    <lastBuildDate>Wed, 04 Sep 2019 19:35:22 +0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Ekonomisto komentaras - Apie vaiko pinigus, politikų pažadus ir bunkančią visuomenę</title>
+        <description>&lt;p&gt;&lt;strong&gt;
+Gėrybių (angl. goods) patenkinti visiems visuomenės poreikiams nėra pakankamai. Tam, kad gerybių paskirstymo visuomenėje klausimas būtų sprendžiamas taikiai, šis procesas pavestas politikams. Politikai prieš priimant sprendimus savo viešomis diskusijomis bando įtikinti kitus politikus ir visuomenę tam, kad būtų suformuota reikiama politinė dauguma priimti sprendimus. Viešas idėjų ir argumentų išsakymas leidžia įvairioms visuomenėms grupėms įsitraukti į diskusijas ir atstovauti savo interesus prieš įvykstant balsavimui. Šiame komentare apie vaiko pinigus, politikų pažadus ir bunkančią visuomenę.
+&lt;strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 Sep 2019 19:30:00 +0300</pubDate>
+        <link>http://localhost:4000/2019/09/04/ekonomisto-komentaras-apie-vaiko-pinigus-ir-visuomene</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/04/ekonomisto-komentaras-apie-vaiko-pinigus-ir-visuomene</guid>
+        
+        <category>vaiko pinigai</category>
+        
+        <category>politika</category>
+        
+        <category>visuomenė</category>
+        
+        
+        <category>Ekonomisto komentaras</category>
+        
+      </item>
     
       <item>
         <title>Ekonomisto komentaras - Apie demokratijos nenorinčius dundukus bei viešojo sektoriaus dydį</title>
@@ -19,8 +41,8 @@ Liepos mėnesį baigtos derybos tarp vyriausybės ir profesinių sąjungų dėl 
 
 </description>
         <pubDate>Wed, 14 Aug 2019 08:00:00 +0300</pubDate>
-        <link>http://www.lithuanian-economy.net/2019/08/14/ekonomisto-komentaras-apie-demokratijos-nenorincius-dundukus-bei-viesojo-sektoriaus-dydi</link>
-        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/08/14/ekonomisto-komentaras-apie-demokratijos-nenorincius-dundukus-bei-viesojo-sektoriaus-dydi</guid>
+        <link>http://localhost:4000/2019/08/14/ekonomisto-komentaras-apie-demokratijos-nenorincius-dundukus-bei-viesojo-sektoriaus-dydi</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/14/ekonomisto-komentaras-apie-demokratijos-nenorincius-dundukus-bei-viesojo-sektoriaus-dydi</guid>
         
         <category>viešasis sektorius</category>
         
@@ -45,8 +67,8 @@ Liepos mėnesį baigtos derybos tarp vyriausybės ir profesinių sąjungų dėl 
 
 </description>
         <pubDate>Fri, 02 Aug 2019 23:13:54 +0300</pubDate>
-        <link>http://www.lithuanian-economy.net/2019/08/02/mieganti-lsdp-grazuole-atsibudo</link>
-        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/08/02/mieganti-lsdp-grazuole-atsibudo</guid>
+        <link>http://localhost:4000/2019/08/02/mieganti-lsdp-grazuole-atsibudo</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/02/mieganti-lsdp-grazuole-atsibudo</guid>
         
         <category>Kairioji politika</category>
         
@@ -64,8 +86,8 @@ Liepos mėnesį baigtos derybos tarp vyriausybės ir profesinių sąjungų dėl 
 
 </description>
         <pubDate>Wed, 31 Jul 2019 11:02:16 +0300</pubDate>
-        <link>http://www.lithuanian-economy.net/2019/07/31/ekonomisto-komentaras-apie-skurda-uzkalni-finansu-ministra-bei-banko-analitika-neskirianti-savoku/</link>
-        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/07/31/ekonomisto-komentaras-apie-skurda-uzkalni-finansu-ministra-bei-banko-analitika-neskirianti-savoku/</guid>
+        <link>http://localhost:4000/2019/07/31/ekonomisto-komentaras-apie-skurda-uzkalni-finansu-ministra-bei-banko-analitika-neskirianti-savoku/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/31/ekonomisto-komentaras-apie-skurda-uzkalni-finansu-ministra-bei-banko-analitika-neskirianti-savoku/</guid>
         
         <category>Skurdas</category>
         
@@ -87,8 +109,8 @@ Nors šiame komentare mano asmeninė ir labai emocionali patirtis, šio komentar
 
 </description>
         <pubDate>Mon, 29 Jul 2019 12:16:12 +0300</pubDate>
-        <link>http://www.lithuanian-economy.net/2019/07/29/kaip-vu-evaf-dekane-naikina-kritine-minti-fakultete-ir-kartu-pati-fakulteta/</link>
-        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/07/29/kaip-vu-evaf-dekane-naikina-kritine-minti-fakultete-ir-kartu-pati-fakulteta/</guid>
+        <link>http://localhost:4000/2019/07/29/kaip-vu-evaf-dekane-naikina-kritine-minti-fakultete-ir-kartu-pati-fakulteta/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/29/kaip-vu-evaf-dekane-naikina-kritine-minti-fakultete-ir-kartu-pati-fakulteta/</guid>
         
         <category>Aukštasis mokslas</category>
         
@@ -112,8 +134,8 @@ Būtų gerai, kad mokslininkai paklaustų Petro Auštrevičiaus, ką jis turi ga
 
 </description>
         <pubDate>Fri, 26 Jul 2019 12:33:53 +0300</pubDate>
-        <link>http://www.lithuanian-economy.net/2019/07/26/ep-petrai-austreviciau-mokslininkai-nasta-lietuvai/</link>
-        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/07/26/ep-petrai-austreviciau-mokslininkai-nasta-lietuvai/</guid>
+        <link>http://localhost:4000/2019/07/26/ep-petrai-austreviciau-mokslininkai-nasta-lietuvai/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/26/ep-petrai-austreviciau-mokslininkai-nasta-lietuvai/</guid>
         
         <category>WTF</category>
         
@@ -128,8 +150,8 @@ Būtų gerai, kad mokslininkai paklaustų Petro Auštrevičiaus, ką jis turi ga
 
 </description>
         <pubDate>Wed, 24 Jul 2019 14:47:46 +0300</pubDate>
-        <link>http://www.lithuanian-economy.net/2019/07/24/uzbaikime-saponomics/</link>
-        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/07/24/uzbaikime-saponomics/</guid>
+        <link>http://localhost:4000/2019/07/24/uzbaikime-saponomics/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/24/uzbaikime-saponomics/</guid>
         
         <category>Finansų</category>
         
@@ -160,8 +182,8 @@ Būtų gerai, kad mokslininkai paklaustų Petro Auštrevičiaus, ką jis turi ga
 
 </description>
         <pubDate>Sun, 21 Jul 2019 16:56:14 +0300</pubDate>
-        <link>http://www.lithuanian-economy.net/2019/07/21/pilieciu-nuomone-del-finansu-ministro-seimo-nariams/</link>
-        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/07/21/pilieciu-nuomone-del-finansu-ministro-seimo-nariams/</guid>
+        <link>http://localhost:4000/2019/07/21/pilieciu-nuomone-del-finansu-ministro-seimo-nariams/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/21/pilieciu-nuomone-del-finansu-ministro-seimo-nariams/</guid>
         
         <category>Finansų ministras</category>
         
@@ -179,8 +201,8 @@ Būtų gerai, kad mokslininkai paklaustų Petro Auštrevičiaus, ką jis turi ga
 
 </description>
         <pubDate>Fri, 19 Jul 2019 23:19:19 +0300</pubDate>
-        <link>http://www.lithuanian-economy.net/2019/07/19/apeliavimas-i-demokratinius-socialistus-sioje-salyje-del-busimo-finansu-ministro/</link>
-        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/07/19/apeliavimas-i-demokratinius-socialistus-sioje-salyje-del-busimo-finansu-ministro/</guid>
+        <link>http://localhost:4000/2019/07/19/apeliavimas-i-demokratinius-socialistus-sioje-salyje-del-busimo-finansu-ministro/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/19/apeliavimas-i-demokratinius-socialistus-sioje-salyje-del-busimo-finansu-ministro/</guid>
         
         <category>Finansų ministras</category>
         
@@ -205,30 +227,10 @@ Būtų gerai, kad mokslininkai paklaustų Petro Auštrevičiaus, ką jis turi ga
 
 </description>
         <pubDate>Fri, 19 Jul 2019 19:23:28 +0300</pubDate>
-        <link>http://www.lithuanian-economy.net/2019/07/19/corrigendum/</link>
-        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/07/19/corrigendum/</guid>
+        <link>http://localhost:4000/2019/07/19/corrigendum/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/19/corrigendum/</guid>
         
         <category>Corrigendum</category>
-        
-        
-        <category>Ekonomisto komentaras</category>
-        
-      </item>
-    
-      <item>
-        <title>Ekonomisto komentaras &amp;#8211; Apie viešą algų skelbimą darbo skelbimuose</title>
-        <description>&lt;p&gt;&lt;strong&gt;Praėjusią savaitę Seimas priėmė Darbo kodekso 25 straipsnio pataisą, kuria numatoma prievolė darbdaviams darbo skelbimuose nurodyti ir darbo vietos atlyginimą arba jo intervalą. Nors iš esmės tokiam žingsniui pritariu, tačiau kaip ekonomistas, matau keletą aspektų, apie kuriuose, manau, Seimo nariai nepagalvojo. Per didelis skubėjimas ir nesitarimas su ekonomistais ilguoju periodu gali turėti ir neigiamų pasekmių darbuotojams.&lt;/strong&gt;
-AUDIO:&lt;/p&gt;
-&lt;iframe src=&quot;https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;amp;feed=%2FLithuanian_Economy%2Fekonomisto-komentaras-apie-vie%C5%A1%C4%85-alg%C5%B3-skelbim%C4%85-darbo-skelbimuose%2F&quot; width=&quot;100%&quot; height=&quot;120&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Wed, 17 Jul 2019 09:21:50 +0300</pubDate>
-        <link>http://www.lithuanian-economy.net/2019/07/17/ekonomisto-komentaras-apie-viesa-algu-skelbima-darbo-skelbimuose/</link>
-        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/07/17/ekonomisto-komentaras-apie-viesa-algu-skelbima-darbo-skelbimuose/</guid>
-        
-        <category>Atlyginimai</category>
-        
-        <category>Darbo rinka</category>
         
         
         <category>Ekonomisto komentaras</category>
