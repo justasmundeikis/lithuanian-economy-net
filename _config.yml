@@ -28,6 +28,8 @@ header:
 
 permalink: /:year/:month/:day/:title
 
+timezone: Europe/Vilnius
+
 plugins:
  - jekyll-paginate
  - jekyll-gist
