@@ -38,7 +38,7 @@ Taip pat galiu pasidžiaugti, jog kitą savaitę (2019-09-13) vyks [studentų ju
 
 ## Blogo naujienos
 
-* Grįžtu prie to, jog kas dvi savaites rašyčiau "Ekonomisto komentarą" - 1000-1200 žodžių ilgumo blogpost'ą, kuriame suplaku socialines, ekonomines bei politines temas į vieną krūvą ir taip iliustruodamas jųū tarpusavio sąsajas. Nesu apsisprendęs, ar kartu įrašinėti komentaro graso įrašą. Suprantu, kad kai kuriems, tai patogu, darbuojantis namuose ar pakeliui į darbą, kita vertus, žinant mano pomėgį įkelti įvairias lenteles ir grafikus, garso įrašas neatstoja skaitymo…
+* Grįžtu prie to, jog kas dvi savaites rašyčiau "Ekonomisto komentarą" - 1000-1200 žodžių ilgumo blogpost'ą, kuriame suplaku socialines, ekonomines bei politines temas į vieną komentarą, taip  kartu iliustruodamas šių temų tarpusavio sąsajas. Nesu apsisprendęs, ar kartu įrašinėti komentaro graso įrašą. Suprantu, kad kai kuriems, tai patogu, darbuojantis namuose ar pakeliui į darbą, kita vertus, žinant mano pomėgį įkelti įvairias lenteles ir grafikus, garso įrašas neatstoja skaitymo…
 
 Galite iškreikšti savo nuomonę šioje mini apklausoje:
 
