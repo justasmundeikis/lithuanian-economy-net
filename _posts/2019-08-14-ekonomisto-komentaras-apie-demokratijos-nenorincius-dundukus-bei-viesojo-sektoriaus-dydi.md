@@ -3,17 +3,18 @@ title: Ekonomisto komentaras - Apie demokratijos nenorinčius dundukus bei vieš
 date: 2019-08-14 08:00:00 +03:00
 author: Justas Mundeikis
 layout: post
+permalink: 2019/08/14/ekonomisto-komentaras-apie-demokratijos-nenorincius-dundukus-bei-viesojo-sektoriaus-dydi
 image: /assets/2019/08/14/internet_trolls.png
 thumbnail: /assets/2019/08/14/thumb.internet_trolls.png
 categories:
  - Ekonomisto komentaras
 tags:
- - viešasis sektorius
- - atlyginimai
- - demokratija
- - profsąjungos
- - mokesčiai
- - politika
+ - Viešasis sektorius
+ - Atlyginimai
+ - Demokratija
+ - Profsąjungos
+ - Mokesčiai
+ - Politika
 ---
 <strong>
 Liepos mėnesį baigtos derybos tarp vyriausybės ir profesinių sąjungų dėl Nacionalinės kolektyvinės sutarties, kurioje sutarta bazinį dydį (nuo kurio priklauso daugumos viešojo sektoriaus darbuotojų atlyginimai) didinti 1.3%. Naujienų portalas delfi.lt sugebėjo šias naujienas atrajoti net du kartus, o skaitytojai vietoj to, jog piktintųsi per mažai didėjančiais viešojo sektoriaus darbuotojų atlyginimais, išsiliejo arba dėl per didelio valstybės tarnautojų skaičiaus, lobstančių Seimo narių, arba dėl didėjančios nelygybės viešojo sektoriaus atlyginimų sistemoje.
@@ -215,7 +216,6 @@ O jeigu taip, ar parašė el. laišką ir paklausė, kodėl jų atstovai sutiko 
 * Šiam komentarui galioja [citavimo taisyklės](http://lithuanian-economy.net/about/)
 * Patiko komentaras ir nori paremti blogo autorių? Visada gali jį pavaišinti kava <a href="http://www.sherv.net/"><img src="http://www.sherv.net/cm/emoticons/drink/sipping-coffee.gif" alt="Sipping coffee" width="58" height="31" /></a>.
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}<br />.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}<br />.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}<br />.tg .tg-x70g{font-weight:bold;font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;background-color:#343434;color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}<br />.tg .tg-7rxk{font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;border-color:#000000;text-align:center;vertical-align:top}<br />.tg .tg-80l2{font-size:14px;font-family:Arial, Helvetica, sans-serif !important;;border-color:#000000;text-align:left;vertical-align:top}<br /></style>
 <table class="tg">
@@ -243,3 +243,4 @@ O jeigu taip, ar parašė el. laišką ir paklausė, kodėl jų atstovai sutiko 
 </tr>
 </tbody>
 </table>
+<hr />

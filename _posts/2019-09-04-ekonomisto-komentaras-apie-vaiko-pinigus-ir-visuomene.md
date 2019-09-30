@@ -8,9 +8,9 @@ thumbnail: /assets/2019/09/04/thumb.child_allowance.png
 categories:
  - Ekonomisto komentaras
 tags:
- - vaiko pinigai
- - politika
- - visuomenė
+ - Vaiko pinigai
+ - Politika
+ - Visuomenė
 ---
 <strong>
 Gėrybių (angl. goods) patenkinti visiems visuomenės poreikiams nėra pakankamai. Tam, kad gerybių paskirstymo visuomenėje klausimas būtų sprendžiamas taikiai, šis procesas pavestas politikams. Politikai prieš priimant sprendimus savo viešomis diskusijomis bando įtikinti kitus politikus ir visuomenę tam, kad būtų suformuota reikiama politinė dauguma priimti sprendimus. Viešas idėjų ir argumentų išsakymas leidžia įvairioms visuomenėms grupėms įsitraukti į diskusijas ir atstovauti savo interesus prieš įvykstant balsavimui. Šiame komentare apie vaiko pinigus, politikų pažadus ir bunkančią visuomenę.
@@ -90,9 +90,8 @@ Dar mažiau aš suprantu, kokius vaikus tokios mamos užaugins? Vaikus, kurie ti
 Man būtų įdomu paklausti J.Pocienės, ar ji supranta, kas yra politika? Jog tai visuomenės dilemų sprendimas, kai politikai ir turi kalbėti, ką kaip norėtų daryti, kodėl, kieno sąskaitą, su kokiomis galimomis pasekmėmis. Jog žmonės tada turi ne "nusivilti", o aktyviai reikšti savo nuomonę, dalyvauti politikos procese.
 
 <hr />
-* Šiam komentarui galioja [citavimo taisyklės](http://lithuanian-economy.net/citavimas/)
+* Šiam komentarui galioja [citavimo taisyklės](http://lithuanian-economy.net/about/)
 * Patiko komentaras ir nori paremti blogo autorių? Visada gali jį pavaišinti kava <a href="http://www.sherv.net/"><img src="http://www.sherv.net/cm/emoticons/drink/sipping-coffee.gif" alt="Sipping coffee" width="58" height="31" /></a>.
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}<br />.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}<br />.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}<br />.tg .tg-x70g{font-weight:bold;font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;background-color:#343434;color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}<br />.tg .tg-7rxk{font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;border-color:#000000;text-align:center;vertical-align:top}<br />.tg .tg-80l2{font-size:14px;font-family:Arial, Helvetica, sans-serif !important;;border-color:#000000;text-align:left;vertical-align:top}<br /></style>
@@ -121,3 +120,4 @@ Man būtų įdomu paklausti J.Pocienės, ar ji supranta, kas yra politika? Jog t
 </tr>
 </tbody>
 </table>
+<hr />

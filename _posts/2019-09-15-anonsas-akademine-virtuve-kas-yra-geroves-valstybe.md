@@ -40,12 +40,7 @@ Siekiant, jog diskusija su prof. hab. dr. R.Lazutka vyktų kuo sklandžiau ir vi
 * [Dienos tema](https://www.lrt.lt/mediateka/irasas/2000078166/dienos-tema-viktorija-cmilyte-nielsen-geroves-valstybes-tikslas-vienija-visas-partijas-bet-pati-savoka-suvokiama-skirtingai)
 * [Krėpštos interviu](https://www.delfi.lt/verslas/verslas/prezidento-ekonomikos-patarejas-nesazininga-kad-turtingieji-moka-mazesnius-mokescius-nei-dirbantys-tu-turtinguju-imonese.d?id=82190119)
 * [Krėpšta](https://www.15min.lt/verslas/naujiena/finansai/15min-studijoje-prezidento-patarejas-s-krepsta-ar-zingsniuojant-i-geroves-valstybe-nesuklupsime-662-1200562)
-
+* [Blažytė](https://www.delfi.lt/verslas/nuomones/jolanta-blazyte-kiek-kainuoja-geroves-valstybe.d?id=82260245)
 ### Skaitymui
 * Chapter 8-10 (optimaliausiu atveju 7-11) Paul Spicker ["Social Policy,
 Theory and practice"](http://93.174.95.29/_ads/5EF2B664BC619F37DC0793DD9E31A284)
-
-## Registracija
-<div style="position: relative; overflow: hidden;">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeYt9MqCuAUlCt8QtIIla6EiIWJbsi27j634YhUWJWK7f3isg/viewform?embedded=true" width="640" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-</div>

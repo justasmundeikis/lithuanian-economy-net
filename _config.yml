@@ -35,6 +35,7 @@ plugins:
  - jekyll-gist
  - jemoji
  - jekyll-seo-tag
+ - jekyll-scholar
 
 # Build settings
 paginate: 25
@@ -56,3 +57,28 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
   math_engine: mathjax
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  group_by: none
+  group_order: ascending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: ""
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
