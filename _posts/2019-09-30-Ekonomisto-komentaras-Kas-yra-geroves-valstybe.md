@@ -3,7 +3,7 @@ title: Ekonomisto komentaras - Kas yra gerovės valstybė?
 date: 2019-09-27 08:00:00 +03:00
 author: Justas Mundeikis
 layout: post
-permalink: /2019/09/30/ekonomisto-komentaras-kas-yra-gerovės-valstybe
+permalink: /2019/09/30/ekonomisto-komentaras-kas-yra-geroves-valstybe
 image: /assets/2019/09/30/welfare-state.jpeg
 thumbnail: /assets/2019/09/30/thumb.welfare-state.jpeg
 categories:
@@ -246,7 +246,12 @@ Tačiau tokios nenuoseklios G.Nausėdos ekonominės politikos nuostatos, gali in
 
 # 5. Išvados
 
-Pasaulyje esame labai skirtingų politinių pažiūrų (normatyvinių nuostatų) apie tai, koks turėtų būti pasaulis. Atitinkamai esti ir milžiniška aibė *Gerovės valstybės* modelių, kuriuos griežtai kategorizuoti sunkiai pavyksta. Tai jog Lietuvoje prezidentų išrinktas kandidatas nešė *Gerovės valstybės* vėliava lemia, jog dabar ir tikėtina visus penkerius prezidentavimo laikotarpio metus, viešoje erdvėje bus daug diskutuojama apie *Gerovės valstybės* modelį ir šalies socioekonominę raidą. Tačiau diskutuodami piliečiai, politikai, žiniasklaidos atstovai pernelyg supaprastina *Gerovės valstybės* reikšmę iki „visiems gera gyventi“, taip išvengiant gilių politinių diskusijų apie tai, kokio socialinio kontrakto, t. y. kokio būtent *Gerovės valstybės* modelio mes siekiame. Svarbu pabrėžti, jog Lietuvoje jau įgyvendtinas *Gerovės valstybės* modelis, tik jis nebūtinai yra toks, kokio nori dauguma Lietuvos piliečių. Tad diskusijos turėtų orientuotis ne į tai, ar, o į kokio *Gerovės valstybės* modelio mes Lietuvoje turėtų būti siekiama. Tikiuosi, jog šis rašinys prisidės prie to, jog artėjant 2020m Seimo rinkimams, politikai bei žiniasklaidos atstovai aiškiau supras socioekonomines sąsajas ir tai leis jiems gerinti viešo diskurso kokybę.
+Pasaulyje esame labai skirtingų politinių pažiūrų (normatyvinių nuostatų) apie tai, koks turėtų būti pasaulis. Atitinkamai esti ir milžiniška aibė *Gerovės valstybės* modelių, kuriuos griežtai kategorizuoti sunkiai pavyksta.
+
+Tai jog Lietuvoje prezidentų išrinktas kandidatas nešė *Gerovės valstybės* vėliava lemia, jog dabar ir tikėtina visus penkerius prezidentavimo laikotarpio metus, viešoje erdvėje bus daug diskutuojama apie *Gerovės valstybės* modelį ir šalies socioekonominę raidą. Tačiau diskutuodami piliečiai, politikai, žiniasklaidos atstovai pernelyg supaprastina *Gerovės valstybės* reikšmę iki „visiems gera gyventi“ arba "Skandinaviška gerovė", taip išvengiant gilių politinių diskusijų apie tai, kokio socialinio kontrakto, t. y. kokio būtent *Gerovės valstybės* modelio mes siekiame.
+Svarbu pabrėžti, jog Lietuvoje jau yra įgyvendtinas *Gerovės valstybės* modelis, tik jis nebūtinai yra toks, kokio nori dauguma Lietuvos piliečių. Tad diskusijos turėtų orientuotis ne į tai, **ar**, o į **kokio** *Gerovės valstybės* modelio mes Lietuvoje norime.
+
+Tikiuosi, jog šis rašinys prisidės prie to, jog artėjant 2020m Seimo rinkimams, politikai bei žiniasklaidos atstovai aiškiau supras socioekonomines sąsajas ir tai leis jiems gerinti viešo diskurso kokybę.
 
 
 Rašinys [.pdf formatu](/assets/2019/09/30//assets/2019/09/30assets/2019/09/30/GV.pdf)
