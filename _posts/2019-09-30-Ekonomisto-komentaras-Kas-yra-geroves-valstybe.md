@@ -1,5 +1,5 @@
 ---
-title: Ekonomisto komentaras - Kas yra gerovės valstybė?
+title: Ekonomisto komentaras - Kas yra "Gerovės valstybė"?
 date: 2019-09-27 08:00:00 +03:00
 author: Justas Mundeikis
 layout: post
@@ -170,12 +170,12 @@ Visgi dažniausiai šiais laikais yra cituojama Esping-Andersen (1990) klasifika
 
 Pirmas klasteris, kurį išskiria autorius - liberalus *Gerovės valstybės* modelis, kuriame vyrauja socialinės pašalpos, priklausančios nuo adresato pajamų (means-tested benefits), ribota bet universali socialinė pagalba su ribota socialinio draudimo sistema. Tokį modelį pagrinde formuoja tradicinės, ekonomikos atžvilgiu liberalios nuostatos. Šioje sistemoje valstybės institucijų pagalbą gaunantys asmenys yra neretai stigmatizuojami ir pati sistema skatina stiprią visuomenės stratifikaciją bei visais būdais vengia dekomodifikacijos. Kaip tipines tokio modelio valstybes autorius išskiria JAV, Kanadą ir Australiją.
 
-Antro tipo *Gerovės valstybės* modelis – korporatyvinis [*] , kuris aptinkamas Austrijoje, Prancūzijoje, Vokietijoje, Italijoje - konservatyviose visuomenėse, kuriose niekada nebuvo aklai tikima rinkos efektyvumu ir komodifikacija. Kartu tokiose šalyse pastebima reikšminga bažnyčios įtaka ir kartu stipresnė orientacija į tradicinę šeimą. Ne retai *Gerovės valstybės* institucijų subsidiarumas nulemia, jog valstybės pagalba suteikiama tik tada, kai adresato šeima nėra išgali suteikti reikiamą pagalbą.
+Antro tipo *Gerovės valstybės* modelis – korporatyvinis [*], kuris aptinkamas Austrijoje, Prancūzijoje, Vokietijoje, Italijoje - konservatyviose visuomenėse, kuriose niekada nebuvo aklai tikima rinkos efektyvumu ir komodifikacija. Kartu tokiose šalyse pastebima reikšminga bažnyčios įtaka ir kartu stipresnė orientacija į tradicinę šeimą. Ne retai *Gerovės valstybės* institucijų subsidiarumas nulemia, jog valstybės pagalba suteikiama tik tada, kai adresato šeima nėra išgali suteikti reikiamą pagalbą.
 
 [* Pastaba: Literatūroje taip pat aptinkamas pavadinimas - redistribucinis (perskirstimo modelis (Smalskys, 2015)]
 
 
-Trečio tipo *Gerovės valstybės* modelis, kuriame vyrauja teikiamų socialinių paslaugų universalumas ir socialinių teisių dekomodifikacija įskaitant ir vidurinę klasę. Tokį modelį autorius vadina socialdemokratiniu [*] , nes jis aptinkamas pagrinde tose valstybėse, kuriose vyrauja socialdemokratinė politika. Tokiame modelyje yra aktyviai siekiama panaikinti dualizmą tarp valstybės ir rinkos, tarp dirbančios ir vidurinės klasės. Tokiame modelyje propaguojama asmens nepriklausomybė nuo šeimos teikiamos pagalbos (liberalus elementas) kartu socializuojant šeimos kūrimo naštą visai visuomenei (socialistinis elementas). Taip pat, tokiame modelyje siekiama pilno užimtumo, iš vienos pusės taip įtvirtinantteisę į darbą, iš kitos, siekiant finansinio tokio modelio tvarumo. Skandinavijos šalys priskiriamos socialdemokratiniam *Gerovės valstybės* modeliui.
+Trečio tipo *Gerovės valstybės* modelis, kuriame vyrauja teikiamų socialinių paslaugų universalumas ir socialinių teisių dekomodifikacija įskaitant ir vidurinę klasę. Tokį modelį autorius vadina socialdemokratiniu [*], nes jis aptinkamas pagrinde tose valstybėse, kuriose vyrauja socialdemokratinė politika. Tokiame modelyje yra aktyviai siekiama panaikinti dualizmą tarp valstybės ir rinkos, tarp dirbančios ir vidurinės klasės. Tokiame modelyje propaguojama asmens nepriklausomybė nuo šeimos teikiamos pagalbos (liberalus elementas) kartu socializuojant šeimos kūrimo naštą visai visuomenei (socialistinis elementas). Taip pat, tokiame modelyje siekiama pilno užimtumo, iš vienos pusės taip įtvirtinantteisę į darbą, iš kitos, siekiant finansinio tokio modelio tvarumo. Skandinavijos šalys priskiriamos socialdemokratiniam *Gerovės valstybės* modeliui.
 
 [* Pastaba: Literatūroje taip pat aptinkamas pavadinimas - motyvacinis, konservatyvusis-korporacinis modelis (Smalskys, 2015)]
 
@@ -254,7 +254,7 @@ Svarbu pabrėžti, jog Lietuvoje jau yra įgyvendtinas *Gerovės valstybės* mod
 Tikiuosi, jog šis rašinys prisidės prie to, jog artėjant 2020m Seimo rinkimams, politikai bei žiniasklaidos atstovai aiškiau supras socioekonomines sąsajas ir tai leis jiems gerinti viešo diskurso kokybę.
 
 
-Rašinys su literatūros išnašomis: [.pdf formatu](/assets/2019/09/30//assets/2019/09/30assets/2019/09/30/GV.pdf)
+Rašinys su literatūros išnašomis: [.pdf formatu](/assets/2019/09/30assets/2019/09/30/GV.pdf)
 
 <hr />
 * Šiam komentarui **NEGALIOJA** [citavimo taisyklės](http://lithuanian-economy.net/citavimas/)
