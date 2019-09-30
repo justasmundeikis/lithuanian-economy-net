@@ -187,7 +187,7 @@ Leibfried (2002) kategorizuoja (Europos) šalis pagal juose vyraujančius *Gerov
 * Anglosaksiškas valstybes, tokias kaip JAV, JK, Australija, Naujoji Zelandija, kuriose vyrauja rezidualinis *Gerovės valstybės* modelis
 * Pietietiškas valstybes, tokias kaip Ispanija, Portugalija, Graikija, kuriose vyrauja elementarus (angl. - rudimentary) *Gerovės valstybės* modelis.
 
-Kollmorgen (2009) išskiria ir post-socialistinių valstybių *Gerovės valstybės* modelį, kuriame randama liberalizmo, konservatizmo ir socializmo nuostatų, be aiškios vyraujančios paradigmos. Panašiai textitGerovės valstybių modelių kūrimą Baltijos šalyse aprašo Smalskys (2015), nurodydamas, jog šiose šalyse bandoma kruti tarpinius modelius, kuriuose taikomi liberalaus modelio elementai švietimo sistemoje, korporatyvinio modelio elementai darbo užimtumo politikoje ir socialdemokratinio (perskirstymo) modelio elementai socialinės rūpybos politikoje.
+Kollmorgen (2009) išskiria ir post-socialistinių valstybių *Gerovės valstybės* modelį, kuriame randama liberalizmo, konservatizmo ir socializmo nuostatų, be aiškios vyraujančios paradigmos. Panašiai *Gerovės valstybių* modelių kūrimą Baltijos šalyse aprašo Smalskys (2015), nurodydamas, jog šiose šalyse bandoma kruti tarpinius modelius, kuriuose taikomi liberalaus modelio elementai švietimo sistemoje, korporatyvinio modelio elementai darbo užimtumo politikoje ir socialdemokratinio (perskirstymo) modelio elementai socialinės rūpybos politikoje.
 
 Apibendrinant, svarbu pažymėti, jog visi bandymai grupuoti valstybes ar klasifikuoti vyraujančius *Gerovės valstybės* modelius remiasi generalizacija ir stipriu supaprastinimu. Mabbett and Bolderson (1999) konstatuoja, jog vienareikšmis *Gerovės valstybės* modelių klasifikavimas yra neįmanomas. Visgi, kaip pažymi Spicker (2014), analizuojant *Gerovės valstybės* institucines sąrangas, minėti modeliai padeda labiau suprasti ir įvertinti turimą informaciją, kuri kitaip galėtų pasirodyti beprasmė, t. y. suteikia kontekstą.
 
@@ -224,7 +224,7 @@ Akivaizdžiai stipriai libertari ekonominė politika (artima laissez-faire ideol
 
 Kaip savo alpha ir omega G.Nausėda įvardino ir tai, jog jam „valstybinis kapitalizmas yra blogis“, kartu pabrėždamas, jog šiais klausimais jis yra labiau liberalių pažiūrų (Nausėda, 2019c). Tai jog ekonominės politikos spektre, G.Nausėda iš tiesų yra mažo viešojo sektoriaus šalininkas patvirtina G.Nausėdos aiškinimai, jog Lietuvoje galima stipriai sumažinti viešojo sektoriaus dydį (Nausėda, 2019c) bei mintys, jog mokesčių didinimas (siekiant didesnio perskirstymo) būtų sunkiai moraliai pateisinimas, kol viešuosiuose pirkimuose slypi pinigų klodai ir viešasis administravimas Lietuvoje yra neefektyvus parencitenauseda2018laisvespik.
 
-Apibendrinant galima teigti, jog G.Nausėda prieš rinkimus save pristatė kaip socialiai labai konservatyvų, ekonomiškai libertarų politiką, kuris sutinka su tam tikra ribotaredistribucija kovoje su skurdu ir nelygybe. Toks savęs pozicionavimas leidžia suvokti G.Nausėda kaip liberalaus, rezidualaus, anglosaksiško *Gerovės valstybės* modelio šalininko, nors kai kurie krikščioniški ir stipriai išreikštos tradicinės šeimos vertybės leidžia daryti prielaidą, jog ir institucinis, korporatyvinis, motyvacinis, Biskmarkinis textit*Gerovės valstybės* modelis jam galėtų būti priimtinas.
+Apibendrinant galima teigti, jog G.Nausėda prieš rinkimus save pristatė kaip socialiai labai konservatyvų, ekonomiškai libertarų politiką, kuris sutinka su tam tikra ribotaredistribucija kovoje su skurdu ir nelygybe. Toks savęs pozicionavimas leidžia suvokti G.Nausėda kaip liberalaus, rezidualaus, anglosaksiško *Gerovės valstybės* modelio šalininko, nors kai kurie krikščioniški ir stipriai išreikštos tradicinės šeimos vertybės leidžia daryti prielaidą, jog ir institucinis, korporatyvinis, motyvacinis, Biskmarkinis *Gerovės valstybės* modelis jam galėtų būti priimtinas.
 
 ## 4.2. Prezidento siūlymai
 
@@ -258,7 +258,7 @@ Rašinys [.pdf formatu](/assets/2019/09/30//assets/2019/09/30assets/2019/09/30/G
 
 
 <hr />
-* Šiam komentarui **NEGALIOJA** [citavimo taisyklės](/assets/2019/09/30/http://lithuanian-economy.net/citavimas/)
+* Šiam komentarui **NEGALIOJA** [citavimo taisyklės](http://lithuanian-economy.net/citavimas/)
 * Patiko komentaras ir nori paremti blogo autorių? Visada gali jį pavaišinti kava <a href="http://www.sherv.net/"><img src="http://www.sherv.net/cm/emoticons/drink/sipping-coffee.gif" alt="Sipping coffee" width="58" height="31" /></a>.
 
 
