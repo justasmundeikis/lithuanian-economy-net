@@ -254,8 +254,7 @@ Svarbu pabrėžti, jog Lietuvoje jau yra įgyvendtinas *Gerovės valstybės* mod
 Tikiuosi, jog šis rašinys prisidės prie to, jog artėjant 2020m Seimo rinkimams, politikai bei žiniasklaidos atstovai aiškiau supras socioekonomines sąsajas ir tai leis jiems gerinti viešo diskurso kokybę.
 
 
-Rašinys [.pdf formatu](/assets/2019/09/30//assets/2019/09/30assets/2019/09/30/GV.pdf)
-
+Rašinys su literatūros išnašomis: [.pdf formatu](/assets/2019/09/30//assets/2019/09/30assets/2019/09/30/GV.pdf)
 
 <hr />
 * Šiam komentarui **NEGALIOJA** [citavimo taisyklės](http://lithuanian-economy.net/citavimas/)
