@@ -3,7 +3,7 @@ title: Ekonomisto komentaras - Kas yra gerovės valstybė?
 date: 2019-09-27 08:00:00 +03:00
 author: Justas Mundeikis
 layout: post
-permalink: /2019/09/30/ekonomisto-komentaras-kas-yra-geroves-valstybe
+permalink: /2019/09/30/ekonomisto-komentaras-kas-yra-gerovės-valstybe
 image: /assets/2019/09/30/welfare-state.jpeg
 thumbnail: /assets/2019/09/30/thumb.welfare-state.jpeg
 categories:
