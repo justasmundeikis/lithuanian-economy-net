@@ -3,6 +3,7 @@ title: Gerovės valstybės viražai
 date: 2019-10-01 09:45:00 +03:00
 author: Justas Mundeikis
 layout: post
+comments: true
 permalink: /2019/10/01/geroves-valstybes-virazai
 image: /assets/2019/10/01/nauseda_mikrofonai.jpg
 thumbnail: /assets/2019/10/01/thumb.nauseda_mikrofonai.jpg

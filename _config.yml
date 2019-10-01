@@ -52,11 +52,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      comments: true
 
 kramdown:
   input: GFM
   syntax_highlighter: rouge
   math_engine: mathjax
+
+# Comment Service (Disqus or 多说)
+disqus_shortname: lithuanian-economy.net   # get one: https://disqus.com/admin/signup/
+
 
 scholar:
   style: apa
