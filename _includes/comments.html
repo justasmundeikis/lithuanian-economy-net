@@ -7,10 +7,10 @@
         {{ site.data.comments[page.slug] | size | append: ' comments' }}
       {% endif %}
     </h2>
-    {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1]._parent == comment[1]._id' %}
+    {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1].parent == comment[1].id' %}
     {% for comment in comments %}
-      {% assign id          = comment[1]._id %}
-      {% assign parent      = comment[1]._parent %}
+      {% assign id          = comment[1].id %}
+      {% assign parent      = comment[1].parent %}
       {% assign avatar      = comment[1].avatar %}
       {% assign email       = comment[1].email %}
       {% assign name        = comment[1].name %}
