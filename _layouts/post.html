@@ -12,6 +12,6 @@ layout: default
   </article>
 </div>
 
-<p style=" color:red;"> KOMENTARŲ FUNKCIJA DAR NEVEIKIA. PARAŠYTI KOMENTARAI BUS PRARASTI!!!!</p>
-{% include comments.html %}
-<p style=" color:red;"> KOMENTARŲ FUNKCIJA DAR NEVEIKIA. PARAŠYTI KOMENTARAI BUS PRARASTI!!!!</p>
+{% if page.comments == true %}
+    {% include comments.html %}
+{% endif %}

@@ -12,6 +12,7 @@
     {% endif %}
   </div>
   <div class="comment__main">
+    <header>
     <div class="comment__meta">
       {% unless include.url == blank or include.url == "" %}
         <a rel="external nofollow" href="{{ include.url }}"><strong class="h-card">{{ include.name | strip_html }}</strong></a>
