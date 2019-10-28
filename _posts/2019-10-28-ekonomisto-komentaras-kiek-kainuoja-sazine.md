@@ -1,6 +1,6 @@
 ﻿---
 title: Ekonomisto komentaras - Kiek kainuoja sąžinė?
-date: 2019-10-24 18:00:00 +03:00
+date: 2019-10-28 18:00:00 +03:00
 author: Justas Mundeikis
 layout: post
 permalink: /2019/10/28/ekonomisto-ekomentaras-kiek-kainuoja-sazine
