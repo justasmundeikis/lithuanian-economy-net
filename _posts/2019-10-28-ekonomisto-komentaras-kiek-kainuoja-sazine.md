@@ -4,8 +4,8 @@ date: 2019-10-28 18:00:00 +03:00
 author: Justas Mundeikis
 layout: post
 permalink: /2019/10/28/ekonomisto-ekomentaras-kiek-kainuoja-sazine
-image: /assets/2019/10/28/ingrida_vaidas.jpeg
-thumbnail: /assets/2019/10/28/thumb.ingrida_vaidas.jpeg
+image: /assets/2019/10/28/keynes.jpeg
+thumbnail: /assets/2019/10/28/thumb.keynes.jpeg
 categories:
  - Ekonomisto komentaras
 tags:
@@ -110,7 +110,7 @@ Pagalvok apie LPSK, kurių ekonomistu - ekspertu save pristatei LRT laidoje "LRT
 
 ![](/assets/2019/10/28/ingrida_vaidas_full.jpeg)
 
-Šaltinis: [V.Navicko Facebook paskyra](https://www.facebook.com/vaidas.navickas.LT)
+Šaltinis: [V.Navicko Facebook paskyra](https://www.facebook.com/vaidas.navickas.LT/posts/400061767331500)
 
 Jeigu tamstos PR'as sau prieš rinkimus paskatintų visuomenę diskutuoti apie "ekonomikos ekspertus" viešumoje, dar matyčiau kažkokį "happy end", bet dabar, tai tautos mulkinimas siekiant konkrečios naudos sau ir politinių aspiracijų neturinčių ekonomistų žeminimas tautos akyse. Keista sąžinės kaina...
 
