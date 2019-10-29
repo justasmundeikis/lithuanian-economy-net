@@ -8,6 +8,9 @@ permalink: /info/
 * email: justas.mundeikis@lithuanian-economy.net
 * [Signal](signal.org): +370 619 68973
 
+## CV
+[CV]({% link cv.md%})
+
 ## Citavimas
 Žemiau pateiktoje nuorodoje rasite taisykles, kaip galite cituoti tinklaraštyje esantį turinį:
 
