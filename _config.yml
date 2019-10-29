@@ -2,7 +2,7 @@
 title: Lithuanian-Economy.net
 url: "http://www.lithuanian-economy.net"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
-#timezone: Asia/Chongqing
+timezone: Europe/Vilnius
 description: >
   One or more sentences introducing this blog.
 
@@ -10,7 +10,7 @@ description: >
 email: justas.mundeikis@lithuanian-economy.net
 author: Justas Mundeikis
 avatar: "/assets/general/Justas_Mundeikis_square.jpg"
-profile: Economist, lecturer and blogger
+profile: Ekonomistas, doktorantas, blogger'is
 #twitter_username: twitter_username
 # github_username:  justasmundeikis
 profile_links:
