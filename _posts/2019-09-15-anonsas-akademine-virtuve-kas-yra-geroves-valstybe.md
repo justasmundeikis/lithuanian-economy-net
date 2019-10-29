@@ -3,6 +3,8 @@ title: Anonsas "Akademinė virtuvė - Kas yra Gerovės valstybė?"
 date: 2019-09-15 17:30 Europe/Vilnius
 author: Justas Mundeikis
 layout: post
+comments: true
+citation: true
 permalink: /2019/09/15/anonsas-akademine-virtuve-kas-yra-geroves-valstybe
 image: /assets/2019/09/15/Akademinė_Virtuvė_2019_09_gerovės_valstybė.png
 thumbnail: /assets/2019/09/15/thumb.Akademinė_Virtuvė_2019_09_gerovės_valstybė.png

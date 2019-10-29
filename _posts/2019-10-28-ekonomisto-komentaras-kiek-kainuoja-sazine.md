@@ -3,6 +3,8 @@ title: Ekonomisto komentaras - Kiek kainuoja sąžinė?
 date: 2019-10-28 18:00:00 +03:00
 author: Justas Mundeikis
 layout: post
+comments: true
+citation: true
 permalink: /2019/10/28/ekonomisto-ekomentaras-kiek-kainuoja-sazine
 image: /assets/2019/10/28/keynes.jpeg
 thumbnail: /assets/2019/10/28/thumb.keynes.jpeg
@@ -106,7 +108,7 @@ Jeigu kritikuojame paslėptą rinkiminę kampaniją, nematyti LSDP dviveidiškum
 
 Tačiau ir paties Vaido elgesys man atrodo amoralus. Vaidai, jeigu tu esi nusprendęs, jog eisi į aktyvią politiką, būk malonus, deklaruok viešai savo interesus. Taip mūsų tauta yra "tamsi", jai reikia "ekspertų", ne politikų. Bet manau, Vaidai, turėk savigarbos nežaisti šio purvino žaidimo, kurį žaidė ir profesionalų vyriausybę žadanti LVŽS. Išnaudoti kito silpnumą savo naudai, man atrodo neteisinga. Suprantu, kad gal tamstos supratimu "tikslai pateisina priemones", tačiau siūlyčiau pagalvoti ir apie tai, kokią tai daro žalo visai visuomenei.
 
-Pagalvok apie LPSK, kurių ekonomistu - ekspertu save pristatei LRT laidoje "LRT Forumas". Kai tamsta būsi ar nebūsi tapęs politiku, kaip Lietuvos žmonėms reikės vertinti kitus LPSK ekspertus? Irgi kaip potencialius kandidatus į Seimą? Ar tauta vertins jų mintis tik kaip ideologiškai kairias, ar ir kaip eksperto PR'ą sau pačiam prieš galbūt artėjančius sekančius rinkimus? Ar politikai, kuriems tikrai svarbi įvairiapusė mūsų nuomonė, tikrai toliau ateityje be sąžinės graužaties galės ekonmistų pasisakymus vertinti kaip "laisvai plaukiojančių" ekonomistų nuomonę?
+Pagalvok apie LPSK, kurių ekonomistu - ekspertu save pristatei LRT laidoje "LRT Forumas". Kai tamsta būsi ar nebūsi tapęs politiku, kaip Lietuvos žmonėms reikės vertinti kitus LPSK ekspertus? Irgi kaip potencialius kandidatus į Seimą? Ar tauta vertins jų mintis tik kaip ideologiškai kairias, ar ir kaip eksperto PR'ą sau pačiam prieš galbūt artėjančius sekančius rinkimus? Ar politikai, kuriems tikrai svarbi įvairiapusė mūsų nuomonė, tikrai toliau ateityje be sąžinės graužaties galės ekonomistų pasisakymus vertinti kaip "laisvai plaukiojančių" ekonomistų nuomonę?
 
 ![](/assets/2019/10/28/ingrida_vaidas_full.jpeg)
 

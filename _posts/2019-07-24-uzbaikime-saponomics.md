@@ -4,10 +4,13 @@ date: 2019-07-24 14:47:46 +0300
 author: Justas Mundeikis
 layout: post
 permalink: /2019/07/24/uzbaikime-saponomics/
-categories: Economics, Politika
-tags: Finansų ministras, Gerovės valstybė, Politika, Socialinė atskirtis, Vyriausybė
-comments: true
-description: Praėjusią savaitę reaguodamas į Premjero S.Skvernelio bei Prezidento G.Nausėdos teigiamus vertinimus ir išsakomą viešą palaikymą finansų ministrui, parašiau [apeliavimą į demokratinius socialistus][1] šioje šalyje dėl būsimo finansų ministro. Visgi supratau, jog reikia daryti daugiau, ir birželio 21 d. blogpost'e ["Piliečių nuomonė dėl finansų ministro Seimo nariams"][2] sukūriau standartizuotą el laiško siuntimo galimybę, valdančiosios koalicijos Seimo nariams. Iki šiandienos apie 150 asmenų nusiuntė standartizuotą el. laišką visiems, arba pasirinktiems Seimo nariams. Labai džiugu, jog į raginimą užbaigti *Šaponomics* prisijungė ir NVO. Nuolat atnaujinamas NVO sąrašas bei jų kreipimaisi.
+categories:
+  - Economics
+  - Politika
+tags:
+  - Gerovės valstybė
+  - Politika
+  - Socialinė atskirtis
 ---
 
 **Praėjusią savaitę reaguodamas į Premjero S.Skvernelio bei Prezidento G.Nausėdos teigiamus vertinimus ir išsakomą viešą palaikymą finansų ministrui, parašiau [apeliavimą į demokratinius socialistus][1] šioje šalyje dėl būsimo finansų ministro. Visgi supratau, jog reikia daryti daugiau, ir birželio 21 d. blogpost'e ["Piliečių nuomonė dėl finansų ministro Seimo nariams"][2] sukūriau standartizuotą el laiško siuntimo galimybę, valdančiosios koalicijos Seimo nariams. Iki šiandienos apie 150 asmenų nusiuntė standartizuotą el. laišką visiems, arba pasirinktiems Seimo nariams. Labai džiugu, jog į raginimą užbaigti *Šaponomics* prisijungė ir NVO. Nuolat atnaujinamas NVO sąrašas bei jų kreipimaisi.**
@@ -16,7 +19,7 @@ description: Praėjusią savaitę reaguodamas į Premjero S.Skvernelio bei Prezi
 <h2>Kreipimasis į Seimo narius</h2>
 Lietuva vis dar yra parlamentinė respublika todėl manau, jog pirmoje vietoje dėl vykdomos socialinės bei ekonominės politikos būtina kreiptis į Seimo narius. Juo labiau, kad Seime buvo pasirašyta naujos valdančiosios koalicijos sutartis, numatanti per 5 metus padidinti išlaidos socialinei politikai iki ES vidurkio.
 
-<img src="http://lithuanian-economy.net/wp-content/uploads/2019/07/Screenshot-from-2019-07-19-22-37-49.jpg" alt="" width="653" height="331"/> 
+<img src="http://lithuanian-economy.net/wp-content/uploads/2019/07/Screenshot-from-2019-07-19-22-37-49.jpg" alt="" width="653" height="331"/>
 <br>
 <small>Šaltinis:[15min.lt][3]</small>
 
@@ -153,44 +156,6 @@ LVŽS manau turi gerų kandidatų, pvz., Seimo narys V.Poderys, dabartinė Ekono
 Jeigu būsimas finansų ministras(-ė) atneš parengtus GPM lengvatų, NT lengvatų naikinimo įstatymo projektus dar šios Seimo kadencijos metu, visgi tik nuo paties Seimo daugumos priklausys, ar Lietuvoje bus imtasi kovoti su gyvulių ūkiu.
 
 Laiko nebėra daug, tad tikros mokesčių reformos dabar jau nebepavyks įgyvendinti, tačiau turime 1.5 metų laiko, tam, kad paruošti vėžes kitai Seimo kadencijai.
-
-&nbsp;
-
-<hr />
-
-Patiko komentaras ir nori paremti blogo autorių? Visad gali jį pavaišinti kava <a href="http://www.sherv.net/"><img src="http://www.sherv.net/cm/emoticons/drink/sipping-coffee.gif" alt="Sipping coffee" width="58" height="31" /></a>.
-
-<span style="color: #ff0000;">Šis blogpost'as neturi jokių įprastų citavimo ar dalinimosi apribojimų, tad juo galima laisvai dalintis, kopijuoti ir naudoti kitose medijose.</span>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}<br />.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}<br />.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}<br />.tg .tg-x70g{font-weight:bold;font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;background-color:#343434;color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}<br />.tg .tg-7rxk{font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;border-color:#000000;text-align:center;vertical-align:top}<br />.tg .tg-80l2{font-size:14px;font-family:Arial, Helvetica, sans-serif !important;;border-color:#000000;text-align:left;vertical-align:top}<br /></style>
-<table class="tg">
-<tbody>
-<tr>
-<th class="tg-x70g" colspan="2">Per platformas</th>
-</tr>
-<tr>
-<td class="tg-7rxk" style="text-align: center;" colspan="2"><a href="https://paypal.me/lithuanianeconomynet"><img style="width: 95px; height: 25px;" src="https://duckduckgo.com/i/ccfd0450.png" alt="Paypal.Me" /></a><a href="https://www.patreon.com/lithuanianeconomy"><img style="width: 120px; height: 35px;" src="https://assets.pcmag.com/media/images/421651-patreon.jpg" alt="Patreon" /></a></td>
-</tr>
-<tr>
-<td class="tg-x70g" colspan="2">arba banko pavedimu:</td>
-</tr>
-<tr>
-<td class="tg-80l2">Gavėjas</td>
-<td class="tg-80l2">Justas Mundeikis</td>
-</tr>
-<tr>
-<td class="tg-80l2">IBAN</td>
-<td class="tg-80l2">LT79 3500 0100 0418 3482</td>
-</tr>
-<tr>
-<td class="tg-80l2">Swift kodas</td>
-<td class="tg-80l2">EVIULT21</td>
-</tr>
-</tbody>
-</table>
-
-<hr />
 
 [1]: http://lithuanian-economy.net/2019/07/19/apeliavimas-i-demokratinius-socialistus-sioje-salyje-del-busimo-finansu-ministro/
 [2]: http://lithuanian-economy.net/2019/07/21/pilieciu-nuomone-del-finansu-ministro-seimo-nariams/

@@ -16,9 +16,6 @@ tags:
   - Darbo rinka
 ---
 <strong>Praėjusią savaitę Seimas priėmė Darbo kodekso 25 straipsnio pataisą, kuria numatoma prievolė darbdaviams darbo skelbimuose nurodyti ir darbo vietos atlyginimą arba jo intervalą. Nors iš esmės tokiam žingsniui pritariu, tačiau kaip ekonomistas, matau keletą aspektų, apie kuriuose, manau, Seimo nariai nepagalvojo. Per didelis skubėjimas ir nesitarimas su ekonomistais ilguoju periodu gali turėti ir neigiamų pasekmių darbuotojams.</strong>
-AUDIO:
-<iframe src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;feed=%2FLithuanian_Economy%2Fekonomisto-komentaras-apie-vie%C5%A1%C4%85-alg%C5%B3-skelbim%C4%85-darbo-skelbimuose%2F" width="100%" height="120" frameborder="0"></iframe>
-
 <!--more-->
 
 # ***DK 25 straipsnis***

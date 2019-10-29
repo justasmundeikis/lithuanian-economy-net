@@ -82,36 +82,3 @@ Nežinau kame problema, ar tame, jog LSDP vis dar tebėra "asmeninė" partija ir
 Gal problema tame, jog trūksta protingų ir rašyti galinčių, kairiais pažiūras turinčių darbuotojų? Kita vertus, juk prie LSDP prisijungė iš JAV grįžęs [Vaidas Navickas](https://www.facebook.com/vaidas.navickas.LT), kuris pasižymi aštriais ir korektiškais facebook post’ais. Taigi "resursų trūkumas" neįtikina.
 
 Kas belieka - vertybinio stuburo bei aiškių prioritetų laiku reaguoti į tai, kas yra svarbu šios šalies kairiajam elektoratui, trūkumas. Galbūt aš klystų, tikiuosi... bet jau du kartus per vieną mėnesį?
-
-<hr />
-* Šiam komentarui galioja [citavimo taisyklės](http://lithuanian-economy.net/about/)
-* Patiko komentaras ir nori paremti blogo autorių? Visada gali jį pavaišinti kava <a href="http://www.sherv.net/"><img src="http://www.sherv.net/cm/emoticons/drink/sipping-coffee.gif" alt="Sipping coffee" width="58" height="31" /></a>.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}<br />.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}<br />.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}<br />.tg .tg-x70g{font-weight:bold;font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;background-color:#343434;color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}<br />.tg .tg-7rxk{font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;border-color:#000000;text-align:center;vertical-align:top}<br />.tg .tg-80l2{font-size:14px;font-family:Arial, Helvetica, sans-serif !important;;border-color:#000000;text-align:left;vertical-align:top}<br /></style>
-<table class="tg">
-<tbody>
-<tr>
-<th class="tg-x70g" colspan="2">Per platformas</th>
-</tr>
-<tr>
-<td class="tg-7rxk" style="text-align: center;" colspan="2"><a href="https://paypal.me/lithuanianeconomynet"><img style="width: 95px; height: 25px;" src="https://duckduckgo.com/i/ccfd0450.png" alt="Paypal.Me" /></a><a href="https://www.patreon.com/lithuanianeconomy"><img style="width: 120px; height: 35px;" src="https://assets.pcmag.com/media/images/421651-patreon.jpg" alt="Patreon" /></a></td>
-</tr>
-<tr>
-<td class="tg-x70g" colspan="2">arba banko pavedimu:</td>
-</tr>
-<tr>
-<td class="tg-80l2">Gavėjas</td>
-<td class="tg-80l2">Justas Mundeikis</td>
-</tr>
-<tr>
-<td class="tg-80l2">IBAN</td>
-<td class="tg-80l2">LT79 3500 0100 0418 3482</td>
-</tr>
-<tr>
-<td class="tg-80l2">Swift kodas</td>
-<td class="tg-80l2">EVIULT21</td>
-</tr>
-</tbody>
-</table>
-<hr/>

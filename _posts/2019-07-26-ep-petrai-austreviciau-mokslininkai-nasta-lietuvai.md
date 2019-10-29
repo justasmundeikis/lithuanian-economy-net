@@ -1,10 +1,8 @@
 ---
-id: 2427
 title: EP Petrai Auštrevičiau, mokslininkai NAŠTA Lietuvai?
 date: 2019-07-26T12:33:53+03:00
 author: Justas Mundeikis
 layout: post
-guid: http://lithuanian-economy.net/?p=2427
 permalink: /2019/07/26/ep-petrai-austreviciau-mokslininkai-nasta-lietuvai/
 classic-editor-remember:
   - classic-editor

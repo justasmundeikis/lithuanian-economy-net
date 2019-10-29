@@ -53,6 +53,7 @@ defaults:
     values:
       layout: "post"
       comments: true
+      citation: true
 
 kramdown:
   input: GFM

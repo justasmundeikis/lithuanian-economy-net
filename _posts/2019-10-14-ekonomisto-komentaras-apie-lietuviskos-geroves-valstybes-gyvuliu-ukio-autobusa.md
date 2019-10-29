@@ -4,6 +4,7 @@ date: 2019-10-14 11:00:00 +03:00
 author: Justas Mundeikis
 layout: post
 comments: true
+citation: true
 permalink: /2019/10/14/ekonomisto-komentaras-apie-lietuviskos-geroves-valstybes-gyvuliu-ukio-autobusa
 image: /assets/2019/10/14/bus_crash.jpeg
 thumbnail: /assets/2019/10/14/thumbnail.bus_crash.jpeg
@@ -142,37 +143,3 @@ Jeigu šalyje turėtume socialdemokratus, šie turėtų norėti skelbti interpel
 # Epilogas
 
 Mes jau gyvename „Gerovės valstybėje“, kur visos kiaulės lygios, tik vienos kiaulės lygesnės už kitas. Mūsų pačių išrinkti Seimo nariai nesiekia keisti susidariusio gyvulių ūkio praktikos ir net neva būdami „kairių“ pažiūrų, dar labiau jį skatina. Manau, jiems arba nerūpi, arba jie nesupranta ką daro, arba, blogiau, ir tai ir tai. Bėda tik ta, kad to pasekoje, VVTAIT’o tarnautojams ir toliau galėsim siūlyti, į iškvietimus dėl smurto prieš vaikus, vykti troleibusais. Turint tokią visuomenę, kuri engia, žemina viešojo sektoriaus darbuotojus ir valstybės tarnautojus tikėtis proveržio irgi nereikia, nes jie ir toliau rinks panašius į save. Taip ir riedės tas mūsų "Gerovės valstybės" autobusas, tik vieniems jis bus S klasės Mersedesas, kitiems, Zaporožietis...
-
-<hr />
-* Šiam komentarui galioja [citavimo taisyklės](http://lithuanian-economy.net/citavimas/)
-* Patiko komentaras ir nori paremti blogo autorių? Visada gali jį pavaišinti kava <a href="http://www.sherv.net/"><img src="http://www.sherv.net/cm/emoticons/drink/sipping-coffee.gif" alt="Sipping coffee" width="58" height="31" /></a>.
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}<br />.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}<br />.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}<br />.tg .tg-x70g{font-weight:bold;font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;background-color:#343434;color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}<br />.tg .tg-7rxk{font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;border-color:#000000;text-align:center;vertical-align:top}<br />.tg .tg-80l2{font-size:14px;font-family:Arial, Helvetica, sans-serif !important;;border-color:#000000;text-align:left;vertical-align:top}<br /></style>
-<table class="tg">
-<tbody>
-<tr>
-<th class="tg-x70g" colspan="2">Per platformas</th>
-</tr>
-<tr>
-<td class="tg-7rxk" style="text-align: center;" colspan="2"><a href="https://paypal.me/lithuanianeconomynet"><img style="width: 95px; height: 25px;" src="https://duckduckgo.com/i/ccfd0450.png" alt="Paypal.Me" /></a><a href="https://www.patreon.com/lithuanianeconomy"><img style="width: 120px; height: 35px;" src="https://assets.pcmag.com/media/images/421651-patreon.jpg" alt="Patreon" /></a></td>
-</tr>
-<tr>
-<td class="tg-x70g" colspan="2">arba banko pavedimu:</td>
-</tr>
-<tr>
-<td class="tg-80l2">Gavėjas</td>
-<td class="tg-80l2">Justas Mundeikis</td>
-</tr>
-<tr>
-<td class="tg-80l2">IBAN</td>
-<td class="tg-80l2">LT79 3500 0100 0418 3482</td>
-</tr>
-<tr>
-<td class="tg-80l2">Swift kodas</td>
-<td class="tg-80l2">EVIULT21</td>
-</tr>
-</tbody>
-</table>
-<hr/>
