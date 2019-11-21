@@ -4,11 +4,31 @@
     <title>Lithuanian-Economy.net</title>
     <description>One or more sentences introducing this blog.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Oct 2019 16:49:10 +0200</pubDate>
-    <lastBuildDate>Tue, 29 Oct 2019 16:49:10 +0200</lastBuildDate>
+    <link>http://www.lithuanian-economy.net/</link>
+    <atom:link href="http://www.lithuanian-economy.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 21 Nov 2019 15:22:26 +0200</pubDate>
+    <lastBuildDate>Thu, 21 Nov 2019 15:22:26 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Ekonomisto komentaras - apie „atmazinę“ politiką</title>
+        <description>&lt;p&gt;&lt;strong&gt;Beveik lygiai prieš metus, naujos darbo apmokėjimo sistemos sunervinti ir beviltiškoje padėtyje save matantys mokytojai užėmė Švietimo ir mokslo ministeriją. Pratūnoję kone mėnesį, jie išprovokavo Vyriausybę imtis veiksmų. Šiandien galima įvertinti Vyriausybės ir Seimo darbą, juolab, jog pradėtas svarstyti  biudžetas. Deja rezultatai nuvilia, nes tiek biudžetas, tiek rinkimams besiruošiantys politikai pradeda praktikuoti „atmazinę“ politiką, kai daromi veiksmai darymo vardan, siekiant pavaizduoti veiklą. Kodėl naudoju žodį „atmazas“ - irgi paaiškinsiu.&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 21 Nov 2019 14:00:00 +0200</pubDate>
+        <link>http://www.lithuanian-economy.net/2019/11/21/ekonomisto-ekomentaras-apie-atmazine-politika</link>
+        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/11/21/ekonomisto-ekomentaras-apie-atmazine-politika</guid>
+        
+        <category>Politika</category>
+        
+        <category>Mokesčiai</category>
+        
+        <category>Viešasis sektorius</category>
+        
+        
+        <category>Ekonomisto komentaras</category>
+        
+      </item>
     
       <item>
         <title>Ekonomisto komentaras - Kiek kainuoja sąžinė?</title>
@@ -16,8 +36,8 @@
 
 </description>
         <pubDate>Mon, 28 Oct 2019 17:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2019/10/28/ekonomisto-ekomentaras-kiek-kainuoja-sazine</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/10/28/ekonomisto-ekomentaras-kiek-kainuoja-sazine</guid>
+        <link>http://www.lithuanian-economy.net/2019/10/28/ekonomisto-ekomentaras-kiek-kainuoja-sazine</link>
+        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/10/28/ekonomisto-ekomentaras-kiek-kainuoja-sazine</guid>
         
         <category>Filosofija</category>
         
@@ -38,8 +58,8 @@ Primenu, jog LMS mitingų priverstas Sveikatos apsaugos ministras A.Veryga pasir
 
 </description>
         <pubDate>Thu, 24 Oct 2019 07:35:00 +0300</pubDate>
-        <link>http://localhost:4000/2019/10/24/medikai-kada-streikas</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/10/24/medikai-kada-streikas</guid>
+        <link>http://www.lithuanian-economy.net/2019/10/24/medikai-kada-streikas</link>
+        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/10/24/medikai-kada-streikas</guid>
         
         <category>Sveikatos apsauga</category>
         
@@ -58,8 +78,8 @@ Jeigu paklaustume „tipinio lietuvio“ ko jis nekenčia, ko gero išgirstume: 
 
 </description>
         <pubDate>Mon, 21 Oct 2019 23:00:00 +0300</pubDate>
-        <link>http://localhost:4000/2019/10/21/ar-pades-banku-ir-prekybos-centru-mokesciai</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/10/21/ar-pades-banku-ir-prekybos-centru-mokesciai</guid>
+        <link>http://www.lithuanian-economy.net/2019/10/21/ar-pades-banku-ir-prekybos-centru-mokesciai</link>
+        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/10/21/ar-pades-banku-ir-prekybos-centru-mokesciai</guid>
         
         <category>Mokesčiai</category>
         
@@ -74,8 +94,8 @@ Jeigu paklaustume „tipinio lietuvio“ ko jis nekenčia, ko gero išgirstume: 
 
 </description>
         <pubDate>Tue, 15 Oct 2019 22:00:00 +0300</pubDate>
-        <link>http://localhost:4000/2019/10/15/komentaras-zr-apie-geroves-valstybe</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/10/15/komentaras-zr-apie-geroves-valstybe</guid>
+        <link>http://www.lithuanian-economy.net/2019/10/15/komentaras-zr-apie-geroves-valstybe</link>
+        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/10/15/komentaras-zr-apie-geroves-valstybe</guid>
         
         <category>Gerovės valstybė</category>
         
@@ -94,8 +114,8 @@ Jeigu paklaustume „tipinio lietuvio“ ko jis nekenčia, ko gero išgirstume: 
 
 </description>
         <pubDate>Mon, 14 Oct 2019 11:00:00 +0300</pubDate>
-        <link>http://localhost:4000/2019/10/14/ekonomisto-komentaras-apie-lietuviskos-geroves-valstybes-gyvuliu-ukio-autobusa</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/10/14/ekonomisto-komentaras-apie-lietuviskos-geroves-valstybes-gyvuliu-ukio-autobusa</guid>
+        <link>http://www.lithuanian-economy.net/2019/10/14/ekonomisto-komentaras-apie-lietuviskos-geroves-valstybes-gyvuliu-ukio-autobusa</link>
+        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/10/14/ekonomisto-komentaras-apie-lietuviskos-geroves-valstybes-gyvuliu-ukio-autobusa</guid>
         
         <category>Gerovės valstybė</category>
         
@@ -116,8 +136,8 @@ Jeigu paklaustume „tipinio lietuvio“ ko jis nekenčia, ko gero išgirstume: 
 
 </description>
         <pubDate>Tue, 01 Oct 2019 09:45:00 +0300</pubDate>
-        <link>http://localhost:4000/2019/10/01/geroves-valstybes-virazai</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/10/01/geroves-valstybes-virazai</guid>
+        <link>http://www.lithuanian-economy.net/2019/10/01/geroves-valstybes-virazai</link>
+        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/10/01/geroves-valstybes-virazai</guid>
         
         <category>Gerovės valstybė</category>
         
@@ -136,8 +156,8 @@ Ką iš tiesų reiškia &lt;em&gt;Gerovės valstybė&lt;/em&gt;? Kokie skirtingi
 
 </description>
         <pubDate>Fri, 27 Sep 2019 08:00:00 +0300</pubDate>
-        <link>http://localhost:4000/2019/09/30/ekonomisto-komentaras-kas-yra-geroves-valstybe</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/30/ekonomisto-komentaras-kas-yra-geroves-valstybe</guid>
+        <link>http://www.lithuanian-economy.net/2019/09/30/ekonomisto-komentaras-kas-yra-geroves-valstybe</link>
+        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/09/30/ekonomisto-komentaras-kas-yra-geroves-valstybe</guid>
         
         <category>Gerovės valstybė</category>
         
@@ -156,8 +176,8 @@ Per rinkimus Prezidentu išrinktas kandidatas pažadėjo įgyvendinti “Gerovė
 
 </description>
         <pubDate>Sun, 15 Sep 2019 17:30:00 +0300</pubDate>
-        <link>http://localhost:4000/2019/09/15/anonsas-akademine-virtuve-kas-yra-geroves-valstybe</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/15/anonsas-akademine-virtuve-kas-yra-geroves-valstybe</guid>
+        <link>http://www.lithuanian-economy.net/2019/09/15/anonsas-akademine-virtuve-kas-yra-geroves-valstybe</link>
+        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/09/15/anonsas-akademine-virtuve-kas-yra-geroves-valstybe</guid>
         
         <category>Gerovės valstybė</category>
         
@@ -176,8 +196,8 @@ Prieš priimdama mane į darbą VU EVAF dekanė Aida Mečerinskienė liepė susi
 
 </description>
         <pubDate>Mon, 09 Sep 2019 15:15:00 +0300</pubDate>
-        <link>http://localhost:4000/2019/09/13/kreipimasis-i-VU-Centrine-etikos-komisija-del-VU-EVAF-dekanes</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/13/kreipimasis-i-VU-Centrine-etikos-komisija-del-VU-EVAF-dekanes</guid>
+        <link>http://www.lithuanian-economy.net/2019/09/13/kreipimasis-i-VU-Centrine-etikos-komisija-del-VU-EVAF-dekanes</link>
+        <guid isPermaLink="true">http://www.lithuanian-economy.net/2019/09/13/kreipimasis-i-VU-Centrine-etikos-komisija-del-VU-EVAF-dekanes</guid>
         
         <category>Aukštasis mokslas</category>
         
@@ -189,30 +209,6 @@ Prieš priimdama mane į darbą VU EVAF dekanė Aida Mečerinskienė liepė susi
         
         
         <category>Švietimas</category>
-        
-      </item>
-    
-      <item>
-        <title>Aš Maxima, man Darbo kodeksas pochui</title>
-        <description>&lt;p&gt;&lt;strong&gt;
-“Aš Maxima, man viskas pochui” - vienas žiūrimiausių trumpųjų &lt;a href=&quot;https://www.youtube.com/watch?v=3gpNTEaRgNA&quot;&gt;Pistonai filmukų&lt;/a&gt;. Deja, bet  “Aš …, man &lt;em&gt;Darbo kodeksas&lt;/em&gt; pochui” - nusistatymą turi ne tik Maxima, bet ir kitos įmonės, antai ir Palink (IKI), RIMI, kurios net praėjus mėnesiui nuo DK pataisos numatančios, jog darbo skelbime turi būti nurodytas atlyginimas, tiesiog to nedaro. Sprendžiant iš viešų pranešimų, VDI imtis iniciatyvos prižiūrėti DK reikalavimų irgi neketina, o gyventojams pranešti VDI apie pavienius skelbimus - per sunku. Ką daryti?
-&lt;strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 09 Sep 2019 08:00:00 +0300</pubDate>
-        <link>http://localhost:4000/2019/09/09/as-maxima-man-viskas-pochui</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/09/as-maxima-man-viskas-pochui</guid>
-        
-        <category>VDI</category>
-        
-        <category>darbo užmokestis</category>
-        
-        <category>Darbo kodeksas</category>
-        
-        <category>R</category>
-        
-        
-        <category>Darbo rinka</category>
         
       </item>
     

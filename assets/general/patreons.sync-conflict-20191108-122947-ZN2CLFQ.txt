@@ -1,0 +1,8 @@
+|Name     | Gross|
+|:--------|-----:|
+|Milda    |    10|
+|Gintaras |     6|
+|Lauryna  |     5|
+|Egidijus |     4|
+|Andrius  |     2|
+|Doma     |     2|

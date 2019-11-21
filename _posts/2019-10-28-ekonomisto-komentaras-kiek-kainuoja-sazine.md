@@ -15,6 +15,7 @@ tags:
  - Etika
  - Politika
 ---
+
 **Šiame komentare mažiau apie ekonomiką, daugiau apie filosofiją, etiką ir moralę. Mano ekonominės minties istorijos žinios vis dar ribotos, tad šis komentaras neturėtų būti vertinamas kaip baigtinės mano mintys, o tik kaip tam tikra minčių momento fotografija, momento kuris gali kisti, momento, kuris gali būti kvestionuojamas ir diskutuojamas. Visgi man yra svarbu diskutuoti moralinius klausimus, su kurias susiduriame kasdien, nepaisant to, jog į kai kuriuos klausimus, vis dar neturime atsakymų, o į kai kuriuos iš jų, vieno teisingo atsakymo būti ir negali. Šiame komentare apie tai, kas yra "ekonomistas" ir kokia ekonomisto sąžinės kaina.**
 <!--more-->
 
