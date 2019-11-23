@@ -1,6 +1,6 @@
 ---
 title: Vaidai, ir visgi A.Butkevičius teisus
-date: 2019-11-23 10:00:00 +03:00
+date: 2019-11-23 18:00:00 +03:00
 author: Justas Mundeikis
 layout: post
 comments: true
@@ -35,7 +35,7 @@ Vyriausybė teikdama biudžėtą, pateikė savo siūlymus, kuriais iš esmės su
 
 Dabartinė mažėjančio NPD taikymo formulė (kuo didesnis bruto atlyginimas, tuo mažesnė neapmokestinamų pajamų dalis ir atitinkamai didesnis GPM), kurią sukūrė R.Kuodis turi savo pliusų ir savo minusų, tačiau jos atsiradimą reikia vertinti istoriniame kontekste.
 
-Istoriškai ji buvo priimta tuo metu, kai Lietuva negalėjo pritaikyti fiksuoto ir vienodo *NPD visiems* ir kartu įsivesti progresinių GPM tarifų, kurie atsvertų *NPD visiems* mokestinių įplaukų netekimus. Norėčiau priminti, jog nuo nepriklausomybės atgavimo Lietuvoje, kaip niekad vyravo libertarinės mokesčių politikos dvasia, kurią sėkmingai skleidė LLRI. Iki šiol mums labai sunkiai sekasi kalbėti apie progresinių mokesčių poreikį, ką jau bekalbėti apie jų įvedimą. Nemaža dalis Lietuyvos rinkėjų nori nemokėti mokesčių, bet gauti nemokamą švietimą, sveikatos priežiūrą, kelius, švarų vandenį...
+Istoriškai ji buvo priimta tuo metu, kai Lietuva negalėjo pritaikyti fiksuoto ir vienodo *NPD visiems* ir kartu įsivesti progresinių GPM tarifų, kurie atsvertų *NPD visiems* mokestinių įplaukų netekimus. Norėčiau priminti, jog nuo nepriklausomybės atgavimo Lietuvoje, kaip niekad vyravo libertarinės mokesčių politikos dvasia, kurią sėkmingai skleidė LLRI. Iki šiol mums labai sunkiai sekasi kalbėti apie progresinių mokesčių poreikį, ką jau bekalbėti apie jų įvedimą. Nemaža dalis Lietuvos rinkėjų nori nemokėti mokesčių, bet gauti nemokamą švietimą, sveikatos priežiūrą, kelius, švarų vandenį...
 
 Ar sukurti fiksuotą NPD + progresinius GPM tarifus, būtų buvę geriau? Vienareikšmiškai – TAIP! Bet ar tai buvo **įmanoma įgyvendinti**? Vargu.
 
@@ -93,7 +93,7 @@ Teoriniame ekonomikos pasaulyje (*Econ101*= ekonomikos įvado pasaulyje) ekonomi
 Jeigu asmuo dirbs papildoma valandą, jis gaus papildomus 10 eurų, tačiau darbas didina patiriamą nemalunumą ir tarkime yra įvertinimas kaip -2 eurai. Taigi ribinė vienos dirbtos valandos nauda siekia 10-2=8 eurus.<br>
 Jeigu ėjimo į teatrą su draugais *naudą* asmuo vertina mažesne nei 8 eurų suma, jis liks dirbti, tačiau jeigu ėjimas į teatrą yra vertinamas labiau nei 8 eurai, asmuo neliks dirbti viršvalandžių ir susitiks su draugais teatre.
 
-Būtent šioje vietoje ir puola vaidas A.Butkevičiaus pasiūlymą, jog šis padidina ribinius kaštus, t. y. sumažina ribinę naudą iš papildomo uždirbto euro labiau tiems, kurių pajamos yra mažos. Nesupratau, ar Vaidas galvoja, jog tai turės kokių nors „ekonominių" pasekmių dirbančiųjų pasirinkimui ar ne? Tokie maži ribinių tarifų pasislinkimai praktiškai neturės jokių pasekmių žmonių pasirinkimui!
+Būtent šioje vietoje ir puola Vaidas A.Butkevičiaus pasiūlymą, jog šis padidina ribinius kaštus, t. y. sumažina ribinę naudą iš papildomo uždirbto euro labiau tiems, kurių pajamos yra mažos. Nesupratau, ar Vaidas galvoja, jog tai turės kokių nors „ekonominių" pasekmių dirbančiųjų pasirinkimui ar ne? Tokie maži ribinių tarifų pasislinkimai praktiškai neturės jokių pasekmių žmonių pasirinkimui!
 
 "R.Kuodžio kupra", atsiranda todėl, kad uždirbant atlyginimą, kuris yra didesnis nei MMA, pradeda mažėti taikomas NPD, todėl uždirbamas vienas papildomas euras yra apmokestinamas ne tik 20 proc. GPM tarifu, bet ir dėl šio papildomo euro mažėjančiu NPD.
 
