@@ -274,10 +274,10 @@ options(knitr.kable.NA = '')
 
 write(
   kable(data_gini, 
-      booktabs = T,
-      format = "html" ,
-      digits = 2, 
-      caption = "Neto pajamų Gini koeficientai"),
+        booktabs = T,
+        format = "html" ,
+        digits = 2, 
+        caption = "Neto pajamų Gini koeficientai"),
   "./table_1.txt")
 
 
@@ -312,23 +312,23 @@ write(
 ### Buto neto
 ################################################################################
 
-  x <- c(seq(100, 3000, by=100))
-  data_neto <- data.frame(bruto=x,
-                          base_2019=base_2019(x,1)$neto,
-                          base_2020=base_2020(x,1)$neto,
-                          lvzs_2020=lvzs_2020(x,1)$neto,
-                          butk_2020=butk_2020(x,1)$neto,
-                          butk_vs_lvzs=butk_2020(x,1)$neto-lvzs_2020(x,1)$neto)
-  write(
-    kable(data_neto, 
+x <- c(seq(100, 3000, by=100))
+data_neto <- data.frame(bruto=x,
+                        base_2019=base_2019(x,1)$neto,
+                        base_2020=base_2020(x,1)$neto,
+                        lvzs_2020=lvzs_2020(x,1)$neto,
+                        butk_2020=butk_2020(x,1)$neto,
+                        butk_vs_lvzs=butk_2020(x,1)$neto-lvzs_2020(x,1)$neto)
+write(
+  kable(data_neto, 
         digits = 0, 
         booktabs = T,
         format = "html" ,
         caption = "Bruto - neto skirtingais scenarijais"),
-    "./table_3.txt")
+  "./table_3.txt")
 
 
-      ################################################################################
+################################################################################
 
 ################# 1
 
@@ -349,12 +349,12 @@ ggplot(data=df_itr, aes(x=bruto,y=values, color=var))+
   scale_y_continuous(breaks = seq(0,.8, by=0.02))+
   labs(title="Efektyvus mokesčių tarifas (ITR)",
        subtitle="Skaičiavimai: Lithuanian-Economy.net",
-    x="Pajamos, eurai", 
-    y="ITR, proc.")+
+       x="Pajamos, eurai", 
+       y="ITR, proc.")+
   theme(legend.position = "bottom",
-      legend.title=element_blank(),
-      plot.title = element_text(hjust = 0.0, face="bold"),
-      axis.text.x = element_text(angle=45, hjust=1))
+        legend.title=element_blank(),
+        plot.title = element_text(hjust = 0.0, face="bold"),
+        axis.text.x = element_text(angle=45, hjust=1))
 
 dev.off()
 
@@ -367,7 +367,7 @@ df_itr <- data.frame(bruto=x,
                      base_ITR_2019=base_2019(x,1)$ITR,
                      base_ITR_2020=base_2020(x,1)$ITR,
                      lvzs_ITR_2020=lvzs_2020(x,1)$ITR
-                    )%>%
+)%>%
   gather(var, values,2:length(.))
 
 png("./ITR_2.png", width = 9, height = 5, units = 'in', res = 200)
@@ -385,7 +385,7 @@ ggplot(data=df_itr, aes(x=bruto,y=values, color=var))+
         plot.title = element_text(hjust = 0.0, face="bold"),
         axis.text.x = element_text(angle=45, hjust=1))
 
-  dev.off()
+dev.off()
 
 
 ################################################################################
@@ -396,10 +396,10 @@ ggplot(data=df_itr, aes(x=bruto,y=values, color=var))+
 
 x <- seq(0, 16000, by=10)
 df_marg <- data.frame(bruto=x,
-                     base_2019=base_2019(x,1)$marg*10,
-                     base_2020=base_2020(x,1)$marg*10,
-                     lvzs_2020=lvzs_2020(x,1)$marg*10,
-                     butk_2020=butk_2020(x,1)$marg*10
+                      base_2019=base_2019(x,1)$marg*10,
+                      base_2020=base_2020(x,1)$marg*10,
+                      lvzs_2020=lvzs_2020(x,1)$marg*10,
+                      butk_2020=butk_2020(x,1)$marg*10
 )%>%
   gather(var, values,2:length(.))
 
@@ -417,7 +417,7 @@ ggplot(data=df_marg, aes(x=bruto,y=values, color=var))+
         legend.title=element_blank(),
         plot.title = element_text(hjust = 0.0, face="bold"),
         axis.text.x = element_text(angle=45, hjust=1))
-  
+
 dev.off()
 
 ################# 2
@@ -474,7 +474,7 @@ npd_2019 <- function(x, index=1) {
 
 x <- seq(0, 3000, by=1)
 taikomas_npd <- data.frame(bruto=x,
-                      butk_marg_2020=npd_2019(x,1)$npd
+                           butk_marg_2020=npd_2019(x,1)$npd
 )%>%
   gather(var, values,2:length(.))
 
@@ -487,6 +487,36 @@ ggplot(data=taikomas_npd, aes(x=bruto,y=values))+
        subtitle="Skaičiavimai: Lithuanian-Economy.net",
        x="Pajamos, eurai",
        y="Taikomas NPD, eurai.")+
+  theme(legend.position = "bottom",
+        legend.title=element_blank(),
+        plot.title = element_text(hjust = 0.0, face="bold"),
+        axis.text.x = element_text(angle=45, hjust=1))
+
+dev.off()
+
+################################################################################
+### Procentinė nauda
+################################################################################
+x <- seq(100, 3000, by=10)
+df_neto <- data.frame(bruto=x,
+                     base_neto_2019=base_2019(x,1)$neto,
+                     butk_neto_2020=butk_2020(x,1)$neto,
+                     butk_neto_2021=butk_2021(x,1)$neto)%>%
+  mutate(butk_2020p=round(.[,3]/.[,2]-1,3),
+         butk_2021p=round(.[,4]/.[,3]-1,3))%>%
+  select(bruto,butk_2020p, butk_2021p) %>%
+  gather(var, values,2:length(.))
+
+png("./neto_p_change.png", width = 9, height = 5, units = 'in', res = 200)
+ggplot(data=df_neto, aes(x=bruto,y=values, color=var))+
+  geom_line()+
+  scale_color_manual(values=c("#0000FF","#000000","#FF0000", "#00FF00"))+
+  scale_x_continuous(breaks = seq(0,18000, by=100))+
+  scale_y_continuous(breaks = seq(-1,.8, by=0.01))+
+  labs(title="Neto altyginimų pokytis lyginant su ankstesniu periodu, proc.",
+       subtitle="Skaičiavimai: Lithuanian-Economy.net",
+       x="Pajamos, eurai", 
+       y="Neto pokytis, proc.")+
   theme(legend.position = "bottom",
         legend.title=element_blank(),
         plot.title = element_text(hjust = 0.0, face="bold"),

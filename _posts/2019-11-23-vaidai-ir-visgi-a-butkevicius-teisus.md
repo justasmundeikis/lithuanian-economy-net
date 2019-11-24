@@ -459,6 +459,9 @@ Kaip minėjau, svarbu lyginti A.Butkevičiaus siūlymą ne su idealia mokesčių
 </tbody>
 </table>
 
+Procentualinis neto darbo pajamų pokytis lyginant su ankstesniais metais (butk_2020 vs base_2019 ir butk_2021 vs butk_2020):
+
+![](/assets/2019/11/23/neto_p_change.png)
 
 
 #  Epilogas
