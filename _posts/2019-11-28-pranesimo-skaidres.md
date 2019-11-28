@@ -17,7 +17,7 @@ tags:
 **Lietuvos švietimo darbuotojų profesinės sąjungos (LŠDPS) organizuotame Lietuvių mokytojų suvažiavime pranešimo metu naudotos skaidres.**
 <!--more-->
 
-
+Nuoroda parsisiuntimui: [spausti čia](http://lithuanian-economy.net/assets/2019/11/28/2019_11_28_pranesimas_svietimo_sektorius.pdf)
 
 <div style="position: relative; overflow: hidden;">
 <embed src="/assets/2019/11/28/2019_11_28_pranesimas_svietimo_sektorius.pdf"  width="100%" height="400" type="application/pdf" />
