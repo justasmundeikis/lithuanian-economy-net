@@ -1,5 +1,5 @@
 ---
-title: Pranešimo "Kodėl mokytojas netaps "prestižine" profesija 2025 metais?" skaidrės
+title: Pranešimo "Ar mokytojas taps "prestižine" profesija 2025 metais?" skaidrės
 date: 2019-11-28 15:00:00 +03:00
 author: Justas Mundeikis
 layout: post
@@ -18,9 +18,11 @@ tags:
 <!--more-->
 
 Nuoroda parsisiuntimui: [spausti čia](http://lithuanian-economy.net/assets/2019/11/28/2019_11_28_pranesimas_svietimo_sektorius.pdf)
+Pranešimas parengtas atlygintinai LŠDPS užsakymu.
 
 <div style="position: relative; overflow: hidden;">
-<embed src="/assets/2019/11/28/2019_11_28_pranesimas_svietimo_sektorius.pdf"  width="100%" height="400" type="application/pdf" />
-</div>
+<embed src="/assets/2019/11/28/2019_11_28_pranesimas_svietimo_sektorius.pdf"  width="100%" height="400" type="application/pdf"/></div>
 
-Pranešimas parengtas atlygintinai LŠDPS užsakymu.
+Pats pranešimas ties įrašo viduriu:
+
+<div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/7Ci1aPDU1vU " frameborder='0' scrolling='no' allowfullscreen></iframe></div>
