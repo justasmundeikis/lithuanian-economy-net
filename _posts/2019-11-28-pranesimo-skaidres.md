@@ -1,5 +1,5 @@
 ---
-title: Pranešimo "Ar mokytojas taps "prestižine" profesija 2025 metais?" skaidrės
+title: Pranešimo "Ar mokytojas taps "prestižine" profesija 2025 metais?" skaidrės + pranešimo video
 date: 2019-11-28 15:00:00 +03:00
 author: Justas Mundeikis
 layout: post
