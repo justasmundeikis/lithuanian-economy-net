@@ -37,7 +37,7 @@ Pranešimų konferencijose skaitymas lietuvių / anglų / vokiečių kalbomis, k
 
 ### Dalyvavimas darbo grupėse, ekspertinė veikla ir t.t.
 
-Atvykimo mokestis + 50 eurų už kiekvieną pradėtą valandą, jeigu dalyvavimas nereikalauja išankstinio pasiruošimo.
+Atvykimo mokestis + 50-100 eurų už kiekvieną pradėtą valandą, jeigu dalyvavimas nereikalauja išankstinio pasiruošimo.
 
 ### Sąskaitos
 Sąskaitas sutartoms sumoms išrašysiu pagal vykdomą individualią veiklą. Visos sumos bus apmokestintos laikantis LR įstatymų, o gautos pajamos bei užsakovas bus skelbiami viešai mano blogo "finansinėje ataskaitoje".
