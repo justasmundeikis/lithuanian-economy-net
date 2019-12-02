@@ -24,3 +24,7 @@ Pranešimas parengtas neatlygintinai.
 
 <div style="position: relative; overflow: hidden;">
 <embed src="/assets/2019/11/30/2019_11_30_pranesimo_skaidres.pdf"  width="100%" height="400" type="application/pdf"/></div>
+
+Konferencijos vaizdo įrašas:
+
+<div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/5ybJovEi4UY " frameborder='0' scrolling='no' allowfullscreen></iframe></div>
