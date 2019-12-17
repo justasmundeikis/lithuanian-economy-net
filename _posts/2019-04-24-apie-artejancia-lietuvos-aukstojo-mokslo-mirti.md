@@ -22,7 +22,7 @@ Todėl mano patarimas visam mąstančiam jaunimui, kuris turi galimybę išvykti
 Šis komentaras, mano asmeninė Lietuvos aukštojo mokslo ne-sistemos refleksija. Ji remiasi mano patirtimi, todėl nebūtinai yra objektyvi ar teisinga. Tačiau manau beveik 5 metų praktika šioje srityje leidžia daryti tam tikrus apibendrinimus. Tačiau svarbiau nei pati refleksija, jog skaitytojai pamatytų kiek yra skirtingų sistemos agentų su skirtingais tiklsais (ekonomistai veikėjus vadina agentais). Hierarchijos trūkumas, agentų su skirtingais tikslais ir siekiais gausa ir lemia, jog sistema yra stabilioje būsenoje ir ko gero joje ir liks.
 
 Pastaba: komentare naudoju terminą universitetas, nors turėčiau vartoti terminą aukštoji mokykla, kadangi diskutuoju problemas, kurios yra būdingos abiejų rūšių institucijoms (universitetams ir kolegijoms).
-<strong>
+</strong>
 <!--more-->
 
 
