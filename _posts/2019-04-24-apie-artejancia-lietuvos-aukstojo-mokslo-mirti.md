@@ -7,7 +7,7 @@ comments: true
 citation: true
 permalink: /2019/04/24/apie-artejancia-lietuvos-aukstojo-mokslo-mirti/
 image: /assets/2019/04/24/death-of-education.jpg
-thumbnail: /assets/2019/04/24/thumg.death-of-education.jpg
+thumbnail: /assets/2019/04/24/thumb.death-of-education.jpg
 categories:
   - Švietimas
 tags:
