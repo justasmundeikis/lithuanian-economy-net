@@ -14,17 +14,14 @@ tags:
   - Aukštasis mokslas
   - Švietimo politika
 ---
-<strong>
-Leiskite būti atviram, Lietuvos aukštojo mokslo sistema niekada nebeatsigaus, niekada nebebus tokia kokybiška, kaip buvo kadaise. Nostalgijos persmelktos kai kurių profesorių, dekanų bei rektorių galvos, anksčiau ar vėliau bus pakeistos naujesnėmis plikėmis, bet „išsvajotosios žemės“ Lietuva daugiau niekada nebepasieks.
+**Leiskite būti atviram, Lietuvos aukštojo mokslo sistema niekada nebeatsigaus, niekada nebebus tokia kokybiška, kaip buvo kadaise. Nostalgijos persmelktos kai kurių profesorių, dekanų bei rektorių galvos, anksčiau ar vėliau bus pakeistos naujesnėmis plikėmis, bet „išsvajotosios žemės“ Lietuva daugiau niekada nebepasieks.**
+<!--more-->
 
 Todėl mano patarimas visam mąstančiam jaunimui, kuris turi galimybę išvykti studijuoti svetur: bėkit kol galit, įgykit kuo geresnį, platesnį išsilavinimą ir neužverkite sau ateities horizontų pasirinkdami studijas Lietuvoje. Yra daug tų, kurie bandys Jus užliūliuoti gražiomis kalbomis, reklaminiais lankstinukais, lipdukais ar visokiais renginiais ir aiškinimais apie „šviesų rytojų“, bet nesileiskite vedami aklų…
 
 Šis komentaras, mano asmeninė Lietuvos aukštojo mokslo ne-sistemos refleksija. Ji remiasi mano patirtimi, todėl nebūtinai yra objektyvi ar teisinga. Tačiau manau beveik 5 metų praktika šioje srityje leidžia daryti tam tikrus apibendrinimus. Tačiau svarbiau nei pati refleksija, jog skaitytojai pamatytų kiek yra skirtingų sistemos agentų su skirtingais tiklsais (ekonomistai veikėjus vadina agentais). Hierarchijos trūkumas, agentų su skirtingais tikslais ir siekiais gausa ir lemia, jog sistema yra stabilioje būsenoje ir ko gero joje ir liks.
 
 Pastaba: komentare naudoju terminą universitetas, nors turėčiau vartoti terminą aukštoji mokykla, kadangi diskutuoju problemas, kurios yra būdingos abiejų rūšių institucijoms (universitetams ir kolegijoms).
-</strong>
-<!--more-->
-
 
 # Kas sugadino aukštąjį mokslą?
 
