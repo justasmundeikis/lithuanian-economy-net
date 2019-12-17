@@ -16,7 +16,7 @@ tags:
 ---
 
 <strong>
-PSDF biudžeto pagalba planuoja subalansuoti centrinės valdžios deficitą. Kitų metų pabaigoje PSDF rezerve numatoma turėti ~570 mln. eurų, arba ~26% metinių PSDF išlaidų. Opozicijos dėka šiandien PSDF biudžeto įstatymo projektas nepriimtas, pritrūko balsų. Visgi labai kviečiu pasiklausyti Seimo nario T.Tomilino pozicijos (raginimo balsuoti UŽ). Ir pradėti daryti išvadas, kaip yra matoma medikų bendruomenė LVŽS akimis!
+PSDF biudžeto pagalba planuojama subalansuoti centrinės valdžios deficitą. Kitų metų pabaigoje PSDF rezerve numatoma turėti ~570 mln. eurų, arba ~26% metinių PSDF išlaidų. Opozicijos dėka šiandien PSDF biudžeto įstatymo projektas nepriimtas, pritrūko balsų. Visgi labai kviečiu pasiklausyti Seimo nario T.Tomilino pozicijos (raginimo balsuoti UŽ). Ir pradėti daryti išvadas, kaip yra matoma medikų bendruomenė LVŽS akimis!
 <strong>
 <!--more-->
 
