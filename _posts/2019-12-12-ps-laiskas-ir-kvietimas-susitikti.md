@@ -9,7 +9,7 @@ permalink: /2019/12/12/ps-laiskas-ir-kvietimas-susitikti
 image: /assets/2019/12/12/fistraised.jpg
 thumbnail: /assets/2019/12/12/thumb.fistraised.jpg
 categories:
-  - MISC
+  - Profesinės sąjungos
 tags:
   - Pilietiškumas
   - Politika
