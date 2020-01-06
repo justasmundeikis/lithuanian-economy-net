@@ -1,6 +1,6 @@
 ---
 title: Kvietimas į antrąjį PS susitikimą
-date: 2020-01-06 01:00:00 +03:00
+date: 2020-01-06 19:00:00 +03:00
 author: Justas Mundeikis
 layout: post
 comments: true
