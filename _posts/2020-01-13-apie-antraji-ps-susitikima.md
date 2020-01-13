@@ -14,7 +14,7 @@ tags:
   - Profesinės sąjungos
 ---
 
-**Praėjusį šeštadienį profesinių sąjungų (PS) atstovai ir vėl rinkosi tęsti bendrų sąlyčio taškų dėl viešojo sektoriaus ateities paiešką. Kam bus įdomu, žemiau susitikimo garso įrašas. Šiame trumpame komentare pabandysiu apibendrinti tai, ką matau ir kur matau problemas. Ateinantį penktadienį rinksimės ir vėl, tik turėsim diskutuoti apie mūsų pačių darbą.**<!--more-->
+**Praėjusį šeštadienį profesinių sąjungų (PS) atstovai ir vėl rinkosi tęsti bendrų sąlyčio taškų, dėl viešojo sektoriaus ateities, paiešką. Kam bus įdomu, žemiau susitikimo garso įrašas. Šiame trumpame komentare pabandysiu apibendrinti tai, ką matau ir kur matau problemas. Ateinantį penktadienį rinksimės ir vėl, tik turėsim diskutuoti apie mūsų pačių darbą.**<!--more-->
 
 # Šeštadienio susitikimo dalyviai
 
