@@ -41,3 +41,20 @@ $header-fg: #FFF;
         "syntax-highlighting",
         "easybook"
 ;
+
+
+.rect {
+    padding-top: 15px;
+    margin:0 auto;
+}
+
+.rel {
+    width: 200px;
+    display: inline-block;
+    padding: 1px;
+    opacity: 1;
+}
+
+.rel hover {
+     opacity: 1;
+}
