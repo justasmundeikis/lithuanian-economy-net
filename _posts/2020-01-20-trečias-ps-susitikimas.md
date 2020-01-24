@@ -14,7 +14,7 @@ tags:
   - Profesinės sąjungos
 ---
 
-**2020-01-17 ir vėl susitikimo „Solidarumo“ būstinėje. Šio susitikimo tema nebuvo atlyginimų sistema, darbo normos, ar viešojo sektoriaus tinklai. Šio susitikimo tikslas buvo aptarti, kaip vykdyti pradėta žaliosios knygos  rašymo procesą, kaip ieškoti kompromisų ir kaip dalintis atsakomybe.**<!--more-->
+**2020-01-17 ir vėl susitikome „Solidarumo“ būstinėje. Šio susitikimo tema nebuvo atlyginimų sistema, darbo normos, ar viešojo sektoriaus tinklai. Šio susitikimo tikslas buvo aptarti, kaip vykdyti pradėta žaliosios knygos  rašymo procesą, kaip ieškoti kompromisų ir kaip dalintis atsakomybe.**<!--more-->
 
 # Pirmųjų susitikimų klaidos
 
