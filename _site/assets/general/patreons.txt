@@ -1,10 +1,8 @@
 |Name     | Gross|
 |:--------|-----:|
-|Milda    |    25|
-|Gintaras |    15|
-|Egidijus |     9|
-|Andrius  |     5|
-|Doma     |     5|
-|Lauryna  |     5|
-|Mariu    |     3|
-|Vidas    |     3|
+|Milda    |    35|
+|Gintaras |    21|
+|Andrius  |     7|
+|Doma     |     7|
+|Vidas    |     5|
+|Mariu    |     4|
