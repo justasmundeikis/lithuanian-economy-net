@@ -7,7 +7,7 @@ citation: true
 layout: post
 permalink: /2019/01/14/kodel-as-palikau-socialinius-tinklus/
 image: /assets/2019/01/14/social_media.jpeg
-thumbnail: /assets/2020/01/14/thumb.social_media.jpeg
+thumbnail: /assets/2019/01/14/thumb.social_media.jpeg
 categories:
   - Socialiniai tinklai
 tags:
