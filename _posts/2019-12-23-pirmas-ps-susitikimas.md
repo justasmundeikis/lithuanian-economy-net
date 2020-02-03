@@ -11,8 +11,6 @@ thumbnail: /assets/2019/12/23/thumb.PS_susitikimas_2019-12-21.png
 categories:
  - Profesinės sąjungos
 tags:
- - Pilietiškumas
- - Politika
  - Profesinės sąjungos
 ---
 **2019-12-21 įvyko mano organizuotas pirmas profesinių sąjungų susitikimas. Šiame komentare noriu paaiškinti, kodėl šis susitikimas buvo būtinas ir koks buvo šio susitikimo turinys. Šis tekstas skirtas bendrai auditorijai bet ypatingai profesinių sąjungų nariams bei susitikime nedalyvavusiems PS atstovams. Siekiant skaidrumo, įkeliu ir visų diskusijų garso įrašą. Labai tikiuosi, jog šis susitikimas buvo pradžia sunkaus kelio, kurį reikės eiti progresyvioms profesinėms sąjungoms tam, jog 2030 metais Lietuvoje turėtume kokybišką, efektyvų ir tvirtą viešąjį sektorių, kuris būtų mūsų visuomenės stuburas.**
