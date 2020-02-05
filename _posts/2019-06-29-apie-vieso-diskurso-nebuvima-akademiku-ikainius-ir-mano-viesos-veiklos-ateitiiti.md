@@ -1,14 +1,13 @@
 ---
-id: 2115
 title: Apie viešo diskurso nebuvimą, akademikų įkainius ir mano viešos veiklos ateitį
-date: 2019-06-29T19:46:58+03:00
+date: 2019-06-29 19:46:58 +01:00
 author: Justas Mundeikis
 layout: post
-guid: http://lithuanian-economy.net/?p=2115
-permalink: /2019/06/29/apie-vieso-diskurso-nebuvima-akademiku-ikainius-ir-mano-viesos-veiklos-ateitiiti/
-classic-editor-remember:
-  - classic-editor
-image: /wp-content/uploads/2019/06/put_money_mouth.jpg
+comments:   true
+citation:   true
+permalink: /2019/06/29/apie-vieso-diskurso-nebuvima-akademiku-ikainius-ir-mano-viesos-veiklos-ateiti/
+image:      /assets/2019/06/29/put_money_mouth.jpg
+thumbnail:  /assets/2019/06/29/thumb.put_money_mouth.jpg
 categories:
   - Economics
 ---
@@ -37,7 +36,7 @@ Akademikų siekis pasididinti disponuojamas pajamas ir su tuo susijusi veikla nu
 
 Praėjusiais metais bandžiau „užkurti“ renginių seriją „Akademinė virtuvė“, į kurią rinktųsi akademikai, dėstytojai, studentai, diskusijoms apie tai, kas aktualu. Norėjau, jog tokie renginių ciklai taptų reguliarūs, į šiuos renginius pakviesti žiniasklaidos atstovus, o gal net ir transliuoti internetu.
 
-<a href="http://lithuanian-economy.net/wp-content/uploads/2019/06/Akademinė_Virtuvė_1_c.jpg"><img class="aligncenter size-large wp-image-2136" src="http://lithuanian-economy.net/wp-content/uploads/2019/06/Akademinė_Virtuvė_1_c-1024x576.jpg" alt="" width="480" height="270" /></a>
+![](/assets/2019/06/29/Akademinė_Virtuvė.jpg)
 
 Taip, prikalbinau kelis profesorius sudalyvauti, bet užsiregistravusių dalyvių, buvo vos trys ar keturi…
 Akademinis personalas neturi laiko / noro, o studentai, arba nemato pavyzdžio iš savo dėstytojų ir nesupranta tokių renginių reikšmės, arba yra "popieriniai-studentai", kuriems rūpi tik diplomo popieriukas ir nieko daugiau.
@@ -64,7 +63,7 @@ Tokia samplaika neišlaiko tos ribos, kurią galima turėti komentuojant / reagu
 Apibendrinant manau, jog būtent žiniasklaida turi skatinti kokybiško turinio, argumentuotų diskusijų atsiradimą viešoje erdvėje.
 Ar LRT galėtų būti viena iš tokių žiniasklaidos priemonių, turinčių video/radijo/interneto platformas? Taip, bet sekant LRT degradaciją (clickbait'inės antraštės, negalėjimas matyti video turinio su ad-block įskiepiais ir t.t.), indikuoja, jog LRT tiesiog panašėja, o kai kuriais aspektais net lenkia geltonąją spaudą, tad vilčių į mokesčių milijonais finansuojamą nacionalinį transliuotąją, nedėčiau.
 
-<a href="http://lithuanian-economy.net/wp-content/uploads/2019/06/Screenshot-from-2019-06-29-19-07-11.jpg"><img class="aligncenter wp-image-2137 size-full" src="http://lithuanian-economy.net/wp-content/uploads/2019/06/Screenshot-from-2019-06-29-19-07-11.jpg" alt="" width="869" height="510" /></a>
+![](/assets/2019/06/29/lrt.jpg)
 
 # Praėjusių savaičių kibirkštis arba nemokamų pietų nebūna
 
@@ -93,21 +92,20 @@ Ir manau, jog atradau atsakymą, kodėl vyrauja tokia nuomonė.
 LLRI, bankų PR'čikai gauna atlyginimą už tai, ką jie daro - viešai atstovauti savo instituciją / ideologiją.
 LLRI pvz., turi laidą Žinių radijuje, kurią LLRI ir finansuoją ("Laidą rengia...." arba "Laidą remia....").
 
-<a href="http://lithuanian-economy.net/wp-content/uploads/2019/06/Screenshot-from-2019-06-29-19-15-45.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-2138 size-full" src="http://lithuanian-economy.net/wp-content/uploads/2019/06/Screenshot-from-2019-06-29-19-15-45.jpg" alt="" width="986" height="616" /></a>
+![](/assets/2019/06/29/llri.jpg)
 
 ŽR už laidą nieko nemoka, o gauna pinigus. Į visokias laidas "ekonomistai" vaikšto nemokamai, tačiau nemokamų pietų juk nebūną.
 
 Už LLRI "ekonomistų" vaikščiojimą sumoka LLRI rėmėjai - stambaus kapitalo įmonės, už bankų PR'čikų vaikščiojimus į TV ir radijo laidas sumoka šių bankų klientai. Tai formuoja tradiciją, jog "ekonomistai" reiškiantys savo nuomonę yra tarsi vieša gerybė, o kartu tai apima ir akademinius ekonomistus konkrečiai bei akademikus bendrai.
 Tad visai nesistebiu, kai kokia R.Miliūtė purkštauja, jog Mundeikis mat pareikalavo, kad kai LRT jį kviečia į laidas, jam taksi LRT atsiųstų. Kur tai matyta?
 
-[caption id="attachment_2158" align="aligncenter" width="516"]<a href="http://lithuanian-economy.net/wp-content/uploads/2019/06/Screenshot-from-2019-06-29-20-48-14.jpg" target="_blank" rel="noopener noreferrer"><img class="wp-image-2158 size-full" src="http://lithuanian-economy.net/wp-content/uploads/2019/06/Screenshot-from-2019-06-29-20-48-14.jpg" alt="" width="516" height="387" /></a> https://www.facebook.com/rita.miliute/posts/2295805890430252[/caption]
+![](/assets/2019/06/29/rita.jpg)
 
 Tačiau akademikai negauna atlyginimo už tai, jog lankytųsi laidose, atstovautų savo mokslo instituciją. Visi tai daro savo noru, na arba nedaro.
 
 Ir skirtumas dar labiau išryškėja, kai atsiranda tokios aplikacijos, kaip „HumansApp“, kurioje galime susitikti su norimu žmogumi ir su juo padiskutuoti, pasitarti, suprantama už pinigus, juk nemokamų pietų nebūna.
 
-[caption id="attachment_2139" align="aligncenter" width="177"]<a href="http://lithuanian-economy.net/wp-content/uploads/2019/06/Screenshot_20190629_191804_com.humansapp.app_.jpg" target="_blank" rel="noopener noreferrer"><img class="wp-image-2139 size-medium" src="http://lithuanian-economy.net/wp-content/uploads/2019/06/Screenshot_20190629_191804_com.humansapp.app_-177x300.jpg" alt="" width="177" height="300" /></a> HumansApp[/caption]
-
+![](/assets/2019/06/29/humansapp.jpg)
 ## Akademikų kaina
 
 O kokia būtų akademiko kaina, jeigu jo darbas būtų įvertinas rinkos sąlygomis? Akcentuoju rinkos sąlygomis, nes remtis akademikų atlyginimais aukštosiose mokyklose vargu ar galima (žr teksto pirmą dalį).
@@ -123,8 +121,6 @@ Jeigu vidutinės kvalifikacijos specialistas privačiame sektoriuje gali uždirb
 Labai džiaugčiausi, jeigu kiti akademikai pasidalintų savo įžvalgomis, bet manau, jog daktaro laipsnį turintys ar jo siekiantys turėtų savo darbo valandą vertinti bent jau 50 eurų suma, docento laipsnį turintys - bent jau 75 eurų sumą, o profesoriaus laipsnį - bent jau 100 eurų suma.
 
 Aš suprantu, kad Lietuvoje, dar nėra tos kultūros, skaičiuoti savo laiką, ir laiką vertinti eurais, bet ar ne keista, kai sakoma, jog nauja karta viską keis, bet kartu tikimasi, kad iš tiesų, nauja karta nieko nekeis? Taigi pradėkime skaičiuoti savo darbo laiką, bei vertinti jį valandiniais, o ne etatiniais atlyginimais.
-
-==================================================================
 
 # Pokyčiai bloge bei mano viešoje veikloje
 
@@ -147,11 +143,11 @@ Visas bloge skelbiamas turinys yra mano asmeninė intelektualinė nuosavybė, to
 Cituojant būtina nuoroda į šaltinį (www.lithuanian-economy.net). Cituojamo teksto apimtis negali viršyti 500 spaudos ženklų (skaičiuojant su tarpais).
 
 Savo asmeninėje svetainėje, įmonės tinklalapyje, socialiniuose tinkluose  ir kitose medijose be atskiro susitarimo galite naudoti:
-<ul>
- 	<li>straipsnio antraštę,</li>
- 	<li>pirmąją straipsnio pastraipą, kuri nuo yra <strong><em>bold</em></strong> šriftų</li>
- 	<li>toliau turi sekti nuoroda į pilną straipsnį Lithuanian-Economy.net tinklalapyje</li>
-</ul>
+
+* straipsnio antraštę
+* pirmąją straipsnio pastraipą, kuri nuo yra <strong><em>bold</em></strong> šriftų
+* toliau turi sekti nuoroda į pilną straipsnį Lithuanian-Economy.net tinklalapyje
+
 Be jokių apribojimų galite dalintis (share’inti) WordPress suformuotą įrašą esantį mano<em> Facebook page</em> paskyroje <a href="http://www.facebook.com/lithuanianeconomy/" target="_blank" rel="noopener noreferrer">www.facebook.com/lithuanianeconomy</a>
 
 Jeigu norite cituoti daugiau, arba blogo turinį republikuoti savo asmeninėje svetainėje, įmonės tinklalapyje, socialiniuose tinkluose ar kitoje medijoje, prašau kreiptis el. paštu dėl kainos (orientacinė kaina: 800 žodžių ~ 150€).
@@ -163,6 +159,8 @@ Jeigu po liepos 1d. aptiksiu internete republikuotą savo tekstą viršijanti le
 Kaip jau minėjau, pasiruošimas laidoms bei interviu reikalauja laiko pasiruošimui, be to patiriamos laiko sąnaudos kelionei. Žemiau pateikiu lenteles su orientacinėmis kainomis.
 
 Jeigu sutartas interviu / dalyvavimas laidoje neįvyksta ne dėl mano kaltės, užsakovas turės sumokėti visą iš anksto sutartą sumą, taip padengiant mano patirtas laiko sąnaudos ruošiantis.
+
+Bazinė 2019 metų 1 valandos kaina - 50€
 
 | Laidos / interviu trukmė | Skaičiuojamas pasiruošimo laikas | Bendra trukmė | Kaina |
 |--------------------------|----------------------------------|---------------|-------|
@@ -179,7 +177,7 @@ Tam, kad nekiltų klausimų, dėl to, kas apmoka kelionės išlaidas:
 | Atvykimas Vilniuje | 25€ |
 | Lietuvoje | Pagal susitarimą |
 
-&nbsp;
+
 
 ## Pranešimai, dalyvavimas darbo grupėse ir t.t.
 
@@ -215,4 +213,4 @@ Tačiau nematau tokiam žingsniui alternatyvų. Profesinės sąjungos, žiniaskl
 
 Linkiu visiems gražios vasaros ir karštų diskusijų, tik prieš putojant apie 50-100€ / val. pagalvokite, kiek mokate kirpimo salone, arba iškviestam santechnikui...
 
-¯\_(ツ)_/¯
+![](/assets/2019/06/29/whatever.png)
