@@ -278,7 +278,7 @@ Besiklausant Luminor PR'čiko susidaro toks įspūdis, jog dėka projekto ir iš
 </tbody>
 </table>
 
-Išvada: mokytojų atlyginimai nuo 2018m. vasario padidėjo vidutiniškai 8.2 proc. ir lenkė vidutinį viešojo sektoriaus darbuotojų atlyginimų augimą, kuris siekė tik 5.3 proc., lenkė ir viso švietimo sektoriaus darbuotojų atlyginimų augimą, kuris siekė 7.5 proc. Tačiau gydytojų 15.5 proc. augimas tarsi turėtų suponuoti, jog "prestižinė profesija - mokytojas" labiau pasitarnavo gydytojams! Tik nesakykite to Ž.Mauricui, taip paskui ir pradės kalbėti...
+Išvada: mokytojų atlyginimai nuo 2018m. vasario padidėjo vidutiniškai 7.7 proc. ir lenkė vidutinį viešojo sektoriaus darbuotojų atlyginimų augimą, kuris siekė tik 5.1 proc., lenkė ir viso švietimo sektoriaus darbuotojų atlyginimų augimą, kuris siekė 7.1 proc. Tačiau gydytojų 15.4 proc. augimas tarsi turėtų suponuoti, jog "prestižinė profesija - mokytojas" labiau pasitarnavo gydytojams! Tik nesakykite to Ž.Mauricui, taip paskui ir pradės kalbėti...
 
 Ne, medikų keliami reikalavimai, mitingai bei A.Verygos patvirtintas 3 VDU tikslas padarė savo. Tai galima matyti iš viršuje esančio grafiko. Kartu šis grafikas, turėtų paskatinti būtent viešojo sektoriaus profsąjungas jungti jėgas ir siekti, jog Lietuvoje atsirastų teisinga viešojo sektoriaus atlyginimų sistema ir ateityje viešojo sektoriaus darbuotojų atlyginimai būtų didinami tik per bazinį dydį. Tada visoms profesijoms (jau pasiekus teisingus profesijų koeficientus), atlyginimai didėtų proporcionaliai vienodai ir jokia silpna viešojo sektoriaus sritis nebebūtų pamirštama (žr grafike *public administration* tiesės raidą). Tai turėtų tapti vienu iš kertinių, „Profesinių sąjungų Viešojo sektoriaus 2020-2030 metų strategijos vizija“ dokumento punktų.
 
