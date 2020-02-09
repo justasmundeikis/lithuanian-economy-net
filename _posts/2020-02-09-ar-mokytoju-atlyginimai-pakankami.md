@@ -226,10 +226,10 @@ Besiklausant Luminor PR'čiko susidaro toks įspūdis, jog dėka projekto ir iš
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> sector </th>
-   <th style="text-align:right;"> 2018-01-01 </th>
-   <th style="text-align:right;"> 2019-07-01 </th>
-   <th style="text-align:right;"> Change </th>
+   <th style="text-align:left;"> Sector </th>
+   <th style="text-align:right;"> 2018Q1 </th>
+   <th style="text-align:right;"> 2019Q3 </th>
+   <th style="text-align:right;"> Change,% </th>
   </tr>
  </thead>
 <tbody>
