@@ -133,12 +133,13 @@ Kadangi nežinau, kurias švietimo grupės Ž.Mauricas turi omenyje, kalbėdamas
 Tačiau adekvatus finansavimas nereiškia (tą pažymoj ir Ž.Mauricas), jog lėšos panaudojamos efektyviai. Kaip jau [rašiau savo blog'e](http://lithuanian-economy.net/2018/11/28/ekonomisto-komentaras-apie-chaoso-sistema-lietuvoje/), turime labai keistą sistemą, kur didžioji dalis finansavimo ateina iš centrinės valdžios, tačiau mokyklų tinklas ir su juo susijęs efektyvumas yra vietinės valdžios, t.y. savivaldybių, atsakomybė. Dar blogiau, jog tinklo neefektyvumas atsiliepia švietimo kokybei, už kurios nebuvimą daug kas kaltina Švietimo ir mokslo ministeriją bei pačius mokytojus, o ne savivaldybės tarybą / merą.
 
 Net pati [ŠMSM vienoje iš savo prezentacijų](https://www.smm.lt/uploads/documents/Mokytojo%20portretas_Kiek%20uz%CC%8Cdirba%20mokytojai_Skaidre%CC%87s.pdf) nurodo, jog didelė dalis švietimui skiriamų lėšų panaudojama turto išlaikymui, ypač tuštėjančiuose kaimuose:
-![](/assets/2020/02/09/smsm_prezentacija.png)
 
-Bet taip, uždarinėti tuščias mokyklas regiono politikai nenori. Mokytojai dirba tik daliniu, o ne pilnu etatu, švietimo kokybė žemiau grybo...bet išlaikome *kultūrinį kaimų židinį*. Gražus pavadinimas **tautos genocidui**.
+![](/assets/2020/02/09/smsm_prezentacija.png)
 
 Kvadratuose sumos min / max:
 ![](/assets/2020/02/09/smsm_prezentacija_2.png)
+
+Bet taip, uždarinėti tuščias mokyklas regiono politikai nenori. Mokytojai dirba tik daliniu, o ne pilnu etatu, švietimo kokybė žemiau grybo...bet išlaikome *kultūrinį kaimų židinį*. Gražus pavadinimas **tautos genocidui**.
 
 Todėl vienas iš centrinių profesinių sąjungų reikalavimų Vyriausybei ir politikams, ties kuriuo šiuo metu darbuojasi įvairių PS atstovai, turėtų būti, jog **švietimo tinklo valdymas būtų perimtas į centrinės valdžios rankas**. Tada ji taptų atsakingą už **efektyvų turto valdymą**, už **pavežėjimo užtikrinimą** ir to pasekoje atsakinga ir už **švietimo kokybę**! Visos atsakomybės ir galimybės (finansavimas) vienose rankose.
 
