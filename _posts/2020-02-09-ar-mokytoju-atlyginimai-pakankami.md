@@ -41,7 +41,7 @@ Ir visgi manau, jog pravartu pamatyti ir transkribuotą tekstą (už pagalbą d�
 Daug kam gali pasirodyti, gal ir net pačiam Ž.Mauricui, jog aš čia kabinėjuosi prie žodžių, netikslumų, sąvokų ar šiaip... priekabiauju. Taip aš purkštauju ir priekabiauju dėl dviejų priežasčių:
 
 1. Ž.Mauricas ateina į laidą nepasiruošęs, kalba netiksliai ir klaidina visuomenę, daro gėdą ekonomikos gildijai, nesupranta, kad didžioji dalis jo minimos statistikos yra ištraukta iš konteksto ir praranda prasmę, kurią jis bando tai statistikai suteikti
-2. Ž.Maurico kalba turi poveikį visuomenės formuojamai opinijai. Štai kiek vėliau daryto delfi.tv pokalbio ištrauka su *Vilniaus Licėjaus* direktoriumi Sauliu Jurkevičiumi. Laidoje jau antrą kartą naudojamas ir visuomenei į galvas kalamas naratyvas - jog daugiau didinti mokytojų atlyginimų nebereikia! Tai konstatuoja delfi.tv žurnalistė ir tai patvirtina ir Licėjaus direktorius!
+2. Ž.Maurico kalba turi poveikį visuomenės formuojamai opinijai. Štai kiek vėliau daryto delfi.tv pokalbio ištrauka su *Vilniaus Licėjaus* direktoriumi Sauliu Jurkevičiumi. Laidoje jau antrą kartą naudojamas ir visuomenei į galvas kalamas naratyvas - jog daugiau didinti mokytojų atlyginimų nebereikia! Tai konstatuoja delfi.tv žurnalistė ir tai patvirtina ir Licėjaus direktorius! (po Maurico intarpo toliau kalba direktorius)
 
 <div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/PVIe7yGK_Z0" frameborder='0' scrolling='no' allowfullscreen></iframe></div>
 
