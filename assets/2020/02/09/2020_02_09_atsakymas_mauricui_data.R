@@ -26,6 +26,9 @@ gov_10a_exp <- get_eurostat("gov_10a_exp",
                                            sector="S13",
                                            unit=c("PC_GDP", "PC_TOT")))
 
+# GDP and main components (output, expenditure and income)
+nama_10_gdp <- get_eurostat("nama_10_gdp", stringsAsFactors = FALSE)
+
 # Income quintile share ratio S80/S20 for disposable income by sex and age group - EU-SILC survey 
 ilc_di11 <- get_eurostat("ilc_di11", stringsAsFactors = FALSE)
 
@@ -90,6 +93,45 @@ ggplot(data=df_gov_ex_09, aes(x=PC_GDP, y=PC_TOT))+
              y="% Total expenditure")
 
 dev.off()
+
+# General government expenditure on education vs GDP size  ====
+
+df_gov_ex_09 <- gov_10a_exp %>%
+        filter(
+                cofog99=="GF09", 
+                sector=="S13",
+                na_item=="TE",
+                geo %in% c("BE","BG","CZ","DK","DE","EE","IE","EL","ES","FR","HR","IT","CY","LV","LT","LU","HU","MT","NL","AT","PL","PT","RO","SI","SK","FI","SE","UK","IS","LI","NO","CH"),
+                year(time)=="2017",
+                unit=="PC_GDP")%>%
+        select(geo,time, values)%>%
+        rename(exp_educ=values)
+last_year <-   strftime(max(df_gov_ex_09$time),"%Y")
+
+df_nama_gdp <- nama_10_gdp %>% 
+        filter(
+                geo %in% c("BE","BG","CZ","DK","DE","EE","IE","EL","ES","FR","HR","IT","CY","LV","LT","LU","HU","MT","NL","AT","PL","PT","RO","SI","SK","FI","SE","UK","IS","LI","NO","CH"),
+                                      year(time)=="2017",
+                na_item=="B1GQ",
+                unit=="CP_MEUR")%>%
+        select(geo, values)%>%
+        rename(GDP=values)
+
+unite <- full_join(df_gov_ex_09,df_nama_gdp, by="geo")%>% na.omit()
+
+png("./figures/exp_educ_gdp_size.png", width = 12, height = 6, units = 'in', res = 200)
+ggplot(data=unite, aes(x=log(GDP), y=exp_educ))+
+        geom_point()+
+        geom_text(aes(label=geo), hjust=1, vjust=1.5, size=4)+
+        geom_smooth(method="lm", se = FALSE)+
+        labs(title=paste("Expenditure on education and log(size of economy),",last_year), 
+             subtitle="Source: Eurostat (gov_10a_exp,nama_10_gdp), calculations: Lithuanian-Economy.net", 
+             x="LOG(GDP)", 
+             y="Expenditure on education % GDP")
+
+dev.off()
+
+
 
 
 # General government expenditure on education, GF0901, BAR ====
