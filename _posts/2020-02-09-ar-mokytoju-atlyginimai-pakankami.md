@@ -15,7 +15,7 @@ tags:
   - Švietimo sektorius
 ---
 
-**„Mokytojų atlyginimai nebėra jau tokie maži“, pareiškia Luminor vyriausias ekonomistas (PR’čikas) dr. Žygimantas Mauricas delfi.tv laidoje. Suprask – mokytojai, kiek gavote pakanka, o mokytojo, kaip „prestižinės“ profesijos, dabar jau reikia siekti nebe pinigais, o kitais būdais. Mano pasiūlymas mokytojams (ne nejuokauju, rimtai) gal darom akciją ir nešam vainikus prie Luminor, pagerbti mirusias pono „vyr ekonomisto“ smegenis (arba realybės jausmą)? Vasario 14 -  manau tam būtų ideali diena… (laukti iki lapkričio 1 per ilgai...prikalbės kitų nesąmonių). Šiame komentare išsamiai pasistengsiu pagrįsti faktais, kodėl dr. Ž.Mauricas klystą ir klaidiną visuomenę.**<!--more-->
+**„Mokytojų atlyginimai nebėra jau tokie maži“, pareiškia Luminor vyriausias ekonomistas (PR’čikas) dr. Žygimantas Mauricas delfi.tv laidoje. Suprask – mokytojai, kiek gavote pakanka, o mokytojo, kaip „prestižinės“ profesijos, dabar jau reikia siekti nebe pinigais, o kitais būdais. Mano pasiūlymas mokytojams (ne nejuokauju, rimtai) gal darom akciją ir nešam vainikus prie Luminor, pagerbti mirusias pono „vyr ekonomisto“ smegenis (arba realybės jausmą)? Vasario 14 -  manau tam būtų ideali diena… (laukti iki lapkričio 1 per ilgai...prikalbės kitų nesąmonių). Šiame komentare išsamiai pasistengsiu pagrįsti faktais, kodėl dr. Ž.Mauricas klysta ir klaidina visuomenę.**<!--more-->
 
 
 # dr. Ž.Maurico teiginiai
@@ -215,7 +215,7 @@ Taigi, pasakymas, jog atlyginimai jau pakankamai padidėjo, nes pasiekė „Suom
 
 Besiklausant Luminor PR'čiko susidaro toks įspūdis, jog dėka projekto ir iškelto tikslo "Mokytojas - prestižinė profesija", mokytojų atlyginimai Lietuvoje kilo sparčiau, nei kokių nors kitų viešojo sektoriaus darbuotojų grupių. O ką sako statistika?
 
-Žemiau grafike pateikiami viešojo sektoriaus darbuotojų atlyginimai (santykyje su VDU (be individualių įmonių)). Kadangi visis skaičiai dalinami iš to paties vardiklio, tai apdeda normalizuoti skaičius, bet neiškreipia reikšmės ir išvadų.
+Žemiau grafike pateikiami viešojo sektoriaus darbuotojų atlyginimai (santykyje su VDU (be individualių įmonių)). Kadangi visi skaičiai dalinami iš to paties vardiklio, tai padeda normalizuoti skaičius, bet neiškreipia reikšmės ir išvadų.
 
 ![](/assets/2020/02/09/figures/public_vs_AVG.png)
 
