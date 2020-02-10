@@ -4,7 +4,7 @@ date:       2020-02-10 12:00:00 +02:00
 author:     Justas Mundeikis
 comments:   true
 citation:   true
-permalink:  /2020/02/10/kvietimas-pietų-pertraukos-piketas
+permalink:  /2020/02/10/kvietimas-pietu-pertraukos-piketas
 image:      /assets/2020/02/10/banner.jpg
 thumbnail:  /assets/2020/02/10/thumb.banner.jpg
 categories:
