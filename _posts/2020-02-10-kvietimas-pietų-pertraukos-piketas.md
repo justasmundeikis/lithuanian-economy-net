@@ -39,7 +39,7 @@ Registruoti piketo nereikia, jeigu dalyvių bus iki 15 asmenų, todėl prašau v
 
 # Pilietinė akcija, dalyviai
 
-Tai yra **pilietiška akcija**, kuria aš, kaip pilietis, kaip ekonomistas, išreiškiu savo nepasitenkinimą privačių bankų kišimusi į viešojo sektoriaus politikos formavimą!  Aš labai norėčiau, jog tokios spontaniškos „pietų pertraukos“ akcijos taptų norma ir įtrauktų kuo didesnę mūsų, letargo miegu užmigusios, visuomenės dalį. Prie akcijos organizavimo neprisideda jokia organizacija: nei politinė nei profsąjunga.
+Tai yra **pilietinė akcija**, kuria aš, kaip pilietis, kaip ekonomistas, išreiškiu savo nepasitenkinimą privačių bankų kišimusi į viešojo sektoriaus politikos formavimą!  Aš labai norėčiau, jog tokios spontaniškos „pietų pertraukos“ akcijos taptų norma ir įtrauktų kuo didesnę mūsų, letargo miegu užmigusios, visuomenės dalį. Prie akcijos organizavimo neprisideda jokia organizacija: nei politinė nei profsąjunga.
 
 Akcijoje laukiami visi jai pritariantys, švietimo srities darbuotojai, profesinių sąjungų atstovai, tėvai, mokiniai, studentai ir tiesiog – piliečiai.
 
