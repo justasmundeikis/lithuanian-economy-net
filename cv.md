@@ -120,3 +120,7 @@ Informacija atnaujinta: 2019-10-29
   * 2019 m. ruduo
   * Mokesčių įstatymų vertinimas
   * Atlygintina veikla pagal IV pažymą
+* Lietuvos švietimo darbuotojų profesinė sąjunga
+  * 2019 m. ruduo
+  * Prenėšimo parengimas ir skaitymas
+  * Atlygintina veikla pagal IV pažymą
