@@ -57,6 +57,9 @@ Leidimas piketui gautas iš Vilniaus savivaldybės. Galime susirinkti ir piketuo
 
 registruokitės čia - [nuoroda](https://forms.gle/isUGHq2AJ5ZaCb7M6) ir ateikite!!!
 
+Visa info apie piketą - [čia](http://lithuanian-economy.net/2020/02/10/kvietimas-pietu-pertraukos-piketas)
+
+
 # Replika mokytojams
 
 Gavau persiųstus komentarus į šį piketą iš įvairių Facebook „mokytojų“ grupių. Labai dažnai šis kvietimas susilaukė kritikos, esą šiuo piketu *tyčiojamasi* ir **kaip gali mokytojai toleruoti patyčias** ir t.t.
