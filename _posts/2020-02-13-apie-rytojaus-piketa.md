@@ -15,7 +15,7 @@ tags:
   - Pietų piketas
 ---
 
-**Norėjau trumpai paaiškinti, kodėl einame rytoj piketuoti ir replikuoti į kai kuriuos komentarus, kurių susilaukė šis kvietimas mokytojų grupėse. Piketas nėra už mokytojus, bet UŽ VISĄ VIEŠĄJĮ sektorių ir prieš bankų ir PR’čikų kišimąsį į viešojo sektoriaus politikos formavimą Lietuvoje**<!--more-->
+**Norėjau trumpai paaiškinti, kodėl einame rytoj piketuoti ir replikuoti į kai kuriuos komentarus, kurių susilaukė šis kvietimas mokytojų grupėse. Piketas nėra už mokytojus, bet UŽ VISĄ VIEŠĄJĮ sektorių ir prieš bankų ir PR’čikų kišimąsį į viešojo sektoriaus politikos formavimą Lietuvoje.**<!--more-->
 
 # Ištakos
 Viskas prasidėjo nuo to, kad eilinį kartą Ž.Mauricas kalbėdamas delfi.lt laidoje pritauškėto absoliučias nesąmones. Kadangi Lietuvoje mokytojų ir VDU santykis jau viršija Suomijos mokytojų ir Suomijos VDU, esą atlyginimai mokytojų jau pakankami, ir dabar „prestižine profesija – mokytojas“ turi būti siekiama kitais būdais, nebe finansiniais.
