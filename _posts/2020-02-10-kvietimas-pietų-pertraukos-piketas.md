@@ -3,7 +3,7 @@ title:      'Pietų pertraukos piketas: „Pagerbkime mirusias bankinio ekonomis
 date:       2020-02-10 12:00:00 +02:00
 author:     Justas Mundeikis
 comments:   true
-citation:   true
+citation:   false
 permalink:  /2020/02/10/kvietimas-pietu-pertraukos-piketas
 image:      /assets/2020/02/10/banner.jpg
 thumbnail:  /assets/2020/02/10/thumb.banner.jpg

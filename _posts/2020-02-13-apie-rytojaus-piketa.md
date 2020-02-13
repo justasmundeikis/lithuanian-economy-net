@@ -3,7 +3,7 @@ title:      Apie rytojaus Pietų pertraukos piketą
 date:       2020-02-13 12:00:00 +02:00
 author:     Justas Mundeikis
 comments:   true
-citation:   true
+citation:   false
 permalink:  /2020/02/10/apie-rytojaus-piketa
 image:      /assets/2020/02/13/3.png
 thumbnail:  /assets/2020/02/13/thumb.3.png
