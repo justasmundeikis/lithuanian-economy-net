@@ -201,7 +201,7 @@ Ach ir dar doktorantūra -  ją akivaizdu teks stabdyti metams, tiek tam, jog da
 
 **Pietų pertraukos piketas** - man labai patiko pati koncepcija, tačiau kiek dar norėsiu būti *donkichotu* (net ne už ačiū) už tuos, kuriems patiems nerūpi – nežinau. Slėpti nusivilimo, neketinu.
 
-p.S. Tie, kas dalyvavo piekte ir darė nuotraukas  / video, būčiau dėkingas, jeigu per email (justas.mundeikis@lithuanian-economy.net) arba naudojantis wetransfer.com pasidalintūmėte turimais kadrais :) O gal kas darėte foto Iš Luminor 18 aukšto? Foto iš viršaus būtų tobula...
+p.S. Tie, kas dalyvavo pikete ir darė nuotraukas  / video, būčiau dėkingas, jeigu per email (justas.mundeikis@lithuanian-economy.net) arba naudojantis wetransfer.com pasidalintūmėte turimais kadrais :) O gal kas darėte foto Iš Luminor 18 aukšto? Foto iš viršaus būtų tobula...
 
 Dėkui sudalyvavusiems!
 
