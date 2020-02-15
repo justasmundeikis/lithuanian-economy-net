@@ -137,6 +137,8 @@ Be laiko, **sąnaudos  - 31.19€** (įskaitant 4 raudonus ir baisiai garsius š
 
 Plakatų prireikė išviso 6 (po vieną iš kiekvienos karkaso pusės, juk smagu, kai padvigubini info kiekį). Didžiausias iššūkis buvo, sugalvoti, ką rašyti, taip, jog suprastų visi, ir taip, jog būtų mažai teksto ir atitinkamai didelės raidės. Čia tikrai buvo galima geriau pasidarbuoti. Manau,ant vieno plakato visgi reikėjo dėkti QR kodą, jog jaunimas dirbantis Luminor banke, galėtų greitai rasti straipsnį, kuriame kritikuoju Ž.Mauricą.
 
+[Plakatus galima matyti - čia](http://lithuanian-economy.net/2020/02/10/apie-rytojaus-piketa)
+
 **Sąnaudos - 8€**
 
 Jau spėjau susilaukt komentarų, jog galėjo būti karikatūros, didesnės raidės ir panašiai.
