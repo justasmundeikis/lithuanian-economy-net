@@ -34,17 +34,17 @@ Paskutinis toks pagrindimas, su teksto rašymu, užtruko apie 20 valandų, tam, 
 
 Atsakymo nežinau. **Universitetuose** vyrauja bado dieta, darbas per kelis etatus ir kelias darbovietes, projektinės veiklos, tad imti ir paskirti 10-20 valandų visuomeninei veiklai – neįmanoma. Jeigu universitetai skatintų visuomeninę veiklą, tai honoruotų finansiškai, galbūt situacija keistųsi, nes aktyvių ir visuomeninių akademikų tikrai netrūksta, pvz., „Paskutinis prioritetas“ atstovai dalyvauja net PS susirinkimuose dėl Viešojo sektoriaus vizijos! Darbas už ačiū, kai net ačiū vargu ar kas jiems pasako...
 
-**Politinės partijos**, būtų sekantis logiškas kandidatas. Liberalams, TS-LKD (apart ko gero Šimonytės) ir Vyriausybei, libertariniai bankų PR’čikų kliedesiai tik į naudą. LVŽS, mano žiniomis, neturi nei vieno ekonomisto, kuris galėtų tai daryti. LSDP turi – Vaidą Navicką, kuris šiuo metu darosi neoficialų priešrinkiminį pijarą (taip, tai jau [kritikavau, nes man tai, tas pats, kas R.Karbauskio "Naisių vasaros" serialas...](http://lithuanian-economy.net/2019/10/28/ekonomisto-ekomentaras-kiek-kainuoja-sazine)). Kiek Vaidas turės laiko viešai diskutuoti – nežinau. Priešrinkiminis periodas regis yra ganėtinai sunkus ir įtemptas. Kai taps oficialiu LSDP kandidatu, vargu bau, ar bebus kviečiamas kaip „ekonomistas“ į eterį taip dažnai. Nežinau, ar Lietuvai nebūtų geriau, jog Vaidas į Seimą nepatektų ir liktų ir toliau tiesiog dirbti LSDP, tada jo minčių girdėtume daugiau.
+**Politinės partijos**, būtų sekantis logiškas kandidatas. Liberalams, TS-LKD (apart ko gero Šimonytės) ir Vyriausybei, libertariniai bankų PR’čikų kliedesiai tik į naudą. LVŽS, mano žiniomis, neturi nei vieno ekonomisto, kuris galėtų tai daryti. LSDP turi – Vaidą Navicką, kuris šiuo metu darosi neoficialų priešrinkiminį pijarą (taip, tai jau [kritikavau, nes man tai, tas pats, kas R.Karbauskio "Naisių vasaros" serialas...](http://lithuanian-economy.net/2019/10/28/ekonomisto-ekomentaras-kiek-kainuoja-sazine)). Kiek Vaidas turės laiko viešai diskutuoti – nežinau. Priešrinkiminis periodas regis yra ganėtinai sunkus ir įtemptas. Kai taps oficialiu LSDP kandidatu, vargu bau, ar bebus kviečiamas kaip „ekonomistas“ į eterį. Nežinau, ar Lietuvai nebūtų geriau, jog Vaidas į Seimą nepatektų ir liktų tiesiog toliau dirbti LSDP, tada jo minčių girdėtume daugiau.
 
 ![](/assets/2020/02/15/vaidas_diena.jpeg)
 
-Kas lieka – tai **profesinės sąjungos** (PS), paskutinis bastionas, kuris yra labiau popierinis, ideologinis.
+Kas lieka – tai **profesinės sąjungos** (PS), paskutinis bastionas, kuris yra labiau popierinis, teorinis.
 
 Paskutiniu metu praleidžiu labai daug laiko su PS – bandome kartu rengti dokumentą, kuris vienytų PS strateginiais viešojo sektoriaus klausimais ir nubraižytų ilgalaikę PS viziją viešajam sektoriui. Iš bendradarbiavimo galiu pasakyti, jog PS vadovai, darbuotojai, ne retai irgi dirba už ačiū. Nuovargis, išsisunkimas, pilkumas ir bejėgiškumas yra labiau norma, nei išimtis. Yra išimčių, pavadinkime tai „jaunatvišku entuziazmu“ (nebūtinai susiję su amžiumi), bet tai išimtys.
 
 PS samdytis ekonomistų (pilnu etatu), kurie padėtų ne tik ruošiantis deryboms įvairiuose formatuose (dvišalės/trišalės derybos), bet dar ir atremtų bankų PR’čikus, nelabai gali, finansiniai resursai riboti, o nauda iš ekonomisto nėra tokia „apčiuopiama“, kaip tarkime, teisininko pagalba tesime.
 
-Progresas vyksta, štai [LŠDPS priėmė sprendimą, jog samdys mane](http://lsdps.lt/index.php?option=com_content&view=article&id=2536:-akins-kolektyvins-sutarties-projekto-vertinimas&catid=48:newsflash), kad padėčiau rengtis ir dalyvauti derybose dėl kolektyvinės mokytojų  šakos sutarties su ŠMSM. Etatas nepilnas, *pilotinis projektas* tiek pačiai profsąjungai, tiek man, kaip ekonomistui. Progresas tame, jog pamažu atsiranda supratimas, jog PS reikia pagalbos, ne tik iš teisininkų, bet ir kitų sričių specialistų, ir jog už ačiū, niekas negalės rimtai kibti į darbą. Jeigu šis supratimas pradės sklisti, ne tik pas švietimiečius, bet ir pas medikus, valstybės tarnautojus ir t.t., gal po truputi atsiras ir supratimas, jog vienai PS turėti savo ekonomistą, nėra logiška, o visoms turėti jungtinį *think-tank’ą* yra ir pigiau ir prasmingiau.  Galbūt tam dar reikia laiko, tačiau būtent laikas yra tai, ko PS ir visuomenė neturi.
+Progresas vyksta, štai [LŠDPS priėmė sprendimą, jog samdys mane](http://lsdps.lt/index.php?option=com_content&view=article&id=2536:-akins-kolektyvins-sutarties-projekto-vertinimas&catid=48:newsflash), kad padėčiau rengtis ir dalyvauti derybose dėl kolektyvinės mokytojų  šakos sutarties su ŠMSM. Etatas nepilnas, *pilotinis projektas* tiek pačiai profsąjungai, tiek man, kaip ekonomistui. Progresas tame, jog pamažu atsiranda supratimas, jog PS reikia pagalbos, ne tik iš teisininkų, bet ir kitų sričių specialistų, ir jog už ačiū, niekas negalės rimtai kibti į darbą. Jeigu šis supratimas pradės sklisti, ne tik pas švietimiečius, bet ir pas medikus, valstybės tarnautojus ir t.t., gal po truputi atsiras ir supratimas, jog vienai PS turėti savo ekonomistą, nėra logiška, o visoms turėti jungtinį *think-tank’ą* yra ir pigiau ir prasmingiau. Galbūt tam dar reikia laiko, tačiau būtent laikas yra tai, ko PS ir visuomenė neturi.
 
 Nuotraukos iš LŠDPS tarybos susirinkimo (lsdps.lt)
 
@@ -53,7 +53,7 @@ Nuotraukos iš LŠDPS tarybos susirinkimo (lsdps.lt)
 ![](/assets/2020/02/15/Taryba_2020-02-06_2.jpg)
 
 
-Didžiausias iššūkis PS - jų susiskaldymas. Susiskaldymas kartais toks baisus, jog atrodo greičiau jau *Maxima* ir *Lidl* eitų rankomis susikibę, nei kai kurių mūsų PS atstovai sėstų prie apskrito stalo ir tartųsi, kaip siekti bendro gėrio. Myliu / nemyliu ir istoriniai priešiškumai (karo kirviai) taip giliai įaugę į pasąmonę, jog atrodo, kad turėtų įvykti stebuklas, arba kokia baisi (kata-)klizma, jog PS imtų nuosekliai bendradarbiauti, pvz., kadangi vysktančiose *PS vizijos viešajam sektoriui* susitikimuose dalyauja LŠDPS - LŠMPS boikotuoją bendradarbiavimą. LPSK pirminkei Ingai Ruginienei valdybos nariai regis uždraudė irgi dalyvauti susitikimuose. Iš vienos pusės suprantu, PS konkuruoja dėl narių, iš kitos pusės, jos visos turi ir bendrų interesų.
+Didžiausias iššūkis PS - jų susiskaldymas. Susiskaldymas kartais toks baisus, jog atrodo greičiau jau *Maxima* ir *Lidl* eitų rankomis susikibę, nei kai kurių mūsų PS atstovai sėstų prie apskrito stalo ir tartųsi, kaip siekti bendro gėrio. Myliu / nemyliu ir istoriniai priešiškumai (karo kirviai) taip giliai įaugę į pasąmonę, jog atrodo, kad turėtų įvykti stebuklas, arba kokia baisi (kata-)klizma, jog PS imtų nuosekliai bendradarbiauti. Susipriešinimo pvz.: kadangi vysktančiose *PS vizijos viešajam sektoriui* susitikimuose dalyauja LŠDPS, tai LŠMPS boikotuoją bendradarbiavimą. LPSK pirminkei Ingai Ruginienei valdybos nariai regis uždraudė irgi dalyvauti susitikimuose. Iš vienos pusės suprantu, PS konkuruoja dėl narių, iš kitos pusės, jos visos turi ir bendrų interesų. Galėtų padėti asmeniškumus į šoną ir sėsti dirbti kartu, vardan visų.
 
 Foto: LPS "Solidarumas"
 ![](/assets/2020/02/15/PS_meet.jpg)
@@ -76,13 +76,13 @@ Kai pasiūliau prie piketo prisidėti „Solidarumui“, atsakymą iškart gavau
 
 Nepykstu, suprantu, jog ne „nuosava“ idėja, nederinta ir neglūdinta mėnesių mėnesiais… suprantu, bet tai nereiškia, jog **pateisinu**. Kartais, man atrodo, reikia veikti spontaniškai, neplanuotai, vadovaujantis įsitikinimų, o ne logikos / strategijos.
 
-Apie ne švietimo PS geriau jau patylėsiu, palaikymo čia išvis nerasta, juk kol ne nuosavas klėtis dega, nėra ko pergyvent? Čia ir bjauriausia mūsų visuomenės (ir PS) savybė, vienas kito nepalaikymas. Galbūt dėl to man ir kyla mintis, jog būtina Lietuvoje steigti nacionalinę viešojo sektoriaus jungtinę profsąjungą, kurios visi nariai, privalėtų vieni kitus palaikyti ??? Kaip kitaip skiepyti šioje visuomenėje empatiją? Nežinau, pradedu pasiduoti, jog galbūt tai misija neįmanoma...
+Apie ne-švietimo PS geriau jau patylėsiu, palaikymo čia išvis nerasta, juk kol ne nuosavas klėtis dega, nėra ko pergyvent? Čia ir bjauriausia mūsų visuomenės (ir PS) savybė, vienas kito nepalaikymas. Galbūt dėl to man ir kyla mintis, jog būtina Lietuvoje steigti nacionalinę viešojo sektoriaus jungtinę profsąjungą, kurios visi nariai, privalėtų vieni kitus palaikyti ??? Kaip kitaip skiepyti šioje visuomenėje empatiją? Nežinau, pradedu pasiduoti, jog galbūt tai misija neįmanoma...
 
 ## Mokytojų reakcija
 
 Labiausiai mane nustebino komentarai, kuriuos persiuntė Gytautas, iš mokytojų grupių Facebook’e. Mokytojai piktinosi, jog kaip taip **galima skatinti „patyčias“**, matai, siūlomas piketas nukreiptas prieš Ž.Mauricą.
 
-Norisi pradėti keiktis skaitant tokius komentarus. Banko veidas, privataus kapitalo veidas, formuojantis viešą opinija, prieš artėjančias kolektyvinės šakos derybas „apšika“ visus mokytojus, o tie matai, galvoja, kad eiti prieš tai piketuoti, yra patyčios. Apie humoro jausmo trūkumą, aš patylėsiu...
+Norisi pradėti keiktis skaitant tokius komentarus. Banko veidas, privataus kapitalo veidas, formuojantis viešą opinija, prieš artėjančias kolektyvinės šakos derybas „apšika“ visus mokytojus, o tie matai, galvoja, kad eiti prieš tai piketuoti, yra - patyčios. Apie humoro jausmo trūkumą, aš patylėsiu...
 
 Kai Ursula von der Leyen, norėjo pasiūlyti vienodą MMA nustatymo metodiką visoje ES, skandinavai pasakė – NE! Ne todėl, kad skandinavai nenorėtų MMA, juk jie, pasak mūsų libertarų, baisiausi komunistai (kuriems pasisekė). Ne, skandinavai suprato, kad jų kolektyvinėse derybose nustatyti mažiausi atlyginimai yra ženkliai didesni, nei ES metodikos galimas MMA dydis. Kokios būtų to pasekmės? Darbdaviai pirštu rodytų į ES MMA  metodiką ir sakytų: „Ne ne ne, mes nesutinkama labiau didinti atlyginimų, žiūrėkit koks MMA pas mus turėtų būti“.  Verslas racionalus, kam mokėti daugiau?
 
@@ -147,7 +147,7 @@ Jau spėjau susilaukt komentarų, jog galėjo būti karikatūros, didesnės raid
 
 Kai esi kone *one-man-show*, daug kas būtų gerai, bet nėra įgyvendinama. Sutinku, jog karikatūros, o ne GIMP ir Libreoffice draw, plakatai būtų tobula. Tik nežinau, kas norėtų piešti. Pasisiūlyt niekas nepasisiūlė. Facebook'u iš esmės aš nesinaudoju, bet mačiau, jog Gytautas užtaginęs buvo visas švietimo PS ir kaip minėjau, patys mokytojai, aktyviai dalinosi ne tik atsakymu Ž.Mauricui, bet ir info apie šį piketą. Vienintelis dalykas, kurį aš padariau, tai *FB event* sukūrimas, kuriuo pasidalino ir [„Paskutinis prioritetas“](https://www.facebook.com/PaskutinisPrioritetas/).
 
-Mačiau, jog Aušra Maldeikienė dalinosi mano įrašais, tad viešumo, trūkti neturėjo. Ačiū Aušra!!!
+Mačiau, jog Aušra Maldeikienė dalinosi mano įrašais, tad viešumo trūkti neturėjo. Ačiū Aušra!!!
 
 ![](/assets/2020/02/15/am_fb.jpeg)
 
@@ -184,7 +184,7 @@ Vienintelis žiniasklaidos echo, spaudos pranešimo paviešinimas - [alfa.lt por
 
 ![](/assets/2020/02/15/alfa.png)
 
-Nežinau, ar ėjimas prieš bankus yra *tabu*, ar „vyr ekonomisto mirusių smegenų pagerbimas“ yra matomas kaip patyčių skatinimas, ar dalyvių skaičius pirmame pikete prieš bankus nuo regis 2014 metų(?) buvo per mažas, bet žiniasklaidai toks renginys nepasirodė vertas dėmesio.
+Nežinau, ar ėjimas prieš bankus yra *tabu*, ar „vyr ekonomisto mirusių smegenų pagerbimas“ yra matomas kaip patyčių skatinimas, ar dalyvių skaičius pirmame pikete prieš bankus, nuo regis 2014 metų(?), buvo per mažas - bet žiniasklaidai toks renginys nepasirodė vertas dėmesio.
 
 Priešingai, nei keliems praeiviams, kurie mielai prisijungė ir stovėjo kartu.
 
@@ -193,13 +193,13 @@ Dar trūko ausų kamštukų, nes tie raudoni švilpukai tokie garsus, kad tik po
 
 # Kas toliau?
 
-Geriausias klausimas – kas toliau? Manęs laukia pasiruošimas švietimo kolektyvinėms deryboms ir tolimesnis darbas su PS, ties bendros vizijos kūrimu. Kad ir kaip skųsčiausi, pamažu pradedu matyti, prošvaistę, jog darbai juda pirmyn ir galų gale (dar prieš vasarą) turėsime apčiuopiamą rezultatą. Užtenka to, jog PS visada turi reaguoti į politikų postūmius, laikas, kad jos atneštų ant stalo savo siūlymus.
+Geriausias klausimas – kas toliau? Manęs laukia pasiruošimas **švietimo kolektyvinėms deryboms** ir tolimesnis darbas su PS, ties **bendros vizijos** kūrimu. Kad ir kaip skųsčiausi, pamažu pradedu matyti, prošvaistę, jog darbai juda pirmyn ir galų gale (dar prieš vasarą) turėsime apčiuopiamą rezultatą. Užtenka to, jog PS visada turi reaguoti į politikų postūmius, laikas, kad jos padėtų ant stalo savo siūlymus.
 
 Balandžio menesį dalyvausiu JGA organizuojamame [**Transform** renginyje](https://www.facebook.com/events/625719831589270/), kuriame ir skaitysiu pranešimą ir vesiu panelinę diskusiją su LSDP, LVŽS ir TSLKD politikais, apie tai, kokių pokyčių tikėtis po sekančių Seimo rinkimų sveikatos apsaugos finansavime.
 
-Ach ir dar doktorantūra -  ją akivaizdu teks stabdyti metams, tiek tam, jog daryti tai, kas būtina dabar (dalyvavimas su PS derybose dėl mokytojų šakinės kolektyvinės sutarties), tiek dėl to, jog kyla techninių problemų, kai Eurostat tiekia ne visus duomenis, kurių reikia tyrimui. Bet pertrauka nuo darbo neatleidžia, vis tiek turiu per tuos metus parašyti 1-2 straipsnius, nes mesti PhD neketinu (o temą keisti, galbūt?).
+Ach ir dar **doktorantūra** -  ją akivaizdu teks stabdyti metams, tiek tam, jog daryti tai, kas būtina dabar (dalyvavimas su PS derybose dėl mokytojų šakinės kolektyvinės sutarties), tiek dėl to, jog kyla techninių problemų, kai Eurostat tiekia ne visus duomenis, kurių reikia tyrimui. Bet pertrauka nuo darbo neatleidžia, vis tiek turiu per tuos metus parašyti 1-2 straipsnius, nes mesti PhD neketinu (o temą keisti, galbūt?).
 
-**Pietų pertraukos piketas** - man labai patiko pati koncepcija, tačiau kiek dar norėsiu būti *donkichotu* (net ne už ačiū) už tuos, kuriems patiems nerūpi – nežinau. Slėpti nusivilimo, neketinu.
+**Pietų pertraukos piketas** - man labai patiko pati koncepcija, tačiau kiek dar norėsiu būti *donkichotu* už tuos, kuriems patiems nerūpi – nežinau. Slėpti nusivilimo, neketinu.
 
 p.S. Tie, kas dalyvavo pikete ir darė nuotraukas  / video, būčiau dėkingas, jeigu per email (justas.mundeikis@lithuanian-economy.net) arba naudojantis wetransfer.com pasidalintūmėte turimais kadrais :) O gal kas darėte foto Iš Luminor 18 aukšto? Foto iš viršaus būtų tobula...
 
