@@ -53,7 +53,7 @@ Nuotraukos iš LŠDPS tarybos susirinkimo (lsdps.lt)
 ![](/assets/2020/02/15/Taryba_2020-02-06_2.jpg)
 
 
-Didžiausias iššūkis PS - jų susiskaldymas. Susiskaldymas kartais toks baisus, jog atrodo greičiau jau *Maxima* ir *Lidl* eitų rankomis susikibę, nei kai kurių mūsų PS atstovai sėstų prie apskrito stalo ir tartųsi, kaip siekti bendro gėrio. Myliu / nemyliu ir istoriniai priešiškumai (karo kirviai) taip giliai įaugę į pasąmonę, jog atrodo, kad turėtų įvykti stebuklas, arba kokia baisi (kata-)klizma, jog PS imtų nuosekliai bendradarbiauti, pvz., kadangi vysktančiose *PS vizijos viešjam sektoriui* susitikimuose dalyauja LŠDPS - LŠMPS boikotuoją bendradarbiavimą. LPSK pirminkei Ingai Ruginienei valdybos nariai regis uždraudė irgi dalyvauti susitikimuose. Iš vienos pusės suprantu, PS konkuruoja dėl narių, iš kitos pusės, jos visos turi ir bendrų interesų.
+Didžiausias iššūkis PS - jų susiskaldymas. Susiskaldymas kartais toks baisus, jog atrodo greičiau jau *Maxima* ir *Lidl* eitų rankomis susikibę, nei kai kurių mūsų PS atstovai sėstų prie apskrito stalo ir tartųsi, kaip siekti bendro gėrio. Myliu / nemyliu ir istoriniai priešiškumai (karo kirviai) taip giliai įaugę į pasąmonę, jog atrodo, kad turėtų įvykti stebuklas, arba kokia baisi (kata-)klizma, jog PS imtų nuosekliai bendradarbiauti, pvz., kadangi vysktančiose *PS vizijos viešajam sektoriui* susitikimuose dalyauja LŠDPS - LŠMPS boikotuoją bendradarbiavimą. LPSK pirminkei Ingai Ruginienei valdybos nariai regis uždraudė irgi dalyvauti susitikimuose. Iš vienos pusės suprantu, PS konkuruoja dėl narių, iš kitos pusės, jos visos turi ir bendrų interesų.
 
 Foto: LPS "Solidarumas"
 ![](/assets/2020/02/15/PS_meet.jpg)
@@ -107,7 +107,7 @@ Tai kodėl vis tiek piketas, nors palaikymas ir supratimas toks ribotas? Ko gero
 Dėkoju už drąsą stoti už viešąjį sektorių. Jūs ir V. Navickas esate ekonomikos mokslo šviesuliai, kurie demontuoja įsigalėjusią neoliberalų tvirtovę, skandinančią visą visuomenę ir Lietuvos ateitį. Nepasiduokite ir žinokite, kad yra žmonių, kurie Jus palaiko.<br>
 Mielai prisidėčiau prie puikaus protesto, bet esu užsienyje. <...><br>
 
-Suprantama, yra ir kitas niuansas -  tai anarchistinė rusenanti ugnelė manyje :)  Ką jau bekalbėti apie tai, jog ėjimas į statybų parduotuvę ir galvojimas, kaip čia pagaminti tuos karkasus plakatams, medžio lentų pirkimas, pjovimas su pjųklu namuose ir karkasų gamyba :D Na taip, meistrauti patinka dar nuo vaikystės... geras senelio palikimas :D (perdaug savo rankdarbių kokybe nesididžiuoju, bet savo funkciją jie atliko).
+Suprantama, yra ir kitas niuansas -  tai anarchistinė rusenanti ugnelė manyje :)  Ką jau bekalbėti apie tai, jog ėjimas į statybų parduotuvę ir galvojimas, kaip čia pagaminti tuos karkasus plakatams, medžio lentų pirkimas, pjovimas su pjūklu namuose ir karkasų gamyba :D Na taip, meistrauti patinka dar nuo vaikystės... geras senelio palikimas :D (perdaug savo rankdarbių kokybe nesididžiuoju, bet savo funkciją jie atliko).
 
 
 # Tai, ko nesimato
@@ -188,12 +188,12 @@ Nežinau, ar ėjimas prieš bankus yra *tabu*, ar „vyr ekonomisto mirusių sme
 
 Priešingai, nei keliems praeiviams, kurie mielai prisijungė ir stovėjo kartu.
 
-Dar trūko ausų kamštukų, nes tie raudoni švilpukai tokie garsus, kad tik po paros spengimas ausyse baigia praeiti... (čia galima būtų pajuokauti, apie PS ir piketuotojų pvojingas darbo sąlygas...)
+Dar trūko ausų kamštukų, nes tie raudoni švilpukai tokie garsus, kad tik po paros spengimas ausyse baigia praeiti... (čia galima būtų pajuokauti, apie PS ir piketuotojų pavojingas darbo sąlygas...)
 
 
 # Kas toliau?
 
-Geriausias klausimas – kas toliau? Manęs laukia pasiruošimas švietimo kolektyvinėms deryboms ir tolimesnis darbas su PS, ties bendros vizijos kūrimu. Kad ir kaip skųsčiausi, pamažu pradedu matyti, prošvaistę, jog darbai juda pirmyn ir galų gale (dar prieš vasarą) turėsime apčiuopiamą rezultatą. Užtenka to, jog PS vsiada turi reaguoti į politikų postūmius, laikas, kad jos atneštų ant stalo savo siūlymus.
+Geriausias klausimas – kas toliau? Manęs laukia pasiruošimas švietimo kolektyvinėms deryboms ir tolimesnis darbas su PS, ties bendros vizijos kūrimu. Kad ir kaip skųsčiausi, pamažu pradedu matyti, prošvaistę, jog darbai juda pirmyn ir galų gale (dar prieš vasarą) turėsime apčiuopiamą rezultatą. Užtenka to, jog PS visada turi reaguoti į politikų postūmius, laikas, kad jos atneštų ant stalo savo siūlymus.
 
 Balandžio menesį dalyvausiu JGA organizuojamame [**Transform** renginyje](https://www.facebook.com/events/625719831589270/), kuriame ir skaitysiu pranešimą ir vesiu panelinę diskusiją su LSDP, LVŽS ir TSLKD politikais, apie tai, kokių pokyčių tikėtis po sekančių Seimo rinkimų sveikatos apsaugos finansavime.
 
