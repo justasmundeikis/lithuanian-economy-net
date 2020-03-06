@@ -1,5 +1,5 @@
 ﻿---
-title:      Atsakymas ŠMSM viceministrei J.Urbanovič ir pedagogų bendruomenei
+title:      Atsakymas ŠMSM viceministrei J.Urbanovič ir pedagogų bendruomenei dėl LŠDPS reikalavimų
 date:       2020-03-05 15:00:00 +02:00
 author:     Justas Mundeikis
 layout:     post
