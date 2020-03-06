@@ -3,9 +3,11 @@ title: 'Ekonomisto komentaras &#8211; kaip profsąjungos ir vėl ant to paties g
 date: 2019-05-15 06:50:11+02:00
 author: Justas Mundeikis
 layout: post
-
+comments:   true
+citation:   true
 permalink: /2019/05/15/ekonomisto-komentaras-kaip-profsajungos-ir-vel-ant-to-paties-greblio-lipa/
-image: /wp-content/uploads/2019/05/ga101107.gif
+image:      /assets/2019/05/15/garfield.jpeg
+thumbnail:  /assets/2019/05/15/thumb.garfield.jpeg
 categories:
   - "Ekonomisto komentaras"
 tags:
@@ -14,6 +16,7 @@ tags:
   - Viešasis sektorius
   - Vyriausybė
 ---
+
 Praėjusią savaitę socialiniuose tinkluose bei kai kuriose [žiniasklaidos priemonėse nuvilnijo naujiena](https://www.delfi.lt/news/daily/lithuania/lietuvisku-algu-grimasos-kapiniu-sargui-555-eurai-europiniu-projektu-koordinatoriui-330-euru.d?id=81098393) apie Lazdijų rajono savivaldybės viešosios įstaigos „Lazdijų švietimo centras" projektų koordinatoriaus darbo skelbimą. [Jame nurodomos](http://www.svietimocentras.lt/sites/default/files/dokumentai/Darbo_skelbimo_informacija.docx) pareigos apima: rengti ES struktūrinių fondų bei kitų nacionalinių ir tarptautinių programų lėšomis finansuojamus projektus, administruoti ir kontroliuoti įstaigos įgyvendinamus projektus, rengti ir paramą administruojančioms institucijoms teikti finansines ir veiklos projektų įgyvendinimo ataskaitas. Reikalavimuose nurodytas aukštasis universitetinis išsilavinimas, puikūs informacijos rengimo ir pristatymo lietuvių kalba įgūdžiai, puikūs darbo su kompiuteriu, duomenų sisteminimo, analizavimo ir interpretavimo įgūdžiai, mokesčių administravimo bei viešųjų pirkimų įstatymų išmanymas.<!--more-->
 
 Reikalavimai nemaži, o atlyginimas – vos 300 eurų iki mokesčių už pusę etato. Didesnės etato dalies viešoji įstaiga pasiūlyti negali. Priminsiu, jog šiuo metu minimalus mėnesinis atlyginimas Lietuvoje siekia 555 eurus. Taigi projekto koordinatoriaus pozicija jeigu būtų siūloma dirbti pilnu etatu, minimalų mėnesinį atlyginimą viršytų vos 45 eurais.
