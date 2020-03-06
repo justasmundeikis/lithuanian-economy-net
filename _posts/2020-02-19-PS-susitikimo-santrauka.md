@@ -50,7 +50,7 @@ Pradėta 5 skyriaus diskusija. Netrukus  pradėsiu pildyti diskusijos metu iškr
 * Paruošiu pranešimą spaudai, kurį irgi trumpai aptarsime, nes finalizavus antrąją dalį, manau laikas apie tai informuoti žiniasklaidą
 * Jeigu spėtume finalizuoti 2 skyrių greičiau, nei aš tikiuosi, tęsime 5 skyriaus diskusiją.
 
-# Preliominarus laiko planas
+# Preliminarus laiko planas
 
 <table><tr><th>Data / Skyrius</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr><tr><td>2020-02-13</td><td></td><td></td><td></td><td></td><td>Diskusija</td></tr><tr><td>2020-02-27</td><td></td><td></td><td>Finalizavimas</td><td></td><td>Diskusija</td></tr><tr><td>2020-03-12</td><td></td><td>Sektorinis atsiskaitymas</td><td></td><td>Sektorinis atsiskaitymas</td><td>Disksuija</td></tr><tr><td>2020-03-26</td><td></td><td></td><td></td><td></td><td>Finalizavimas</td></tr><tr><td>2020-04-09</td><td></td><td>Sektorinis atsiskaitymas</td><td></td><td>Sektorinis atsiskaitymas</td><td></td></tr><tr><td>2020-04-23</td><td>Diskusija</td><td></td><td></td><td></td><td></td></tr><tr><td>2020-05-07</td><td></td><td>Finalizavimas</td><td></td><td>Finalizavimas</td><td></td></tr><tr><td>2020-05-21</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2020-06-04</td><td>Finalizavimas</td><td></td><td></td><td></td><td></td></tr></table>
 
