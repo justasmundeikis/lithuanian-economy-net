@@ -1,8 +1,6 @@
 |Name     | Gross|
 |:--------|-----:|
-|Milda    |    35|
-|Gintaras |    21|
-|Andrius  |     7|
-|Doma     |     7|
-|Vidas    |     5|
-|Mariu    |     4|
+|Gintaras |    30|
+|Andrius  |    10|
+|Domas    |    10|
+|Simonas  |     2|
