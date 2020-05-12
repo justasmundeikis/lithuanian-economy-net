@@ -157,6 +157,9 @@ PVM mažinimas maisto produktams padidintų perkamąją galia visiems mažas paj
 Kita papildoma priemonė - nustatyti, jog minimalus vartojimo krepšelis vienam asmeniui yra lygus skurdo rizikos ribai t. y. 380 eurams ([dabar 257 eurai](https://socmin.lrv.lt/lt/veiklos-sritys/socialine-statistika/pagrindiniai-socialiniai-rodikliai)) ir su šiuo dydžius sulyginti valstybės remiama pajamų dydį (dabar 125 eurai). Tokia priemonė užtikrintų, kad bedarbiai, socialinę pašalpą gaunantys, veiklos nebeturintys IV / verslo liudijimo turėtojai galėtų pretenduoti bent į minimalias, žmogaus orumą garantuojančias, pajamas.
 
 Suprantama šios dvi priemonės yra kur kas brangesnės, nei kelių šimtų milijonų mestelėjimas šen ar ten, todėl atitinkamai turėtų būti didinami pelno, didinami ir įvedami nauji kapitalo / turto bei didinami ir plečiami aplinkosauginiai mokesčiai, kurie ne tik atsvertų biudžeto netekimus, bet ir didintų mokesčių / BVP santykį.
+Ir tik nereikia visokioms blažytėms ir sutkams verkti, Lietuvoje ir taip efektyvus kapitalo tarifas vienas mažiausių ES, bent jau taip mano [Europos Komisija:](https://ec.europa.eu/taxation_customs/sites/taxation/files/taxation_trends_report_2019.pdf)
+
+![](/assets/2020/05/12/itr_capital.png)
 
 # Epilogas
 
