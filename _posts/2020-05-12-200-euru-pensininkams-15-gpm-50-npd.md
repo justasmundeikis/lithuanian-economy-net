@@ -1,21 +1,21 @@
 ﻿---
-title:      200 eurų pensininkams, 15 proc. GPM, ar visgi +50 eurų NPD?
-date:       2020-05-12 20:00:00 +03:00
-author:     Justas Mundeikis
-layout:     post
-comments:   true
-citation:   false
+title:  200 eurų pensininkams, 15 proc. GPM, ar visgi +50 eurų NPD?
+date:  2020-05-12 20:00:00 +03:00
+author:  Justas Mundeikis
+layout:  post
+comments:  true
+citation:  false
 permalink:  2020/05/12/200-euru-pensininkams-15-gpm-50-npd
-image:      /assets/2020/05/12/scale.png
+image:    /assets/2020/05/12/scale.png
 thumbnail:  /assets/2020/05/12/thumb.scale.png
 categories:
-  - fiskalinė politika
+ - fiskalinė politika
 tags:
-  - socialinė politika
-  - mokesčiai
+ - socialinė politika
+ - mokesčiai
 ---
 
-**Gegužės 7 d. Seime priimtas sprendimas rugpjūčio mėn. skirti vienkartinę 200 eurų išmoką pensininkams. Tačiau apie galimą tokio įstatymo vetavimą užsiminė PR'ezidentas G.Nausėda, kurio patarėjai dar gegužės 6 d. susitiko su profsąjungų atstovais aptarti galimybės "tik šiems metams" mažinti GPM nuo 20 proc. iki 15 proc.  Gegužės 12 d. Premjeras S. Skvernelis sureagavo teikdamas, jog vietoj GPM mažinimo, sutiktų diskutuoti apie NPD didinimą. Šiame komentare apie tai, ką geriau iš šių alternatyvų rinktis bei apie galimas kitas alternatyvas.**<!--more-->
+**Gegužės 7 d. Seime priimtas sprendimas rugpjūčio mėn. skirti vienkartinę 200 eurų išmoką pensininkams. Tačiau apie galimą tokio įstatymo vetavimą užsiminė PR'ezidentas G.Nausėda, kurio patarėjai dar gegužės 6 d. susitiko su profsąjungų atstovais aptarti galimybės "tik šiems metams" mažinti GPM nuo 20 proc. iki 15 proc. Gegužės 12 d. Premjeras S. Skvernelis sureagavo teigdamas, jog vietoj GPM mažinimo, sutiktų diskutuoti apie NPD didinimą. Šiame komentare apie tai, ką geriau iš šių alternatyvų rinktis bei apie galimas kitas alternatyvas.**<!--more-->
 
 # 2019 m. (didelis) materialinis nepriteklius Lietuvoje
 
@@ -31,16 +31,16 @@ Taip pat klausiama, ar namų ūkis dėl lėšų stokos neturi automobilio.
 
 Namų ūkiai priskiriami prie patiriančių **materialinį nepriteklių**, jeigu dėl lėšų stokos susiduria su bent 3 iš 6 sunkumų. Namų ūkiai priskiriami prie patiriančių **didelį materialinį nepriteklių**, jeigu dėl lėšų stokos susiduria su bent 4 iš 6 įvardintų sunkumų.
 
-Aš linkęs sugretinti didelį materialinį nepriteklių tikrajam skurdui Lietuvoje, nes atmetus automobilio neturėjimą, savaitės atostogų ne namuose ir nenumatytų išlaidų, namų ūkis vis dar negali arba pilnavertiškai maitintis, arba gyvena skolose  / nešildomame būste.
+Aš linkęs sugretinti didelį materialinį nepriteklių tikrajam skurdui Lietuvoje, nes atmetus automobilio neturėjimą, savaitės atostogų ne namuose ir nenumatytų išlaidų, namų ūkis vis dar negali arba pilnavertiškai maitintis, arba gyvena skolose / nešildomame būste.
 
 **2019 m. situacija Lietuvoje:**
 
-2019 m. duomenimis labiausiai didelis materialinis nepriteklius buvo jaučiamas 65+ amžiaus grupėje (11.5 proc.). Tačiau neženkliai mažiau skurde gyveno ir 50-64 amžiaus grupės asmenų (10.7 proc.).  Kitose trijose amžiaus grupėse skurdo paplitimas buvo didelis, bet mažesnis nei pirmose dviejose kategorijose ir svyravo tarp 7.9-9 proc.
+2019 m. duomenimis labiausiai didelis materialinis nepriteklius buvo jaučiamas 65+ amžiaus grupėje (11.5 proc.). Tačiau neženkliai mažiau skurde gyveno ir 50-64 amžiaus grupės asmenų (10.7 proc.). Kitose trijose amžiaus grupėse skurdo paplitimas buvo didelis, bet mažesnis nei pirmose dviejose kategorijose ir svyravo tarp 7.9-9 proc.
 
 ![](/assets/2020/05/12/lsd_lietuva_mat_dep_age_bar.png)
 
 Vertinant pagal amžiaus grupes, galima teigti, jog didelio skirtumo tarp amžiaus kategorijų iš tiesų nėra.
-Kiek kitoks vaizdas, pasirodo, pažiūrėjus į didelio materialinio nepritekliaus paplitimą pagal namų ūkio tipus.  Nors vienišų asmenų (tarp kurių tikėtina ir daug pensinio amžiaus vienišų likusių moterų) skurdas siekia 15.7 proc. visgi dar didesnis skurdas užfiksuotas vieno suaugusio auginančio vaikus grupėje, kur skurdas siekia 17.7 proc. Daugiavaikių šeimų skurdas siekia 11.5 proc.
+Kiek kitoks vaizdas, pasirodo, pažiūrėjus į didelio materialinio nepritekliaus paplitimą pagal namų ūkio tipus. Nors vienišų asmenų (tarp kurių tikėtina ir daug pensinio amžiaus vienišų likusių moterų) skurdas siekia 15.7 proc. visgi dar didesnis skurdas užfiksuotas vieno suaugusio auginančio vaikus grupėje, kur skurdas siekia 17.7 proc. Daugiavaikių šeimų skurdas siekia 11.5 proc.
 
 ![](/assets/2020/05/12/lsd_lietuva_mat_dep_hhtype_bar.png)
 
@@ -49,7 +49,7 @@ Tačiau dar didesnis didelio nepritekliaus lygis gali būti aptiktas tarp bedarb
 ![](/assets/2020/05/12/ES_lietuva_mat_dep_wstatus_bar.png)
 
 
-Atsižvelgiant į tai, jog blogos gyvenimo sąlygos dažniau pereina iš vienos kartos į kitą kartą , nei geros sąlygos, **ilgalaikė ir strateginė valstybės socialinė politiką** turėtų būtų orientuota į valstybės ateitį, t.y. vaikus (tiek dirbančių tiek bedarbių tėvų). Suprantama, tai nereiškia, jog ES šalis 21 amžiuje išvis turėtų toleruoti realų skurdą savo šalyje, nepriklausomai nuo amžiaus.  Visgi dabar yra susiduriama su konkrečia problema - pajamų netekusiais asmenimis dėl COVID19.
+Atsižvelgiant į tai, jog blogos gyvenimo sąlygos dažniau pereina iš vienos kartos į kitą kartą , nei geros sąlygos, **ilgalaikė ir strateginė valstybės socialinė politiką** turėtų būtų orientuota į valstybės ateitį, t.y. vaikus (tiek dirbančių tiek bedarbių tėvų). Suprantama, tai nereiškia, jog ES šalis 21 amžiuje išvis turėtų toleruoti realų skurdą savo šalyje, nepriklausomai nuo amžiaus. Visgi dabar yra susiduriama su konkrečia problema - pajamų netekusiais asmenimis dėl COVID19.
 
 # Kas yra labiausiai nukentėję nuo COVID19?
 
@@ -59,7 +59,7 @@ COVID19 pasekmes tikėtina labiausiai pajus asmenys, kurie:
 * neteko darbo
 * vykdė tik individualią veiklą / vertėsi tik pagal verslo liudiją ir nebegalėjo vykdyti veiklos
 
-Suprantama, pensininkai, užimtieji dirbantys iš namų ir kitos gyventojų grupės irgi pajus karantino / COVID19  pasekmes - jie patiria išlaidas pirkdami veido kaukes, arba pirkdami rankų dezinfekcinį skysti. Tačiau viršuje minėtos grupės patiria pajamų netekimą / sumažėjimą ir didesnes išlaidas.
+Suprantama, pensininkai, užimtieji dirbantys iš namų ir kitos gyventojų grupės irgi pajus karantino / COVID19 pasekmes - jie patiria išlaidas pirkdami veido kaukes, arba pirkdami rankų dezinfekcinį skysti. Tačiau viršuje minėtos grupės patiria pajamų netekimą / sumažėjimą ir didesnes išlaidas.
 
 Atitinkamai dabar **trumpalaikė valstybės socialinė politika** turėtų būti orientuota į tuos asmenis, kurie neteko reikšmingos dalies pajamų. Būtina užtikrinti, jog pajamų netekimas būtų padengtas valstybės, stengiamasi išsaugoti darbo vietas, kartu nustatant protingas išmokų lubas, priklausomai nuo namų ūkio dydžio.
 
@@ -110,14 +110,14 @@ Visi balsavimo rezultatai - [čia](https://www.lrs.lt/sip/portal.show?p_r=37067&
 
 # 2. Priemonė - 15 proc. GPM
 
-Gegužės 6 d. vyko virtualus PR’ezidento patarėjų  ir profesinių sąjungų „Solidarumas“ ir „Sandrauga“  susitikimas, kurio metu  buvo išsakytas siūlymas laikinai (iki šių metų pabaigos) sumažinti gyventojų pajamų mokestį (GPM) nuo 20 proc.  iki 15 proc. asmenims, kurių mėnesinės pajamos neviršija 8000 eurų.  Prezidentūros skaičiavimais, tokie priemonė kainuotų 400 mln. eurų. ([lps.lt](https://lps.lt/2523-susitikimas-su-lietuvos-prezidento-patarejais)).
+Gegužės 6 d. vyko virtualus PR’ezidento patarėjų ir profesinių sąjungų „Solidarumas“ ir „Sandrauga“ susitikimas, kurio metu buvo išsakytas siūlymas laikinai (iki šių metų pabaigos) sumažinti gyventojų pajamų mokestį (GPM) nuo 20 proc. iki 15 proc. asmenims, kurių mėnesinės pajamos neviršija 8000 eurų. Prezidentūros skaičiavimais, tokie priemonė kainuotų 400 mln. eurų. ([lps.lt](https://lps.lt/2523-susitikimas-su-lietuvos-prezidento-patarejais)).
 
 Viliamasi, jog tokie priemonė suveiktų greičiau ir labiau skatintų ekonomikos atsigavimą.
 
 Paanalizuokime:
 
 * jeigu pavyktų priimti tokį įstatymo pakeitimą per birželį, geriausiu atveju didesni atlyginimai darbuotojus pasiektų tik liepos viduryje išmokant birželio mėnesio atlyginimą
-* turint omenyje, jog bruto VDU šalyje siekia 1359 eurus, 15 proc. GPM padidintų neto pajamas vidutiniam šalies gyventojui 57 eurais, MMA gaunančiam asmeniui deja tik apie 13 eurų neto. Tiesa, asmeniui, kuris uždirba dabar 3000 eurų, toks pasiūlymas reikštų  plus 153 eurus, o asmeniui uždirbančiam 7999 eurus - +400 eurų iki šių metų pabaigos (žr. lenteles komentaro apačioje)
+* turint omenyje, jog bruto VDU šalyje siekia 1359 eurus, 15 proc. GPM padidintų neto pajamas vidutiniam šalies gyventojui 57 eurais, MMA gaunančiam asmeniui deja tik apie 13 eurų neto. Tiesa, asmeniui, kuris uždirba dabar 3000 eurų, toks pasiūlymas reikštų plus 153 eurus, o asmeniui uždirbančiam 7999 eurus - +400 eurų iki šių metų pabaigos (žr. lenteles komentaro apačioje)
 * akivaizdu, jog jeigu siekis yra padėti mažiausias pajamas gaunantiems asmenims, ši priemonė nėra pakankamai taikli, nes nemaža dalis priemonei skirtų **skolintų pinigų** nueis didesnes nei vidutines pajamas gaunantiems asmenims.
 * arba reiktų riboti GPM mažinimo taikymą asmenims iki pvz., 1.5. VDU, arba reiktų ieškoti kitokių priemonių
 * taip pat esama didelės rizikos, jog į daugiausia pajamų gaunančius nukreipta priemonė bus pratęsta ir toliau. Galimai Seimas šių metų pabaigoje priimdamas 2021 m. biudžetą gali nuspręsti nebedidinti GPM, o tai tik dar labiau apsunkintų ir taip nelengvą Lietuvos kelią siekiant didinti mokesčių ir BVP santykį, t. y. siekiant didinti valstybės galimybes adekvačiau finansuoti viešąjį sektorių
@@ -127,7 +127,7 @@ Paanalizuokime:
 
 # 3 Priemonė - 50 eurų didesnis NPD
 
-Premjeras [S.Skvernelis sureagavo ganėtinai kritiškai į tokius PR’erizdento siūlymus](https://www.vz.lt/verslo-aplinka/2020/05/12/gyventoju-pajamu-didinimui-alternatyva--neapmokestinamodydzio-kelimas), dalinai minėdamas esminę problemą - tokios priemonės regresinį poveikį ir savo ruožtu pasiūlė kalbėti apie NPD didinimą nuo 350 eurų iki 400 eurų.  Tiesa, NPD ir taip turėjo būti didinimas iki 400 eurų jau nuo 2021-01-01, taigi iš esmės tai būtų NPD didinimo paankstinimas.
+Premjeras [S.Skvernelis sureagavo ganėtinai kritiškai į tokius PR’erizdento siūlymus](https://www.vz.lt/verslo-aplinka/2020/05/12/gyventoju-pajamu-didinimui-alternatyva--neapmokestinamodydzio-kelimas), dalinai minėdamas esminę problemą - tokios priemonės regresinį poveikį ir savo ruožtu pasiūlė kalbėti apie NPD didinimą nuo 350 eurų iki 400 eurų. Tiesa, NPD ir taip turėjo būti didinimas iki 400 eurų jau nuo 2021-01-01, taigi iš esmės tai būtų NPD didinimo paankstinimas.
 
 Paanalizuokime:
 
