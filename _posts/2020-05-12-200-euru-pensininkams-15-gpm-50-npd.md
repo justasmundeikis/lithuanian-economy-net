@@ -44,7 +44,7 @@ Kiek kitoks vaizdas, pasirodo, pažiūrėjus į didelio materialinio nepriteklia
 
 ![](/assets/2020/05/12/lsd_lietuva_mat_dep_hhtype_bar.png)
 
-Tačiau dar didesnis didelio nepritekliaus lygis gali būti aptiktas tarp bedarbių. Žemiau Eurostat pateikiami 2018 m. duomenys. Dirbančiųjų skurdas 2018 m. buvo perpus mažesnis nei bendros populiacijos (5.9 proc., 11.3 proc.), tačiau bedarbių skurdo paplitimas siekė net 33.5 proc. ir buvo dvigubai didesnis nei pensininkų (15 proc.)
+Tačiau dar didesnis didelio nepritekliaus lygis gali būti aptiktas tarp bedarbių. Žemiau Eurostat pateikiami 2018 m. duomenys. Dirbančiųjų skurdas 2018 m. buvo perpus mažesnis nei bendros populiacijos (5.9 proc., 11.3 proc.), tačiau bedarbių skurdo paplitimas siekė net 33.5 proc. ir buvo dvigubai didesnis nei pensininkų (15 proc.) ir triskart didesnis nei bendras rodiklis.
 
 ![](/assets/2020/05/12/ES_lietuva_mat_dep_wstatus_bar.png)
 
@@ -59,9 +59,9 @@ COVID19 pasekmes tikėtina labiausiai pajus asmenys, kurie:
 * neteko darbo
 * vykdė tik individualią veiklą / vertėsi tik pagal verslo liudiją ir nebegalėjo vykdyti veiklos
 
-Suprantama, pensininkai, užimtieji dirbantys iš namų ir kitos gyventojų grupės irgi pajus karantino / COVID19 pasekmes - jie patiria išlaidas pirkdami veido kaukes, arba pirkdami rankų dezinfekcinį skysti. Tačiau viršuje minėtos grupės patiria pajamų netekimą / sumažėjimą ir didesnes išlaidas.
+Suprantama, pensininkai, užimtieji dirbantys iš namų ir kitos gyventojų grupės irgi pajus karantino / COVID19 pasekmes - jie patiria išlaidas pirkdami veido kaukes, arba pirkdami rankų dezinfekcinį skysti. Tačiau viršuje minėtos grupės patiria pajamų netekimą / sumažėjimą ir didesnes išlaidas, tad laikytinos labiau paveiktomis.
 
-Atitinkamai dabar **trumpalaikė valstybės socialinė politika** turėtų būti orientuota į tuos asmenis, kurie neteko reikšmingos dalies pajamų. Būtina užtikrinti, jog pajamų netekimas būtų padengtas valstybės, stengiamasi išsaugoti darbo vietas, kartu nustatant protingas išmokų lubas, priklausomai nuo namų ūkio dydžio.
+Atitinkamai dabar **trumpalaikė valstybės socialinė politika** turėtų būti orientuota į tuos asmenis, kurie neteko reikšmingos dalies pajamų. Būtina užtikrinti, jog pajamų netekimas būtų padengtas valstybės, stengiamasi išsaugoti darbo vietas, kartu nustatant protingas išmokų lubas (pvz., priklausomai nuo namų ūkio dydžio).
 
 
 # 1. Priemonė - 200 eurų pensininkams
@@ -90,19 +90,19 @@ Atitinkamai dabar **trumpalaikė valstybės socialinė politika** turėtų būti
 Labai smagu, jog Seimo nariai [aiškinamajame rašte](https://e-seimas.lrs.lt/portal/legalAct/lt/TAK/180f3b608ad511eaa51db668f0092944?jfwid=p888e5rn5) kartu pateikė ir esamų pensijos gavėjų skaičių bei jų gaunamas pensijas, nes tai leidžia įsivertinti, kiek 200 eurų padės šioms gyventojų grupėms.
 * įvairias pensijas gaunančių asmenų skaičius Lietuvoje - 879 914.
 * metinis šių asmenų gaunamų pensijų Sodros biudžetas - 3 487 597 186 (~3.49 mlrd. eurų).
-* išmokėjus šiems asmenims vienkartinę 200 eurų išmoką, metinis šių asmenų biudžetas padidėtų 5 proc.
+* išmokėjus šiems asmenims vienkartinę 200 eurų išmoką, metinis šių asmenų biudžetas padidėtų vidutiniškai 5 proc.
 
 Turint omenyje, jog gaunantieji minėta 200 eurų vienkartinę išmoką žinos, apie išmokos vienkartiškumą, galima daryti prielaidą, jog nemaža dalis šiuos pinigus tiesiog pasidės „juodai dienai“ o ne puls išleisti, tad poveikio ekonomikos gaivinimui, tikėtis net neverta.
 
 Taigi, priimta priemonė nei reikšmingai sumažins pensinio amžiaus gyventojų skurdą, nei tikėtina reikšmingai padidins vartojimą, nei padės darbo pajamų dėl karantino netekusiems asmenims. Kaip kitaip galima vertinti šią priemonę, jeigu ne pigiu (t. y. 175 mln eurų brangiu) rinkėjų papirkinėjimu?
 
-Smagu žiūrėti ir į tai, kaip prieš rinkimus elgiasi ir opozicinės frakcijos Seime:
+Smagu žiūrėti ir į tai, kaip prieš rinkimus elgiasi opozicinės frakcijos Seime:
 
 * Liberalų sąjūdžio frakcija: 3 už, 3 prieš, 1 susilaikė
 * Lietuvos socialdemokratų partijos frakcija 1 už, 1 prieš, 1 susilaikė, 3 nebalsavo
-* Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija	12 už, 2 prieš, 3 susilaikė, 2 nebalsavo
+* Tėvynės sąjungos-Lietuvos krikščionių demokratų frakcija 12 už, 2 prieš, 3 susilaikė, 2 nebalsavo
 
-Akivaizdu, jog TS-LKD nusprendė patyliukais balsuoti už, negi imsi balsuoti prieš ir rizikuosi, kad įstatymas bus priimtas be tavo palaikymo ir įteiksi pozicijai amunicijos prieš artėjančius Seimo rinkimus, neva, nenori gero senukams?
+Akivaizdu, jog TS-LKD nusprendė patyliukais balsuoti už. Negi imsi balsuoti prieš ir rizikuosi, kad įstatymas bus priimtas be tavo palaikymo ir įteiksi pozicijai amunicijos prieš artėjančius Seimo rinkimus, neva, nenori gero senukams?
 
 ![](/assets/2020/05/12/balsavimas.png)
 
@@ -112,22 +112,22 @@ Visi balsavimo rezultatai - [čia](https://www.lrs.lt/sip/portal.show?p_r=37067&
 
 Gegužės 6 d. vyko virtualus PR’ezidento patarėjų ir profesinių sąjungų „Solidarumas“ ir „Sandrauga“ susitikimas, kurio metu buvo išsakytas siūlymas laikinai (iki šių metų pabaigos) sumažinti gyventojų pajamų mokestį (GPM) nuo 20 proc. iki 15 proc. asmenims, kurių mėnesinės pajamos neviršija 8000 eurų. Prezidentūros skaičiavimais, tokie priemonė kainuotų 400 mln. eurų. ([lps.lt](https://lps.lt/2523-susitikimas-su-lietuvos-prezidento-patarejais)).
 
-Viliamasi, jog tokie priemonė suveiktų greičiau ir labiau skatintų ekonomikos atsigavimą.
+Viliamasi, jog tokia priemonė suveiktų greičiau ir labiau skatintų ekonomikos atsigavimą.
 
 Paanalizuokime:
 
 * jeigu pavyktų priimti tokį įstatymo pakeitimą per birželį, geriausiu atveju didesni atlyginimai darbuotojus pasiektų tik liepos viduryje išmokant birželio mėnesio atlyginimą
-* turint omenyje, jog bruto VDU šalyje siekia 1359 eurus, 15 proc. GPM padidintų neto pajamas vidutiniam šalies gyventojui 57 eurais, MMA gaunančiam asmeniui deja tik apie 13 eurų neto. Tiesa, asmeniui, kuris uždirba dabar 3000 eurų, toks pasiūlymas reikštų plus 153 eurus, o asmeniui uždirbančiam 7999 eurus - +400 eurų iki šių metų pabaigos (žr. lenteles komentaro apačioje)
+* turint omenyje, jog bruto VDU šalyje siekia 1359 eurus, 15 proc. GPM padidintų neto pajamas vidutiniam šalies gyventojui 57 eurais, MMA gaunančiam asmeniui deja tik apie 13 eurų neto. Tiesa, asmeniui, kuris uždirba dabar 3000 eurų, toks pasiūlymas reikštų +153 eurus, o asmeniui uždirbančiam 7999 eurus - +400 eurų neto iki šių metų pabaigos (žr. lenteles komentaro apačioje)
 * akivaizdu, jog jeigu siekis yra padėti mažiausias pajamas gaunantiems asmenims, ši priemonė nėra pakankamai taikli, nes nemaža dalis priemonei skirtų **skolintų pinigų** nueis didesnes nei vidutines pajamas gaunantiems asmenims.
 * arba reiktų riboti GPM mažinimo taikymą asmenims iki pvz., 1.5. VDU, arba reiktų ieškoti kitokių priemonių
 * taip pat esama didelės rizikos, jog į daugiausia pajamų gaunančius nukreipta priemonė bus pratęsta ir toliau. Galimai Seimas šių metų pabaigoje priimdamas 2021 m. biudžetą gali nuspręsti nebedidinti GPM, o tai tik dar labiau apsunkintų ir taip nelengvą Lietuvos kelią siekiant didinti mokesčių ir BVP santykį, t. y. siekiant didinti valstybės galimybes adekvačiau finansuoti viešąjį sektorių
-* tačiau ši priemonė nepadeda asmenims, kurie neteko darbo ir kurių skurdo rizika yra didžiausia
+* ši priemonė nepadeda asmenims, kurie neteko darbo ir kurių skurdo rizika yra didžiausia
 * taip pat ši priemonė visiškai neužtikrina IV / verslo liudijimo vykdžiusiųjų adekvačios paramos
 
 
 # 3 Priemonė - 50 eurų didesnis NPD
 
-Premjeras [S.Skvernelis sureagavo ganėtinai kritiškai į tokius PR’erizdento siūlymus](https://www.vz.lt/verslo-aplinka/2020/05/12/gyventoju-pajamu-didinimui-alternatyva--neapmokestinamodydzio-kelimas), dalinai minėdamas esminę problemą - tokios priemonės regresinį poveikį ir savo ruožtu pasiūlė kalbėti apie NPD didinimą nuo 350 eurų iki 400 eurų. Tiesa, NPD ir taip turėjo būti didinimas iki 400 eurų jau nuo 2021-01-01, taigi iš esmės tai būtų NPD didinimo paankstinimas.
+Premjeras [S.Skvernelis sureagavo ganėtinai kritiškai į tokius PR’ezidento siūlymus](https://www.vz.lt/verslo-aplinka/2020/05/12/gyventoju-pajamu-didinimui-alternatyva--neapmokestinamodydzio-kelimas), dalinai minėdamas esminę problemą - tokios priemonės regresinį poveikį ir savo ruožtu pasiūlė kalbėti apie NPD didinimą nuo 350 eurų iki 400 eurų. Tiesa, NPD ir taip turėjo būti didinimas iki 400 eurų jau nuo 2021-01-01, taigi iš esmės tai būtų NPD didinimo paankstinimas.
 
 Paanalizuokime:
 
@@ -135,7 +135,8 @@ Paanalizuokime:
 * 10 eurų papildomos kad ir mėnesinės pajamos yra gerai, bet žibalo į ekonomiką tokia priemonė neįpils, didelė dalis 10 eurų padidėjimo ir vėl atiteks nemažas pajamas gaunantiems asmenims
 * ši priemonė galėtų būti kur kas efektyvesnė, jeigu būtų siaurinama NPD taikymo bazė, pvz., nuo dabartinių 2665 eurų iki tarkime 1 VDU (arba 1358 eurų). Tada panaudojant tą pačią sumą pinigų, būtų galima labiau didinti patį NPD dydį.
 * tačiau ir ši priemonė nepadeda asmenims, kurie neteko darbo ir kurių skurdo rizika yra didžiausia
-* taip pat ši priemonė visiškai neužtikrina IV / verslo liudijimo vykdžiusiųjų adekvačios paramos
+* taip pat ir ši priemonė visiškai neužtikrina IV / verslo liudijimo vykdžiusiųjų adekvačios paramos
+
 
 
 
@@ -154,15 +155,15 @@ Mano supratimu, šiuo metu labiausiai regresyvus mokestis Lietuvoje yra PVM. Kuo
 
 PVM mažinimas maisto produktams padidintų perkamąją galia visiems mažas pajamas disponuojantiems asmenims: ir dirbantiems ir esantiems prastovose ir darbo netekusiems ir tiems patiems pensijas gaunantiems asmenims. Kuo asmenų pajamos mažesnės ir atitinkamai, maisto produktų vartojimas bendrose išlaidose didesnis, tuo regresyvesnė būtų tokia fiskalinė priemonė.
 
-Kita papildoma priemonė - nustatyti, jog minimalus vartojimo krepšelis vienam asmeniui yra lygus skurdo rizikos ribai t. y. 380 eurams ([dabar 257 eurai](https://socmin.lrv.lt/lt/veiklos-sritys/socialine-statistika/pagrindiniai-socialiniai-rodikliai)) ir su šiuo dydžius sulyginti valstybės remiama pajamų dydį (dabar 125 eurai). Tokia priemonė užtikrintų, kad bedarbiai, socialinę pašalpą gaunantys, veiklos nebeturintys IV / verslo liudijimo turėtojai galėtų pretenduoti bent į minimalias, žmogaus orumą garantuojančias, pajamas.
+Kita papildoma priemonė - nustatyti, jog minimalus vartojimo krepšelis vienam asmeniui būtų lygus skurdo rizikos ribai t. y. 380 eurams ([dabar 257 eurai](https://socmin.lrv.lt/lt/veiklos-sritys/socialine-statistika/pagrindiniai-socialiniai-rodikliai)) ir su šiuo dydžius sulyginti valstybės remiama pajamų dydį (dabar 125 eurai). Tokia priemonė užtikrintų, kad bedarbiai, socialinę pašalpą gaunantys, veiklos nebeturintys IV / verslo liudijimo turėtojai galėtų pretenduoti bent į minimalias, žmogaus orumą garantuojančias, pajamas, o ne į varganus 125 eurus, už kuriuos dar ir viešų darbų gauna.
 
-Suprantama šios dvi priemonės yra kur kas brangesnės, nei kelių šimtų milijonų mestelėjimas šen ar ten, todėl atitinkamai turėtų būti didinami pelno, didinami ir įvedami nauji kapitalo / turto bei didinami ir plečiami aplinkosauginiai mokesčiai, kurie ne tik atsvertų biudžeto netekimus, bet ir didintų mokesčių / BVP santykį.
-Ir tik nereikia visokioms blažytėms ir sutkams verkti, Lietuvoje ir taip efektyvus kapitalo tarifas vienas mažiausių ES, bent jau taip mano [Europos Komisija:](https://ec.europa.eu/taxation_customs/sites/taxation/files/taxation_trends_report_2019.pdf)
+Suprantama šios dvi priemonės yra kur kas brangesnės, nei kelių šimtų milijonų mestelėjimas šen ar ten, todėl atitinkamai turėtų būti didinami pelno, didinami ir įvedami nauji kapitalo / turto bei didinami ir plečiami aplinkosauginiai mokesčiai, kurie ne tik atsvertų biudžeto netekimus, bet ir didintų mokesčių / BVP santykį. 
+Ir tik nereikia visokioms blažytėms ir sutkams verkti, Lietuvoje ir taip efektyvus (t. y. iš tiesų taikomas) kapitalo apmokestinimo tarifas vienas mažiausių ES, bent jau taip mano [Europos Komisija:](https://ec.europa.eu/taxation_customs/sites/taxation/files/taxation_trends_report_2019.pdf)
 
 ![](/assets/2020/05/12/itr_capital.png)
 
 # Epilogas
 
-Susidūrus su paklausos krize, būtina, jog valdžios institucijos kuo galima greičiau užtikrintų gyventojų netektos perkamosios galios (bent dalinį) atstatymą ir taip apsaugotų visus gyventojus nuo nusiritimo žemiau skurdo ribos.
+Susidūrus su paklausos (ir pasiūlos vienu metu) krize, būtina, jog valdžios institucijos kuo galima greičiau užtikrintų gyventojų netektos perkamosios galios (bent dalinį) atstatymą ir taip apsaugotų visus gyventojus nuo nusiritimo žemiau skurdo ribos.
 Dabartinė mokesčių administratoriaus galimybė atlikti realų pajamų testavimą ir atitinkamai pritaikyti pagalbos priemonės - deja ribota. Tai turi būti palikta ateities mokesčių reformai.
 Siekiant užtikrinti Lietuvos gyventojų orumą - politikai turėtų mažinti labiausiai regresyvius mokesčius, pvz., PVM taikomą maistui ir nealkoholiniams gėrimams bei didinti mokamas socialines išmokas iki skurdo rizikos ribos dydžio, taip iš tiesų užtikrinant, kad gyventojai nepatektų į skurdą.
