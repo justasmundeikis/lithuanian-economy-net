@@ -28,7 +28,9 @@ Mano supratimu, PS galėtų reikalauti, jog
 * Kokie saugikliai planuojami, jog valstybės investicijomis nesinaudotų įmonės, kurios registruotos ne Lietuvoje (pvz. Eika regis Estijoje moka pelno mokestį???) arba atlyginimai nenusėstų statybų darbuotojų iš trečiųjų šalių kišenėse, iš kurių Lietuvos ekonomikai mažai naudos, nes jie šiuos pinigus siunčia savo šeimoms.
 * Taip pat manau, jog per paskutinius keletą mėnesių visos PS pamatė su kokiais transformaciniais iššūkiais susidūrė jų atstovaujami darbuotojai / sektoriai ir manau tikrai turėtų ką pakomentuoti.
 
-[Patikslinimas: Hanner Holding regsitruota Esitjoje, ne Eika]
+[Patikslinimas: [Hanner Holding regsitruota Esitjoje, ne Eika](https://verslas.lrytas.lt/rinkos-pulsas/2012/07/27/news/is-lietuvos-plaukia-pinigai---hanner-centras-keliasi-i-estija-5245682/)]
+
+>A. Avulis neslėpė, kad viena iš priežasčių keltis į Estiją buvo mažesnis pelno mokestis šioje šalyje.[lrytas.lt](https://verslas.lrytas.lt/rinkos-pulsas/2012/07/27/news/is-lietuvos-plaukia-pinigai---hanner-centras-keliasi-i-estija-5245682/)
 
 # Politkorektiškas nepasitenkinimas
 Toks mano laiškas sukėlė kelių politkorektiškų skaitytojų nepasitenkinimą.
