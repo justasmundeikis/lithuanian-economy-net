@@ -15,7 +15,7 @@ tags:
  - Darbo rinka
 ---
 
-**Prieš porą dienų į Facebook page įkėliau kopiją el. laiško, kurį persiunčiau mano žinomoms profesinėms sąjungoms. Finansų ministerijai paskelbus "Lietuvos DNR transformacijos" planą, PR'ezidentui pasiūlius PS pasirašyti bendrą su darbdaviais memorandumą dėl atlyginimų, kilo poreikis bendrai, suderintai profesinių sąjungų pozicijai. Visgi mano įrašas kai kuriems asmenims sukėlė nepasitenkinimą dėl galimo emigrantų, ar žmonių dėl pilietybės, tautybės, spalvos, ar to, kam jie leidžia savo pinigus, diskriminavimo. Tad manau, savo politkorektiškiems skaitytojams turiu paaiškinti, kodėl kartais diskriminacija nėra neteisinga. Šiame komentare apie ES, Judumo paketą, profesines sąjungas ir Lietuvos verslą.**<!--more-->
+**Prieš porą dienų į Facebook page įkėliau kopiją el. laiško, kurį persiunčiau mano žinomoms profesinėms sąjungoms. Finansų ministerijai paskelbus "Lietuvos DNR transformacijos" planą, PRezidentui pasiūlius PS pasirašyti bendrą su darbdaviais memorandumą dėl atlyginimų, kilo poreikis bendrai, suderintai profesinių sąjungų pozicijai. Visgi mano įrašas kai kuriems asmenims sukėlė nepasitenkinimą dėl galimo emigrantų, ar žmonių dėl pilietybės, tautybės, spalvos, ar to, kam jie leidžia savo pinigus, diskriminavimo. Tad manau, savo politkorektiškiems skaitytojams turiu paaiškinti, kodėl kartais diskriminacija nėra neteisinga. Šiame komentare apie ES, Judumo paketą, profesines sąjungas ir Lietuvos verslą.**<!--more-->
 
 # Mano laiškas
 
@@ -27,6 +27,8 @@ Mano supratimu, PS galėtų reikalauti, jog
 * Kiekvienai priemonei nurodytų kokius socioekonominius rodiklius ir kaip tai paveiks
 * Kokie saugikliai planuojami, jog valstybės investicijomis nesinaudotų įmonės, kurios registruotos ne Lietuvoje (pvz. Eika regis Estijoje moka pelno mokestį???) arba atlyginimai nenusėstų statybų darbuotojų iš trečiųjų šalių kišenėse, iš kurių Lietuvos ekonomikai mažai naudos, nes jie šiuos pinigus siunčia savo šeimoms.
 * Taip pat manau, jog per paskutinius keletą mėnesių visos PS pamatė su kokiais transformaciniais iššūkiais susidūrė jų atstovaujami darbuotojai / sektoriai ir manau tikrai turėtų ką pakomentuoti.
+
+[Patikslinimas: Hanner Holding regsitruota Esitjoje, ne Eika]
 
 # Politkorektiškas nepasitenkinimas
 Toks mano laiškas sukėlė kelių politkorektiškų skaitytojų nepasitenkinimą.
