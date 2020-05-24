@@ -15,9 +15,9 @@ tags:
  - Ekonomikos skatinimas
 ---
 
-**Finansų minisertija parengė "Ateities ekonomikos DNR planą", kurio viešai diskusijai skyrė 5 dienas. Pasktuinė diena piliečiams ir socialiniams partneriams pateikti siūlymus, pastabas - gegužės 25d. Todėl 2020-05-24 PS atstovai diskutavo dėl galimo bendro rašto, kurį pateiktų vieningai. Žemiau pateikiama rašto kopija bei įvykusios diskusjos video įrašas.**<!--more-->
+**Finansų minitserija parengė "Ateities ekonomikos DNR planą", kurio viešai diskusijai skyrė 5 dienas. Paskutinė diena piliečiams ir socialiniams partneriams pateikti siūlymus, pastabas - gegužės 25d. Todėl 2020-05-24 PS atstovai diskutavo dėl galimo bendro rašto, kurį pateiktų vieningai. Žemiau pateikiama rašto kopija bei įvykusios diskusijos video įrašas.**<!--more-->
 
-Raštą surašiau aš, tačiau esminių pastabų išsakyta nebuvo. Pagrindiniai argumentai prieš FinMin planą, jog jis stumiamas skubotai, be parlamentinės kontrolės, nesitariant o tik imituojant viešą diskusiją su socialiniais partneriais bei išsikelti tiklsai neatpsindi nuoširdaus noro keisti Lietuvos ekonomikos variklį.
+Raštą surašiau aš, tačiau esminių pastabų išsakyta nebuvo. Pagrindiniai argumentai prieš FinMin planą, jog jis stumiamas skubotai, be parlamentinės kontrolės, nesitariant o tik imituojant viešą diskusiją su socialiniais partneriais bei išsikelti tikslai neatspindi nuoširdaus noro keisti Lietuvos ekonomikos variklį.
 
 Rašto kopiją (ne originalą) skaitytojai gali rasti [čia - google docs](https://docs.google.com/document/d/1HEJRm-n-IueLP3riRO6JLpTCb56ao6IRmTh_f9sqY5g/edit?usp=sharing). Joje įjungta komentavimo funkcija, tad skaitytojai gali komentuoti.
 
@@ -32,4 +32,4 @@ Susitikime dalyvavo:
 * PS "Sandrauga"
 * PS "Solidarumas"
 
-Profesinės sąjungos, kurios nedalyvavo susitikime, bet norėtų kartu pasirašyti šį dokumentą, turėtų iki 2020-05-25 12 val. susiekti su manimi.
+Profesinės sąjungos, kurios nedalyvavo susitikime, bet norėtų kartu pasirašyti šį dokumentą, turėtų iki 2020-05-25 12 val. susisiekti su manimi.
