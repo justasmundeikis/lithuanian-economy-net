@@ -31,3 +31,5 @@ Susitikime dalyvavo:
 * Lietuvos švietimo darbuotojų profesinė sąjunga
 * PS "Sandrauga"
 * PS "Solidarumas"
+
+Profesinės sąjungos, kurios nedalyvavo susitikime, bet norėtų kartu pasirašyti šį dokumentą, turėtų iki 2020-05-25 12 val. susiekti su manimi.
