@@ -15,7 +15,7 @@ tags:
  - Ekonomikos skatinimas
 ---
 
-**Profesinės sąjungos, asociacijos bei visuomenininkai pasirašė viešą kreipąsi dėl Finansų ministerijos parengto Ateities ekonomikos DNR plano. Šį kreipimąsi pasirašančios organizacijos ir visuomenininkai kritikuoja, jog Finansų ministerijos plano priėmimo procesas neatitinka demokratijos kriterijų ir nėra skaidrus. Plane numatytos priemonės nėra pagrįstos skaičiavimais ir neatspindi Vyriausybės skelbiamo sieko transformuoti Lietuvos ekonomikos. Pasirašančios organizacijos ir visuomenininkai pasigendą saugiklių bei siekia, jog didesnė dalis numatomų išlaidų būtų investicijos į žmogiškąjį kapitalą, o ne betoną.**<!--more-->
+**Profesinės sąjungos, asociacijos bei visuomenininkai pasirašė viešą kreipimąsi dėl Finansų ministerijos parengto Ateities ekonomikos DNR plano. Šį kreipimąsi pasirašančios organizacijos ir visuomenininkai kritikuoja, jog Finansų ministerijos plano priėmimo procesas neatitinka demokratijos kriterijų ir nėra skaidrus. Plane numatytos priemonės nėra pagrįstos skaičiavimais ir neatspindi Vyriausybės skelbiamo sieko transformuoti Lietuvos ekonomikos. Pasirašančios organizacijos ir visuomenininkai pasigendą saugiklių bei siekia, jog didesnė dalis numatomų išlaidų būtų investicijos į žmogiškąjį kapitalą, o ne betoną.**<!--more-->
 
 Visas dokumento tekstas:
 
