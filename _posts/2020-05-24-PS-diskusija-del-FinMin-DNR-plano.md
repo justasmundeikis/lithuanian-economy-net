@@ -11,7 +11,7 @@ thumbnail:  /assets/2020/05/24/thumb.PS_susitikimas_2020-05-24.png
 categories:
  - Ekonomika
 tags:
- - ES
+ - Profesinės sąjungos
  - Ekonomikos skatinimas
 ---
 

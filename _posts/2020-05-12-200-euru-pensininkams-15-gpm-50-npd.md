@@ -9,10 +9,10 @@ permalink:  2020/05/12/200-euru-pensininkams-15-gpm-50-npd
 image:    /assets/2020/05/12/scale.png
 thumbnail:  /assets/2020/05/12/thumb.scale.png
 categories:
- - fiskalinė politika
+ - Fiskalinė politika
 tags:
- - socialinė politika
- - mokesčiai
+ - Socialinė politika
+ - Mokesčiai
 ---
 
 **Gegužės 7 d. Seime priimtas sprendimas rugpjūčio mėn. skirti vienkartinę 200 eurų išmoką pensininkams. Tačiau apie galimą tokio įstatymo vetavimą užsiminė PR'ezidentas G.Nausėda, kurio patarėjai dar gegužės 6 d. susitiko su profsąjungų atstovais aptarti galimybės "tik šiems metams" mažinti GPM nuo 20 proc. iki 15 proc. Gegužės 12 d. Premjeras S. Skvernelis sureagavo teigdamas, jog vietoj GPM mažinimo, sutiktų diskutuoti apie NPD didinimą. Šiame komentare apie tai, ką geriau iš šių alternatyvų rinktis bei apie galimas kitas alternatyvas.**<!--more-->
@@ -157,7 +157,7 @@ PVM mažinimas maisto produktams padidintų perkamąją galia visiems mažas paj
 
 Kita papildoma priemonė - nustatyti, jog minimalus vartojimo krepšelis vienam asmeniui būtų lygus skurdo rizikos ribai t. y. 380 eurams ([dabar 257 eurai](https://socmin.lrv.lt/lt/veiklos-sritys/socialine-statistika/pagrindiniai-socialiniai-rodikliai)) ir su šiuo dydžius sulyginti valstybės remiama pajamų dydį (dabar 125 eurai). Tokia priemonė užtikrintų, kad bedarbiai, socialinę pašalpą gaunantys, veiklos nebeturintys IV / verslo liudijimo turėtojai galėtų pretenduoti bent į minimalias, žmogaus orumą garantuojančias, pajamas, o ne į varganus 125 eurus, už kuriuos dar ir viešų darbų gauna.
 
-Suprantama šios dvi priemonės yra kur kas brangesnės, nei kelių šimtų milijonų mestelėjimas šen ar ten, todėl atitinkamai turėtų būti didinami pelno, didinami ir įvedami nauji kapitalo / turto bei didinami ir plečiami aplinkosauginiai mokesčiai, kurie ne tik atsvertų biudžeto netekimus, bet ir didintų mokesčių / BVP santykį. 
+Suprantama šios dvi priemonės yra kur kas brangesnės, nei kelių šimtų milijonų mestelėjimas šen ar ten, todėl atitinkamai turėtų būti didinami pelno, didinami ir įvedami nauji kapitalo / turto bei didinami ir plečiami aplinkosauginiai mokesčiai, kurie ne tik atsvertų biudžeto netekimus, bet ir didintų mokesčių / BVP santykį.
 Ir tik nereikia visokioms blažytėms ir sutkams verkti, Lietuvoje ir taip efektyvus (t. y. iš tiesų taikomas) kapitalo apmokestinimo tarifas vienas mažiausių ES, bent jau taip mano [Europos Komisija:](https://ec.europa.eu/taxation_customs/sites/taxation/files/taxation_trends_report_2019.pdf)
 
 ![](/assets/2020/05/12/itr_capital.png)
