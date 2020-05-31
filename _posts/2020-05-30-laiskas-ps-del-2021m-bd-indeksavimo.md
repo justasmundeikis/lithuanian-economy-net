@@ -1,5 +1,5 @@
 ﻿---
-title:  'Laiškas profesinėms sąjungoms "Dėl viešojo sektoriaus 2021m. bazinio dydžio ir BD indekeksavimo"'
+title:  'Laiškas profesinėms sąjungoms "Dėl viešojo sektoriaus 2021m. bazinio dydžio ir BD indeksavimo"'
 date:  2020-05-31 13:00:00 +03:00
 author:  Justas Mundeikis
 layout:  post
