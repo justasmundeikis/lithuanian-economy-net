@@ -15,8 +15,7 @@ tags:
  - Politika
 ---
 
-**Šiame komentare apie tai, kodėl mūsų profesinės sąjungos vengia diskusijų apie viešojo sektoriaus BD indeksavimą, kodėl (galimai dėl rinkimų) LMS torpeduoja bendras profesinių sąjungų pastangas ir aukoja medikų interesus šiek tiek apie medikų atlyginimus ir profesines sąjungas bendrai. Tai paskutinių 6 mėnesių mano bendradarbiavimo su PS  patirti apibendrinantis komentaras.**<!--more-->
-
+**Šiame komentare apie tai, kodėl mūsų profesinės sąjungos vengia diskusijų apie viešojo sektoriaus BD indeksavimą, kodėl (galimai dėl rinkimų) LMS torpeduoja bendras profesinių sąjungų pastangas ir aukoja medikų interesus šiek tiek apie medikų atlyginimus ir profesines sąjungas bendrai. Tai paskutinių 6 mėnesių mano bendradarbiavimo su PS  patirtį apibendrinantis komentaras.**<!--more-->
 
 Pirmiausia pradėti noriu nuo padėkos gerbiamam Audriui Jurgelevičiui, kuris, už bandymą kviesti profsąjungas pagaliau pradėti realias kalbas apie bazinio dydžio, nuo kurio priklauso (beveik) viso viešojo sektoriaus darbuotojų atlyginimai, mane pavadino pasaulio bamba.
 
