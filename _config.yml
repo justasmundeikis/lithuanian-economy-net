@@ -18,7 +18,7 @@ profile_links:
   Email: "mailto:justas.mundeikis@lithuanian-economy.net"
   GitHub: "https://github.com/justasmundeikis"
 
-
+permalink: /:year/:month/:day/:title
 excerpt_separator: <!--more-->
 
 header:
@@ -27,23 +27,16 @@ header:
     Kategorijos: /category/
     Tags: /tag/
 
-permalink: /:year/:month/:day/:title
-
-timezone: Europe/Vilnius
 
 plugins:
  - jekyll-paginate
  - jekyll-gist
  - jemoji
  - jekyll-seo-tag
- - jekyll-scholar
 
 # Build settings
 paginate: 25
 paginate_path: "page:num"
-
-highlighter: rouge
-markdown: kramdown
 
 # https://jekyllrb.com/docs/configuration/#precedence
 defaults:
@@ -56,6 +49,8 @@ defaults:
       comments: true
       citation: true
 
+highlighter: rouge
+markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
