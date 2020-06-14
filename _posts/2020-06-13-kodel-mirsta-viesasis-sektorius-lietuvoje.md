@@ -67,11 +67,11 @@ Tačiau buvo ir kitas, kur kas pavojingesnis veiksnys, tai nekompetencija ir art
 
 ### Nekompetencija ir artėjantys Seimo rinkimai
 
-Visgi abu pirmus punktus užgožia nekompetencija ir kai kurių dalyvavusiųjų asmenų politinės ASPĮracijos.
+Visgi abu pirmus punktus užgožia nekompetencija ir kai kurių dalyvavusiųjų asmenų politinės aspiracijos.
 
 Nekompetencija aš pavadinčiau tai, jog kiekvieno susitikimo metu jaučiau, tarsi visas turėtas diskusijas, nuolat pradedame iš naujo. *Trūkt už vadžių ir vėl nuo pradžių*.  Dalinai tai suprantu, nes į susitikimus vis prisijungdavo ankstesniuose nedalyvavę asmenys. Tačiau iš dalies būtent dėl šios priežasties ir buvo daromi ir viešinami posėdžių garso įrašai. Deja, tai ne motais.  Tikrai negaliu teigti, jog visi nesiruošė, anaiptol. Bet kai apskrito stalo diskusijoje dalyvauja bet 1-2 nepasiruošę - viskas pradeda strigti. Rekomenduoju pasiklausyti ir paskutiniame susitikime dalyvausios LPS Solidarumas pirmininkas kalbos... Išvadas darykitės patys.
 
-Ir dar yra toks dalykas, kaip politinės ASPĮracijos ir artėjantys Seimo rinkimai...
+Ir dar yra toks dalykas, kaip politinės aspiracijos ir artėjantys Seimo rinkimai...
 
 Vienoje iš diskusijų „Paskutinį prioritetą“ atstovavo dabartinis LSDP kandidatas Seimo rinkimuose L.Gudžinskas. Nepaisant to, jog visų kitų organizacijų atstovai iš esmės sutiko, jog centrinė valdžia turi būti atsakinga už viešojo sektoriaus tinklo reformą, nes tokiu atveju derybų partneris yra vienas, o ne 60 (savivaldybių) ir taip pasiekti geresnių rezultatų yra lengviau, LSDP politinę programą ir galbūt nuosavas politines nuostatas atsinešęs Liutauras *de facto* torpedavo susitikimą, nes buvo be pabaigos diskutuojama ir diskutuojama už ir prieš, nepriimant sprendimų.  
 
@@ -173,4 +173,4 @@ Gal laikas apie kadencijų ribojimą, rotaciją, PS narių švietimo projektus p
 Prieš porą savaičių gavau el. laišką, kuriame vienas blogo skaitytojas parašė
 > „Dėkui, už tai ką darote, ir kad nepalūžtate.“.
 
-Deja Tomai, po tokių pusės metų geranoriškos, idėjinės veiklos ir nuolatinių nesėkmių, PS abejingumo, arba gal net pochijizmo, jėgų tokiai veiklai nebeturiu. Manau turėsiu pergalvoti savo ateities planus ir labai tikėtina tai reiškia, jog visiškai dingsiu iš viešo (ir viešojo sektoriaus / profesinių sąjungų) diskurso. Ir lai paskui visokie dargiai nesistybi, [kodėl akademikai nedalyvauja viešame diskurse](https://www.ziniuradijas.lt/laidos/verslo-pozicija/kaip-kaltinimai-korupcija-verslo-asociaciju-vadovams-atsilieps-visam-verslui).
+Deja Tomai, po tokių pusės metų geranoriškos, idėjinės veiklos ir nuolatinių nesėkmių, PS abejingumo, arba gal net pochijizmo, jėgų tokiai veiklai nebeturiu. Manau turėsiu pergalvoti savo ateities planus ir labai tikėtina tai reiškia, jog visiškai dingsiu iš viešo (ir viešojo sektoriaus / profesinių sąjungų) diskurso. Ir lai paskui visokie dargiai nesistebi, [kodėl akademikai nedalyvauja viešame diskurse](https://www.ziniuradijas.lt/laidos/verslo-pozicija/kaip-kaltinimai-korupcija-verslo-asociaciju-vadovams-atsilieps-visam-verslui).
