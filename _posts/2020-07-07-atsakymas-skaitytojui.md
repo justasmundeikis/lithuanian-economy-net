@@ -91,5 +91,6 @@ Geriausiai išsirinkti tokią kavinę, kur priešais banką, biški daugiau *fla
 
 O šiaip smagios vasaros ir gerų knygų skaitymo!
 
-Užbėgant klausimui už akių, mano sekančio pusmečio skaitymai (taip aš labai lėtai skaitau) iš kairės į dešinę (dabar kankinuosi su "Kaip miršta demokratijos", gal parašysiu recenziją apie šią nelemtą knygą...)
+Užbėgant klausimui už akių, mano sekančio pusmečio skaitymai (taip aš labai lėtai skaitau) iš kairės į dešinę (dabar kankinuosi su "Kaip miršta demokratijos", gal parašysiu recenziją apie šią nelemtą knygą...).
 ![](/assets/2020/07/07/bookslist.jpg)
+Tiesa jeigu gausiu, į priekį prasistums (S.Kelton "The Deficit Myth")[https://www.amazon.com/Deficit-Myth-Monetary-Peoples-Economy/dp/1541736184/ref=sr_1_1?dchild=1&keywords=kelton&qid=1594119287&sr=8-1]
