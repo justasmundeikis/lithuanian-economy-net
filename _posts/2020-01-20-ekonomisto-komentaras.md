@@ -5,7 +5,7 @@ author: Justas Mundeikis
 layout: post
 comments: true
 citation: true
-permalink: /2020/01/20/ekonomisto-komentaras
+permalink: /2020/01/20/ekonomisto-komentaras/
 image: /assets/2020/01/20/whatever.png
 thumbnail: /assets/2020/01/20/thumb.whatever.png
 categories:

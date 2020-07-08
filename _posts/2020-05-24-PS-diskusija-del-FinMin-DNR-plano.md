@@ -5,7 +5,7 @@ author:  Justas Mundeikis
 layout:  post
 comments:  true
 citation:  false
-permalink:  2020/05/24/PS-diskusija-del-FinMin-DNR-plano
+permalink:  2020/05/24/PS-diskusija-del-FinMin-DNR-plano/
 image:    /assets/2020/05/24/PS_susitikimas_2020-05-24.png
 thumbnail:  /assets/2020/05/24/thumb.PS_susitikimas_2020-05-24.png
 categories:

@@ -5,7 +5,7 @@ author:  Justas Mundeikis
 layout:  post
 comments:  true
 citation:  false
-permalink:  2020/05/24/PS-kreipimasis-del-FinMin-DNR-plano
+permalink:  2020/05/24/PS-kreipimasis-del-FinMin-DNR-plano/
 image:    /assets/2020/05/25/main.png
 thumbnail:  /assets/2020/05/25/thumb.main.png
 categories:

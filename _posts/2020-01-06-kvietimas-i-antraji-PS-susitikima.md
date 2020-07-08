@@ -5,7 +5,7 @@ author: Justas Mundeikis
 layout: post
 comments: true
 citation: true
-permalink: /2020/01/06/kvietimas-i-antraji-PS-susitikima
+permalink: /2020/01/06/kvietimas-i-antraji-PS-susitikima/
 image: /assets/2020/01/06/PS_susitikimas_2020-01-11.png
 thumbnail: /assets/2020/01/06/thumb.PS_susitikimas_2020-01-11.png
 categories:

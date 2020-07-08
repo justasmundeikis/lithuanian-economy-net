@@ -5,7 +5,7 @@ author:     Justas Mundeikis
 layout:     post
 comments:   true
 citation:   true
-permalink:  /2020/03/06/atsakymas-smsm-viceministrei
+permalink:  /2020/03/06/atsakymas-smsm-viceministrei/
 image:      /assets/2020/03/06/bns_press_1.png
 thumbnail:  /assets/2020/03/06/thumb.bns_press_1.png
 categories:

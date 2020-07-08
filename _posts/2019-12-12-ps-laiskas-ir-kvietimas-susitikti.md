@@ -5,7 +5,7 @@ author: Justas Mundeikis
 layout: post
 comments: true
 citation: true
-permalink: /2019/12/12/ps-laiskas-ir-kvietimas-susitikti
+permalink: /2019/12/12/ps-laiskas-ir-kvietimas-susitikti/
 image: /assets/2019/12/12/fistraised.jpg
 thumbnail: /assets/2019/12/12/thumb.fistraised.jpg
 categories:

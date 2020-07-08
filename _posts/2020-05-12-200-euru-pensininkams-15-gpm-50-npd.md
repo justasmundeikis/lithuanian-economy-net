@@ -5,7 +5,7 @@ author:  Justas Mundeikis
 layout:  post
 comments:  true
 citation:  false
-permalink:  2020/05/12/200-euru-pensininkams-15-gpm-50-npd
+permalink:  2020/05/12/200-euru-pensininkams-15-gpm-50-npd/
 image:    /assets/2020/05/12/scale.png
 thumbnail:  /assets/2020/05/12/thumb.scale.png
 categories:

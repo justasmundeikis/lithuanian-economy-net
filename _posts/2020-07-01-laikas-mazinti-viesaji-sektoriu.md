@@ -5,7 +5,7 @@ author:  Justas Mundeikis
 layout:  post
 comments:  true
 citation:  true
-permalink:  2020/07/01/laikas-mazinti-viesaji-sektoriu
+permalink:  2020/07/01/laikas-mazinti-viesaji-sektoriu/
 image:    /assets/2020/07/01/monopoly.jpg
 thumbnail: /assets/2020/07/01/thumb.monopoly.jpg
 categories:

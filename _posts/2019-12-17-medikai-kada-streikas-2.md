@@ -5,7 +5,7 @@ author: Justas Mundeikis
 layout: post
 comments: true
 citation: true
-permalink: 2019/12/17/medikai-kada-streikas-2
+permalink: 2019/12/17/medikai-kada-streikas-2/
 image: /assets/2019/12/17/ttomilinas.jpeg
 thumbnail: /assets/2019/12/17/thumb.ttomilinas.jpeg
 categories:

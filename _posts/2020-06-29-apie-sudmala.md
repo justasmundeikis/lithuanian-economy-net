@@ -5,7 +5,7 @@ author:  Justas Mundeikis
 layout:  post
 comments:  true
 citation:  true
-permalink:  2020/06/29/apie-sudmala
+permalink:  2020/06/29/apie-sudmala/
 image:    /assets/2020/06/29/apie_sudmala.png
 thumbnail: /assets/2020/06/29/thumb.apie_sudmala.png
 categories:

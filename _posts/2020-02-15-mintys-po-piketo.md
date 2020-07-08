@@ -4,7 +4,7 @@ date:       2020-02-15 12:00:00 +02:00
 author:     Justas Mundeikis
 comments:   true
 citation:   true
-permalink:  /2020/02/15/mintys-po-piketo
+permalink:  /2020/02/15/mintys-po-piketo/
 image:      /assets/2020/02/15/piketas.jpg
 thumbnail:  /assets/2020/02/15/thumb.piketas.jpg
 categories:

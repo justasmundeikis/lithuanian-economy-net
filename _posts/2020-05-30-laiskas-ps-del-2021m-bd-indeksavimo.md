@@ -5,7 +5,7 @@ author:  Justas Mundeikis
 layout:  post
 comments:  true
 citation:  false
-permalink:  2020/05/30/laiskas-ps-del-2021m-bd-indeksavimo
+permalink:  2020/05/30/laiskas-ps-del-2021m-bd-indeksavimo/
 image:    /assets/2020/05/31/public-sector_popup.jpg
 thumbnail:  /assets/2020/05/31/thumb.public-sector_popup.jpg
 categories:

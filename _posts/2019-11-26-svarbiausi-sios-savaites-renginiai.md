@@ -5,7 +5,7 @@ author: Justas Mundeikis
 layout: post
 comments: true
 citation: true
-permalink: /2019/11/26/svarbiausi-sios-savaites-renginiai
+permalink: /2019/11/26/svarbiausi-sios-savaites-renginiai/
 image: /assets/2019/11/26/sia_savaite.png
 thumbnail: /assets/2019/11/26/thumb.sia_savaite.png
 categories:

@@ -5,7 +5,7 @@ author: Justas Mundeikis
 layout: post
 comments: true
 citation: true
-permalink: /2019/11/30/pranesimo-skaidres
+permalink: /2019/11/30/pranesimo-skaidres/
 image: /assets/2019/11/30/rip.png
 thumbnail: /assets/2019/11/30/thumb.rip.png
 categories:

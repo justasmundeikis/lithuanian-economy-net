@@ -5,7 +5,7 @@ author:  Justas Mundeikis
 layout:  post
 comments:  true
 citation:  true
-permalink:  2020/05/20/vyriausybes-nekontroliuojami-pinigu-upeliai-statybu-sektoriui
+permalink:  2020/05/20/vyriausybes-nekontroliuojami-pinigu-upeliai-statybu-sektoriui/
 image:    /assets/2020/05/20/money-river.png
 thumbnail:  /assets/2020/05/20/thumb.money-river.png
 categories:

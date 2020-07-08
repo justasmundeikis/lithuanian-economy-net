@@ -5,7 +5,7 @@ author: Justas Mundeikis
 layout: post
 comments: true
 citation: true
-permalink: /2020/01/13/apie-antraji-ps-susitikima
+permalink: /2020/01/13/apie-antraji-ps-susitikima/
 image: /assets/2020/01/13/susitikimas.jpg
 thumbnail: /assets/2020/01/13/thumb.susitikimas.jpg
 categories:

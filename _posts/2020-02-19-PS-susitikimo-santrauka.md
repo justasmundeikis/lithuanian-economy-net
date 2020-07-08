@@ -5,7 +5,7 @@ author:     Justas Mundeikis
 layout:     post
 comments:   true
 citation:   true
-permalink:  /2020/02/19/PS-susutikimo-santrauka
+permalink:  /2020/02/19/PS-susutikimo-santrauka/
 image:      /assets/2020/02/19/PS_susitikimas_2020-02-13.jpg
 thumbnail:  /assets/2020/02/19/thumb.PS_susitikimas_2020-02-13.jpg
 categories:

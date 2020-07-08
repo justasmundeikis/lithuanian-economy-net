@@ -5,7 +5,7 @@ author:  Justas Mundeikis
 layout:  post
 comments:  true
 citation:  true
-permalink:  2020/05/23/kodel-kartais-diskriminacija-nera-neteisinga
+permalink:  2020/05/23/kodel-kartais-diskriminacija-nera-neteisinga/
 image:    /assets/2020/05/23/jars_eu.png
 thumbnail:  /assets/2020/05/23/thumb.jars_eu.png
 categories:

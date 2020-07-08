@@ -5,7 +5,7 @@ author:  Justas Mundeikis
 layout:  post
 comments:  true
 citation:  true
-permalink:  2020/07/08/laiskas-lps-solidarumui
+permalink:  2020/07/08/laiskas-lps-solidarumui/
 image:    /assets/2020/07/08/pride_2020vilnius.jpg
 thumbnail: /assets/2020/07/08/thumb.pride_2020vilnius.jpg
 categories:

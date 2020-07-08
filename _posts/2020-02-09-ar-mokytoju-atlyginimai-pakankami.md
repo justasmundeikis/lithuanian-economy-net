@@ -4,7 +4,7 @@ date:       2020-02-09 09:00:00 +02:00
 author:     Justas Mundeikis
 comments:   true
 citation:   false
-permalink:  /2020/02/09/banko-prcikas-mauricas-debunked
+permalink:  /2020/02/09/banko-prcikas-mauricas-debunked/
 image:      /assets/2020/02/09/context_matters.jpeg
 thumbnail:  /assets/2020/02/09/thumb.context_matters.jpeg
 categories:

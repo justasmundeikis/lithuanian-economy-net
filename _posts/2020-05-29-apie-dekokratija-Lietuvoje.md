@@ -5,7 +5,7 @@ author:  Justas Mundeikis
 layout:  post
 comments:  true
 citation:  true
-permalink:  2020/05/29/apie-dekorkratija-lietuvoje
+permalink:  2020/05/29/apie-dekorkratija-lietuvoje/
 image:    /assets/2020/05/29/decor.png
 thumbnail:  /assets/2020/05/29/thumb.decor.png
 categories:

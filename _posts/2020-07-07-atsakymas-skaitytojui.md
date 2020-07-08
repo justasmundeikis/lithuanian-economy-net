@@ -5,7 +5,7 @@ author:  Justas Mundeikis
 layout:  post
 comments:  true
 citation:  true
-permalink:  2020/07/07/atsakymas-blogo-skaitytojui
+permalink:  2020/07/07/atsakymas-blogo-skaitytojui/
 image:    /assets/2020/07/07/econ.jpg
 thumbnail: /assets/2020/07/07/thumb.econ.jpg
 categories:

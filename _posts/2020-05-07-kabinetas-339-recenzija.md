@@ -5,7 +5,7 @@ author:     Justas Mundeikis
 layout:     post
 comments:   true
 citation:   true
-permalink:  /2020/05/07/kabinetas-339-recenzija
+permalink:  /2020/05/07/kabinetas-339-recenzija/
 image:      /assets/2020/05/07/339.jpg
 thumbnail:  /assets/2020/05/07/thumb.339.jpg
 categories:

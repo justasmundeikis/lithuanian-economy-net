@@ -5,7 +5,7 @@ author: Justas Mundeikis
 layout: post
 comments: true
 citation: true
-permalink: /2019/12/23/pirmas-ps-susitikimas
+permalink: /2019/12/23/pirmas-ps-susitikimas/
 image: /assets/2019/12/23/PS_susitikimas_2019-12-21.png
 thumbnail: /assets/2019/12/23/thumb.PS_susitikimas_2019-12-21.png
 categories:

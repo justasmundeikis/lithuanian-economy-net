@@ -5,7 +5,7 @@ author:  Justas Mundeikis
 layout:  post
 comments:  true
 citation:  true
-permalink:  2020/06/13/kodel-mirsta-viesasis-sektorius-lietuvoje
+permalink:  2020/06/13/kodel-mirsta-viesasis-sektorius-lietuvoje/
 image:    /assets/2020/06/13/death.jpeg
 thumbnail: /assets/2020/06/13/thumb.death.jpeg
 categories:
