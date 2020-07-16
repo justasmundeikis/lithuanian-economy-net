@@ -46,6 +46,7 @@ Apie posėdžių transliavimą -jokio atsakymo. Vėl viskas kaip ir kam reikia? 
 
 Neliko nieko kito, kaip parašyti štai ką:
 
+Laba diena, Dovile,<br>
 >Dėkoju už atsakymą.<br>
 <br>
 1. Prašau persiųsti Liepos 10d. tarpinstitucinio posėdžio protokolą IR stenogramą.<br>
