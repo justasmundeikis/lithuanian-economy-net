@@ -48,8 +48,9 @@ Apie posėdžių transliavimą -jokio atsakymo. Vėl viskas kaip ir kam reikia? 
 
 Neliko nieko kito, kaip parašyti štai ką:
 
-Laba diena, Dovile,<br>
->Dėkoju už atsakymą.<br>
+>Laba diena, Dovile,<br>
+<br>
+Dėkoju už atsakymą.<br>
 <br>
 1. Prašau persiųsti Liepos 10d. tarpinstitucinio posėdžio protokolą IR stenogramą.<br>
 2. Prašau informuoti, kaip bus galima matyti vyksiančius investicijų komiteto pokomitečių posėdžius. Jeigu iki šiol nėra numatytas video / garso įrašų darymas, prašau užtikrinti tokias galimybes, job visuomenė galėtų susipažinti su jai aktualia informacija, t.y. kaip yra vykdomas 6.3 mlrd. eurų investicijų valdymas, skirstymas ir kontrolė.<br>
