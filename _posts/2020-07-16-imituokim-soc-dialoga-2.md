@@ -4,7 +4,7 @@ date:  2020-07-16 11:00:00 +03:00
 author:  Justas Mundeikis
 layout:  post
 comments:  true
-citation:  true
+citation:  false
 permalink:  2020/07/16/imituokim-soc-dialoga-2
 image:    /assets/2020/07/16/corruption.jpeg
 thumbnail: /assets/2020/07/16/thumb.corruption.jpeg
