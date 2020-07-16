@@ -49,7 +49,7 @@ Neliko nieko kito, kaip parašyti štai ką:
 >Dėkoju už atsakymą.<br>
 <br>
 1. Prašau persiųsti Liepos 10d. tarpinstitucinio posėdžio protokolą IR stenogramą.<br>
-2. Prašau informuoti, kaip bus galima matyti vyksiančius investicijų komiteto pokomitečių posėdžius.<br>
+2. Prašau informuoti, kaip bus galima matyti vyksiančius investicijų komiteto pokomitečių posėdžius. Jeigu iki šiol nėra numatytas video / garso įrašų darymas, prašau užtikrinti tokias galimybes, job visuomenė galėtų susipažinti su jai aktualia informacija, t.y. kaip yra vykdomas 6.3 mlrd. eurų investicijų valdymas, skirstymas ir kontrolė.<br>
 <br>
 Pagarbiai<br>
 Justas Mundeikis
