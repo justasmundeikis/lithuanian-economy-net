@@ -43,3 +43,13 @@ ir sulaukiau štai tokio atsakymo:
 Suprask, ministerijų atstovai sugebėjo į 4 iš 5 komitetų įrašyti Lietuvos pramonininkų konfederaciją, bet nei į vieną nesugebėjo įrašyti mokytojų profsąjungų, nei į vieną nesugebėjo įrašyti LPS Solidarumo ar LPSK kaip skėtinių organizacijų atstovų, kuriuos atstovauja nemažą dalį viešojo sektoriaus, kuris ir turėjo atlaikyti COVID19 bangą? WOW!!!
 
 Apie posėdžių transliavimą -jokio atsakymo. Vėl viskas kaip ir kam reikia? Čia jau nebe socialinio dialogo imitavimas, atisprašau, bet čia jau man kvepia korupcija.
+
+Neliko nieko kito, kaip parašyti štai ką:
+
+>Dėkoju už atsakymą.<br>
+<br>
+1. Prašau persiųsti Liepos 10d. tarpinstitucinio posėdžio protokolą IR stenogramą.<br>
+2. Prašau informuoti, kaip bus galima matyti vyksiančius investicijų komiteto pokomitečių posėdžius.<br>
+<br>
+Pagarbiai<br>
+Justas Mundeikis
