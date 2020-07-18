@@ -142,3 +142,5 @@ Kitaip ir toliau "transformuosime" ekonomiką, kurdami LEZ'ams, kuriuose įisik�
 ![](/assets/2020/07/18/sgd1.png)
 
 ![](/assets/2020/07/18/sgd2.png)
+
+Beja, kam įdomu, aks tie socialiniai partneriai, tai pradėjau klasifikuoti pagal grupinio emailo gavėjus: [lentelė čia](https://docs.google.com/spreadsheets/d/15oVXG6ZWJQ2MtMiPy_Tk8mrpmYbmts20IoIwDHSUfJI/edit?usp=sharing)
