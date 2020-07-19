@@ -13,8 +13,11 @@ categories:
 tags:
  - Korupcija
 ---
+<p style="color:red">Tekstas papildytas dėl soc. partnerių (ne) balsavimo</p>
 
 **Kas mane pažįsta žino, nemėgstu aš visų rėkaujančių puteikininkų, kurie nuolat klykia afera! afera! afera!, bet matydamas kas vyksta su „DNR planu Lietuvai“, kad ir kaip norėdamas nerandu kitų žodžių, apart „šimtmečio afera“. Socialinis dialogas, nėra joks socialinis dialogas, o biurokratinė dialogo imitacija, siekiant kuo greičiau pradėti įsisavinti pinigus. 6.3 mlrd eurų? Oi ne, DNR plano apimtis tik 1.3 mlrd eurų, nes kiti 4.8 mlrd, jau paskirstyti „kaip numatyta“. Bet pradekime nuo pradžių...** <!--more-->
+
+
 
 # Mundeikis IN?
 
@@ -58,6 +61,27 @@ Gytautas pasidalino mano antruoju blogpoost’u „Pandemijos ekonomikos grupėj
 Dariau, tai kad komitete dalyvauja, komiteto veiklos rezultatais (pinigais) suinteresuotų institucijų atstovai, dar nereiškia, jog Investiciniame Komitete yra atstovaujamas bendras viešojo sektoriaus darbuotojų interesas. 160 organizacijų - man nesako nieko. Man rūpi, ne skaičius, o kokybė. Verslo organizacijos, kaip ir visi socialiniai / ekonominiai partneriai, nėra tik patariamąją teisę turintys subjektai. Pakomitečiuose 50% (+ pirmininko balsas) palaiminus projektus, jie jau kitą savaitę teikiami Vyriausybei. Kaip pats dalyvaudamas IK veikloje, tai turėtum žinoti ir nešūdmaliauti.
 
 Ir Dariau, suprantu, kad nori pamenkinti Mundeikį, kuris mielai patrukdys „įsisavinti“ pinigėlius, bet čia ne Mundeikyje esmė. Ne Mundeikiui čia reikia dalyvauti. Mundeikis nori, kad tokios schemutės būtų viešinamos ir niekas apart darbuotojų atstovų, t. y. profsąjungų ir nepriklausomų NVO, to padaryti negali. Todėl Mundeikis ir rėkauja, kad į šitą procesą turi būti įtrauktos profesinės sąjungos, o jeigu jos nereaguoja, tada jis pats bent bando eiti. Bet man ne tamstai, kaip verslo atstovų institucijos, kuri [parazituoja mokesčių mokėtojų sąskaita](https://www.vz.lt/nekilnojamasis-turtas-statyba/2019/07/15/prekybos-pramones-ir-amatu-rumai-gales-nemokamai-naudotis-valstybes-turtu) atstovui, apie vertybinius dalykus aiškinti...
+
+<p style="color:red">Papildymas:</p>
+
+![](/assets/2020/07/18/750.jpg)
+
+D.Būta pateikia [Valstybės nutarimo 750](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/8ddfba41c1c111eaae0db016672cba9c?positionInSearchResults=0&searchModelUUID=b80b033c-e08a-4777-86dc-0c5531808625) ištrauką, kurios 5.3 punkte nurodoma:
+> 5.3. sudaro Investicijų komitetą iš Vyriausybės kanceliarijos atstovų, DNR plano koordinatoriaus atstovų ir pagal investicijų kryptį sudaromų pakomitečių, į kurių sudėtį įtraukiami ministerijų atstovai ir patarimo teise socialinių ir ekonominių partnerių organizacijų atstovai (toliau – Investicijų komitetas), tvirtina Investicijų komiteto darbo reglamentą ir jam vadovauja
+
+Tačiau šiai nuostatai prieštarauja pirmojo komiteto posėdžio metu dalyvius pasiekusi informacija:
+
+Apie balsavimą: 2:05-2:29
+
+<div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/_OP-HxfmGjI" frameborder='0' scrolling='no' allowfullscreen></iframe></div>
+
+>"Sprendimai bus priimami balsuojant, tai laikoma, kad koncepcijai yra pritariama ir veiksmas gali toliau būti įgyvendinamas, tuomet kai pritaria **ne mažiau kaip pusė balsavusių**, tuo atveju jeigu balsai pasiskirstytų po lygiai, tai lemiamą vaidmenį turėtų pirmininko balsas**"
+
+Dabar galiu lažintis, kad visi socialiniai ir ekonominiai partneriai, dėl kurių iš esmės šis posėdis ir vyksta suprato lygiai taip pat, jog jie balsuos. Štai kaip komunikuoja patys "ekonominiai" partneriai FB Pandemijos ekonomikos grupėje, kur net posėdyje dalyvavęs LVK Prezidentas liko nesupratęs, tai galės ar negalės jie balsuoti...
+
+![](/assets/2020/07/18/lvk_nebezino.png)
+
+<p style="color:red">Papildymo pabaiga</p>
 
 # 6.3 mlrd? Oi ne, tik 1.3!
 
@@ -129,7 +153,9 @@ Ir prisegu abu pristatytus dokumentus:
 Ką daryti? Atsakymai yra du:
 
 1. Susitaikyti su tuo, kad ~ 5 mlrd. nueis "kam reikia" ir likusieji 1.3 mlrd. eurų bus pasidalinti kam ir kaip reikiami
-2. Skubiai suburti iš tiesų nepriklausomų NVO grupę iš daugybės narių, reikalauti, kad visi šie nariai dalyvautų visuose 5 pakomitečiuose, kaip pvz., Investuotuojų formumas... ir šiuose pakimetečiuose užvirti košės: nepraleisti projektų be kaštų ir naudos analizės. Ar bus įmanoma surinkti >50% kritinių narių į pakomitečius? Nežinau, ne nuo manęs tai priklauso, o nuo Jūsų - profsąjungos ir NVO!
+2. Skubiai suburti iš tiesų nepriklausomų NVO grupę iš daugybės narių, reikalauti, kad visi šie nariai dalyvautų visuose 5 pakomitečiuose, kaip pvz., Investuotuojų formumas... ir šiuose pakomitečiuose užvirti košės: nepraleisti projektų be kaštų ir naudos analizės. Ar bus įmanoma surinkti >50% kritinių narių į pakomitečius? Nežinau, ne nuo manęs tai priklauso, o nuo Jūsų - profsąjungos ir NVO!
+3. Reikalauti, jog į komitetus būtų įtraukti specialistai - Valstybės kontrolės auditoriai, LB ekonomistai, kurie padėtų pagrįstai vertinti siūlomas "koncepcijas".
+
 
 Ach ir dar, visi kas nori būti įtraukti į pakomitečius, rašykite emailu: investiciju.komitetas@cpva.lt, tai galioja ir Jums "Nacionalinis skurdo mažinimo organizacijų tinkle"!, į CC siūlau segti Vyriausybę ir savo partnerius profsąjungas!
 
