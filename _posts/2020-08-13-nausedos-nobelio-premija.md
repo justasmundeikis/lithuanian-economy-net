@@ -42,7 +42,7 @@ Ir štai, Baltarusijoje rinkimai. Rezultatai tokie, kokius ir buvo galima numaty
 
 <div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/q7MipkI-QEM" frameborder='0' scrolling='no' allowfullscreen></iframe></div>
 
-Kuo grasina Nausėda? Jeigu Batkia nesitrauksi gražiuoju, nu... mes tau.... mes tau.... mes tau SANKCIJAS įvesim :D Visa ES tau SANKCIJAS ives.
+Kuo grasina Nausėda? Jeigu Batkia nesitrauksi gražiuoju, nu... mes tau.... mes tau.... mes tau SANKCIJAS įvesim :D Visa ES tau SANKCIJAS ives, nu blogiausiu atveju MES!
 
 ES reakcija į Nausėdos ir Dudos ir dar velniai žino ko iniciatyvas... „Ok, ok, tebūnie, surengsime mes užsienio reikalų ministrų posėdį. Situacija nėra tokia, kad Merkel ir co. čia vargintųsi. Visi ir taip nuo COVID pavargę. Bet kad jau rėkaujat...“. Vadovų tarybos posėdžio nebus, penktadieniui numatytas tik užsienio reikalų ministrų posėdis, o [Vengrija jau pareiškė - SANKCIJOS? Oi neeeeeee....dialogas su Batkia, kaimynai gi](https://www.rferl.org/a/despite-minsk-crackdown-hungary-says-eu-should-pursue-dialogue-with-belarus/30781872.html).
 
