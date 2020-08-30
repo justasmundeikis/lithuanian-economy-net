@@ -4,7 +4,7 @@ date: 2020-08-30 14:00:00 +03:00
 author: Justas Mundeikis
 layout: post
 comments: true
-citation: true
+citation: false
 image:  /assets/2020/08/30/screenshot.jpg
 thumbnail: /assets/2020/08/30/thumb.screenshot.jpg
 categories:

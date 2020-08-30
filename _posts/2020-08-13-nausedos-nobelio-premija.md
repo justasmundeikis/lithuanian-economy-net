@@ -4,7 +4,7 @@ date:  2020-08-13 19:00:00 +03:00
 author:  Justas Mundeikis
 layout:  post
 comments:  true
-citation:  true
+citation:  false
 permalink:  2020/08/13/nausedos-nobelio-premija
 image:    /assets/2020/08/13/Nauseda_Lukashenka.png
 thumbnail: /assets/2020/08/13/thumb.Nauseda_Lukashenka.png
@@ -66,7 +66,7 @@ Tikrai norime revoliucijos, kad baltarusiai sukiltų?
 
 Tada kraujas turi pradėti lietis Minske, su ar be ES/JAV pagalbos tam, jog sukiltų vis daugiau Baltarusijos gyventojų. Nes tik jų pyktis gali privesti prie Lukašenkos pasitraukimo (antrojo Maidano). Nesmagi, bet tiesa. Kad ir kas šaudė Maidane į protestuojančius, prisidėjo prie Maidano sėkmės.
 
-Bet kyla klausimas - ką darys Putinas? Leisis, kad buferio zona sumažėtų? Kad Baltarusija 203x metais taptų NATO nare, [nepaisant vakarų pažado Gorbačiovui, kad NATO nesiplės į rytus nuo Vokietijos](https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early#.WjAX9r_XxYI.twitter)? Nemanau -  nes tai būtų šlapias skuduras jam į veidą, taigi tikėtina kad vėl turėsime užšaldytą karą ir Donbase ir Baltarusijoje. Taigi dar daugiau kraujo... Bet ar to norės NATO? Vokiečiai? Dar vienas galvos skausmas rytuose? Oi ne... 
+Bet kyla klausimas - ką darys Putinas? Leisis, kad buferio zona sumažėtų? Kad Baltarusija 203x metais taptų NATO nare, [nepaisant vakarų pažado Gorbačiovui, kad NATO nesiplės į rytus nuo Vokietijos](https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early#.WjAX9r_XxYI.twitter)? Nemanau -  nes tai būtų šlapias skuduras jam į veidą, taigi tikėtina kad vėl turėsime užšaldytą karą ir Donbase ir Baltarusijoje. Taigi dar daugiau kraujo... Bet ar to norės NATO? Vokiečiai? Dar vienas galvos skausmas rytuose? Oi ne...
 
 O ir vargu ar Nausėda norėtų pilietinio karo, juk tada į Lietuvą gali pradėti plūsti pabėgeliai. Negi tada tektų eiti ir prašyti ES pagalbos, juos visus paskirstyti, nes koks milijono karo pabėgelių centras šalia Vilniaus Lietuvai būtų per daug? Bet kaip tada paaiškinti, kodėl anksčiau atsisakėme padėti Graikijai, Italijai, o dabar norime, kad mums padėtų? Ne, karas ne opcija.
 
