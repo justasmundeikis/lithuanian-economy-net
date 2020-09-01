@@ -12,8 +12,6 @@ categories:
 tags:
  - Baltarusija
 ---
-Kaip padėti Baltarusijai?
-
 **Šiame blogposte noriu pagvildenti mintį - kaip padėti Baltarusijai. Iš karto noriu pasakyti, kad teisingo atsakymo - kaip padėti Baltarusijos žmonėms nėra, nes tai priklauso nuo to, kiek už tą pagalbą esame pasiryžę mokėti mes patys.**<!--more-->
 
 Kaip ekonomistas dėstęs lošimų teoriją (kuri nagrinėja strateginių sprendimų priėmimą), siūlau taikyti atgalinės indukcijos metodą, t. y. pirma nuspręsti kokių rezultatų siekiama, o tada svarstyti, kokie sprendimai / veiksmai galėtų sąlygoti tokią baigtį.
