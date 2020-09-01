@@ -28,11 +28,11 @@ Ko gero galime konstatuoti ir tai, jog mažiausiai ko norėtų Baltarusijos žmo
 
 <div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/-Kex0nZCGGA" frameborder='0' scrolling='no' allowfullscreen></iframe></div>
 
-Tai ko gero ir yra esminė problema - kol protestuotojai kovoja su rėžimu taikiais metodais, tol Lukašenkai jie primena aplink galvą bezvimbiančius uodus, nemalonu, bet nepavojinga. Tad esminis klausimas, kaip nuversti Batkia ir nesąlygoti, jog Putinas turėtų prielaidą įvesti savo „peacekeeper’ius“?
+Tai ko gero ir yra esminė problema - kol protestuotojai kovoja su rėžimu taikiais metodais, tol Lukašenkai jie primena aplink galvą bezvimbiančius uodus, nemalonu, bet nepavojinga. Tad esminis klausimas, kaip nuversti Batka ir nesąlygoti, jog Putinas turėtų prielaidą įvesti savo „peacekeeper’ius“?
 
 # JAV
 
-Panašu, jog JAV politikoje, kol prezidentu yra analfabetinis narcizas, noro kištis į rytų Europos santykius nebus. Tiesiog tai neaktualu Trump’ui, nes iš to jam jokios asmeninės naudos, o respublikonai, kurie visad pasižymėdavo savo "hawkishness" Rusios atžvilgiu, per giliai sulindę Trump'ui... Taigi tikėtis JAV aktyvesnės pozicijos šiame konflikte neverta, [kad ir kaip to norėtų Macron’as](https://www.politico.eu/article/emmanuel-macron-calls-on-us-to-do-more-on-world-stage-dodges-question-donald-trump-reelection/). Gal, kita vertus, tai ir gerai, nes ilga JAV kišimosi į kitų šalių politinę situaciją patirtis nėra labai gera, [dar niekur JAV nesukūrė „demokratijos“, nes nuolat arba vertė demokratiškai išrinktus politikus, žudė opoziciją, arba sąlygojo anarchiją ir terorą](https://www.imdb.com/title/tt1494191/).
+Panašu, jog JAV politikoje, kol prezidentu yra analfabetinis narcizas, noro kištis į rytų Europos santykius nebus. Tiesiog tai neaktualu Trump’ui, nes iš to jam jokios asmeninės naudos, o respublikonai, kurie visad pasižymėdavo savo "hawkishness" Rusios atžvilgiu, per giliai sulindę Trump'ui... Taigi tikėtis JAV aktyvesnės pozicijos šiame konflikte neverta, [kad ir kaip to norėtų Macron’as](https://www.politico.eu/article/emmanuel-macron-calls-on-us-to-do-more-on-world-stage-dodges-question-donald-trump-reelection/). Gal, kita vertus, tai ir gerai, nes ilga JAV kišimosi į kitų šalių politinę situaciją patirtis nėra labai gera, [dar niekur JAV nesukūrė „demokratijos“, nes nuolat arba vertė demokratiškai išrinktus politikus, žudė opoziciją, arba sąlygojo anarchiją (arba chaosą) ir terorą](https://www.imdb.com/title/tt1494191/).
 
 # Europa
 
@@ -46,15 +46,15 @@ Britai? Turint omenyje ilgai delsta paviešinimą apie [Toriams daromą Rusijos 
 
 Taigi nei JAV, nei ES neketina imtis nieko rimto. Tai pademonstravo ir tai, jog [ES planuoja paskirti sankcijas 20 asmenų iš Baltarusijos](https://www.aljazeera.com/news/2020/08/eu-blacklist-20-belarus-officials-press-leader-200828084107041.html), kai LR užsienio reikalų ministras tikėjosi kelių šimtų?
 
-Ką galėtų JAV ir ES kartu su Britais padaryti, tai užšaldyti visas Batkios ir jo rėžimo užsienio šalyse esančias sąskaitas, konfiskuoti visą NT ir pagrasinti Putino rėžimui, jog jo ir su juo susijusių oligarchų laukia tas pats, jeigu Rusija bent nagus prilies prie Baltarusijos / arba skolins pinigus Batkiai. O panašu, jog būtent skolintais pinigais, jeigu toliau stos Baltarusijos ekonomika, Batkia mokės jį palaikančioms jėgoms struktūroms. Nebebus pinigų - nebebus ir palaikymo. Kai Omon pareigūnai porą mėnesių bus be algos, Batkios palaikymas gali pradėti byrėti.
+Ką galėtų JAV ir ES kartu su Britais padaryti, tai užšaldyti visas Batkos ir jo rėžimo užsienio šalyse esančias sąskaitas, konfiskuoti visą NT ir pagrasinti Putino rėžimui, jog jo ir su juo susijusių oligarchų laukia tas pats, jeigu Rusija bent nagus prilies prie Baltarusijos / arba skolins pinigus Batkai. O panašu, jog būtent skolintais pinigais, jeigu toliau stos Baltarusijos ekonomika, Batka mokės jį palaikančioms jėgoms struktūroms. Nebebus pinigų - nebebus ir palaikymo. Kai Omon pareigūnai porą mėnesių bus be algos, Batkos palaikymas gali pradėti byrėti.
 
-Tačiau… grįžkime į realybę. JAV, JK, ES imsis tokių priemonių prieš Batkios ir Putino paktą? :))) Tikrai kad ne!
+Tačiau… grįžkime į realybę. JAV, JK, ES imsis tokių priemonių prieš Batkos ir Putino paktą? :))) Tikrai kad ne!
 
 # Ką gali daryti Lietuva?
 
-Savaime suprantama, Lietuviai gali eiti ir Laisvės kelio minėjimus, susijungti rankomis ir plevėsuoti Balta-Raudona vėliavomis, palaikymas Baltarusijos žmonėms, kurie kiekviena savaitgalį tūkstančiais traukia į gatves, moralinis palaikymas yra reikalingas. Tačiau mitingai ir palaikymo akcijos Lietuvoje turi kitą adresatą - LR politikus, tai raginimas jiems, imtis aktyvių veiksmų. Nes nuo to, kiek mes palaikysim braliukus emociškai, tai jiems Batkios nuversti vis tiek nepadės.
+Savaime suprantama, Lietuviai gali eiti ir Laisvės kelio minėjimus, susijungti rankomis ir plevėsuoti Balta-Raudona vėliavomis, palaikymas Baltarusijos žmonėms, kurie kiekviena savaitgalį tūkstančiais traukia į gatves, moralinis palaikymas yra reikalingas. Tačiau mitingai ir palaikymo akcijos Lietuvoje turi kitą adresatą - LR politikus, tai raginimas jiems, imtis aktyvių veiksmų. Nes nuo to, kiek mes palaikysim braliukus emociškai, tai jiems Batkos nuversti vis tiek nepadės.
 
-Ko norėtų Lietuvos politikai - nežinau. Ko gero G.Nausėda tikėjosi, kad suvaidins svarbią solo partiją, o ES užgiedos iš paskos choru. Bet koncertas neįvyko. Premjeras irgi patyliukais apie nieką nekalba. Kodėl? Nes Batkia jau pasakė, kad tuoj galėsime tikėtis visiško tranzito paslaugų atsisakymo. Geležinkeliams, Klaipėdos uostui tai tikrai neįtin maloni žinia. Taip, mūsų politikai puolė aiškinti, kad Batkia taip nesielgs, jam bus per brangu… Surado logiškai mastanti ir besielgiantį šizofreniką… arba kitaip tariant „wishfull-thinking’as“. Batkai svarbu pademonstruoti raumenis, palaikymą jis turi iš Putino, taigi ir jėgos struktūrų ir pinigų. Brangu? Gal. Bet išsilaikymas valdžioje - neįkainojimas.
+Ko norėtų Lietuvos politikai - nežinau. Ko gero G.Nausėda tikėjosi, kad suvaidins svarbią solo partiją, o ES užgiedos iš paskos choru. Bet koncertas neįvyko. Premjeras irgi patyliukais apie nieką nekalba. Kodėl? Nes Batka jau pasakė, kad tuoj galėsime tikėtis visiško tranzito paslaugų atsisakymo. Geležinkeliams, Klaipėdos uostui tai tikrai ne itin maloni žinia. Taip, mūsų politikai puolė aiškinti, kad Batka taip nesielgs, jam bus per brangu… Surado logiškai mastanti ir besielgiantį šizofreniką… arba kitaip tariant „wishfull-thinking’as“. Batkai svarbu pademonstruoti raumenis, palaikymą jis turi iš Putino, taigi ir jėgos struktūrų ir pinigų. Brangu? Gal. Bet išsilaikymas valdžioje - neįkainojimas.
 
 ![](/assets/2020/08/30/sinkvecius.png)
 
@@ -64,11 +64,14 @@ Ko norėtų Lietuvos politikai - nežinau. Ko gero G.Nausėda tikėjosi, kad suv
 Tad ką galėtų daryti Lietuva? Man atrodo, kad kelias tebūtų šis:
 
 1. Surinkti koaliciją iš Baltijos šalių ir pradėti prekybos blokadą su Baltarusiją.
-2. Lietuvai ir koalicijos partnerėms skolintis milijardus eurų ir juos mesti Baltarusijos opozicijai neprašant kvitukų ir leidžiant skirti pinigus kaip jie nori:
+2. Lietuvai ir koalicijos partnerėms skolintis milijardus eurų ir juos mesti Baltarusijos opozicijai neprašant kvitukų ir leidžiant skirti pinigus taip, kaip jie nori:
  * finansuoti jėgos struktūrų darbuotojų perėjimą į opozicijos pusę (kas jau po truputi vyksta),
- * padengti pajamų netekimą Baltarusijos fabrikų darbuotojams (kad Batkia turėtų kuo mažiau pinigų)
+ * padengti pajamų netekimą Baltarusijos fabrikų darbuotojams (kad Batka turėtų kuo mažiau pinigų)
  * bei suteikiant galimybę opozicijos fragmentams finansuoti savo akcijas
-3. Siekti tarptautinio spaudimo Putino rėžimui (nepadėti Batkiai)
+3. Siekti tarptautinio spaudimo Putino rėžimui (nepadėti Batkai)
+4. Padėti teikiant žvalgybinę informaciją
+5. Padėti kuriant dingusiųjų / suimtųjų duomenų bazes
+6. Įsipareigoti priimti gydyti visus sužeistus per mitingus ir nukentėjusius nuo Baltarusijos vidaus struktūrų smurto
 
 Kaip ilgai? Kiek milijardų?  Tiek kiek reikia.
 
