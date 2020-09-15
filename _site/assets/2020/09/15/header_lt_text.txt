@@ -1,0 +1,15 @@
+\usepackage[utf8]{inputenc}
+\usepackage[L7x]{fontenc}
+\usepackage[lithuanian]{babel}
+
+
+\usepackage{setspace}
+\onehalfspacing
+
+
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,  
+linkcolor=blue,  
+filecolor=blue,    
+urlcolor=blue,  
+citecolor=red}

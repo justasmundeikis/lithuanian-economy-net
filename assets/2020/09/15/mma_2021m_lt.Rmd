@@ -1,0 +1,276 @@
+---
+title: "Dėl 2021m. MMA nustatymo" # pasikeisti
+subtitle: "Techninis raportas"
+author: | 
+  | Justas Mundeikis
+  | Lithuanian-Economy.net
+  | justas.mundeikis@lithuanian-economy.net
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+output:
+  pdf_document:
+    toc: false
+    number_sections: true
+    includes:
+      in_header: header_lt_text.txt # pasikeisti į header_en_text.txt jeigu rašoma anglų kalba
+geometry: "left=3cm,right=2cm,top=2cm,bottom=2cm"
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, collapse = TRUE, cache = FALSE, warning = FALSE, message = FALSE)
+```
+
+```{r, echo=FALSE}
+library(tidyverse)
+library(eurostat)
+library(lubridate)
+library(kableExtra)
+```
+
+
+# Įvadas
+2020m. prasidėjus COVID19 viruso pandemijai, visos ekonomikos raidą prognozuojančios institucijos sumažino 2020m. bei 2021m. ekonominio augimo, o kartu ir vidutinio darbo užmokesčio, raidos prognozes. Neradus sutarimo LR Trišalėje taryboje dėl 2021m. minimalaus mėnesio atlyginimo (toliau - MMA), šis sprendimas atidėtas iki Finansų Ministerija (toliau - FM) pateiks atnaujintą ekonominės raidos scenarijų 2020m. rugsėjo mėnesį. 
+
+2020m. rugsėjo 14d. FM pristatė [atnaujintą ekonominės raidos scenarijų](https://finmin.lrv.lt/lt/aktualus-valstybes-finansu-duomenys/ekonomines-raidos-scenarijus). Remiantis atnaujintomis prognozėmis ir taikant 2017m. bei 2018m. LR Trišalės tarybos taikytą MMA nustatymo metodiką, 2021m. MMA Lietuvoje turėtų siekti 664 eurus.
+
+Šiame techniniame raporte pristatomas atnaujintas koeficiento įvertis, kuris naudojamas apskaičiuojant MMA bei apžvelgiama aptariamas kuris VDU įvertis buvo naudojamas 2017-2019m. Raporto pabaigoje pateikiamas siūlymas bei argumentuojama, kaip turėtų būti apibrėžta MMA nustatymo formulė, jog daugiau nekiltų jokių abejonių.
+
+
+# MMA nustatymo metodika
+
+LR Trišalėje taryboje būta daug argumentacijų, tačiau nei vieną kartą nebuvo tiksliai apibrėžta, kokia būtent yra MMA taikymo (indeksavimo) formulė. Perklausius 2016-2018m. Trišalės tarybos posėdžių įrašus, galima daryti šias išvadas:
+
+* bendrai sutariama, jog formulė yra $$MMA=koef*VDU$$
+* koeficientas apskaičiuojamas remiantis Lietuvos Banko (toliau - LB) pateikta metodika
+* formulėje naudojamas "VDU" niekada nebuvo aiškiai apibrėžtas:
+  * 2016m. nėra aišku kaip buvo nustatytas MMA
+  * 2017m. bei 2018m. nustatant MMA buvo naudojama **einamųjų metų** VDU prognozė (**su** nereguliariomis išmokomis, kaip skelbiama FM tinklapyje)
+  * 2019m., kai LB tiesiog pateikė siūlomą MMA dydį, buvo taikoma **būsimų metų** VDU prognozė **be** nereguliarių išmokų
+
+## Koeficiento apskaičiavimas
+
+LB rašte LR Trišalei tarybai (LB raštas Nr. (33.4-52)SD-4335.) šeštame atsakyme nurodoma tokia LB siūloma taikyti metodologija:
+
+\begin{quote}
+\textcolor{olive}{MMA ir VDU santykis, remiantis Eurostato duomenimis, skaičiuojamas taip:}
+
+\textcolor{olive}{1. Kiekvienai šaliai apskaičiuojamas MMA ir VDU be priedų ir kt. santykių 2014-2016m. laikotarpio vidurkis}
+
+\textcolor{olive}{2. Atrenkamas ketvirtadalis (5 šalys) didžiausią santykio vidurkį turėjusių šalių (neįskaitant Lietuvos). 2014-2016m. šios šalys buvo Slovėnija (50,9 proc.), Prancūzija (47,3 proc.), Liuksemburgas (47 proc.), Latvija (45,8 proc.), Lenkija (45,6 proc.).}
+
+\textcolor{olive}{3. Apskaičiuojamas atrinktų šalių vidurkis (47,3 proc.).}
+
+\textcolor{olive}{Skaičiuojant santykį reikia nuspręsti, kurių trejų metų šalių santykių vidurkius skaičiuoti. Pvz., 2016m. duomenų nepateikė tik 3 šalys, tačiau 2017m. (2018m. liepos 12d. duomenimis) - net 17 šalių (žr. 1 lentelę). Taigi, prasmingiau skaičiuoti 2014-2016.m., o ne 2015-2017m. šalių santykių vidurkius.}
+\end{quote}
+
+
+### Koeficientas 2021m
+
+Siekiant apskaičiuoti 2021m. taikytiną koeficientą yra imami:
+
+* Eurostat duomenys (Monthly minimum wage as a proportion of average monthly earnings (%) - NACE Rev. 2 (from 2008 onwards), earn_mw_avgr2)
+* 26 ES šalys (27 ES šalys be Lietuvos) 
+* Ekonominės veiklos rūšys "B-S" (Pramonė, statyba ir paslaugos)
+* Koeficiento apskaičiavimui bus naudojamos 5 šalys, turinčios didžiausią 3 metų MMA/VDU santykio vidurkį. Lietuvos Bankas siūlo skaičiuoti 1/4 didžiausių šalių rodiklių vidurkį, tačiau šiuo metu turint 18 šalių, tai reikštų 4.5 šalies. Todėl imamos ir toliau 5 šalys.
+
+
+```{r, echo=FALSE}
+earn_mw_avgr2 <- get_eurostat("earn_mw_avgr2", stringsAsFactors = FALSE)
+
+df <- earn_mw_avgr2%>%
+  filter(
+         geo %in% c("BE","BG","CZ","DK","DE","EE","IE","EL","ES","FR","HR","IT","CY","LV","LT","LU","HU","MT","NL","AT","PL","PT","RO","SI","SK","FI","SE"),
+         indic_se=="MMW_MEAN_ME_PP",
+         nace_r2=="B-S",
+         year(time)>2014)%>%
+  select(geo, time, values)%>%
+  mutate(time=year(time))%>%
+  spread(time, values)%>%
+  as.data.frame()
+         
+```
+
+```{r, echo=FALSE}
+
+options(knitr.kable.NA = '')
+
+df%>% 
+  kbl(caption="MMA ir VDU be priedų ir kt. santykis ES-27 šalyse (duomenys iš Eurostat atsisiųsti 2020m. rugsėjo 15d.)",
+      booktabs = T)%>% 
+  kable_styling(latex_options =c("HOLD_position"))%>%
+  row_spec(15, bold = T,color = "red")
+
+```
+
+Iš pateiktos duomenų lentelės galima matyti, jog nepaisant "indeksavimo", Lietuvoje nuo 2016m. santykis tarp MMA ir VDU (be nereguliarių išmokų) nuolatos mažėjo ir 2019m. pasiekė net 45.7 proc., t.y. ženkliai mažiau, nei buvo taikomasi į 47.3 proc. 
+
+Tai galima paaiškinti tuo, jog nustatant MMA buvo naudojamas einamųjų metų VDU prognostinis įvertis, tačiau tais metais, kai įsigaliodavo MMA, darbo užmokestis šalyje augo sparčiau nei buvo tikėtasi, todėl atitinkamai užfiksuotas atitinkamų metų MMA ir VDU (be nereguliarių išmokų) santykis būdavo mažesnis. 
+
+2018m. LB rašte nurodoma, jog būtina apspręsti, kurių metų ataskaitinis laikotarpis bus taikomas indeksavimui, nes LB rašto pateikimo metu už 2017m. dar daug šalių nebuvo pateikusios savo statistikos Eurostat. 
+
+Iš viršuje pateiktos lentelės (žr. 1.lentelė) matoma, jog už 2018m. statistikos nepateikė 2 šalys (Prancūzija ir Ispanija), už 2019m. - 4 šalys (Prancūzija, Ispanija, Nyderlandai ir Rumunija).
+
+Tad esminis klausimas - ar pasirinkus skirtingus ataskaitinius laikotarpius (2016-2018 / 2017-2019) keistųsi šalių, kurių vidurkiai naudojami apskaičiuoti koeficientui, sudėtis, ir ar keistųsi apskaičiuojamas koeficientas.
+
+Žemiau pateikiamose lentelėse yra pašalintos šalys, kurios valstybiniu lygiu nenustato MMA:
+
+* Austrija (AT)
+* Kipras (CY)
+* Danija (DK)
+* Suomija (FI)
+* Italija (IT)
+* Švedija (SE)
+
+
+```{r, echo=FALSE}
+df <- earn_mw_avgr2%>%
+  filter(geo %in% c("BE","BG","CZ","DE","EE","IE","EL","ES","FR","HR","LV","LU","HU","MT","NL","PL","PT","RO","SI","SK"),
+         indic_se=="MMW_MEAN_ME_PP",
+         nace_r2=="B-S",
+         year(time)>2015)%>%
+  select(geo, time, values)%>%
+  mutate(time=year(time))%>%
+  spread(time, values)
+
+df <- df%>% mutate(vid_16_18=round(rowMeans(.[,2:4],na.rm = TRUE),1),
+                   vid_17_19=round(rowMeans(.[,3:5],na.rm = TRUE),1))
+
+df <- df%>%arrange(desc(vid_17_19))
+
+options(knitr.kable.NA = '')
+
+df%>% 
+  kbl(caption="MMA ir VDU be priedų ir kt. santykis ir 3 metų vidurkiai (duomenys iš Eurostat atsisiųsti 2020m. rugsėjo 15d.)",
+      booktabs = T,
+      align = "c")%>% 
+  kable_styling(latex_options =c("HOLD_position"))%>%
+  row_spec(1:5, bold = T,color = "blue")
+
+```
+ 
+
+**Jeigu ataskaitiniu laikotarpiu būtų imami 2016-2018m.:**
+ 
+ * top 5 valstybės būtų Slovenija (`r df$vid_16_18[df$geo=="SI"]`), Protugalija (`r df$vid_16_18[df$geo=="PT"]`), Prancūzija (`r df$vid_16_18[df$geo=="FR"]`), Luksemburgas (`r df$vid_16_18[df$geo=="LU"] `) ir Lenkija (`r df$vid_16_18[df$geo=="PL"]`)
+ * šių penkių šalių santykio vidurkis ir atitinkamai taikytinas koeficientas siektų: `r round(mean(sort(df$vid_16_18, decreasing = TRUE)[1:5]),2)`
+ 
+**Jeigu ataskaitiniu laikotarpiu būtų imami 2017-2018m.:**
+ 
+ * top 5 valstybės būtų Slovenija (`r df$vid_17_19[df$geo=="SI"]`), Protugalija (`r df$vid_17_19[df$geo=="PT"]`), Prancūzija (`r df$vid_17_19[df$geo=="FR"]`), Luksemburgas (`r df$vid_17_19[df$geo=="LU"] `) ir Lenkija (`r df$vid_17_19[df$geo=="PL"]`)
+ * šių penkų šalių santykio vidurkis ir atitinkamai taikytinas koeficientas siektų: `r round(mean(sort(df$vid_17_19, decreasing = TRUE)[1:5]),2)`
+ 
+
+Taigi nepriklausomai nuo to, kuris ataskaitinis laikotarpis imamas, top 5 šalys, kurios naudojamos apskaičiuoti koeficientą, išlieka nepakitusios. Vienintelė šalis tarp top 5 nepateikusi MMA/VDU rodiklio už 2018m. ir 2019m. yra Prancūziją. 
+
+Vertinant kitų šaltinių ([OECD](https://stats.oecd.org/viewhtml.aspx?datasetcode=AV_AN_WAGE&lang=en#)) pateikiamus rodiklius, galima apskaičiuoti, jog Prancūzijos MMA/VDU santykis atitinkamu laikotarpiu iš esmės nekito, todėl ataskaitinio laikotarpio pasirinkimas nekeičia apskaičiuojamo koeficiento.
+
+Autoriaus skaičiavimais, trūkstami Prancūzijos duomenys atrodytų taip:
+
+
+```{r, echo=FALSE}
+fr <- data.frame(Laikotapris=2016:2019,
+                 MMA=c(1466.62,1480.27,1498.47,1521.22),
+                 VDU_met=c(37091,37860,38477,39099))
+
+
+fr <- fr %>%mutate(VDU_men=round(VDU_met/12,0),
+                    'MMA/VDU (SU ner. išmok.)'=round(MMA/VDU_men*100,1),
+                   'MMA/VDU (BE ner. išmok.)'=round(MMA/VDU_men*(48.2/47.4)*100,1))
+
+
+fr%>% 
+  kbl(caption="MMA ir VDU santykis Prancūzijoje (duomenys iš OECD / Eurostat atsisiųsti 2020m. rugsėjo 15d.), autoriaus skaičiavimai",
+      booktabs = T,
+      align = "c")%>% 
+  kable_styling(latex_options =c("HOLD_position", "scale_down"))
+
+```
+
+* Metiniai VDU **su** nereguliariomis išmokomis rodikliai imami eurais iš [OECD duomenų bazės - Annual average wages](https://stats.oecd.org/viewhtml.aspx?datasetcode=AV_AN_WAGE&lang=en#)
+* MMA rodikliai imami iš Eurostat duomenų bazės
+* Metinis VDU perskaičiuojamas į mėnesinį VDU
+* MMA ir VDU santykis perskaičiuojamas, atsižvelgiant į nereguliarių išmokų proporciją taip, jog 2016m. rodiklis atitiktų 2016 MMA/VDU Eurostat pateikiamą rodiklį (48.2 proc.)
+
+
+Papildžius viršuje naudotus skaičiavimus atitinkamais autoriaus apskaičiuotais Prancūzijos rodikliais, gaunama:
+
+```{r, echo=FALSE}
+df <- earn_mw_avgr2%>%
+  filter(geo %in% c("BE","BG","CZ","DE","EE","IE","EL","ES","FR","HR","LV","LU","HU","MT","NL","PL","PT","RO","SI","SK"),
+         indic_se=="MMW_MEAN_ME_PP",
+         nace_r2=="B-S",
+         year(time)>2015)%>%
+  select(geo, time, values)%>%
+    mutate(time=year(time))%>%
+  spread(time, values)
+
+df[6,4] <- 47.5
+df[6,5] <- 47.4
+
+
+df <- df%>% mutate(vid_16_18=round(rowMeans(.[,2:4],na.rm = TRUE),1),
+                   vid_17_19=round(rowMeans(.[,3:5],na.rm = TRUE),1))
+
+df <- df%>%arrange(desc(vid_17_19))%>%head(5)
+
+options(knitr.kable.NA = '')
+
+df%>% 
+  kbl(caption="MMA ir VDU be priedų ir kt. santykis ir 3 metų vidurkiai, top 5 šalys (duomenys iš Eurostat atsisiųsti 2020m. rugsėjo 15d.)",
+      booktabs = T,
+      align = "c")%>% 
+  kable_styling(latex_options =c("HOLD_position"))
+
+```
+
+Ir atitinkamai gaunami top 5 šalių MMA/VDU santykių vidurkiai:
+
+* 2016-2018 vidurkis siektų: `r round(mean(sort(df$vid_16_18, decreasing = TRUE)[1:5]),2)`
+* 2017-2019 vidurkis siektų: `r round(mean(sort(df$vid_17_19, decreasing = TRUE)[1:5]),2)`
+
+
+Atsižvelgiant į tai, jog trūkstami Prancūzijos 2018-2019m. rodikliai neiškreipia koeficiento, autorius rekomenduoja LR Trišalei tarybai naudoti naujesnius duomenis, t.y. 2017-2019 laikotarpio vidurkį (suapvalinus - `r round(mean(sort(df$vid_17_19, decreasing = TRUE)[1:5]),1)`), kaip koeficientą nustatant 2021m. MMA.
+
+
+## Kuris VDU?
+
+2016m. pirmą kartą nusprendus "depolitizuoti" MMA nustatymo tvarką nebuvo aiškiai apibrėžta, kuris VDU rodiklis bus taikomas formulėje.
+
+LB teiktas siūlymas buvo taikyti **sekančių metų** (kuriems nustatomas MMA) **VDU be nereguliarių išmokų** prognostinį įvertį. LB argumentavo, jog Eurostat pateikiamoje MMA/VDU santykio statistikoje (*earn_mw_avgr2*) į vidutinį mėnesinį bruto darbo užmokestį neįskaitomos nereguliarios premijos, priedai, priemokos ir vienkartinės piniginės išmokos.
+
+Profesinių sąjungų kontra-argumentas buvo, jog šis rodiklis nėra skelbiamas LR Statistikos departamento duomenų bazėje, o vienintelis rodiklis, kurį prognozuoja ir viešina FM yra VDU su nereguliariai priedais ir priemokomis.
+
+Perklausius LR Trišalės tarybos posėdžių garso įrašus (2017-2018m.) paaiškėjo, jog nustatant sekančių metų MMA LR Trišalėje taryboje buvo naudojama FM skelbiama **einamųjų metų VDU prognozė**. Kadangi tuo laikotarpiu, einamųjų metų VDU buvo apie 6 proc. mažesnis, nei sekančių metų FM skelbiama VDU prognozė, šis skirtumas atsitiktinumo dėka atitiko tai, ką siūlė LB, nes LB siūlomas sekančių metų prognozuojamas VDU be nereguliarių išmokų irgi buvo ~6 proc. mažesnis.
+
+Iliustratyviai:
+
+* Vyriausybės siūlymas (remiantis [FM kovo mėn. prognozėmis](https://finmin.lrv.lt/lt/aktualus-valstybes-finansu-duomenys/ekonomines-raidos-scenarijus/scenarijus-2018-kovas)): $$MMA_{2019}=0.473*VDU_{2019,FM,SU}=0.473*895.4=423.52$$ 
+* LB siūlymas: $$MMA_{2019}=0.473*VDU_{2020,LB,BE}=0.473*888=420.02$$
+
+Priimant sprendimą dėl MMA, jau buvo atnaujinta FM prognozė, todėl atitinkamai kito sprendimas dėl MMA.
+
+* Vyriausybės siūlymas (remiantis [FM kovo mėn. prognozėmis](https://finmin.lrv.lt/lt/aktualus-valstybes-finansu-duomenys/ekonomines-raidos-scenarijus/scenarijus-2018-rugsejis)): $$MMA_{2019}=0.473*VDU_{2019,FM,SU}=0.473*915.2=432.88$$ 
+
+Tad galutinis įvertis liko 430 eurų, o perskaičiavus pagal naująja mokesčių reformą suapvalinta iki 555 eurų.
+
+2019m. LR Trišalė taryba nebenagrinėjo, kokius skaičiavimus atliko LB teikdamas siūlymą 2020m. MMA nustatymui. LB naudojo prognozuojamą 2020m VDU be nereguliarių išmokų, todėl pasiūlytas 607 eurų MMA buvo 3-4 eurais mažesnis nei būtų buvęs, jeigu 2019m. posėdyje nustatant 2020m. MMA būtų taikyta tokia pati metodika, kaip ankstesniais metais.
+
+Šiame dokumente rekomenduojama grįžti prie LR Trišalės tarybos 2017-2018m. taikytos metodikos, kai formulėje taikomas VDU yra FM prognozuojamas einamųjų metų VDU bei MMA nustatymui yra naudojamas **rugsėjo mėnesio** atnaujintame ekonominės raidos scenarijuje, o ne kovo mėnesio, nurodomas vidutinis mėnesinis bruto darbo užmokestis.
+
+Prognozuojant sekančių metų VDU be nereguliarių išmokų susideda dviejų prognozavimų paklaidos, t.y. sekančių metų VDU prognozė visada yra mažiau tiksli, nei FM pateikiama einamųjų metų prognozė (pateikiama rugsėjo mėn. viduryje), be to, LB turi papildomai prognozuoti nereguliarių išmokų proporciją. Taip gaunama didesnė paklaida, dėl kurios, tikėtina, nukenčia MMA gaunantys darbuotojai. Be to, jeigu būtų naudojama LB siūloma metodika, kurioje naudojamas LB prognozuojamas VDU be nereguliarių išmokų, tokių skaičiavimų negalėtų būti verifikuojamas išorės ekspertų.
+
+2020-09-14 FM atnaujino savo [ekonominės raidos scenarijų](https://finmin.lrv.lt/lt/aktualus-valstybes-finansu-duomenys/ekonomines-raidos-scenarijus), kuriame 2020m. prognozuojamas  "Vidutinis mėnesinis bruto darbo užmokestis, Eur" siekia 1380.7 eurus.
+
+Atitinkamai siūloma, jog 2021m. MMA būtų nustatytas taikant šią formulę:
+
+$$MMA_{2021}=koef_{top5,2017-2019} \times VDU_{FM,2020,SU}$$
+
+apskaičiuotas MMA gaunamas (be Prancūzijos papildomų, autoriaus apskaičiuotų įverčių):
+
+$$MMA_{2021}=0.481\times 1380.7=664.12\approx 664 \text{ eurai} $$
+
+# Išvados
+
+Remiantis 2017m. - 2018m. LR Trišalės tarybos taikyta metodologija, kai sekančių metų MMA rodiklio apskaičiavimui formulėje naudojamas Finansų ministerijos (rugsėjo mėnesį atnaujintas) einamųjų metų prognozuojamas vidutinis bruto darbo užmokesčio įvertis bei įvertinus naujausią Eurostat pateikiamą kitų ES MMA/VDU statistiką, pagal kurią, 2021m. taikytinas koeficientas siekia 48.1 proc., 2021m. MMA Lietuvoje turėtų siekti 664 eurus.
+
+Taip pat rekomenduojama, jog LR Trišalės tarybos posėdyje būtų raštu užfiksuota MMA nustatymo formulė:
+
+$$MMA_{t+1}=koef_{top5,t-3,t-2,t-1} \times VDU_{FM,t,rugsejis}$$
