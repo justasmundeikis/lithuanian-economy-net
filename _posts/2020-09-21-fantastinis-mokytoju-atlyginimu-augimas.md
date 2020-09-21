@@ -14,7 +14,7 @@ tags:
   - Mokytojai
   - Švietimo sektorius
 ---
-**Ugnė Kaunaitė pareiškė, kad "mokytojų darbo užmokestis per ketverius metus augo stebėtinai", [skelbia 15min.lt](https://www.15min.lt/naujiena/aktualu/lietuva/mokytoju-algos-kaip-vidurines-klases-svietimieciai-sako-tai-pasieke-streikais-56-1376698). Ž.Mauricas sako, proveržio nebuvo, bet mokytojai gyvena geriau. Tai kaip čia iš tiesų su ta mokytojų atlyginimų raida?**<!--more-->
+**Unė Kaunaitė pareiškė, kad "mokytojų darbo užmokestis per ketverius metus augo stebėtinai", [skelbia 15min.lt](https://www.15min.lt/naujiena/aktualu/lietuva/mokytoju-algos-kaip-vidurines-klases-svietimieciai-sako-tai-pasieke-streikais-56-1376698). Ž.Mauricas sako, proveržio nebuvo, bet mokytojai gyvena geriau. Tai kaip čia iš tiesų su ta mokytojų atlyginimų raida?**<!--more-->
 
 Statistika iš tiesų iškalbinga, mokytojų atlyginimai augo. Suprantama, jeigu U.Kaunaitė palygintų 2005m. vs 2020m. tai pamatytų, jog , o siaube visiems libertarams, mokytojų atlyginimas augo 250 proc.!!! Tai gal jau gana? Mokytojas = prestižinė profesija? Mokytojais nori tapti gabiausi iš gabiausių, eilės norinčiųjų studijuoti nusidriekusios edukologijos fakultetuose?
 
