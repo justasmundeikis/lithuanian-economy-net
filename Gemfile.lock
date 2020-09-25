@@ -30,7 +30,7 @@ GEM
       csl (~> 1.0)
     dnsruby (1.61.4)
       simpleidn (~> 0.1)
-    em-websocket (0.5.1)
+    em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     ethon (0.12.0)
