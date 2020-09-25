@@ -54,6 +54,7 @@ Labai ačiū už atsakymą ir už jūsų nuomonę. Be abejo, jūsų nuomonės ap
 Tačiau tai nemažina jūsų atliktos analizės vertės, todėl ir siūlome ją išnaudoti ne tik politiškai, bet ir paviešinti platesnei auditorijai, nes tas planas nulems ne tik socialdemokratų gyvenimą.
 
 Kas dėl jūsų nuomonės apie žmones, kuriems aš ir mano kolegos suteikė galimybę išsakyti savo nuomonę ir požiūrį, tai mes, skirtingai nei kiti žiniasklaidos kanalai, neturime draudžiamų kviesti asmenų sąrašo ir nesikišame į vienas kito pasirinkimus, nes manome, kad nuomonių ir asmenų marginalizavimas naikina skirtumus tarp Lietuvos ir Rusijos ar Baltarusijos, o nekaltumo prezumpcija vis dar yra Konstitucinė nuostata.
+
 Buvo keista skaityti jūsų pasvarstymus apie etiką. Jei perkeltumėme situaciją į Rusiją, tai jūs neitumėte kalbėti su Navalnu, nes jis - politikas? Ribotas požiūris. Manau, kad jį sugalvojote, nerasdamas savyje drąsos kalbėti tiesą. Jeigu persigalvotumėte ir jums reikėtų laisvos viešosios erdvės savo mintims reikšti, labai prašau kreiptis.
 
 Pagarbiai,
