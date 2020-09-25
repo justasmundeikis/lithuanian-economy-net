@@ -40,7 +40,7 @@ Gražios Valstybės dienos šventės visiems!
 
 Taip kad Andriau, daugiau pozityvo Jums ir Eglei, daugiau šypsenos ir juoko!
 
-p.S. per savaitgalį manau, dar reiks suraityti laišką VRK ir SADM, nes kažkaip valstybinėje institucijoje ant durų platinti LVŽS rinkiminius plakatus (Luko Savicko ?)... na nežinau, ar čia neprasilenkiama su įstatymu...
+p.S. per savaitgalį manau, dar reiks suraityti laišką VTEK / VRK ir SADM, nes kažkaip valstybinėje institucijoje ant durų platinti LVŽS rinkiminius plakatus (Luko Savicko ?)... na nežinau, ar čia neprasilenkiama su įstatymu...
 
 
 ![](/assets/2020/09/25/radi.png)
