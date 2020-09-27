@@ -60,7 +60,7 @@ Buvo keista skaityti jūsų pasvarstymus apie etiką. Jei perkeltumėme situaci
 Pagarbiai,
 Rūta Janutienė
 
-# 2020-09-25 Galūtinis mano atsakymas
+# 2020-09-25 Galutinis mano atsakymas
 
 Laba diena, Rūta,
 
@@ -76,6 +76,6 @@ Kiek pamenu, neteisiau nei vieno asmens, kuriam leidote sudalyvauti ir pasisakyt
 
 Bet kadangi vėl įžlibinate to, ko nerašiau, gal dar ir pas okulistą praverstų nueiti? Girdėjau rudens akcijos prasideda...
 
-Ir kadangi tamstai su teksto suvokimu prasčiau, nei pirmo kurso bakalauro studentams, paaiškinsiu labai paprastai: taip, aš neičiau kalbėti su Navalviu ar Putinu, likus porai savaičių iki rinkimų (tiesa, su abiem būtų labai įdomu pasikalbėti). Čia **esmė yra vykstančioje rinkimų kampanijoje**, o ne asmenyje. Jūs pati rašote "išnaudoti ne tik politiškai", aš neketinu leisti, jog būčiau išnaudojamas kažkurios partijos "politiškai".
+Ir kadangi tamstai su teksto suvokimu prasčiau, nei pirmo kurso bakalauro studentams, paaiškinsiu labai paprastai: taip, aš neičiau kalbėti su Navalnu ar Putinu, likus porai savaičių iki rinkimų (tiesa, su abiem būtų labai įdomu pasikalbėti). Čia **esmė yra vykstančioje rinkimų kampanijoje**, o ne asmenyje. Jūs pati rašote "išnaudoti ne tik politiškai", aš neketinu leisti, jog būčiau išnaudojamas kažkurios partijos "politiškai".
 
 Taip nesu labai drąsus žmogus, manau už mane yra šimtai, tūkstančiai drąsesnių žmonių – jie dirba su baltais chalatais, atremdami COVID19 pandemiją, jie vardan kitų lenda į ugnį, kad išgelbėtų kitus, jie susiduria su neadekvačiais, pavojingais asmenimis ir rizikuoja savo gyvybe, tam, kad apsaugotų likusią visuomenę nuo pavoju. Jie visi drąsesni už mane, bet dėl to, aš ir kovoju už didesnį MMA, už didesnį BD, už efektyvų ir stiprų viešąjį sektorių. Taip kad su visa pagarba, kaip parašė mano labai nemėgstamas influenceris A. Užkalnis viename iš komentarų FB, leiskite pacituosiu: „Eikite Jūs nachui“, su savo pigiomis provokacijomis...
