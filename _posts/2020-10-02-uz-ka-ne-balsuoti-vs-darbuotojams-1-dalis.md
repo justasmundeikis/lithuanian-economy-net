@@ -1,5 +1,5 @@
 ﻿---
-title: Už ką ne-balsuoti viešojo sektoriaus darbuotojams? (1 dalis)
+title: Už ką balsuoti viešojo sektoriaus darbuotojams? (1 dalis)
 date: 2020-10-02 13:00:00 +03:00
 author: Justas Mundeikis
 layout: post
@@ -207,6 +207,8 @@ Dar viena partija kuri paaiškins, kaip turite gyventi, kas esate ir geriausia d
 
 ## Darbo partija (Nr. 16 ) - OUT
 
+![](/assets/2020/10/02/nr16.jpg)
+
 Uspakichas nerimsta - nori prie "lovio". Selektyvios priemonės, pro-versliškumas, kuriuos bandoma užmaskuoti pseudo kairuoliškumu. Bandymas papirkti pedagogus, juos išleidžiant nuo 55m. į pensiją yra diskriminacinis, be to, klausimas kiltų, kas tada dar mokytų vaikus? Logikos 0, sisteminių problemų sprendimo nėra, todėl OUT. Balsavimas nuo 21, o tai kodėl ne nuo 18?.
 
 Nori lapino vištidėje, prašom, bet žinok ką tai reiškia...
@@ -218,7 +220,7 @@ Nori lapino vištidėje, prašom, bet žinok ką tai reiškia...
 
 ![](/assets/2020/10/02/nr17.jpg)
 
-LSDP bando reformuotis ir judėti kairesnės politikos link. Deja dauguma pasisakymų, kaip kairiajai partijai, yra vis dar per silpni. Tačiau tendencija yra teisinga. Klausimą kelia tai, kokia
+LSDP bando reformuotis ir judėti kairesnės politikos link. Deja dauguma pasisakymų, kaip kairiajai partijai, yra vis dar per silpni. Tačiau tendencija yra teisinga. Klausimą kelia tai, ar LSDP masė bus didesnė nei LVŽS ir ar tas judėjimas kairyn neatsitrenks į LVŽS liberalumą. Taip kad labai gaila, jog pas LSDP vis dar stringama su žaliaja ir euopine politika...
 
 
 <table><thead><tr><th>Turinys</th><th>Vertinimas</th></tr></thead><tbody><tr><td>Kultūros finansavimo didinimas iki 2 proc. bendrojo vidaus produkto (BVP) 2024 metais.</td><td>OK</td></tr><tr><td>Mokytojų atlyginimų didinimas – skiriant ne mažiau nei 130 proc. vidutinio šalies darbo užmokesčio.</td><td>Silpnai</td></tr><tr><td>Priėmimas į mokyklą – tik pagal gyvenamąją vietą ir nesvarbu, koks vaikų pažangumas.</td><td>OK</td></tr><tr><td>Aukštųjų mokyklų dėstytojų, mokslo darbuotojų ir kitų tyrėjų uždarbis turi siekti ne mažiau kaip 150 proc. vidutinio šalies darbo užmokesčio. Visiems studentams – pirmas semestras nemokamas.</td><td>Silpnai</td></tr><tr><td>Įsteigsime valstybinį plėtros banką, kuris šalia klasikinių investavimo į plėtrą priemonių turėtų ir platų socialinį mandatą. Šalia smulkaus ir vidutinio verslo finansavimo aktualios ir paskolos įgyvendinant valstybinę būsto politiką.</td><td>OK</td></tr><tr><td>Skatinsime jaunųjų ūkininkų (iki 40 m.) įsikūrimą, teikiant prioritetą ir kuriant atskiras paramos schemas jauniesiems ūkininkams pagal įvairias ES ir nacionalinės paramos priemones.</td><td>-</td></tr><tr><td>Parengsime ir įdiegsime vieningo bilieto koncepciją visoms transporto rūšims, įskaitant kelionėms geležinkeliu.</td><td>-</td></tr><tr><td>Atliksime išsamų kaštų-naudos analizės tyrimą dėl Klaipėdos SGD terminalo veiklos, efektyvumo ir perspektyvų.</td><td>O po to?</td></tr><tr><td>Nustatysime, kad apsilankyti pas pirminės sveikatos priežiūros specialistus būtų galima vėliausiai per penkias paras, o sudėtingus tyrimus ir specialistų konsultacijas atlikti ne vėliau nei per mėnesį.</td><td>Lydekai paliepus…</td></tr><tr><td>Universalios nacionalinės senatvės pensijos įdiegimas. Ši pensija pakeistų bazines ir šalpos pensijas. Ši nacionalinė pensija būtų kasmet indeksuojama ir iki kadencijos pabaigos tikėtina pasiektų minimalų vartojimo poreikio dydį (MVPD) (šiuo metu 257 eurai).</td><td>Silpnai</td></tr><tr><td>Maisto produktams – lengvatinis 9 proc. PVM tarifas.</td><td>OK</td></tr><tr><td>Apsvarstysime galimybę steigti Piliečių Asamblėją, kuri svarstytų strateginius šalies raidos klausimus.</td><td>??</td></tr><tr><td>Siekiant pagreitinti korupcinių bylų nagrinėjimą, bus formuojamos specializuotos teisėjų kolegijos, griežtinamos sąlygos proceso dalyviams vilkinti teismų procesus.</td><td>-</td></tr><tr><td>Priimsime partnerystės įstatymą, leidžiantį vienalytėms poroms įteisinti savo šeimyninius santykius, reglamentuosime dar 2001 m. Civiliniame kodekse numatytą galimybę translyčiams asmenims pakeisti savo lytį ir teisinį lyties pripažinimą.</td><td>Silpnai</td></tr><tr><td>Išlaikysime pasiektą 2 proc. nuo BVP gynybai skiriamų lėšų ribą ir subalansuotą ilgalaikį atsaką kylančioms saugumo ir gynybos grėsmėms ir iššūkiams atremti. Bet pasisakome prieš didesnę nei 2 proc. nuo BVP lėšų skyrimo ribą. </td><td>OK</td></tr></tbody></table>
