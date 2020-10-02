@@ -1,5 +1,5 @@
 ﻿---
-title: Už ką balsuoti viešojo sektoriaus darbuotojams? (1 dalis)
+title: Už ką ne-balsuoti viešojo sektoriaus darbuotojams? (1 dalis)
 date: 2020-10-02 13:00:00 +03:00
 author: Justas Mundeikis
 layout: post
