@@ -209,7 +209,7 @@ Dar viena partija kuri paaiškins, kaip turite gyventi, kas esate ir geriausia d
 
 ![](/assets/2020/10/02/nr16.jpg)
 
-Uspakichas nerimsta - nori prie "lovio". Selektyvios priemonės, pro-versliškumas, kuriuos bandoma užmaskuoti pseudo kairuoliškumu. Bandymas papirkti pedagogus, juos išleidžiant nuo 55m. į pensiją yra diskriminacinis, be to, klausimas kiltų, kas tada dar mokytų vaikus? Logikos 0, sisteminių problemų sprendimo nėra, todėl OUT. Balsavimas nuo 21, o tai kodėl ne nuo 18?.
+Uspakichas nerimsta - nori prie "lovio". Selektyvios priemonės, pro-versliškumas, kuriuos bandoma užmaskuoti pseudo kairuoliškumu. Bandymas papirkti pedagogus, juos išleidžiant nuo 55m. į pensiją yra diskriminacinis kitų profesijų pvz., dėstytojų, medikų atžvilgiu, be to, klausimas kiltų, o kas tada dar mokytų vaikus? Logikos 0, sisteminių problemų sprendimo nėra, todėl OUT. Balsavimas nuo 21, o tai kodėl ne nuo 18?.
 
 Nori lapino vištidėje, prašom, bet žinok ką tai reiškia...
 
