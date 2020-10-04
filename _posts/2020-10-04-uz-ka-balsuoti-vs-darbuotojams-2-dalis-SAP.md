@@ -492,10 +492,9 @@ Apibendrinus, mano asmeniniu vertinimu laimi LSDP su svertiniu įverčiu +0.33. 
 
 # Galimos koalicijos
 
-Jeigu koalicija bus TS-LKD + liberalai (tikėtina abu + darbo partija (nes irgi dešinės politika)) - pasekmių nenoriu net bandyti įsivaizduoti.
-
-* Jeigu koalicija bus LSDP+LVŽS - įdomus scenarijus. Jeigu LSDP turės daugumą, galima tikėtis racionalesnės politikos. Bet tada LVŽS turi būti taip susilpnėjusi, kad T.Tomilino ir G.Palucko ašis nusvertų S.Skvernelio liberalizmą. Ar LVŽS viešajam sektoriui blogiau nei TS-LKD? Nežinau, man atrodo tolygiai. Vertinant SAP nuostatas, A.Veryga [JGA podcaste](https://www.mixcloud.com/JGA_podcast/16-rinkimai-%C4%AF-seim%C4%85-2020-lv%C5%BEs-aurelijus-veryga/) pasirodė racionaliausiai kalbantis iš visų JGA pašnekovų. Bet viskas remsis į mokesčių reformas.
-* Jeigu koalicija LSDP + TS-LKD - amenjuze. Tada du dalykai atrodo garantuoti: tolimesnis LSDP skaidymasis dėl išduotų principų, nes įtariu progresinių mokesčių idėjas LSDP palaidotų. Taip pat per dar sekančius rinkimus dar aktyvensis radžvilinis, alkinis vektorius, per TS-LKD nuėjimą dar labiau link centro kairės.  Taigi nebūtų ne tik esminių reformų, bet dar mums padovanotų if lietuviškus AfD.
+* Jeigu koalicija: TS-LKD + liberalai (tikėtina abu + darbo partija (nes irgi dešinės politika)) - pasekmių nenoriu net bandyti įsivaizduoti.
+* Jeigu koalicija:LSDP + LVŽS - įdomus scenarijus. Jeigu LSDP turės daugumą, galima tikėtis racionalesnės politikos. Bet tada LVŽS turi būti taip susilpnėjusi, kad T.Tomilino ir G.Palucko ašis nusvertų S.Skvernelio liberalizmą. Ar LVŽS viešajam sektoriui blogiau nei TS-LKD? Nežinau, man atrodo tolygiai. Vertinant SAP nuostatas, A.Veryga [JGA podcaste](https://www.mixcloud.com/JGA_podcast/16-rinkimai-%C4%AF-seim%C4%85-2020-lv%C5%BEs-aurelijus-veryga/) pasirodė racionaliausiai kalbantis iš visų JGA pašnekovų. Bet viskas remsis į mokesčių reformas.
+* Jeigu koalicija: LSDP + TS-LKD - amenjuze. Tada du dalykai atrodo garantuoti: tolimesnis LSDP skaidymasis dėl išduotų principų, nes įtariu progresinių mokesčių idėjas LSDP palaidotų. Taip pat per dar sekančius rinkimus dar aktyvensis radžvilinis, alkinis vektorius, per TS-LKD nuėjimą dar labiau link centro kairės.  Taigi nebūtų ne tik esminių reformų, bet dar mums padovanotų if lietuviškus AfD.
 
 # Apibendrinimas
 
@@ -503,6 +502,6 @@ Jeigu perskaitėte iki čia, sveikinu. Tiek Jus, tiek ir save. Manau esame neblo
 
 Ar sutinkate su mano pasirinktais kriterijais, ar sutinkate su mano įverčiais absoliučiai nėra svarbu. Svarbu, jog gerai apgalvotumėte, atmestumėte šabloninį myliu nemyliu vertinimą ir pagalvotumėte, kas Lietuvai būtų geriausia ir Spalio 11 d. eitumėte atsakingai balsuoti.
 
-Skaidrumo dėlei: neturiu jokių asmeninių, finansinių ar dar kokių nors sąsajų su abiejomis partijomis. Stengiausi šį komentarą parengti kuo galima skaidriau, nešališkiau, ir objektyviau.
+Skaidrumo dėlei: neturiu jokių asmeninių, finansinių ar dar kokių nors sąsajų su abiejomis partijomis. Stengiausi šį komentarą parengti kuo galima skaidriau, nešališkiau ir objektyviau.
 
 Kam norisi mano lentelės  exceliuko, kad pasidėlioti savo įveritinimus, [prašau čia](/assets/2020/10/04/sveikata_table.ods)
