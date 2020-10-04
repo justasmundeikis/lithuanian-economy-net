@@ -376,7 +376,7 @@ Kaip parodo žemiau esantis grafikas, Lietuvoje jau skiriama santykinai daug lė
 
 **TS-LKD**
 
--4 punktai. TS-LKD nekalba apie mokesčių didinimo poreikį, kuris yra akivaizdus, nes pati partija įvardija, jog trūksta apie 4 proc. punktų (~2 mlrd. eurų). Mini priemonėlėmis to neišspręsime. Partija siūlo moratoriumą, nedidinti mokesčių ir netgi, tam tikrais atvejais juos mažinti. Ekonominės logikos, kaip mažinant mokesčius, rasti 4 milijardus SA finansavimo didinimui, nerasta. TS-LKD, būkit geri, nustokite maišyti priežastis ir pasekmes: tai kad valstybė už savo draudžiamus asmenis nemoka pakankamai, yra pasekmė. Iš tuščios kišenės auksinio skatiko juk neištrauksi! Mąstantiems šis punktas, kaip ir pas Liberalų Sąjūdį bei Laisvės Partiją reiškia viena - **KO** kriterijus.
+-2 punktai. TS-LKD nekalba apie mokesčių didinimo poreikį, kuris yra akivaizdus, nes pati partija įvardija, jog trūksta apie 4 proc. punktų (~2 mlrd. eurų). Mini priemonėlėmis to neišspręsime. Partija siūlo moratoriumą, nedidinti mokesčių ir netgi, tam tikrais atvejais juos mažinti. Ekonominės logikos, kaip mažinant mokesčius, rasti 4 milijardus SA finansavimo didinimui, nerasta. TS-LKD, būkit geri, nustokite maišyti priežastis ir pasekmes: tai kad valstybė už savo draudžiamus asmenis nemoka pakankamai, yra pasekmė. Iš tuščios kišenės auksinio skatiko juk neištrauksi! Mąstantiems šis punktas, kaip ir pas Liberalų Sąjūdį bei Laisvės Partiją reiškia viena - **KO** kriterijus.
 
 Sąrašo, kas yra valstybės draudžiami asmenys, peržiūra yra gera idėja, bet ką reiškia konkrečiai? Tėvai mokės už vaikus? Pensininkai turės daugiau prisidėti? Studentai turės mokėti už save? Naikinamos lengvatos? Neaišku... ir 4 mlrd. ir čia nesukrapštysite.
 
