@@ -20,8 +20,8 @@ if(!dir.exists("figures")) dir.create("figures")
 # General government expenditure by function (COFOG) 
 gov_10a_exp <- get_eurostat("gov_10a_exp", 
                             stringsAsFactors=FALSE, 
-                            filters = list(cofog99=c("GF09" ,"GF0901","GF0902","GF0903","GF0904","GF0905","GF0906","GF0907","GF0908"),
-                                           geo=c("EU28","EU27_2019","BE","BG","CZ","DK","DE","EE","IE","EL","ES","FR","HR","IT","CY","LV","LT","LU","HU","MT","NL","AT","PL","PT","RO","SI","SK","FI","SE","UK","IS","LI","NO","CH"),
+                            filters = list(cofog99=c("GF07","GF0701","GF0702","GF0703","GF0704","GF0705","GF0706"),
+                                           geo=c("EU28","EU27_2020","BE","BG","CZ","DK","DE","EE","IE","EL","ES","FR","HR","IT","CY","LV","LT","LU","HU","MT","NL","AT","PL","PT","RO","SI","SK","FI","SE","UK","IS","LI","NO","CH"),
                                            na_item="TE",
                                            sector="S13",
                                            unit=c("PC_GDP", "PC_TOT")))
@@ -66,27 +66,27 @@ S3R0050_M3060322 <- as.data.frame(S3R0050_M3060322 , labels = TRUE)
 # General government expenditure on education, GF09, POINT ====
 # COM:  Check manually on latest year available, filter accordingly
 
-df_gov_ex_09 <- gov_10a_exp %>%
+df_gov_ex_07 <- gov_10a_exp %>%
         filter(
-                cofog99=="GF09", 
+                cofog99=="GF07", 
                 sector=="S13",
                 na_item=="TE",
-                geo %in% c("EU27_2019","BE","BG","CZ","DK","DE","EE","IE","EL","ES","FR","HR","IT","CY","LV","LT","LU","HU","MT","NL","AT","PL","PT","RO","SI","SK","FI","SE","UK","IS","LI","NO","CH"),
-                year(time)=="2017",
+                geo %in% c("EU27_2020","BE","BG","CZ","DK","DE","EE","IE","EL","ES","FR","HR","IT","CY","LV","LT","LU","HU","MT","NL","AT","PL","PT","RO","SI","SK","FI","SE","UK","IS","LI","NO","CH"),
+                year(time)=="2018",
                 unit %in% c("PC_GDP", "PC_TOT")
         ) %>%
         spread(unit, values)
 
-last_year <-   strftime(max(df_gov_ex_09$time),"%Y")
+last_year <-   strftime(max(df_gov_ex_07$time),"%Y")
 
 png("./figures/general_government_expenditure_on_education.png", width = 12, height = 6, units = 'in', res = 200)
-ggplot(data=df_gov_ex_09, aes(x=PC_GDP, y=PC_TOT))+
+ggplot(data=df_gov_ex_07, aes(x=PC_GDP, y=PC_TOT))+
         geom_point()+
-        scale_x_continuous(limits = c(min(df_gov_ex_09$PC_GDP), max(df_gov_ex_09$PC_GDP)), breaks = seq(0, 100, by = 0.5))+
-        scale_y_continuous(limits = c(min(df_gov_ex_09$PC_TOT), max(df_gov_ex_09$PC_TOT)), breaks = seq(0, 100, by = 1))+
+        scale_x_continuous(limits = c(min(df_gov_ex_07$PC_GDP), max(df_gov_ex_07$PC_GDP)), breaks = seq(0, 100, by = 0.5))+
+        scale_y_continuous(limits = c(min(df_gov_ex_07$PC_TOT), max(df_gov_ex_07$PC_TOT)), breaks = seq(0, 100, by = 1))+
         geom_text(aes(label=geo), hjust=1, vjust=1.5, size=4)+
-        geom_hline(yintercept=df_gov_ex_09$PC_TOT[df_gov_ex_09$geo=="EU27_2019"])+
-        geom_vline(xintercept = df_gov_ex_09$PC_GDP[df_gov_ex_09$geo=="EU27_2019"])+
+        geom_hline(yintercept=df_gov_ex_07$PC_TOT[df_gov_ex_07$geo=="EU27_2020"])+
+        geom_vline(xintercept = df_gov_ex_07$PC_GDP[df_gov_ex_07$geo=="EU27_2020"])+
         labs(title=paste("General government expenditure on education (GF09),",last_year), 
              subtitle="Source: Eurostat (gov_10a_exp), calculations: Lithuanian-Economy.net", 
              x="% GDP", 
@@ -96,7 +96,7 @@ dev.off()
 
 # General government expenditure on education vs GDP size  ====
 
-df_gov_ex_09 <- gov_10a_exp %>%
+df_gov_ex_07 <- gov_10a_exp %>%
         filter(
                 cofog99=="GF09", 
                 sector=="S13",
@@ -106,7 +106,7 @@ df_gov_ex_09 <- gov_10a_exp %>%
                 unit=="PC_GDP")%>%
         select(geo,time, values)%>%
         rename(exp_educ=values)
-last_year <-   strftime(max(df_gov_ex_09$time),"%Y")
+last_year <-   strftime(max(df_gov_ex_07$time),"%Y")
 
 df_nama_gdp <- nama_10_gdp %>% 
         filter(
@@ -117,7 +117,7 @@ df_nama_gdp <- nama_10_gdp %>%
         select(geo, values)%>%
         rename(GDP=values)
 
-unite <- full_join(df_gov_ex_09,df_nama_gdp, by="geo")%>% na.omit()
+unite <- full_join(df_gov_ex_07,df_nama_gdp, by="geo")%>% na.omit()
 
 png("./figures/exp_educ_gdp_size.png", width = 12, height = 6, units = 'in', res = 200)
 ggplot(data=unite, aes(x=log(GDP), y=exp_educ))+
@@ -136,18 +136,18 @@ dev.off()
 
 # General government expenditure on education, GF0901, BAR ====
 
-df_gov_ex_0901 <- gov_10a_exp %>%
+df_gov_ex_0701 <- gov_10a_exp %>%
         filter(cofog99 %in% c("GF0901"),
                na_item=="TE",
-               geo %in% c("EU27_2019","BE","BG","CZ","DK","DE","EE","IE","EL","ES","FR","HR","IT","CY","LV","LT","LU","HU","MT","NL","AT","PL","PT","RO","SI","SK","FI","SE","UK","IS","LI","NO","CH"),
+               geo %in% c("EU27_2020","BE","BG","CZ","DK","DE","EE","IE","EL","ES","FR","HR","IT","CY","LV","LT","LU","HU","MT","NL","AT","PL","PT","RO","SI","SK","FI","SE","UK","IS","LI","NO","CH"),
                sector=="S13",
                year(time)=="2017",
                unit=="PC_GDP")
 
-last_year <-   strftime(max(df_gov_ex_0901$time),"%Y") 
+last_year <-   strftime(max(df_gov_ex_0701$time),"%Y") 
 
 png("./figures/general_government_expenditure_on_education_bar_gdp_0901.png", width = 12, height = 6, units = 'in', res = 200)
-ggplot(data=df_gov_ex_0901, aes(x=reorder(geo, values), y=values))+
+ggplot(data=df_gov_ex_0701, aes(x=reorder(geo, values), y=values))+
         geom_bar(stat = "identity", 
                  position = "dodge", 
                  show.legend = FALSE,
@@ -162,18 +162,18 @@ dev.off()
 
 # General government expenditure on education, GF0902, BAR ====
 
-df_gov_ex_0902 <- gov_10a_exp %>%
+df_gov_ex_0702 <- gov_10a_exp %>%
         filter(cofog99 %in% c("GF0902"),
                na_item=="TE",
-               geo %in% c("EU27_2019","BE","BG","CZ","DK","DE","EE","IE","EL","ES","FR","HR","IT","CY","LV","LT","LU","HU","MT","NL","AT","PL","PT","RO","SI","SK","FI","SE","UK","IS","LI","NO","CH"),
+               geo %in% c("EU27_2020","BE","BG","CZ","DK","DE","EE","IE","EL","ES","FR","HR","IT","CY","LV","LT","LU","HU","MT","NL","AT","PL","PT","RO","SI","SK","FI","SE","UK","IS","LI","NO","CH"),
                sector=="S13",
                year(time)=="2017",
                unit=="PC_GDP")
 
-last_year <-   strftime(max(df_gov_ex_0902$time),"%Y") 
+last_year <-   strftime(max(df_gov_ex_0702$time),"%Y") 
 
 png("./figures/general_government_expenditure_on_education_bar_gdp_0902.png", width = 12, height = 6, units = 'in', res = 200)
-ggplot(data=df_gov_ex_0902, aes(x=reorder(geo, values), y=values))+
+ggplot(data=df_gov_ex_0702, aes(x=reorder(geo, values), y=values))+
         geom_bar(stat = "identity", 
                  position = "dodge", 
                  show.legend = FALSE,
@@ -189,7 +189,7 @@ dev.off()
 # Income quintile share ratio S80/S20 for disposable income, BAR ====
 
 df_ilc_di11 <- ilc_di11 %>% filter(age=="Y_LT65",
-                          geo %in% c("EU27_2019","BE","BG","CZ","DK","DE","EE","IE","EL","ES","FR","HR","IT","CY","LV","LT","LU","HU","MT","NL","AT","PL","PT","RO","SI","SK","FI","SE","UK","IS","LI","NO","CH"),
+                          geo %in% c("EU27_2020","BE","BG","CZ","DK","DE","EE","IE","EL","ES","FR","HR","IT","CY","LV","LT","LU","HU","MT","NL","AT","PL","PT","RO","SI","SK","FI","SE","UK","IS","LI","NO","CH"),
                           sex=="T",
                           year(time)=="2018")
 
