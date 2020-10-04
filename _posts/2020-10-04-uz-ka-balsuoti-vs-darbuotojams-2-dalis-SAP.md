@@ -504,3 +504,5 @@ Jeigu perskaitėte iki čia, sveikinu. Tiek Jus, tiek ir save. Manau esame neblo
 Ar sutinkate su mano pasirinktais kriterijais, ar sutinkate su mano įverčiais absoliučiai nėra svarbu. Svarbu, jog gerai apgalvotumėte, atmestumėte šabloninį myliu nemyliu vertinimą ir pagalvotumėte, kas Lietuvai būtų geriausia ir Spalio 11 d. eitumėte atsakingai balsuoti.
 
 Skaidrumo dėlei: neturiu jokių asmeninių, finansinių ar dar kokių nors sąsajų su abiejomis partijomis. Stengiausi šį komentarą parengti kuo galima skaidriau, nešališkiau, ir objektyviau.
+
+Kam norisi mano lentelės  exceliuko, kad pasidėlioti savo įveritinimus, [prašau čia](/assets/2020/10/04/sveikata_table.ods)
