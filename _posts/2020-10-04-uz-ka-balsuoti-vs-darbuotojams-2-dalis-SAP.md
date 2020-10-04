@@ -131,7 +131,7 @@ Labai primena lydekai paliepus, man panorėjus... ne **nustatyti** reikia, o **�
 
 **TS-LKD**
 
-Apimtis: ~6685 žodžiai (pustrečio karto daugiau nei LSDP). Mano darbinę TS-LKD rinkiminės programos kopiją galima rasti [čia sveikata](/assets/2020/10/04/TS-LKD_Sveikatos_politika_v1.1.pdf), [čia ekonomika](/assets/2020/10/04/TS-LKD_Ekonomika_inovacijos.pdf). Programa galėtų būti geriau formatuota, ir labiau pritaikyta spausdinimui išnaudojant puslapio plotą. Kas man patinka, tai, jog programoje pirma aprašomos tam tikros problemos, tarsi atliekama aiški situacijas apžvalga analizė. Po to seka partijos siūlomi sprendimai. Toks formatas padaro visą tekstą labiau suprantamu ir aiškesniu. Bet panašu, jog ir TS-LKD programa rašyta skubiai, ir čia aptinkama nukąstų sakinių. Apgailėtina.
+Apimtis: ~6685 žodžiai (pustrečio karto daugiau nei LSDP). Mano darbinę TS-LKD rinkiminės programos kopiją galima rasti [čia sveikata](/assets/2020/10/04/TSLKD_Sveikatos_politika_v1.1.pdf), [čia ekonomika](/assets/2020/10/04/TSLKD_Ekonomika_inovacijos.pdf). Programa galėtų būti geriau formatuota, ir labiau pritaikyta spausdinimui išnaudojant puslapio plotą. Kas man patinka, tai, jog programoje pirma aprašomos tam tikros problemos, tarsi atliekama aiški situacijas apžvalga analizė. Po to seka partijos siūlomi sprendimai. Toks formatas padaro visą tekstą labiau suprantamu ir aiškesniu. Bet panašu, jog ir TS-LKD programa rašyta skubiai, ir čia aptinkama nukąstų sakinių. Apgailėtina.
 
 TS-LKD programoje į akis krenta viena maža, bet labai svarbi detalė - teksto apačioje aiškiai parašyta, kas rengė ir kas prisidėjo prie programos rengimo. To nemačiau kitų partijų programose.
 
