@@ -26,7 +26,7 @@ Kodėl [po atrankos liko tik dvi partijos: LSDP ir TS-LKD](http://lithuanian-eco
 
 # Metodika
 
-Abiejų partijų programų lyginimui naudojuosi abiejų partijų rinkiminėmis programomis, [Jaunųjų gydytojų asociacijos podcast'u](https://www.mixcloud.com/JGA_podcast/) ir keliomis debatų laidomis bei asmenine patirtimi.
+Abiejų partijų lyginimui naudojuosi abiejų partijų rinkiminėmis programomis ir [Jaunųjų gydytojų asociacijos podcast'u](https://www.mixcloud.com/JGA_podcast/).
 
 Prieš pradėdamas vertinimą, apsibrėžiau 14 kriterijų. Kriterijų naudojimas turėtų padaryti abi programas kuo labiau **palyginimas**. Kriterijų pasirinkimui įtakos turėjo mano asmeninis sveikatos apsaugos sistemos problemų matymas. **Mano vertinimo kriterijų pasirinkimas padaro mano analizę labai subjektyvią**, tad vieni skaitytojai gali absoliučiai sutikti, kiti matyti visiškai kitas problemas, arba nesutikti su mano vertinimu. Kaip rašiau [ankstensiame blogposte](http://lithuanian-economy.net/2020/10/02/uz-ka-ne-balsuoti-vs-darbuotojams-1-dalis), aš esu kairiųjų pažiūrų ekonomistas. Nesakau, jog mano kriterijų apsirinkimas yra vienintelis, geriausias ir teisingiausias, tiesiog jie pasirinkti remiantis mano, kaip ekonomisto aktyviai įsivėlusio į viešojo sektoriaus (švietimo / sveikatos apsaugos) bei profesinių sąjungų, diskusijas. Todėl mano vertinimas ir lieka mano vertinimu, bet tikiuosi, įžvalgos bus naudingos ir tiems, kurie visiškai nesutinka su mano nuostatomis.
 
