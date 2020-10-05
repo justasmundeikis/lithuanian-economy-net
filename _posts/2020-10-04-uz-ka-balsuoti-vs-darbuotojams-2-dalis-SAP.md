@@ -504,4 +504,4 @@ Ar sutinkate su mano pasirinktais kriterijais, ar sutinkate su mano įverčiais 
 
 Skaidrumo dėlei: neturiu jokių asmeninių, finansinių ar dar kokių nors sąsajų su abiejomis partijomis. Stengiausi šį komentarą parengti kuo galima skaidriau, nešališkiau ir objektyviau.
 
-Kam norisi mano lentelės  exceliuko, kad pasidėlioti savo įveritinimus, [prašau čia](/assets/2020/10/04/sveikata_table.ods)
+Kam norisi mano lentelės exceliuko, kad pasidėlioti savo įveritinimus, [prašau čia](/assets/2020/10/04/sveikata_table.ods).
