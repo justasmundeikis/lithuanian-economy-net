@@ -238,3 +238,7 @@ Jeigu dar nedarėte, atlikite testą [manobalstas.lt](https://www.manobalsas.lt/
 
 
 <div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/67ayzfhLLCE " frameborder='0' scrolling='no' allowfullscreen></iframe></div>
+
+# Kitos dalys:
+
+* [Už ką balsuoti sveikatos apsaugos sektoriaus darbuotojams (ir ne tik)?](http://lithuanian-economy.net/2020/10/04/uz-ka-balsuoti-vs-darbuotojams-2-dalis-SAP)

@@ -1,5 +1,5 @@
 ﻿---
-title: Už ką balsuoti sveikatos apsaugos sektoriaus darbuotojams?
+title: Už ką balsuoti sveikatos apsaugos sektoriaus darbuotojams? (2 dalis)
 date: 2020-10-04 10:00:00 +03:00
 author: Justas Mundeikis
 layout: post
