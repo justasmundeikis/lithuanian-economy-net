@@ -20,7 +20,7 @@ tags:
 
 <div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/bZdfCfWy8dc" frameborder='0' scrolling='no' allowfullscreen></iframe></div>
 
-* Video naudotas [excliukas](/assets/2020/10/15/2021_PSDF_biudžetas/biudzeto_analuzes_santrauka.ods)
+* Video naudotas [exceliukas](/assets/2020/10/15/2021_PSDF_biudžetas/biudzeto_analuzes_santrauka.ods)
 
 # Key points:
 
@@ -56,6 +56,6 @@ tags:
 
 # Dokumentai naudoti video:
 
-* Video naudotas [excliukas](/assets/2020/10/15/2021_PSDF_biudžetas/biudzeto_analuzes_santrauka.ods)
-* Markiruotas [dokumentas su paaiškinimais](/assets/2020/10/15/2021_PSDF_biudžetas/4.+PSDF+biudžeto+rodiklių+paaiškinimai.pdf)
+* Video naudotas [exceliukas](/assets/2020/10/15/2021_PSDF_biudžetas/biudzeto_analuzes_santrauka.ods)
+* Markiruotas [dokumentas su paaiškinimais](/assets/2020/10/15/4.+PSDF+biudžeto+rodiklių+paaiškinimai.pdf)
 * Visi dokumentai [e-seimas.lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAK/966997ac0ea411ebbedbd456d2fb030d?jfwid=1367feg58b)
