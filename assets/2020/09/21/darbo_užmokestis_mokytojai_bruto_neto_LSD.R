@@ -42,11 +42,11 @@ df_2 <- merge(df_a, df_b)%>%
 
 
 
-vdu_actual <- df_3$vdu[df_3$LAIKOTARPIS==max(df_3$LAIKOTARPIS)]
+vdu_actual <- df_2$vdu[df_2$LAIKOTARPIS==max(df_2$LAIKOTARPIS)]
 vdu_koef <- 130
 
 png("mokytojų_bruto_neto_LSD.png", width = 9, height = 6, units = 'in', res = 200)
-ggplot(data = df, aes(x=LAIKOTARPIS, y=obsValue, color=darboM3060321_label.lt)) + 
+ggplot(data = df_1, aes(x=LAIKOTARPIS, y=obsValue, color=darboM3060321_label.lt)) + 
   geom_line(size=1.1)+
   scale_x_datetime(date_breaks = "1 year", date_labels = "%Y")+
   scale_y_continuous(limits=c(0,2000), breaks = seq(0,3300, by=250))+
