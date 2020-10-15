@@ -50,12 +50,12 @@ tags:
   1. Dalinkitės šiuo blogpost'u  (faceopst'u), stenkitės peržiūrėti ir  suprasti video ir skaičius, jeigu kyla klausimų, komentuokite blogo apačioje
   2. Parašykite Jus atstovaujančiai organizacijai: profsąjungai, asociacijai, nesvaru ar dirbate SA srityje ar esate pacientai ar tiesiog piliečiai. Jūsų palaikymo reikia!
   3. Raginkite savo atstovus dalyvauti Seimo [Sveikatos reikalų komiteto](https://www.lrs.lt/sip/portal.show?p_r=35821&p_k=1) ir [Biudžeto ir finansų komiteto](https://www.lrs.lt/sip/portal.show?p_r=35814&p_k=1) posėdžiuose Pirmame bus skirstomi pinigai, antrame, sprendžiama kiek jų surenkama.
-  4. **Eikite patys į posėdžius**, kas negalite, stebėkite per youtube transliacijas ir ...
+  4. **Eikite patys į posėdžius**, kas negalite - stebėkite per youtube transliacijas ir ...
   5. **Rašykite Seimo nariams**, skambinkite jų biurams ir reikalaukite, jog mūsų visų sveikatos apsaugos sistema nebūtų naikinama!
 
 
 # Dokumentai naudoti video:
 
 * Video naudotas [exceliukas](/assets/2020/10/15/2021_PSDF_biudžetas/biudzeto_analuzes_santrauka.ods)
-* Markiruotas [dokumentas su paaiškinimais](/assets/2020/10/15/4.+PSDF+biudžeto+rodiklių+paaiškinimai.pdf)
+* Markiruotas [dokumentas su paaiškinimais](/assets/2020/10/15/2021_PSDF_biudžetas/4.+PSDF+biudžeto+rodiklių+paaiškinimai.pdf)
 * Visi dokumentai [e-seimas.lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAK/966997ac0ea411ebbedbd456d2fb030d?jfwid=1367feg58b)
