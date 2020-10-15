@@ -57,5 +57,4 @@ tags:
 # Dokumentai naudoti video:
 
 * Video naudotas [exceliukas](/assets/2020/10/15/2021_PSDF_biudžetas/biudzeto_analuzes_santrauka.ods)
-* Markiruotas [dokumentas su paaiškinimais](/assets/2020/10/15/2021_PSDF_biudžetas/4.+PSDF+biudžeto+rodiklių+paaiškinimai.pdf)
 * Visi dokumentai [e-seimas.lrs.lt](https://e-seimas.lrs.lt/portal/legalAct/lt/TAK/966997ac0ea411ebbedbd456d2fb030d?jfwid=1367feg58b)
