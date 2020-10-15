@@ -20,6 +20,8 @@ tags:
 
 <div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/bZdfCfWy8dc" frameborder='0' scrolling='no' allowfullscreen></iframe></div>
 
+* Video naudotas [excliukas](/assets/2020/10/15/2021_PSDF_biudžetas/biudzeto_analuzes_santrauka.ods)
+
 # Key points:
 
 * Medikų ir slaugytojų atlyginimų didėjimas **nenumatytas** 2021m. Jūsų atlyginimai jau pasiekė 3/1.5 VDU sutartus 201... metais :D
@@ -36,7 +38,7 @@ tags:
   * vis dar trūksta ~486 mln.
   * priemokos sąlygotų, kad nepasiturintys, sergantys, pensiniai ir daugiavaikės šeimos lankytųsi mažiau pas daktarus, ko pasekoje didėtų išvengiamų mirčių skaičius
 
-* Be mokesčių didinimo, išlaidos sveikatos apsaugai negali didėti! 
+* Be mokesčių didinimo, išlaidos sveikatos apsaugai negali didėti!
 * 2021-2023m. nenumatytas sveikatos sektoriaus finansavimo didinimas (santykinis)
   * 2021m. 4.68% BVP
   * 2022m. 4.78% BVP
