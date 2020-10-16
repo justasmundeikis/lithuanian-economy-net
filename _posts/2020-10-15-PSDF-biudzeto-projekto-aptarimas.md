@@ -21,6 +21,9 @@ tags:
 <div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/bZdfCfWy8dc" frameborder='0' scrolling='no' allowfullscreen></iframe></div>
 
 * Video naudotas [exceliukas](/assets/2020/10/15/2021_PSDF_biudžetas/biudzeto_analuzes_santrauka.ods)
+* Video patariu pasikeisti į 1080p HD!
+
+![](/assets/2020/10/15/to_hd.png)
 
 # Key points:
 
