@@ -6,11 +6,20 @@ permalink: /2021-budget/
 
 # Posėdžiai
 
-Šiame puslapyje pateikiami visi su 2021m. biudžetu susiję posėdžiai, tiek svarstant bendrą biudžetą (XIIIP-5302), tiek svarstant 2021m. PSDF biudžetą (XIIIP-5292).
+Šiame puslapyje pateikiami visi su 2021m. biudžetu susiję posėdžiai, tiek svarstant
+
+* Bendrą biudžetą (XIIIP-5302)
+* PSDF biudžetą (XIIIP-5292)
+* Valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų ir valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) bazinio dydžio, taikomo 2021 metais, įstatymo projektas (XIIIP-5299)
+
+
+
+
+
 
 ## Seimas
 
-<table><thead><tr><th>Data</th><th>Projekto nr.</th><th>Projekto pav.</th><th>URL dokumentai</th><th>URL posėdis</th><th>URL komentaras</th></tr></thead><tbody><tr><td>2020-10-20<br>10:05~10:45</td><td>XIIIP-5302</td><td>2021m. biudžetas</td><td><a href="https://tinyurl.com/y6yvb7vh">https://tinyurl.com/y6yvb7vh</a></td><td><a href="https://tinyurl.com/y3qf9uc9">https://tinyurl.com/y3qf9uc9</a> </td><td>-</td></tr><tr><td>2020-10-20<br>14:24 ~14:30</td><td>XIIIP-5292</td><td>2021m. PSDF biudžetas</td><td><a href="https://tinyurl.com/y2u37l72">https://tinyurl.com/y2u37l72</a></td><td><a href="https://tinyurl.com/y247wn9r">https://tinyurl.com/y247wn9r</a> </td><td>-</td></tr></tbody></table>
+<table><thead><tr><th>Data</th><th>Projekto nr.</th><th>Projekto pav.</th><th>URL dokumentai</th><th>URL posėdis</th><th>URL komentaras</th></tr></thead><tbody><tr><td>2020-10-20<br>10:05~10:45</td><td>XIIIP-5302</td><td>2021m. biudžetas</td><td><a href="https://tinyurl.com/y6yvb7vh">https://tinyurl.com/y6yvb7vh</a></td><td><a href="https://tinyurl.com/y3qf9uc9">https://tinyurl.com/y3qf9uc9</a> </td><td>-</td></tr><tr><td>2020-10-20<br>11:40~11:50</td><td>XIIIP-5299</td><td>BD</td><td><a href="https://tinyurl.com/y3e7574x">https://tinyurl.com/y3e7574x</a></td><td><a href="https://tinyurl.com/y3qf9uc9">https://tinyurl.com/y3qf9uc9</a> </td><td></td></tr><tr><td>2020-10-20<br>14:24~14:30</td><td>XIIIP-5292</td><td>2021m. PSDF biudžetas</td><td><a href="https://tinyurl.com/y2u37l72">https://tinyurl.com/y2u37l72</a></td><td><a href="https://tinyurl.com/y247wn9r">https://tinyurl.com/y247wn9r</a> </td><td>-</td></tr></tbody></table>
 
 ## Audito komitetas
 
