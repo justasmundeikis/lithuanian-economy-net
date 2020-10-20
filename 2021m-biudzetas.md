@@ -6,37 +6,26 @@ permalink: /2021-budget/
 
 # Posėdžiai
 
-Šiame puslapyje pateikiami visi su 2021m. biudžetu susiję posėdžiai, tiek svarstant
+Šiame puslapyje pateikiami su 2021m. biudžetu susiję posėdžiai:
 
-* Bendrą biudžetą (XIIIP-5302)
-* PSDF biudžetą (XIIIP-5292)
-* Valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų ir valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) bazinio dydžio, taikomo 2021 metais, įstatymo projektas (XIIIP-5299)
-
-
+* Bendrą biudžetą - XIIIP-5302 ([dokumentai](https://e-seimas.lrs.lt/portal/legalAct/lt/TAP/597cb7100ee411ebbedbd456d2fb030d))
+* PSDF biudžetą - XIIIP-5292 ([dokumentai](https://e-seimas.lrs.lt/portal/legalAct/lt/TAP/2a4cbe300ea411ebbedbd456d2fb030d))
+* Valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų ir valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) bazinio dydžio, taikomo 2021 metais, įstatymo projektas- XIIIP-5299 ([dokumentai](https://e-seimas.lrs.lt/portal/legalAct/lt/TAP/753516300ecd11ebbedbd456d2fb030d))
 
 
 
+<table>
+  {% for row in site.data.budget_2021_time_table %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
 
-## Seimas
-
-<table><thead><tr><th>Data</th><th>Projekto nr.</th><th>Projekto pav.</th><th>URL dokumentai</th><th>URL posėdis</th><th>URL komentaras</th></tr></thead><tbody><tr><td>2020-10-20<br>10:05~10:45</td><td>XIIIP-5302</td><td>2021m. biudžetas</td><td><a href="https://tinyurl.com/y6yvb7vh">https://tinyurl.com/y6yvb7vh</a></td><td><a href="https://tinyurl.com/y3qf9uc9">https://tinyurl.com/y3qf9uc9</a> </td><td>-</td></tr><tr><td>2020-10-20<br>11:40~11:50</td><td>XIIIP-5299</td><td>BD</td><td><a href="https://tinyurl.com/y3e7574x">https://tinyurl.com/y3e7574x</a></td><td><a href="https://tinyurl.com/y3qf9uc9">https://tinyurl.com/y3qf9uc9</a> </td><td></td></tr><tr><td>2020-10-20<br>14:24~14:30</td><td>XIIIP-5292</td><td>2021m. PSDF biudžetas</td><td><a href="https://tinyurl.com/y2u37l72">https://tinyurl.com/y2u37l72</a></td><td><a href="https://tinyurl.com/y247wn9r">https://tinyurl.com/y247wn9r</a> </td><td>-</td></tr></tbody></table>
-
-## Audito komitetas
-
-
-## Biudžeto ir finansų komitetas
-
-
-
-## Socialinių reikalų ir darbo komitetas
-
-
-
-## Sveikatos reikalų komitetas
-
-<table><thead><tr><th>Data</th><th>Projekto nr.</th><th>Projekto pav.</th><th>URL dokumentai</th><th>URL posėdis</th><th>URL komentaras</th></tr></thead><tbody><tr><td><br><br>2020-10-28<br>11.00–11.30<br>III r. 108 k.</td><td>XIIIP-5302</td><td>2021m. biudžetas</td><td><a href="https://tinyurl.com/y6yvb7vh">https://tinyurl.com/y6yvb7vh</a> </td><td><a href="https://tinyurl.com/yyo3od7w">https://tinyurl.com/yyo3od7w</a></td><td>-</td></tr><tr><td>2020-10-28<br>11.30–12.00<br>III r. 108 k.</td><td>XIIIP-5292</td><td>2021m. PSDF biudžetas</td><td><a href="https://tinyurl.com/y2u37l72">https://tinyurl.com/y2u37l72</a> </td><td><a href="https://tinyurl.com/yyo3od7w">https://tinyurl.com/yyo3od7w</a></td><td>-</td></tr></tbody></table>
-
-
-## Švietimo ir mokslo komitetas
-
-<table><thead><tr><th>Data</th><th>Projekto nr.</th><th>Projekto pav.</th><th>URL dokumentai</th><th>URL posėdis</th><th>URL komentaras</th></tr></thead><tbody><tr><td>2020-10-21<br>11.25–11.30<br>Nuotoliniu</td><td>XIIIP-5302</td><td>2021m. biudžetas</td><td><a href="https://tinyurl.com/y6yvb7vh">https://tinyurl.com/y6yvb7vh</a> </td><td>-</td><td>-</td></tr></tbody></table>
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
