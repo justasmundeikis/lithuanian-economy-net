@@ -63,3 +63,7 @@ Už balsavo LSDP, Paulius Saudargas (TS-LKD), Petras Čimbaras (Darbo partija). 
 Na ką gebamieji, manau aišku kaip niekad, kad TS-LKD + liberalai (+ LVŽS sudarys) pasakišką dešinės koaliciją. Skandinaviško tipo gerovės valstybę matysime kaip savo ausis, na nebent, esate stambaus kapitalo savininkas, tada taip, Jūsų gerovė tik toliau didės.
 
 Ir beje, gal gali politikai nustoti tarifų pakaitaliojimą vadinti "mokesčių reforma"? Skambios frazės, daug karšto oro ir deja, nepanašu, jog sekančius keturis metus to bus mažiau.
+
+Ot dar vienas naivus idealistas atsirado, miijonų mat reikia NVSC kovai su COVID19... pamiršk seni...
+
+<div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/f8vtZ56Zxco " frameborder='0' scrolling='no' allowfullscreen></iframe></div>
