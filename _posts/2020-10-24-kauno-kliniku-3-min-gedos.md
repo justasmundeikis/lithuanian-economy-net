@@ -1,5 +1,5 @@
 ﻿---
-title: Kauno klinikos 3 min. gėdos ir mobingo gydytojui išdrįsusiam netylėti
+title: Kauno klinikų 3 min. gėdos ir mobingo gydytojui išdrįsusiam netylėti
 date: 2020-10-21 10:00:00 +03:00
 author: Justas Mundeikis
 layout: post
@@ -43,8 +43,8 @@ Aš nenoriu berti į žaizdą druskos, bet manau visi kuo puikiausiai prisimenam
 
 Tačiau vien tik apie tai kalbėti, nėra gana. Darbdaviai matydami, jog jų darbuotojai "verda", turi užtikrinti adekvačias darbo sąlygas, o esant tokioms kritinėms situacijoms kaip dabar ir psichologinę pagalbos prieigą.
 
-Matau ir profesinių sąjungų atsakingumą, padėti ir palaikyti tokius kaip Karolis, kad jų ateityje būtų daugiau. PS negali veikti tik "patogumo" principu - triukšmauja kai patogu, o kai nepatogu - tyli. 
-Dėl Karolio pasisakymo kilęs triukšmas, mano supratimu, liečia visas VIEŠOJO SEKTORIAUS profesines sąjungas, todėl kviečiu Solidarumą, LPSK, Sandraugą bei kitas profesines sąjungas (ne tik atstovaujančias sveikatos sektoriaus darbuotojus) viešai išreikšti palaikymą Jaunųjų gydytojų asociacijai ir reikalauti atsakymų iš Kauno klinikų generalinio direktoriaus. 
+Matau ir profesinių sąjungų atsakingumą, padėti ir palaikyti tokius kaip Karolis, kad jų ateityje būtų daugiau. PS negali veikti tik "patogumo" principu - triukšmauja kai patogu, o kai nepatogu - tyli.
+Dėl Karolio pasisakymo kilęs triukšmas, mano supratimu, liečia visas VIEŠOJO SEKTORIAUS profesines sąjungas, todėl kviečiu Solidarumą, LPSK, Sandraugą bei kitas profesines sąjungas (ne tik atstovaujančias sveikatos sektoriaus darbuotojus) viešai išreikšti palaikymą Jaunųjų gydytojų asociacijai ir reikalauti atsakymų iš Kauno klinikų generalinio direktoriaus.
 
 
 # Visa spaudos konferencija
