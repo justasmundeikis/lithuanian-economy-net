@@ -1,6 +1,6 @@
 ﻿---
 title: Kauno klinikų 3 min. gėdos ir mobingo gydytojui išdrįsusiam netylėti
-date: 2020-10-21 10:00:00 +03:00
+date: 2020-10-24 10:00:00 +03:00
 author: Justas Mundeikis
 layout: post
 comments: true
