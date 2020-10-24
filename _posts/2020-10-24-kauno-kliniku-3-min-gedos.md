@@ -39,7 +39,7 @@ Raštas [pdf formatu](/assets/2020/10/24/raštas_Kauno_klinikoms_ir_VDI.pdf)
 
 # Kelios mintys
 
-Aš nenoriu berti į žaizdą druskos, bet manau visi kuo puikiausiai prisimename Klaipėdos gydytojo pasitraukimą iš gyvenimo, dėl to kilusias diskusijas apie mobingą sveikatos sektoriuje. Aš labai norėčiau, jog nepriklausomai nuo to, ar darbuotojai dirba privačiame, ar viešajame sektoriuje, jie galėtų viešai, laisvai ir nebijodami reikšti savo nuomonę apie darbo situaciją, problemas ir nejaustų jokio spaudimo tylėti à la "spręsti problemas viduje". Geriausias tokių pūlinių mūsų visuomenėję valymas - viešumas. Todėl noriu pasveikinti Karolį, jog ėmėsi atvirai apie tai kalbėti.
+Aš nenoriu berti į žaizdą druskos, bet manau visi kuo puikiausiai prisimename gydytojo pasitraukimą iš gyvenimo ir po to kilusias diskusijas apie mobingą sveikatos sektoriuje. Aš labai norėčiau, jog nepriklausomai nuo to, ar darbuotojai dirba privačiame, ar viešajame sektoriuje, jie galėtų viešai, laisvai ir nebijodami reikšti savo nuomonę apie darbo situaciją, problemas ir nejaustų jokio spaudimo tylėti à la "spręsti problemas viduje". Geriausias tokių pūlinių mūsų visuomenėję valymas - viešumas. Todėl noriu pasveikinti Karolį, jog ėmėsi atvirai apie tai kalbėti.
 
 Tačiau vien tik apie tai kalbėti, nėra gana. Darbdaviai matydami, jog jų darbuotojai "verda", turi ne tik užtikrinti adekvačias darbo sąlygas, bet ir (esant tokioms kritinėms situacijoms kaip dabar) psichologinę pagalbos prieigą.
 
