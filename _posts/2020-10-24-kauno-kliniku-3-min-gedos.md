@@ -41,7 +41,7 @@ Raštas [pdf formatu](/assets/2020/10/24/raštas_Kauno_klinikoms_ir_VDI.pdf)
 
 Aš nenoriu berti į žaizdą druskos, bet manau visi kuo puikiausiai prisimename Klaipėdos gydytojo pasitraukimą iš gyvenimo, dėl to kilusias diskusijas apie mobingą sveikatos sektoriuje. Aš labai norėčiau, jog nepriklausomai nuo to, ar darbuotojai dirba privačiame, ar viešajame sektoriuje, jie galėtų viešai, laisvai ir nebijodami reikšti savo nuomonę apie darbo situaciją, problemas ir nejaustų jokio spaudimo tylėti à la "spręsti problemas viduje". Geriausias tokių pūlinių mūsų visuomenėję valymas - viešumas. Todėl noriu pasveikinti Karolį, jog ėmėsi atvirai apie tai kalbėti.
 
-Tačiau vien tik apie tai kalbėti, nėra gana. Darbdaviai matydami, jog jų darbuotojai "verda", turi užtikrinti adekvačias darbo sąlygas, o esant tokioms kritinėms situacijoms kaip dabar ir psichologinę pagalbos prieigą.
+Tačiau vien tik apie tai kalbėti, nėra gana. Darbdaviai matydami, jog jų darbuotojai "verda", turi ne tik užtikrinti adekvačias darbo sąlygas, bet ir (esant tokioms kritinėms situacijoms kaip dabar) psichologinę pagalbos prieigą.
 
 Matau ir profesinių sąjungų atsakingumą, padėti ir palaikyti tokius kaip Karolis, kad jų ateityje būtų daugiau. PS negali veikti tik "patogumo" principu - triukšmauja kai patogu, o kai nepatogu - tyli.
 Dėl Karolio pasisakymo kilęs triukšmas, mano supratimu, liečia visas VIEŠOJO SEKTORIAUS profesines sąjungas, todėl kviečiu Solidarumą, LPSK, Sandraugą bei kitas profesines sąjungas (ne tik atstovaujančias sveikatos sektoriaus darbuotojus) viešai išreikšti palaikymą Jaunųjų gydytojų asociacijai ir reikalauti atsakymų iš Kauno klinikų generalinio direktoriaus.
