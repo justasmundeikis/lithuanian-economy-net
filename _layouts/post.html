@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+
+    <p class="post-meta">
+      {% assign words = content | number_of_words %}
+      {% if words < 360 %}
+      Skaitymo trukmė: 1 min
+      {% else %}
+      Skaitymo trukmė: {{ words | divided_by:180 }} mins
+      {% endif %}
+    </p>
+    <p class="post-meta">
+      <a href="{{ post.url | prepend: site.baseurl}}#disqus_thread"></a>
+    </p>
+
+  </header>
+
+  <center><img src="{{ page.image }}"></center>
+  <article class="post-content">
+    {{content}}
+  </article>
+</div>
+
+{% if page.citation == true %}
+{% include citation.html %}
+{% elsif page.citation == false %}
+{% include citation-free.html %}
+{% endif %}
+
+{% include comments-disqus.html %}

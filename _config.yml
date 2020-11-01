@@ -1,0 +1,64 @@
+# Site settings
+title: Lithuanian-Economy.net
+url: "https://www.lithuanian-economy.net"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+timezone: Europe/Vilnius
+description: >
+  One or more sentences introducing this blog.
+
+# Your information
+email: justas.mundeikis@lithuanian-economy.net
+author: Justas Mundeikis
+avatar: "/assets/general/Justas_Mundeikis_square.jpg"
+profile: Ekonomistas, doktorantas, blogger'is
+phone: "Tel. / Signal: +370 619 68973"
+# twitter_username: twitter_username
+# github_username:  justasmundeikis
+profile_links:
+  Email: "mailto:justas.mundeikis@lithuanian-economy.net"
+  GitHub: "https://github.com/justasmundeikis"
+
+permalink: /:year/:month/:day/:title
+excerpt_separator: <!--more-->
+
+header:
+  links:             # Links on the header. Link to in-site page with a slash as prefix
+    2021m. Biudžetas: /2021-budget/
+    Info: /info/
+    Kategorijos: /category/
+    Tags: /tag/
+
+
+plugins:
+ - jekyll-paginate
+ - jekyll-gist
+ - jemoji
+ - jekyll-seo-tag
+
+# Build settings
+paginate: 25
+paginate_path: "page:num"
+
+# https://jekyllrb.com/docs/configuration/#precedence
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+      citation: true
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  math_engine: mathjax
+
+# Comment Service (Disqus or 多说)
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: lithuanian-economy-net
