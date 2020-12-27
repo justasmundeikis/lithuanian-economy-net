@@ -60,3 +60,5 @@ Taip, nesu naivi, mūsų visuomenėje sąmoningumo dar trūksta. Vis dar sunku l
 Tas momentas, kai idealistai atėję į valdžią ir susidūrę su realybę daro tai, ką būtina daryti...
 
 Su šventėmis visus, ir Jus gerb. Arūnai, tikiuosi kiti metai bus ramesni mums visiems.
+
+![](/assets/2020/12/27/santa.jpeg)
