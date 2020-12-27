@@ -21,7 +21,7 @@ Lietuvos statistikos departamentas paskelbė (na gal nepaskelbė, bet šioje [st
 
 SAM ministras Arūnas Dulkys pamatęs tokią statistiką (Kalėdinę dovanėlę) tuoj ne tik nepaprastąją padėtį paskelbs, bet kiekvieną Lietuvį su klijais namuose asmeniškai priklijuos.
 
-Atitinkamai sulaukiau reakcijų ir aš, kodėl corona-stat.lt pateikiu klaidingus rodiklius (pas mane tik 29.6%)???
+Atitinkamai sulaukiau reakcijų ir aš, kodėl [corona-stat.lt](corona-stat.lt) pateikiu klaidingus rodiklius (pas mane tik 29.6%)???
 
 ![](/assets/2020/12/27/1.png)
 
