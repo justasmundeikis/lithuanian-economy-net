@@ -39,8 +39,7 @@ taip būtų teisinga, tačiau vietoj to, Statistikos departamentas skaičiuoja:
 
 ![](/assets/2020/12/27/2.png)
 
-Mielai parašyčiau, "Ministre, ramių švenčių", tik ir su 30% teigiamų santykiu, ministrui šventės ramios nebus, juolab matant, kaip mes sugebame laikytis "karantino".
-Pamenu pavasarį, liberalai ir co., aiškino, kaip reikia tartis su visuomene, kalbėtis, visuomenė mūsų sąmoninga "kaip Švedijoje"...
+Mielai parašyčiau, "Ministre, ramių švenčių", tik ir su 30% teigiamų testų santykiu, ministrui šventės ramios nebus, juolab matant, kaip mes sugebame laikytis "karantino", galime tikėtis su 7-10 dienų pavėlavimu pamatyti Kalėdų kalniuką susirgimuose ir deja, dar didesnį ligoninių apkrovimą. Pamenu pavasarį, liberalai ir co., aiškino, kaip reikia tartis su visuomene, kalbėtis, visuomenė mūsų sąmoninga "kaip Švedijoje"...
 
 ![](/assets/2020/12/27/3.png)
 
