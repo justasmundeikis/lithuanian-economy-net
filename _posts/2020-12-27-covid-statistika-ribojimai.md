@@ -61,3 +61,5 @@ Tas momentas, kai idealistai atėję į valdžią ir susidūrę su realybę daro
 Su šventėmis visus, ir Jus gerb. Arūnai, tikiuosi kiti metai bus ramesni mums visiems.
 
 ![](/assets/2020/12/27/santa.jpeg)
+
+Daugiau statisikos: [Corona-Stat.lt](corona-stat.lt) tinklapyje
