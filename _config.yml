@@ -59,9 +59,6 @@ kramdown:
   syntax_highlighter: rouge
   math_engine: mathjax
 
-feed:
-  excerpt_only: true
-
 # Comment Service (Disqus or 多说)
 disqus:
     # Leave shortname blank to disable comments site-wide.
