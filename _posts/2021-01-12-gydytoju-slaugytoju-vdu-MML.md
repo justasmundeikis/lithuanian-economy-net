@@ -12,10 +12,10 @@ categories:
 tags:
   - Atlyginimai
   - Medikai
-  - Sveikatos apsauga
+  - Atviri duomenys
 ---
 
-**Ech tie gydytojų ir slaugytojų atlyginimai VšĮ Mykolo Marcinkevičiaus ligoninėje...**<!--more-->
+**Apie gydytojų ir slaugytojų atlyginimus VšĮ Mykolo Marcinkevičiaus ligoninėje... ir SAM (ne-)skelbiamus "atvirus" duomenis.**<!--more-->
 
 2021-01-09 el. paštu kreipiausi į Valstybinę darbo inspekciją, nurodydamas, jog VšĮ Mykolo Marcinkevičiaus ligoninė neskelbia darbo užmokesčio darbo skelbimuose, kaip tai turėtų daryti, remiantis [LR Darbo kodekso 25 straipsnio 6 punktu](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/10c6bfd07bd511e6a0f68fd135e6f40c/asr):
 
