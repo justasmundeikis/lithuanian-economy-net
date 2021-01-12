@@ -32,9 +32,10 @@ Ir ką gi mes matome, viduryje Vilniaus, Lietuvos sostinėje?
 
 Kažkaip nestebina, jog VšĮ Mykolo Marcinkevičiaus ligoninė delsė skelbti VDU savo darbo skelbimuose. Kai SAM ir socialiniais partneriais sutarė, kad šiemet gydytojų VDU bruto turėtų siekti 3250 eurus, o slaugytojų 1625 eurus...
 
-Tačiau klausimas lieka kitas: kaip išgyventi pvz., vienam slaugytojui, auginančiam vaikus ir uždirbančiam 700+ eurų per mėnesį, Lietuvos sostinėje? Klausimas retorinis, nes labiau panašu, jog VLK ir SAM vis dar pro pirštus žiūri tiek į tai, kaip yra vykdomas susitarimas, tiek, kaip yra skelbiama statistika. Todėl šiandien kartu kreipiausi ir į SAM, jog jie pagaliau pradėtų skelbti adekvačią VDU statistiką.
+Tačiau klausimas lieka kitas: kaip išgyventi pvz., vienam slaugytojui, auginančiam vaikus ir uždirbančiam 700+ eurų per mėnesį, Lietuvos sostinėje? Klausimas retorinis, nes labiau panašu, jog VLK ir SAM vis dar pro pirštus žiūri tiek į tai, kaip yra vykdomas susitarimas, tiek, kaip yra skelbiama statistika. Todėl šiandien kartu kreipiausi ir į SAM, jog jie pagaliau pradėtų skelbti adekvačią ASPĮ VDU statistiką:
+
+![](/assets/2021/01/12/raštas_SAM_dėl_duomenų_VDU_gydytojų_slaugytojų_ASPI_rodikliai.png)
+
 
 Sprendimas būtų, bet Premjerės patarėja tapusi (ex. LMS) Ž.Guldevičienė mane ir vėl išvadintų socialistu. Siūlymo esmė, jog medikai (kaip beje ir mokytojai) turėtų tapti valstybės tarnautojais, būti samdomais SAM, o ne pavienių ligoninių... Nes dabar SAM tiesiogiai paveikti atlyginimų negali, gali tik per VLK didinti paslaugų įkainius... Kam ligoninės panaudoja šiuos pinigus, atsakingos ligoninės tik savo steigėjui, ne retai - savivaldybei...
 Mums reikia šioje vietoje kito sprendimo, tebūnie "socialistinio", bet veikiančio ir efektyvaus sprendimo.
-
-![](/assets/2021/01/12/raštas_SAM_dėl_duomenų_VDU_gydytojų_slaugytojų_ASPI_rodikliai.png)
