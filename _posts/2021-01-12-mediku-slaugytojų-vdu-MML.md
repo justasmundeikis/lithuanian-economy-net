@@ -21,7 +21,7 @@ tags:
 
 > Darbo skelbime darbdavys privalo nurodyti informaciją apie siūlomo bazinio (tarifinio) darbo užmokesčio (valandinio atlygio arba mėnesinės algos, arba pareiginės algos pastoviosios dalies) dydį ir (arba) dydžio intervalą, išskyrus įstatymuose numatytus atvejus.
 
-Mano džiaugsmui, jau po kelių dienų, VšĮ Mykolo Marcinkevičiaus ligoninė  pradėjo skelbti atlyginimus! Valio! VDI dirba (nors tikėtina baudos MML negavo už tai, kad nusižengė LR DK pakeitimams, kurie jau galioja virš metų...)
+Mano džiaugsmui, jau po kelių dienų, [VšĮ Mykolo Marcinkevičiaus ligoninė](https://www.mmligonine.lt/pages/siulome-darba.php) pradėjo skelbti atlyginimus! Valio! VDI dirba (nors tikėtina baudos MML negavo už tai, kad nusižengė LR DK pakeitimams, kurie jau galioja virš metų...)
 
 Ir ką gi mes matome, viduryje Vilniaus, Lietuvos sostinėje?
 
