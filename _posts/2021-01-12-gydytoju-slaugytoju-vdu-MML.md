@@ -39,3 +39,5 @@ Tačiau klausimas lieka kitas: kaip išgyventi pvz., vienam slaugytojui, auginan
 
 Sprendimas būtų, bet Premjerės patarėja tapusi (ex. LMS) Ž.Guldevičienė mane ir vėl išvadintų socialistu. Siūlymo esmė, jog medikai (kaip beje ir mokytojai) turėtų tapti valstybės tarnautojais, būti samdomais SAM, o ne pavienių ligoninių... Nes dabar SAM tiesiogiai paveikti atlyginimų negali, gali tik per VLK didinti paslaugų įkainius... Kam ligoninės panaudoja šiuos pinigus, atsakingos ligoninės tik savo steigėjui, ne retai - savivaldybei...
 Mums reikia šioje vietoje kito sprendimo, tebūnie "socialistinio", bet veikiančio ir efektyvaus sprendimo.
+
+Ach, ir jeigu manot, kad atlyginimai tik MML neadekvatūs, rekomenduoju panaršyti [VšĮ Vilniaus miesto klinikinė ligoninės tinklapyje(https://www.vmkl.lt/darbo-pasiulymai.html), ten lygiai tas pats.
