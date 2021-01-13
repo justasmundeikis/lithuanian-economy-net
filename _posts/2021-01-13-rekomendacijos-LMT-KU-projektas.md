@@ -22,7 +22,8 @@ Cituojant šį blogpostą būtina cituoti originalų dokumentą.
 
 Žemiau pateikiu savo indivdualų indėlį į šį darbą, kuris iš esmės randamas 7-ame mokslo studijos skyriuje.
 
-Blogposto generuota .pdf versija patogi spausdinimui [čia](/asset/2021/01/13/justas_mundeikis_rekomendacijos.pdf)
+Blogposto generuota .pdf versija patogi spausdinimui [čia](/assets/2021/01/13/justas_mundeikis_rekomendacijos.pdf)
+
 ----
 
 # 1. Įvadas
