@@ -18,6 +18,13 @@ tags:
 
 Klaipėdos universiteto atlitka studija [SU COVID-19 SUSIJUSIŲ EKONOMINĖS VEIKLOS APRIBOJIMŲ IR VALSTYBĖS INTERVENCINIŲ PRIEMONIŲ POVEIKIO KLAIPĖDOS REGIONO ĮMONĖMS EFEKTYVUMO VERTINIMAS](https://www.ku.lt/shmf/wp-content/uploads/sites/60/2021/01/mokslo-studija-su-isvadomis-ir-rekomendacijomis-P-COV-20-51.pdf). Mokslo studija buvo parengta įgyvendinant Lietuvos mokslo tarybos projektą „Su COVID-19 susijusių ekonominės veiklos apribojimų ir valstybės intervencinių priemonių poveikio Klaipėdos regiono įmonėms efektyvumo vertinimas“ (Nr. P-COV-20-51). Projekto vadovė: dr. Rasa Viederytė (Klaipėdos universiteto SHMF Ekonomikos katedros docentė).
 
+Mokslo studija bus pristatoma Zoom webcast metu. Pristatymo metu apžvelgsime COVID-19 įtaką savivaldybėse veikiantiems verslams, apžvelgsime išvadas ir siūlymus dėl paramos ir skatinimo priemonių tobulinimo, kurias išsakė tyrime dalyvavę įmonių atstovai.
+
+* Valstybės ir savivalybių statovams: Pristatymas numatytas š.m. sausio 15 d. (šį penktad.), 10:00 - 12:00 val. Nuoroda prisijungimui: [https://liedm.zoom.us/j/92139334709](https://liedm.zoom.us/j/92139334709)
+
+* Verlso atstovams: Pristatymas numatytas š.m. sausio 20 d. (kitą trečiad.), 11:00 - 13:00 val. Nuoroda prisijungimui: [https://liedm.zoom.us/j/95668532726](https://liedm.zoom.us/j/95668532726)
+
+
 Cituojant šį blogpostą būtina cituoti originalų dokumentą.
 
 Žemiau pateikiu savo indivdualų indėlį į šį darbą, kuris iš esmės randamas 7-ame mokslo studijos skyriuje.
