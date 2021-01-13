@@ -14,7 +14,7 @@ tags:
   - Ekonomika
 ---
 
-**Buvau pakviestas dalyvauti Klaipėdos universiteto vydkomoje mokslo studijoje ir pateikti savo įžvalgas bei rekomendacijas, kaip valstybės bei savivaldybių institucijoms reiktų ruoštis ir ateityje eltgis pandeminių šokų atveju. Šiame blogposte pateikiu visą savo indėlį į šį projektą.Tekstas suprantama yra labiau "sausas", nes taikomasi į akademinė rašymo stilių, tačiau manau, yra skaitytinas ne tik valstybės institucijų atstovams, profesinių sąjungų nariams, bet ir darbdavių atstovams.**<!--more-->
+**Buvau pakviestas dalyvauti Klaipėdos universiteto vydkomoje mokslo studijoje ir pateikti savo įžvalgas bei rekomendacijas, kaip valstybės bei savivaldybių institucijoms reiktų ruoštis ir ateityje eltgis pandeminių šokų atveju. Šiame blogposte pateikiu visą savo indėlį į šį projektą.Tekstas suprantama yra labiau "sausas", nes taikomasi į akademinį rašymo stilių, tačiau manau, yra skaitytinas ne tik valstybės institucijų atstovams, profesinių sąjungų nariams, bet ir darbdavių atstovams.**<!--more-->
 
 Klaipėdos universiteto atlitka studija [SU COVID-19 SUSIJUSIŲ EKONOMINĖS VEIKLOS APRIBOJIMŲ IR VALSTYBĖS INTERVENCINIŲ PRIEMONIŲ POVEIKIO KLAIPĖDOS REGIONO ĮMONĖMS EFEKTYVUMO VERTINIMAS](https://www.ku.lt/shmf/wp-content/uploads/sites/60/2021/01/mokslo-studija-su-isvadomis-ir-rekomendacijomis-P-COV-20-51.pdf). Mokslo studija buvo parengta įgyvendinant Lietuvos mokslo tarybos projektą „Su COVID-19 susijusių ekonominės veiklos apribojimų ir valstybės intervencinių priemonių poveikio Klaipėdos regiono įmonėms efektyvumo vertinimas“ (Nr. P-COV-20-51). Projekto vadovė: dr. Rasa Viederytė (Klaipėdos universiteto SHMF Ekonomikos katedros docentė).
 
@@ -24,8 +24,7 @@ Mokslo studija bus pristatoma Zoom webcast metu. Pristatymo metu apžvelgsime CO
 
 * Verlso atstovams: Pristatymas numatytas š.m. sausio 20 d. (kitą trečiad.), 11:00 - 13:00 val. Nuoroda prisijungimui: [https://liedm.zoom.us/j/95668532726](https://liedm.zoom.us/j/95668532726)
 
-
-Cituojant šį blogpostą būtina cituoti originalų dokumentą.
+**Cituojant šį blogpostą būtina cituoti originalų dokumentą.**
 
 Žemiau pateikiu savo indivdualų indėlį į šį darbą, kuris iš esmės randamas 7-ame mokslo studijos skyriuje.
 
