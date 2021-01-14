@@ -22,7 +22,7 @@ Mokslo studija bus pristatoma Zoom webcast metu. Pristatymo metu apžvelgsime CO
 
 * Valstybės ir savivalybių statovams: Pristatymas numatytas š.m. sausio 15 d. (šį penktad.), 10:00 - 12:00 val. Nuoroda prisijungimui: [https://liedm.zoom.us/j/92139334709](https://liedm.zoom.us/j/92139334709)
 
-* Verlso atstovams: Pristatymas numatytas š.m. sausio 20 d. (kitą trečiad.), 11:00 - 13:00 val. Nuoroda prisijungimui: [https://liedm.zoom.us/j/95668532726](https://liedm.zoom.us/j/95668532726)
+* Verlso atstovams: Pristatymas numatytas š.m. sausio 22 d. (kitą trečiad.), 11:00 - 13:00 val. Nuoroda prisijungimui: [https://liedm.zoom.us/j/92139334709](https://liedm.zoom.us/j/92139334709)
 
 **Cituojant šį blogpostą būtina cituoti originalų dokumentą.**
 
