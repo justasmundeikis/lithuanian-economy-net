@@ -77,3 +77,7 @@ Bet ką mes matome:
 # Pateik įrodymus
 
 Gintautai, jeigu turi faktų, įrodymų, skaičiavimų, statistikos, pateik tai viešai. Aš ir ne tik aš, mielai tuos įrodymus panarpliosime ir jeigu Tu teisus, tai garsiai įvardinsime. Tiesiog nuomonė, pandemijos akivaizdoje, *sorriuks*, nėra pakankamas pagrindimas.
+
+Gal palikime priemonių vertinimą specialistams? Ar ir toliau norime būti tai sergamumo, tai mirštamumo lyderiai Europoje?
+
+![](/assets/2021/01/15/4.png)
