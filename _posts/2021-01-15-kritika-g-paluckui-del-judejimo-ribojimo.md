@@ -80,4 +80,4 @@ Gintautai, jeigu turi faktų, įrodymų, skaičiavimų, statistikos, pateik tai 
 
 Gal palikime priemonių vertinimą specialistams? Ar ir toliau norime būti tai sergamumo, tai mirštamumo lyderiai Europoje?
 
-![](/assets/2021/01/15/4.png)
+![](/assets/2021/01/15/5.png)
