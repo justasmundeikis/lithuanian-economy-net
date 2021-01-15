@@ -20,9 +20,7 @@ Klaipėdos universiteto atlitka studija [SU COVID-19 SUSIJUSIŲ EKONOMINĖS VEIK
 
 Mokslo studija bus pristatoma Zoom webcast metu. Pristatymo metu apžvelgsime COVID-19 įtaką savivaldybėse veikiantiems verslams, apžvelgsime išvadas ir siūlymus dėl paramos ir skatinimo priemonių tobulinimo, kurias išsakė tyrime dalyvavę įmonių atstovai.
 
-* Valstybės ir savivalybių statovams: Pristatymas numatytas š.m. sausio 15 d. (šį penktad.), 10:00 - 12:00 val. Nuoroda prisijungimui: [https://liedm.zoom.us/j/92139334709](https://liedm.zoom.us/j/92139334709)
-
-* Verlso atstovams: Pristatymas numatytas š.m. sausio 22 d. (kitą trečiad.), 11:00 - 13:00 val. Nuoroda prisijungimui: [https://liedm.zoom.us/j/92139334709](https://liedm.zoom.us/j/92139334709)
+* Valstybės ir savivalybių statovams: Pristatymas numatytas š.m. sausio 22 d., 10:00 - 12:00 val. Nuoroda prisijungimui: [https://liedm.zoom.us/j/92139334709](https://liedm.zoom.us/j/92139334709)
 
 **Cituojant šį blogpostą būtina cituoti originalų dokumentą.**
 
