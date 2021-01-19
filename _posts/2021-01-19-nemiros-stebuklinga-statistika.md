@@ -15,7 +15,7 @@ tags:
 
 ---
 
-**Lietuvoje 282.5 tūkstančių bedarbių. Nedarbas šalyje 16 proc. Blogiau buvo tik per 2010 metų krizę... skelbia nacionalinis transliuotojas išlaikomas mokesčių mokėtojų pinigais. Deja, bet tokia LRT "žurnalistų" nekomeptencijajau ne pirmas atvejis. Tad kreipiuosi į LRT su prašymu ne tik atsiprašyti žiūrovų bet ir paaiškinti, kaip ketina ateityje užkirsti klaidingos informacijos pateikimui.**<!--more-->
+**Lietuvoje 282.5 tūkstančių bedarbių. Nedarbas šalyje 16 proc. Blogiau buvo tik per 2010 metų krizę... skelbia nacionalinis transliuotojas išlaikomas mokesčių mokėtojų pinigais. Deja, bet tokia LRT "žurnalistų" nekomeptencija jau ne pirmas atvejis. Tad kreipiuosi į LRT su prašymu ne tik atsiprašyti žiūrovų bet ir paaiškinti, kaip ketina ateityje užkirsti klaidingos informacijos pateikimui.**<!--more-->
 
 # Video-komentaras:
 
