@@ -1,5 +1,5 @@
 ﻿---
-title: "Nemiros stebūklinga statistika"
+title: "Nemiros stebuklinga statistika"
 date: 2021-01-19 12:00:00 +03:00
 author: Justas Mundeikis
 layout: post
