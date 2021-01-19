@@ -8,7 +8,7 @@ citation: true
 image:  /assets/2021/01/15/ban.jpeg
 thumbnail: /assets/2021/01/15/thumb.ban.jpeg
 categories:
-  - Statistika
+  - Videokomentaras
 tags:
   - Statistika
   - Korupcija
