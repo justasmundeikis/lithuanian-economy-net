@@ -15,7 +15,7 @@ tags:
 
 ---
 
-**Lietuvoje 282.5 tūkstantinių bedarbių. Nedarbas šalyje 16 proc. Blogiau buvo tik per 2010 metų krizę... skelbia nacionalinis transliuotojas išlaikomas mokesčių mokėtojų pinigais. Deja, bet toks nesuvokimas, apie ką kalba LRT "žurnalistai" ne pirmas atvejis. Tad kreipiuosi į LRT su prašymu ne tik atsiprašyti žiūrovų bet ir paaiškinti, kaip ketina ateityje užkirsti klaidingos informacijos pateikimui.**<!--more-->
+**Lietuvoje 282.5 tūkstantinių bedarbių. Nedarbas šalyje 16 proc. Blogiau buvo tik per 2010 metų krizę... skelbia nacionalinis transliuotojas išlaikomas mokesčių mokėtojų pinigais. Deja, bet tokia LRT "žurnalistų" nekomeptencijajau ne pirmas atvejis. Tad kreipiuosi į LRT su prašymu ne tik atsiprašyti žiūrovų bet ir paaiškinti, kaip ketina ateityje užkirsti klaidingos informacijos pateikimui.**<!--more-->
 
 # Video-komentaras:
 
@@ -50,7 +50,7 @@ Tad panašu, jog Nemira naudojasi [Užimtumo tarnybos duomenimis](https://uzt.lt
 
 ![](/assets/2021/01/19/UT.png)
 
-* **Registruotas nedarbas** - 16,1 proc. 
+* **Registruotas nedarbas** - 16,1 proc.
 * **277,1** tūkst. darbo neturinčių asmenų
 
 Panašu, jog Nemiros **16 proc.** statistika atkeliauja iš UT statistikos, bet skaičiai nesueina 282.5 vs 277.1 tūkstantis registruotų bedarbiu...
