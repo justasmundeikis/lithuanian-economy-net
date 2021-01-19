@@ -68,7 +68,9 @@ Bedarbis arba statistinis bedarbis - rodiklis kurį skaičiuoja Statistikos depa
 * IR aktyviai ieškojosi darbo per paskutines 4 savaites
 
 Su tokiais reikalavimais, yra išfiltruojami "patogumo" bedarbiai, t.y. asmenys kurie neturi darbo, bet jo ir neieško, nes juos tenkina dabartinė situacija.
-Nors būtent tokių asmenų, yra nemažai UT skelbiamojo **registruoto nedarbo** statistikoje.
+Nors būtent tokių asmenų, yra nemažai UT skelbiamojo **registruoto nedarbo** statistikoje. Taip pat išfiltruojami ir asmenys, kurie galimai norėtų dirbti, bet negali pradėti dirbti, pvz., nes rūpinasi sergančiais giminačiais ar artimaisiais. Šiems asmenims, net jeigu ir pasiūlytume dirbti, jie negalėtų / nenorėtų. Antai studentai, dabar galėjo registruotis UT ir gauti darbo paieškos išmoką, bet nei jie ieškosi darbo, nei ketina mesti studijas ir pradėti dirbti.
+
+Todėl yra labai svarbu, kokia statistika yra naudojama, nes reikia surpasti, ką ji reiškia.
 
 # Raštas @LRT
 
