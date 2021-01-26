@@ -37,7 +37,7 @@ Savirefleksijos rašte dėl to, jog...
 
 ... neaptikta.
 
-Vietoj to, LRT viešųjų ryšių specialistė pavaro "atmazą": radome oficialiuose tinklapiuose, tai suprask čia ne LRT klystą, čia jau kitų kaltė. Na svarbiausia į raštą atsakyta, varnelė užsidėta. Noro tobulėti nulis.
+Vietoj to, LRT viešųjų ryšių specialistė pavaro "atmazą": radome oficialiuose tinklapiuose, tai suprask čia ne LRT klystą, čia jau kitų kaltė. Įdomu, ar Nemira kaip papūga viska atkartotų, ką rastų oficialiuose tinklapiuose? Kritinio mąstymo ir žinių "žurnalistams" nebereikia?
 
 Žiniasklaidos priemonė gauna rimtą kaltinimą dėl visuomenės klaidinimo, atsako net ne redaktorius, net ne laidos vedėja. Ne, juk šiais laikais viskas yra viešųjų ryšių krizės...
 
