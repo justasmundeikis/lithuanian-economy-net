@@ -37,7 +37,7 @@ Ko pas mus trūksta, tai bendro supratimo kas yra kairė, jog tai nėra vien tik
 
 O kokia yra situacija iš tiesų?
 
-LSDP garbės pirmininkas A.Sakalas varo tiradas apie tai, kaip partijos yra uzupuotos neoliberlaios ideologijos ir linki R.Dagiui sėkmingai "atkurti krikščionių-demokratų partiją". Apie šią homofibinę tiradą 2019 metū liepos mėnesį rašiau [čia](https://lithuanian-economy.net/2019/07/07/homofobai-lsdp-tarpe/).
+LSDP garbės pirmininkas A.Sakalas varo tiradas apie tai, kaip partijos yra uzurpuotos neoliberlaios ideologijos ir linki R.Dagiui sėkmingai "atkurti krikščionių-demokratų partiją". Apie šią homofibinę tiradą 2019 metų liepos mėnesį rašiau [čia](https://lithuanian-economy.net/2019/07/07/homofobai-lsdp-tarpe/).
 
 Čia tik viena A.Sakalo citata iš delfi.lt
 
