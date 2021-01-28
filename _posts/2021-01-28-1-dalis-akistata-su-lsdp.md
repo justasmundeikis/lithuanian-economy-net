@@ -11,11 +11,11 @@ categories:
   - Politika
 tags:
   - LSDP
-  - Kairė
+  - Kairioji politika
 
 ---
 
-**Šioje komentarų serijoje ("Kodėl LSDP pralaimėjimas yra Lietuvos kairės laimėjimas?") noriu išdėstyti mintis ir pabūti velnio advokatu, argumentuodamas, jog LSDP prakišimas 2020m. Seimo rinkimuose, buvo į naudą ne tik pačiai LSDP bet ir visai kairei Lietuvoje. Iš karto noriu pabrėžti, nesu politologas, todėl nesiūlau vertinti mano nuomonės kaip teisingos, objektyvios ar panašiai. Esu kairių pažiūrų, tebūnie demokratinis socialistas, tebūnie liberalus Marxistas, galų gale tai etiketės, o ne turinys. Bet man rūpi, kas Lietuvoje vyksta su kairia politika, arba būkime nuoširdūs, su politika, kuri imituoja būti kairė. Šioje dalyje -  akistata su LSDP. Šioje dalyje pabandysiu glaustai išdėstyti, kas yra negerai su LSDP, nes tik suprantat ligos priežastis, galiu leistis į apmąstymus, kaip tą ligą gydyti.**<!--more-->
+**Šioje komentarų serijoje ("Kodėl LSDP pralaimėjimas yra Lietuvos kairės laimėjimas?") noriu išdėstyti mintis ir pabūti velnio advokatu, argumentuodamas, jog LSDP prakišimas 2020m. Seimo rinkimuose, buvo į naudą ne tik pačiai LSDP bet ir visai kairei Lietuvoje. Iš karto noriu pabrėžti, nesu politologas, todėl nesiūlau vertinti mano nuomonės kaip teisingos, objektyvios ar panašiai. Esu kairių pažiūrų, tebūnie demokratinis socialistas, tebūnie liberalus Marxistas, galų gale tai etiketės, o ne turinys. Bet man rūpi, kas Lietuvoje vyksta su kairia politika, arba būkime nuoširdūs, su politika, kuri imituoja būti kairia. Šioje dalyje -  akistata su LSDP, kurioje pabandysiu glaustai išdėstyti, kas yra negerai su LSDP, nes tik suprantat ligos priežastis, galiu leistis į apmąstymus, kaip tą ligą gydyti.**<!--more-->
 
 # 1. Akistata su LSDP
 
