@@ -37,14 +37,14 @@ Ko pas mus trūksta, tai bendro supratimo kas yra kairė, jog tai nėra vien tik
 
 O kokia yra situacija iš tiesų?
 
-LSDP garbės pirmininkas A.Sakalas varo tiradas apie tai, kaip partijos yra uzurpuotos neoliberlaios ideologijos ir linki R.Dagiui sėkmingai "atkurti krikščionių-demokratų partiją". Apie šią homofibinę tiradą 2019 metų liepos mėnesį rašiau [čia](https://lithuanian-economy.net/2019/07/07/homofobai-lsdp-tarpe/).
+LSDP garbės pirmininkas A.Sakalas varo tiradas apie tai, kaip partijos yra uzurpuotos neoliberalios ideologijos ir linki R.Dagiui sėkmingai "atkurti krikščionių-demokratų partiją". Apie šią homofibinę tiradą 2019 metų liepos mėnesį rašiau [čia](https://lithuanian-economy.net/2019/07/07/homofobai-lsdp-tarpe/).
 
 Čia tik viena A.Sakalo citata iš delfi.lt
 
 >Ar jų dar yra TS-LKD gretose, jei jie nepasako savo pozicijos net, pvz., dėl homoseksualių šeimų. Neįvertina to, kad homoseksualizmo politika naikina pačią visuomenę ir kaip tokia negali būti laikoma norma, o ne anomalija. Nesigirdi krikdemų balsų vertinant gėjų demonstracijas – ar tai kova už savo teises, ar reklama jaunimui: žiūrėkite, kokie mes linksmi, energingi ir šiuolaikiški, ateikite pas mus greičiau. Galėtų krikdemai atsiklausti vaikų, ar jie nori turėti ir mamą ir tėtį, ar jiems tinka ir dvi mamos arba du tėčiai.
 
 
-Homofobija nuo tokio "garbės" pirmininko dvokia kaip išvietė vidurvasaryje. LSDP pirminko pasirinkta reakcija - jokios. Neva ir taip visiems aišku, už ką LSDP. Tikrai? Visiems aišku?
+Homofobija nuo tokio "garbės" pirmininko dvokia kaip išvietė vidurvasaryje. LSDP pirmininko pasirinkta reakcija - jokios. Neva ir taip visiems aišku, už ką LSDP. Tikrai? Visiems aišku?
 Tokį garbės pirmininką į garbės tribunolą, o tada garbės kulkomis iš partijos išvaikyt reiktų ir tikėtis, kad ES Parlamento socdemų frakcija apie tai nieko nesužinos :D
 
 Bet grįžkime prie naujesnių "partijos" naujienų.
@@ -72,7 +72,7 @@ Prisimenat, kas yra kandidatavęs į LSDP pirmininkus? Mindaugas Sinkevičius. G
 
 Tai Mindaugai, sakote, kad diskusijų partijai nebereikia? Nereikia, jog partija virstu politologų būreliu. O nemanote, kad jeigu LSDP pradžiai virstų politologų būreliu, būtų bent kažkokia pažanga? Ta prasme, būtų bent judama demokratijos link?
 
-Nes pripažinkime, su Demokratija, dabar lsDp neturi labai ką bendro. Lazutka, vardan vardo t.y. geresnių šansų patalpinimas nr 5 į rinkiminį sąrašą. Jo vieta sąraše nejudinama. Vaidas Navickas, kuris parašiutu nusileido Lietuvoje, vienu metu flirtuodamas su TS-LKD, vienu metu planuodamas dešinės Think-Tank'o su Midlo Dargužaite kūrimą - gauna iš LSDP 15 vietą, kuri irgi, nejudinama. "Prezidiumo sprendimas"? Dcimakracija kaip pas Uspaskicką :D
+Nes pripažinkime, su Demokratija, dabar lsDp neturi labai ką bendro. Lazutka, vardan vardo t.y. geresnių šansų patalpinimas nr 5 į rinkiminį sąrašą. Jo vieta sąraše nejudinama. Vaidas Navickas, kuris parašiutu nusileido Lietuvoje, vienu metu flirtuodamas su TS-LKD, vienu metu planuodamas dešinės Think-Tank'o su Milda Dargužaite kūrimą - gauna iš LSDP 15 vietą, kuri irgi, nejudinama. "Prezidiumo sprendimas"? Dcimakracija kaip pas Uspaskicką :D
 
 ![](/assets/2021/01/28/vaidas_lsdp2.jpeg)
 
