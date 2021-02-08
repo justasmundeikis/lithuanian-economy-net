@@ -88,7 +88,7 @@ Kai sėdau rašyti šį blogpost'ą beveik buvau įsitikinęs, jog liberalai nuk
 
 Koreliacijos neskaičiavau, bet jau ir iš akies gerai matosi, kad asociacijos tarp to, kiek balsų daugiau gavo liberalai ir kiek neteko kairė, ko gero nebus stiprios. Tiesiog liberalai "šlavė" beveik visas savivaldybes, o LEFT rinkėjus panašu, jog nukanibalizavo kitos partijos, labiau tikėtina - LVŽS ir Uspaskicho komanduojama *Darbo parcija*.
 
-Man atrodo, tai, jog LEFT rinkėjų nenukanibalizavo liberalai, yra ganėtinai gera  žinia kairės partijos ateičiai. Tie kurie iš kairės rinkosi LVŽS ir DP - lai jie ir toliau juos renkasi. Tai žmonės be vertybių, be stuburo. Pavadinkime tai  būtinu ir skausmingu "apsivalymu".  Bet štai dalis liberalų rinkėjų, tikėtina, juos rinkosi tik dėl socialinių vertybių, kritiškai nevertindami ir neanalizuodami jų rinkiminių programų ir nesueinančių pažadų didinti išlaidas iš  vis labiau mažinamos valstybės piniginės. Šie žmonės nemąstantys, bet iš vertybinės pusės gali būti integralesni nei "senieji bebrai". Ir apie uos aš siūlyčiau pagalvoti.
+Man atrodo, tai, jog LEFT rinkėjų nenukanibalizavo liberalai, yra ganėtinai gera  žinia kairės partijos ateičiai. Tie kurie iš kairės rinkosi LVŽS ir DP - lai jie ir toliau juos renkasi. Tai žmonės be vertybių, be stuburo. Pavadinkime tai  būtinu ir skausmingu "apsivalymu".  Bet štai dalis liberalų rinkėjų, tikėtina, juos rinkosi tik dėl socialinių vertybių, kritiškai nevertindami ir neanalizuodami jų rinkiminių programų ir nesueinančių pažadų didinti išlaidas iš  vis labiau mažinamos valstybės piniginės. Šie žmonės nemąstantys, bet iš vertybinės pusės gali būti integralesni nei "senieji bebrai". Ir apie juos aš siūlyčiau pagalvoti.
 
 
 ### 2.2.3. Kas laimės ateities rinkimus?
