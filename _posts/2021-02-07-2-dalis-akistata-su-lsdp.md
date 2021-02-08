@@ -44,6 +44,8 @@ Jau galiu įsivaizduoti, kaip jaunimo akyse pasirodytų LSDP, būdama valdančio
 
 Praeitame blogpost'e įkėliau iškarpą iš LSDP tarybos posėdžio, kurioje vienas iš tarybos narių kalba, jog LSDP reikia atsigręžti į kaimą, į žemdirbius. Suprask - KAIME LSDP (ir ko gero - Lietuvos) ateitis.
 
+<div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/FkB3YPkNbus"  frameborder='0' scrolling='no' allowfullscreen></iframe></div>
+
 Bet pažiūrėkime ką rodo labai primityvi rinkimų duomenų analizė, su kuria aš prasikankinau visą sekmadienį :D (taip, taip, net šventas mišias praleidau :D)
 
 Žemiau analizuojamuose VRK duomenyse:
