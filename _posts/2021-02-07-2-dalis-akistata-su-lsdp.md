@@ -23,7 +23,7 @@ Ach ir primenu, aš tik paprastas ekonomistas, ne politologas, tad vertinkite ma
 
 ## 2.1. Švytuoklė į dešinę?
 
-Aš net neabejoju, jog politologai (pvz. A.Jastramskis) giliai išanalizuos ir pateiks savo įžvalgas, kodėl, kas ir kaip keitėsi Lietuvoje, paaiškins, jog per šiuos rinkimus svyruoklė grįžo į dešinės pusę. Tačiau, kad tai būtų tiesa, pirma švytuoklė apskritai turėjo būti kairioje pusėje. Dabar pažiūrėkite į šiuos veidus ir pasakykite, čia jums "kairieji"?
+Aš net neabejoju, jog politologai (pvz. M.Jastramskis) giliai išanalizuos ir pateiks savo įžvalgas, kodėl, kas ir kaip keitėsi Lietuvoje, paaiškins, jog per šiuos rinkimus svyruoklė grįžo į dešinės pusę. Tačiau, kad tai būtų tiesa, pirma švytuoklė apskritai turėjo būti kairioje pusėje. Dabar pažiūrėkite į šiuos veidus ir pasakykite, čia jums "kairieji"?
 
 ![](/assets/2021/02/08/trio.jpeg)
 
