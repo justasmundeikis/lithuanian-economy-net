@@ -116,10 +116,6 @@ Mes kairieji, negalime nusimesti naštos ir sakyti: "va lauksime kol LSDP reanim
 
 Ir būtent **šis supratimas, turėtų galėtų būti katalizatoriumi** ir būtent **Lietuvos kairės laimėjimu**, siekiant pokyčių. Vienintelė prielaida, kurią matau esant būtina - tai nesiekimas "čia ir dabar". Demokratija atima laiko: diskusijos ir debatai, analizavimas, sprendimai atima laiko. Tačiau tai yra įtraukus procesas ir mes turime siekti įtraukios politikos. Įtrauki politika mano supratimu asocijuojasi su visuomenės bendru įtraukimu į visuomeninį gyvenimą, į profesinės sąjungas ir didesnį kolektyvinio jausmo "mes" ir "mūsų" turėjimą, kas savaime yra antagonizmas neliberalios indoktrinacijos individualizmui. Pokyčiai nebus greiti, nes keisti reikia visuomenę. Tačiau ar turime tam alternatyvą?
 
-
-
-
-
 # Alternatyvos LSDP
 
 Prisipažinsiu, buvau švelniai užliūliuotas [Maldeikienės ir Bako bendros nuotraukos ir komentaro](https://www.facebook.com/photo.php?fbid=2856071807791224&set=pb.100001652998585.-2207520000..&type=3):
@@ -132,6 +128,8 @@ Prisipažinsiu, buvau švelniai užliūliuotas [Maldeikienės ir Bako bendros nu
 Pagalvokite - demokratinė partija, kuriama idėjinių minčių kovos lauko pagrindu. Ufff... net saldu pasidaro. Bet gyvenimas yra gyvenimas, Aušra EPP, o partijos nėra. Bet neketinu čia ko nors kaltinti.
 
 # DIEM25
+
+![](/assets/2021/02/21/DiEM25_Logo.svg.png)
 
 Bet yra kitas politinis judėjimas, su kuriuo, kuo toliau, tuo labiau save identifikuoju. Tai Y.Varoufakio ir jo bendraminčių įkurtas DIEM25. Judėjimo tikslas - demokratizuoti Europa ir pateikti realius, veiksmingus siūlymus Europinei politikai. Nors judėjimas turėjo tikslą iki 2025 radikaliai demokratizuoti Europą, manau visiems aišku, jog to nepavyks pasiekti. Per greitai mes norime to "čia ir dabar".
 
