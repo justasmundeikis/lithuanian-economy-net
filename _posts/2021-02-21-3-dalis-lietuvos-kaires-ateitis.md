@@ -157,7 +157,7 @@ Ex-kolegė iš VU [Facebook'e komentavo](https://www.facebook.com/lithuanianecon
 
 >O kol kas norėčiau, kad Jūsų nebūtų politikoje. Esate tam nesubrendęs.
 
-Neringa, aš esu politikoje, jau nuo 2013 metų, kai grįžau į Lietuvą ir mano blogas, kurį rašau nuo 2010 metų ir mano pasisakymai pritraukė socialinių partnerių bei žiniasklaidos dėmesį. Aš jau nuo 2013 metų ginu darbuotojų interesus bei viešąjį sektorių savo kalbomis ir rašliavomis, galų gale, net turėta Žinių Radijo laida.
+Neringa, aš esu politikoje, jau nuo 2013 metų, kai grįžau į Lietuvą ir mano blogas, kurį rašau nuo 2010 metų ir mano pasisakymai pritraukė socialinių partnerių bei žiniasklaidos dėmesį. Aš jau nuo 2013 metų ginu darbuotojų interesus bei viešąjį sektorių savo kalbomis ir rašliavomis, galų gale, net turėta Žinių Radijo laida. 
 
 Mano pasirinkta disertacijos tema buvo apie MMA (buvo, nes nuo kovo grįžtant bandysiu keisti temą, į profesinių sąjungų tematiką). Manote čia viskas atsitiktinai? Mano noras kovoti ir gilintis į bendrojo gėrio tematiką yra šiaip sau? Dėl popieriuko?
 Ne, nes aš gyvenu šia tematika, nes man ji rūpi ir aš priimu su tuo kylančias pasekmes. Skirtumas dabar tik tas, jog oficialiai tapau politinio judėjimo ir tikiuosi ateityje, naujos politinės partijos / rinkimo komiteto (ar kad ir ko) nariu ir mano indėlis galės neapsiriboti tik intelektualiniu diskursu, bet tikiuosi galėsiu prisidėti prie demokratinės politikos Europoje ir Lietuvoje kūrimo.
