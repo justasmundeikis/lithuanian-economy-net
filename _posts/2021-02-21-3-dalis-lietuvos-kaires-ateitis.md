@@ -30,7 +30,7 @@ Ir taip dalis šio jaunimo, kuriam, mano nuomone, nerūpi mokesčių klausimai a
 
 atbaidytų homofobišką LSDP elektorato dalį? Tikrai taip. Bet kartu toks atbaidymas reikštų, jog partija toliau valosi nuo dvokiančio balasto, net jeigu tas balastas reikštų garbės pirmininko išdvokinimą lauk ir kartu dar ne vieną kadenciją opozicijoje.
 
-Ar LSDP rinkimų sąrašas be legionierių reikštų prastesnį partijos matomumą ir prastesnius šansus sekančiuose rinkimuose? Tikrai taip, bet kartu tai būtų proga pradėti investuoti į naujų narių pritraukimą. Ar verta būtų sėdėt ant atsarginių suolelio dar vieną, dvi kadencijas, kol partija sustiprės iš vidaus? Man atrodo kad taip, tie kurie su tuo nesutinka, ko gero turi labiau politinių postų ambicijas ir jie ieškos kitų kelių, kaip patekti prie "valdžios" (**Navickas - case**).
+Ar LSDP rinkimų sąrašas be legionierių reikštų prastesnį partijos matomumą ir prastesnius šansus sekančiuose rinkimuose? Tikrai taip, bet kartu tai būtų proga pradėti investuoti į naujų narių pritraukimą. Ar verta būtų sėdėt ant atsarginių suolelio dar vieną, dvi kadencijas, kol partija sustiprės iš vidaus? Man atrodo kad taip, tie kurie su tuo nesutinka, ko gero turi labiau politinių postų ambicijas ir jie ieškos kitų kelių, kaip patekti prie "valdžios" (V.Navicko - atvejis).
 
 Ar partijos programų rašymas be Kuodžio, Lazutkos, Mundeikio ir kitų outsider'ių kristų kokybė? Tikėtina. Bet galbūt partija žinodama, kad negali remtis ekspertais-outsider'iais pradėtų investuoti į savo narių kompetencijas? Galbūt partija atsigręžtų į tą **D** raidę ls**D**p trumpinyje ir pradėtų programas rengti *grass-root* principu, t.y. bottom-up o ne top-down būdu? Taip, tai atima laiko, neužtenka to daryti metus prieš rinkimus, tai reikia daryt nuolat, **demokratija yra nuolatinis procesas, o ne pasiekiamas rezultatas**.
 
@@ -112,7 +112,7 @@ Mano teksto skaitytojams turėtų būti akivaizdu, jog "kairė" negalės niekada
 
 LSDP pralaimėjimą Seimo rinkimuose mačiau kaip šansą LSDP daryti išvadas ir gelbėti save ir kairės ideologijos atstovavimą Lietuvoje. Tačiau tai neįvyko. Olekas bus sekančiu pirmininku, auksiniai šaukštai mažai kam berūpi, pačiam Olekui irgi ko gero ne.
 
-Mes kairieji, negalime nusimesti naštos ir sakyti: "va lauksime kol LSDP reanimuosis", nes suprantame, kad čia net 50/50 šansas tokiai baigčiai. Mano akyse, su visa pagarba Šedvydžiui ir kitiems tikrai protingiems LSDP nariams, Lietuvos LSDP yra kaip naftos pramonė...
+Mes kairieji, negalime nusimesti naštos ir sakyti: "va lauksime kol LSDP reanimuosis", nes suprantame, kad čia net 50/50 šansai tokiai baigčiai. Mano akyse, su visa pagarba Šedvydžiui ir kitiems tikrai protingiems LSDP nariams, Lietuvos LSDP yra kaip naftos pramonė...
 
 Ir būtent **šis supratimas, turėtų galėtų būti katalizatoriumi** ir būtent **Lietuvos kairės laimėjimu**, siekiant pokyčių. Vienintelė prielaida, kurią matau esant būtina - tai nesiekimas "čia ir dabar". Demokratija atima laiko: diskusijos ir debatai, analizavimas, sprendimai atima laiko. Tačiau tai yra įtraukus procesas ir mes turime siekti įtraukios politikos. Įtrauki politika mano supratimu asocijuojasi su visuomenės bendru įtraukimu į visuomeninį gyvenimą, į profesinės sąjungas ir didesnį kolektyvinio jausmo "mes" ir "mūsų" turėjimą, kas savaime yra antagonizmas neliberalios indoktrinacijos individualizmui. Pokyčiai nebus greiti, nes keisti reikia visuomenę. Tačiau ar turime tam alternatyvą?
 
@@ -157,7 +157,7 @@ Ex-kolegė iš VU [Facebook'e komentavo](https://www.facebook.com/lithuanianecon
 
 >O kol kas norėčiau, kad Jūsų nebūtų politikoje. Esate tam nesubrendęs.
 
-Neringa, aš esu politikoje, jau nuo 2013 metų, kai grįžau į Lietuvą ir mano blogas, kurį rašau nuo 2010 metų ir mano pasisakymai pritraukė socialinių partnerių bei žiniasklaidos dėmesį. Aš jau nuo 2013 metų ginu darbuotojų interesus bei viešąjį sektorių savo kalbomis ir rašliavomis, galų gale, net turėta Žinių Radijo laida. 
+Neringa, aš esu politikoje, jau nuo 2013 metų, kai grįžau į Lietuvą ir mano blogas, kurį rašau nuo 2010 metų ir mano pasisakymai pritraukė socialinių partnerių bei žiniasklaidos dėmesį. Aš jau nuo 2013 metų ginu darbuotojų interesus bei viešąjį sektorių savo kalbomis ir rašliavomis, galų gale, net turėta Žinių Radijo laida.
 
 Mano pasirinkta disertacijos tema buvo apie MMA (buvo, nes nuo kovo grįžtant bandysiu keisti temą, į profesinių sąjungų tematiką). Manote čia viskas atsitiktinai? Mano noras kovoti ir gilintis į bendrojo gėrio tematiką yra šiaip sau? Dėl popieriuko?
 Ne, nes aš gyvenu šia tematika, nes man ji rūpi ir aš priimu su tuo kylančias pasekmes. Skirtumas dabar tik tas, jog oficialiai tapau politinio judėjimo ir tikiuosi ateityje, naujos politinės partijos / rinkimo komiteto (ar kad ir ko) nariu ir mano indėlis galės neapsiriboti tik intelektualiniu diskursu, bet tikiuosi galėsiu prisidėti prie demokratinės politikos Europoje ir Lietuvoje kūrimo.
