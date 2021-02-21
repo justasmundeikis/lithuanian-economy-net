@@ -40,7 +40,7 @@ Alfonsas Brazas pasipiktino, kodėl man užkliuvo Stepono Kairio fondo (gal labi
 * Alfonsas paskandina visus procentų procentilių procentilėse :D
 * O apie Vytenio džiaugsmą dėl Vaido, na... oh well ¯\\_(ツ)_/¯
 
-<div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/SPWBHMJr5Wg "  frameborder='0' scrolling='no' allowfullscreen></iframe></div>
+<div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/SPWBHMJr5Wg"  frameborder='0' scrolling='no' allowfullscreen></iframe></div>
 
 Tas ne investavimas į kompetencijas, labai gerai buvo iliustruotas tą pačia dieną vykusioje LSDP Vilniaus skyriaus telekonferencijoje. Kam įdomu, [video čia](https://www.youtube.com/watch?v=19noPuIfuA4). Aš Facebook'e replikavau taip:
 
