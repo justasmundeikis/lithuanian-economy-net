@@ -1,5 +1,5 @@
 ﻿---
-title: Kam pataikauka PR'ezidentas?
+title: Kam pataikauja PR'ezidentas?
 date: 2021-02-25 12:00:00 +03:00
 author: Justas Mundeikis
 layout: post
