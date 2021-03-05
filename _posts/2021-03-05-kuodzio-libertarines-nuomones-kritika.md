@@ -14,7 +14,7 @@ tags:
 
 ---
 
-**Raimondas Kuodis pasidalino įdomia kritika, ar kad ir kaip tą nuomonę be pavadinti, esą,  Lietuvoje reiktų padėti tik "darbštiems" ir tikriems "bedarbiams", o ne remti visus tris kvadrantus, nes tada liktų tam vienam kvadrantui (darbštūs + tikri) daugiau pinigų... Raimondas net nubraižė gražią matricą. Šiame trumpame komentare - apie tai, kur mano nuomone klysta LB valdybos pirmininko patarėjas.**<!--more-->
+**Raimondas Kuodis pasidalino įdomia kritika, ar kad ir kaip tą nuomonę be pavadinti, esą,  Lietuvoje reiktų padėti tik "darbštiems" ir "tikriems" bedarbiams, o ne remti visus tris kvadrantus, nes tada liktų tam vienam kvadrantui (darbštūs + tikri) daugiau pinigų... Raimondas net nubraižė gražią matricą. Šiame trumpame komentare - apie tai, kur mano nuomone klysta LB valdybos pirmininko patarėjas.**<!--more-->
 
 Savo Facebook paskyroje R.Kuodis pasidalino [šiuo įrašu](https://www.facebook.com/raimondas.kuodis/posts/4078618425482926)
 
@@ -62,7 +62,7 @@ Taigi, Lietuvoje beveik 18% namų ūkių, kuriuose gyvena vienas saugęs su vien
 
 Be to, dar klausimas, o kur palikti be priežiūros mažamečius vaikus?
 
-GPM lengvata auklėms vargu ar čia padeda. Paliksi vaikus vienus namuose - atims vaikus. Net prieš COVID pandemiją, vaikų darželiai, lopšeliai ir mokyklos neteikė pakankamos pasiūlos, jog dirbanti vieniši tėvai galėtų ryte nuvesti ir tik po darbo pasiimti savo atžalas. Tokia mama gali nuspręsti, jog jai geriau su gyventi su socialine pašalpa ir pačiai prižiūrėti vaikus, nes pinigų auklei ir taip nėra (dar kartą: ~kone pas penkta tokia šeima gyvena ir taip skurde!).
+GPM lengvata auklėms vargu ar čia padeda. Paliksi vaikus vienus namuose - atims vaikus. Net prieš COVID pandemiją, vaikų darželiai, lopšeliai ir mokyklos neteikė pakankamos pasiūlos, jog dirbantys vieniši tėvai galėtų ryte nuvesti ir tik po darbo pasiimti savo atžalas. Vieniši tėvai gali nuspręsti, jog geriau  gyventi tik gaunant socialinę pašalpą ir patiems prižiūrėti vaikus, nes pinigų auklei ir taip nėra (dar kartą: ~ kas penkta tokia šeima gyvena ir taip skurde!).
 
 Ar tai geriausias sprendimas vaikams? NE! Vaikams reikia jų amžiaus vaikų specializavimosi, bet čia ne mamos kaltė, o mūsų kaip visuomenės, jog nesugebame užtikrinti reikiamų socialinių paslaugų pasiūlos. Kita vertus, ko stebėtis su ~30% mokesčių ir BVP santykiu?
 
@@ -70,7 +70,7 @@ Tad grįžkime prie klausimo: ar tikrai tokia vieniša mama su mažamečiais vai
 
 O ar yra tų tinginių-tinginių, kurie turi visus socialinius įgūdžius, gali ir geba dirbti darbo rinkoje paklausią profesiją, bet nedirba, nes tiesiog, taip patogiau, pakanka? Galbūt yra, bet klausimas kiek būtent? 100? 200? Atsakymo nežinau, bet vargu ar žino ir Raimondas, nubrėždamas šį kvadrantą **tokio pat dydžio, kaip visus kitus**...
 
-Apibendrinant: Raimondo suponuojami "tinginiai" ko gero dauguma atvejų nėra tinginiai **laisvu** pasirinkimu, o nedirbantys dėl tam tikrų priežasčių. Todėl jų įvardinimas *Poor by choice* -, kai būtent nėra to **choice** ir yra ne kas kita, bet libertarinės ideologijos indoktrinacija ir šių žmonių problemų, kylančių dėl kolektyvinio neveikimo, permetimas tik jiems patiems, ignoruojant mūsų, kaip visuomenės atsakomybę už mūsų visuomenės narius. Bet aišku, kam rūpi tie "niuansai"?
+Apibendrinant: Raimondo suponuojami "tinginiai" ko gero dauguma atvejų nėra tinginiai **laisvu** pasirinkimu, o nedirbantys dėl tam tikrų priežasčių. Todėl jų įvardinimas *Poor by choice*, kai būtent nėra to **choice** ir yra ne kas kita, bet libertarinės ideologijos indoktrinacija ir šių žmonių problemų, kylančių dėl kolektyvinio visuomenės neveikimo, permetimas tik jiems patiems, ignoruojant mūsų, kaip visuomenės, atsakomybę už mūsų bendruomenės narius. Bet aišku, kam rūpi tie "niuansai"?
 
 
 ## Darbštus+Apsimetęs
