@@ -22,7 +22,7 @@ Savo Facebook paskyroje R.Kuodis pasidalino [šiuo įrašu](https://www.facebook
 
 # Kritika
 
-Kas seka R.Kuodį turėjo būti pastebėję Raimondo nuolatinį norą viską abstrahuoti / makroekonomizuoti. Modeliai savaime nėra blogai (kaip ir ant servetėlių atliekamos KNA...), tik blogai, kai tie modeliai nepaaiškina realybės, o tik ją iškreipia ir veda prie klaidingų išvadų. Dar blogiau, kai tokius modelius naudoja ne koks pirmo kurso bakalauro studentautas ar LLRI profanas, o profesorius ir LB valdybos pirmininko patarėjas, nes tada nemaža dalis skaitytojų pasitiki autoritetu. Todėl matydamas tokius "modelius" negaliu nereaguoti ir noriu pateikti savo kritiką.
+Kas seka R.Kuodį turėjo būti pastebėję Raimondo nuolatinį norą viską abstrahuoti / makroekonomizuoti. Modeliai savaime nėra blogai (kaip ir ant servetėlių atliekamos KNA...), tik blogai, kai tie modeliai nepaaiškina realybės, o tik ją iškreipia ir veda prie klaidingų išvadų. Dar blogiau, kai tokius modelius naudoja ne koks pirmo kurso bakalauro studentas ar LLRI profanas, o profesorius ir LB valdybos pirmininko patarėjas, nes tada nemaža dalis skaitytojų pasitiki autoritetu. Todėl matydamas tokius "modelius" negaliu nereaguoti ir noriu pateikti savo kritiką.
 
 Mano nuomone, Raimondas eilinį kartą pademonstruoja, jog yra "sotus" (nepradėsiu diskusijos apie tuos LB (galimai) subsidijuojamus  kotletukus) [=ne empatiškas] ir ne kairių, kaip ne kurie jo skaitytojai mano, o libertarinių pažiūrų ekonomistas. Nors gal čia nuo nuotaikos priklauso (arba visgi tų kotletukų)?
 
