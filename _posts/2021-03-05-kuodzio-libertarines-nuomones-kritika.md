@@ -70,7 +70,7 @@ Tad grįžkime prie klausimo: ar tikrai tokia vieniša mama su mažamečiais vai
 
 O ar yra tų tinginių-tinginių, kurie turi visus socialinius įgūdžius, gali ir geba dirbti darbo rinkoje paklausią profesiją, bet nedirba, nes tiesiog, taip patogiau, pakanka? Galbūt yra, bet klausimas kiek būtent? 100? 200? Atsakymo nežinau, bet vargu ar žino ir Raimondas, nubrėždamas šį kvadrantą **tokio pat dydžio, kaip visus kitus**...
 
-Apibendrinant: Raimondo suponuojami "tinginiai" ko gero dauguma atvejų nėra tinginiai **laisvu** pasirinkimu, o nedirbantys dėl tam tikrų priežasčių. Todėl jų įvardinimas *Poor by choice* - yra ne kas kita, bet libertarinės ideologijos indoktrinacija ir šių žmonių problemų permetimas tik jiems patiems, ignoruojant mūsų, kaip visuomenės atsakomybę už mūsų visuomenės narius. Bet aišku, kam rūpi tie "niuansai"?
+Apibendrinant: Raimondo suponuojami "tinginiai" ko gero dauguma atvejų nėra tinginiai **laisvu** pasirinkimu, o nedirbantys dėl tam tikrų priežasčių. Todėl jų įvardinimas *Poor by choice* -, kai būtent nėra to **choice** ir yra ne kas kita, bet libertarinės ideologijos indoktrinacija ir šių žmonių problemų permetimas tik jiems patiems, ignoruojant mūsų, kaip visuomenės atsakomybę už mūsų visuomenės narius. Bet aišku, kam rūpi tie "niuansai"?
 
 
 ## Darbštus+Apsimetęs
