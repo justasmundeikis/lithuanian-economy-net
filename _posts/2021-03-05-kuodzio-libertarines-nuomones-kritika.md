@@ -35,7 +35,7 @@ Raimondo pateiktoje "analizėje" dominuoja liberatrinės ekonominės doktrinos i
 Leiskite priminti, jog empirinio libertaro Hayek visuomenės teorija remiasi trejais elementais: **individualios laisvės** pirmenybe, rinkos mechanizmo pranašumu ir prielaida, jog socialinio teisingumo siekis yra žalingas, nes siekiant lygybės, bus sunaikinama arba apribojama individo laisvė. Hayek sampratoje, teisinga arba neteisinga yra tik tai, kas yra **tiesioginė individo** ar visuomenės **veikimo** ar neveikimo pasekmė. Tačiau Hayek taip pat pabrėžė, jog redistribucijos vengimas neprieštarauja nuostatai, jog valstybė privalo padėti susiduriantiems su **ekstremaliu skurdu ar badu**.
 
 
-Kažkodėl "Tinginys" ir "Darbštus"  kategorijose matau būtent tai - empirinį libertarizmą, nes daroma prielaida,  jog arba žmogus yra tinginys ir pagalbos nenusipelno, arba ne tinginys ir jeigu nedirba šešėlyje - pagalbos nusipelno.
+Kategorijose (kvadrante) "Tinginys" ir "Darbštus" (*Poor by choice*) matau būtent tai - empirinį libertarizmą, nes daroma prielaida, jog žmogaus būsena "tinginys" yra laisvas pasirinkimas, taigi tai jo paties kaltė ir tokiam žmogui valstybės pagalbos nereikia. Šiaip tai yra *victim blaming*. Na arba žmogus yra "darbštus" ir "tikras" vargšas, na tada galima jam padėti...
 
 ![](/assets/2021/03/05/matrica.jpg)
 
