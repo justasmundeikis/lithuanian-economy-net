@@ -26,6 +26,7 @@ Kas seka R.Kuodį turėjo būti pastebėję Raimondo nuolatinį norą viską abs
 
 Mano nuomone, Raimondas eilinį kartą pademonstruoja, jog yra "sotus" (nepradėsiu diskusijos apie tuos LB (galimai) subsidijuojamus  kotletukus) [=ne empatiškas] ir ne kairių, kaip ne kurie jo skaitytojai mano, o libertarinių pažiūrų ekonomistas. Nors gal čia nuo nuotaikos priklauso (arba visgi tų kotletukų)?
 
+![](/assets/2021/03/05/meatballs.jpeg)
 
 ## Hayekas Kuodyje?
 
