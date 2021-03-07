@@ -15,7 +15,7 @@ tags:
 
 ---
 
-**Alfonsai, būk geras socialdemokratas, dalinkis! :D Jeigu jau nesulaukęs rašai SMS'us ir klausi kada bus trečia dalis apie LSDP ir jos sulaukęs ir net asmeniškai nuorodą SMS'u gavęs, parašai repliką, tai pasidalink ja taip, jog galėčiau laiku reaguoti, juolab, jog tavo replikuoja adresatas esu aš. Blog'e yra komentavimo funkcija, o Facebook'e - taginimo. Nes dabar susidaro toks įspūdis, jog tai *midlife crisis* išgyvenančio socdemo paburnojimas su savimi naudojant laiško formą.**<!--more-->
+**Alfonsai, būk geras socialdemokratas, dalinkis! :D Jeigu jau nesulaukęs rašai SMS'us ir klausi kada bus trečia dalis apie LSDP ir jos sulaukęs ir net asmeniškai nuorodą SMS'u gavęs, parašai repliką, tai pasidalink ja taip, jog galėčiau laiku reaguoti, juolab, jog tavo replikoje adresatas esu aš. Blog'e yra komentavimo funkcija, o Facebook'e - taginimo. Nes dabar susidaro toks įspūdis, jog tai *midlife crisis* išgyvenančio socdemo paburnojimas su savimi naudojant laiško formą.**<!--more-->
 
 # Trumpas *résumé*
 
