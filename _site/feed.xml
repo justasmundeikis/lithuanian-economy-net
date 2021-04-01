@@ -1,5 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://lithuanian-economy.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lithuanian-economy.net/" rel="alternate" type="text/html" /><updated>2021-03-14T17:04:37+02:00</updated><id>https://lithuanian-economy.net/feed.xml</id><title type="html">Lithuanian-Economy.net</title><subtitle>One or more sentences introducing this blog.
-</subtitle><author><name>Justas Mundeikis</name></author><entry><title type="html">Yannis Varoufakis “Another now” knygos recenzija</title><link href="https://lithuanian-economy.net/2021/03/14/another-now-recenzija" rel="alternate" type="text/html" title="Yannis Varoufakis “Another now” knygos recenzija" /><published>2021-03-14T17:00:00+02:00</published><updated>2021-03-14T17:00:00+02:00</updated><id>https://lithuanian-economy.net/2021/03/14/another-now-recenzija</id><content type="html" xml:base="https://lithuanian-economy.net/2021/03/14/another-now-recenzija">&lt;p&gt;&lt;strong&gt;Yannis Varoufakis knygą “Another now” ko gero reiktų versti “Kita dabartis”. Pirma paėmus į rankas galvojau, jog 235 puslapiu sci-fi veikaliukas susiskaitys per vieną vakarą. Klydau. Prireikė 3.  Tiesa pasakius, pabaigęs knygą pasijaučiau “damušęs” iki galo. Nes knygos smagumas buvo ribotas ir šiame blogposte pabandysiu paaiškinti, kodėl, kam verta, o kam neverta skaityti šią knygą.&lt;/strong&gt;&lt;!--more--&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://lithuanian-economy.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lithuanian-economy.net/" rel="alternate" type="text/html" /><updated>2021-04-01T15:39:29+03:00</updated><id>https://lithuanian-economy.net/feed.xml</id><title type="html">Lithuanian-Economy.net</title><subtitle>One or more sentences introducing this blog.
+</subtitle><author><name>Justas Mundeikis</name></author><entry><title type="html">Statistiniai vakcinavimo proceso viražai</title><link href="https://lithuanian-economy.net/2021/04/01/statistiniai-vacinacinavimo-proceso-virazai" rel="alternate" type="text/html" title="Statistiniai vakcinavimo proceso viražai" /><published>2021-04-01T08:00:00+03:00</published><updated>2021-04-01T08:00:00+03:00</updated><id>https://lithuanian-economy.net/2021/04/01/statistiniai-vacinacinavimo-proceso-virazai</id><content type="html" xml:base="https://lithuanian-economy.net/2021/04/01/statistiniai-vacinacinavimo-proceso-virazai">&lt;p&gt;&lt;strong&gt;Šiame blogpost’e apie mistines sukauptas ir šaldytuvuose laikomas vakcinas ir Statistikos departamento klaidinantį duomenų valdymo procesą.&lt;/strong&gt;&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
+
+&lt;p&gt;Vakar įvyko Seimo Sveikatos reikalų komiteto posėdis, kuriame SAM atsakinėjo į Seimo narių bei soc. partnerių klausimus, aptarinėjo aktualiausias vakcinavimo, žaliojo paso ir t.t. naujienas.&lt;/p&gt;
+
+&lt;p&gt;Delfi cituoja po posėdžio pasisakiusius Seimo narius &lt;a href=&quot;https://www.delfi.lt/news/daily/lithuania/zemaitaitis-sokiruojantis-dalykas-yra-susijes-su-zaliuoju-pasu.d?id=86836351&quot;&gt;delfi.lt&lt;/a&gt;. Man užkliuvo buvusio SAM ministro A.Verygos pasisakymas:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Buvęs sveikatos apsaugos ministras Aurelijus Veryga patikino, kad šiuo metu reikėtų lankstesnių sprendimų, nes &lt;strong&gt;„vakcina šaldytuve imuniteto niekam nesukurs“&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tad kilo natūralūs klausimas - o tai kiek šaldytuvuose guli tų vakcinų? Turime rimtą problemą ar politinį pasibadymą? Ir pasirodo atsakyti į šį klausimą pasidarė ne taip paprasta, kaip aš tikėjausi.&lt;/p&gt;
+
+&lt;p&gt;Vakar atsidarius Statistikos departamento &lt;a href=&quot;https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/&quot;&gt;COVID19 švieslentę&lt;/a&gt; buvo galima išvysti tokią statistiką:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/01/screen_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Matome, jog:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;už laikotarpį iki 2021-03-30&lt;/li&gt;
+  &lt;li&gt;į Lietuvą pristatyta buvo 642 365 vakcinos dozių&lt;/li&gt;
+  &lt;li&gt;iš jų 565 765 paskirstyta į vakcinavimo centrus (arba 88% gautų vakcinų)&lt;/li&gt;
+  &lt;li&gt;o panauda skiepams tik 495 383 (77% gautų, 88% paskirstytų vakcinų)&lt;/li&gt;
+  &lt;li&gt;visgi &lt;strong&gt;“šaldytuvuose”&lt;/strong&gt; laikoma &lt;strong&gt;146 982&lt;/strong&gt; vakcinų dozių (642 365 - 495 383)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jeigu tiek vakcinų iš tiesų laikoma šaldytuvuose, tada suprantama A.Veryga būtų teisus ir šią problemą reiktų spręsti ir kuo skubiau.&lt;/p&gt;
+
+&lt;h1 id=&quot;statistikos-departamento-nesuvaldomi-procesai&quot;&gt;Statistikos departamento nesuvaldomi procesai&lt;/h1&gt;
+
+&lt;p&gt;Visgi “šaldytuvų” esama dviejų tipo. Vakcinos gali gulėti “ministerijos šaldytuvuose”, tai tos vakcinos, kurios yra gautos, bet dar nepaskirstytos ir vakcinos gali gulėti “vakcinavimo centrų šaldytuvuose”, tai tos vakcinos, kurios yra paskirstytos į vakcinavimo centrus, bet dar nepanaudotos skiepijant.&lt;/p&gt;
+
+&lt;p&gt;Deja Statistikos departamentas (su visa pagarba po truputi jų atveriamiems duomenims), dar nėra atvėręs pakankamai duomenų. Tad tako rankutėmis suskaičiuoti duomenis, esančius stulpelinėse diagramose “Gauta vakcinų dozių” ir “Paskirstyta vakcinų dozių”. Ir o šokas, &lt;strong&gt;SKAIČIAI NEATITINKA&lt;/strong&gt;!!!&lt;/p&gt;
+
+&lt;p&gt;Suskaičiavus rankutėmis “Paskirstyta vakcinų dozių” suma atitinka nurodytas, o  “Gauta vakcinų dozių” ne. “Gauta vakcinų dozių” iš stulpelinės diagramos suma siekia 577 565, o ne 642 365! Taigi nepaskirstytų vakcinų skaičius siekia ne 76 600 (642 365-565 795), o tik 11 800 (577 567-565 795) dozių.&lt;/p&gt;
+
+&lt;p&gt;Parašiau el. laišką į Statistikos departamentą, dėl galimo neatitikimo / klaidos ir gavau šiandien ryte tokį atsakymą:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;…nėra jokios paslapties, panikos, dramos ar klaidos (bent jau aš to nevadinčiau klaida). Šįryt SAM keliom minutėm anksčiau nei reikėjo į sistemą suvedė naujų ką tik atvykusių vakcinų atvykimą į sandėlį. Kadangi suvedė prieš mums išpublikuojant vakarykščius duomenis – taip ir gavosi, kad atrodo, jog vakcinos atvyko jau vakar ryte, o ne šiandien ryte. SAM tiesiog turėjo mažiau uoliai suvedinėti skaičius. Jei būtų suvedę 09:30 – apie šias naujas dozes, atvykusias šįryt, švieslentė paskelbtų tinkamu metu - rytoj ryte.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Kitaip tariant, SAM suvedinėja suminius skaičius, o Statistikos departamentas, duomenis stulpinėse diagramose. Tai jog publikuojami neatitinkantys skaičiai - mehhh… anokia čia problema…  Rimtai????&lt;/p&gt;
+
+&lt;p&gt;Mieli statistikai, taip mes Jus labai mėgstame, BET, Statistikos departamentas yra padarytas COVID duomenų “Gate keeper’iu”, po to, kai NVSC suskaičiavo/nesuskaičiavo ir t.t. Būkite malonūs, susitvarkykite savo duomenų valdymo procesus ir užtikrinkite duomenų integralumą. Negali būti jog tame pačiame puslapyje esančiuose dviejuose laukeliuose skiriasi duomenys. Ir niekam nesvarbu, SAM paskubėjo ar ne. Jūs esate atsakingi už duomenų kokybę. Kitaip Jūs prisidedate prie to, jog būtų pradėta manipuliuoti skaičių neatitikimais.&lt;/p&gt;
+
+&lt;p&gt;O dabar atgal prie temos…&lt;/p&gt;
+
+&lt;h1 id=&quot;vakcinos-šaldytuvuose&quot;&gt;Vakcinos “šaldytuvuose”&lt;/h1&gt;
+
+&lt;p&gt;Šiandien skaičiau jau sutvarkyti ir galime pasižiūrėti į bendrą vaizdą.&lt;/p&gt;
+
+&lt;p&gt;Pirmame grafike nurodomi akumuliuoti gautų (akum_gauta_viso), akumuliuoti paskirstytų vakcinų (akum_paskirstyta_viso) ir akumuliuoti skiepams panaudotų vakcinų (akum_vakcinuota_viso) įverčiai.
+Labai gerai matosi, jog “ministerijos šaldytuvai” nėra pildomi ir gautos vakcinos yra nedelsiant paskirstomos į vakcinavimo centrus. Tai parodo ir (ministerijos_šaldytuve) linija. Visgi matome, jog vakcinavimas pačiuose vakcinavimo centruose atsilieka, ypač nuo vasario vidurio. Nors neryškiai, bet pastebimas vak_centrų_šaldytuvų rodiklio pakilimas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/01/vac_img_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Siekiant nuodugniau pažiūrėt į vakcinacijos centruose esančių vakcinų likučius, padariau žemiau esantį grafiką. Jame labai gerai matomi vakcinų likučiai.&lt;/p&gt;
+
+&lt;p&gt;Pfizer BioNTech vakcinos yra gaunamos ir iškart pradedama jomis vakcinuoti, todėl likučiai sparčiai krenta (žalia linija), su Moderna situacija panaši -  užsilaiko ji keliomis dienomis ilgiau, bet galbūt tai labiau susiję su kitokiu vakcinavimo procesu? Bet rimtos problemos nematyti.&lt;/p&gt;
+
+&lt;p&gt;Problema akivaizdiai yra AstraZeneca vakcina. Vasario pradžioje matome, jog vakcinų likučiai liko pakilę, t.y. nebuvo panaudotos visos gautos vakcinos. Vasario viduryje, &lt;strong&gt;naujos&lt;/strong&gt; gaunamos vakcinos tarsi ir buvo suvakcinuojamos, nes kiek pakildavo, tiek bemaž ir nusileisdavo, bet tas bazinis ~10 000 vakcinų likutis, kažkur vis dar tebebuvo laikomas. Daug klausimų kylą, kur ir kodėl jos liko nepanaudotos?&lt;/p&gt;
+
+&lt;p&gt;Kovo 10 SAM paskelbė stabdanti vakcinavimą AstraZeneca vakcina (juodas brūkšnys), kaip tik po naujos partijos vakcinų gavimo, nemalonus sutapimas. Visgi pradėjus vėl vakcinuoti, matome, kad AstrZeneca likučiai pradėjo sparčiai leistis, bet vis tik lieka pakibę ties 17 000 vakcinų.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/01/vac_img_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;išvados&quot;&gt;Išvados&lt;/h1&gt;
+
+&lt;p&gt;Turimi duomenys rodo, jog iš tiesų turime problemą su AstraZeneca panaudojimu. Deja nėra pakankamai &lt;strong&gt;viešai prieinamų&lt;/strong&gt; duomenų, jog identifikuoti, kur šie likučiai susikaupę. Ar tai, kur jie susikaupę, koreliuoja su su kokiomis nors savivaldybių savybėmis - atsakyti neturint duomenų neįmanoma. Tačiau akivaizdu ir tai, jog Lietuvoje teks dėti milžiniškas pastangas žmonėms paaiškinti, jog ši vakcina yra saugi ir niekas neturėtų bijoti ja vakcinuotis.&lt;/p&gt;
+
+&lt;p&gt;Tačiau tuo pat metu turimi duomenys aiškiai parodo, kad mušti būgnais ir aiškinti apie SAM neveiklumą, bent jau šiuo metu, prielaidų taip pat nėra. Vakcinos iš ministerijos yra paskirstomos greitai, kelių dienų bėgyje, o atvykusios į vakcinavimo centrus, jos sparčiai sunaudojamos. Tikėtis, kad gautos vakcinos bus sunaudotos 100 proc. tą pačią dieną yra nerealu ir nereikia turėti fantastinių lūkesčių.&lt;/p&gt;
+
+&lt;h1 id=&quot;palinkėjimai&quot;&gt;Palinkėjimai&lt;/h1&gt;
+
+&lt;p&gt;Palinkėjimas Statistikos departamentui - sureguliuoti duomenų pateikimo ir viešinimo procesus bei atverti kuo daugiau duomenų visuomenei.
+Palinkėjimas SAM - pradėti visuotinius, bet deja, renginius Lietuvos miesteliuose ir kaimeliuose tam, jog šviesti visuomenę. Nes bendras nepasitikėjimas ir nenoras vakcinuoti panašu, jog bus didesnis nei tikėtasi.&lt;/p&gt;
+
+&lt;p&gt;Ach, ir mažiau klausyt ekonomistų :D&lt;/p&gt;</content><author><name>Justas Mundeikis</name></author><category term="COVID19" /><category term="statistika" /><summary type="html">Šiame blogpost’e apie mistines sukauptas ir šaldytuvuose laikomas vakcinas ir Statistikos departamento klaidinantį duomenų valdymo procesą.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lithuanian-economy.net/assets/2021/04/01/ban.png" /><media:content medium="image" url="https://lithuanian-economy.net/assets/2021/04/01/ban.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Yannis Varoufakis “Another now” knygos recenzija</title><link href="https://lithuanian-economy.net/2021/03/14/another-now-recenzija" rel="alternate" type="text/html" title="Yannis Varoufakis “Another now” knygos recenzija" /><published>2021-03-14T17:00:00+02:00</published><updated>2021-03-14T17:00:00+02:00</updated><id>https://lithuanian-economy.net/2021/03/14/another-now-recenzija</id><content type="html" xml:base="https://lithuanian-economy.net/2021/03/14/another-now-recenzija">&lt;p&gt;&lt;strong&gt;Yannis Varoufakis knygą “Another now” ko gero reiktų versti “Kita dabartis”. Pirma paėmus į rankas galvojau, jog 235 puslapiu sci-fi veikaliukas susiskaitys per vieną vakarą. Klydau. Prireikė 3.  Tiesa pasakius, pabaigęs knygą pasijaučiau “damušęs” iki galo. Nes knygos smagumas buvo ribotas ir šiame blogposte pabandysiu paaiškinti, kodėl, kam verta, o kam neverta skaityti šią knygą.&lt;/strong&gt;&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;truputis-konteksto-ir-apie-ką-knygą&quot;&gt;Truputis konteksto ir apie ką knygą&lt;/h1&gt;
 
@@ -602,101 +682,4 @@ Jau galiu įsivaizduoti, kaip jaunimo akyse pasirodytų LSDP, būdama valdančio
 
 &lt;p&gt;Man atsakymas atrodo aiškus, tikros kairės partija turi galvoti apie jaunimą, kuris studijuoja nekokybiškose aukštosiose mokyklose, kuris netrukus turės vaikų, kuriam pradės rūpėti ne tik &lt;em&gt;kasiakai&lt;/em&gt;, bet ir vaikų darželiai, mokyklos. Bet tikros kairės partija turi nepamiršti ir jau dirbančiųjų, bei senyvo amžiaus žmonių. Bet klausimas lieka atviras, ar LSDP tai gali? Paklausius praėjusios tarybos posėdžio įrašo ir matant galimai būsimo LSDP pirmininko Oleko konferencijos programą, man kyla labai daug abejonių. Bet apie tai, kur matau Lietuvos kairiojo jaunimo ateitį - trečioje trilogijos dalyje (už savaitės ir dar trupučio).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/2021/02/08/olek.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Justas Mundeikis</name></author><category term="Politika" /><category term="LSDP" /><category term="Kairioji politika" /><summary type="html">Prieš gerą savaitę parašiau pirmą trilogijos dalį “Kodėl LSDP pralaimėjimas yra Lietuvos kairės laimėjimas? Pirma dalis - akistata su LSDP”, kurios tikslas buvo iliustruoti, kad LSDP anei demokratijos, anei kairumo per daug nėra. Tiesiog nebėra idėjinės kovos už žmogų, už darbuotoją, už lygias galimybes. Tie, kurie kalba apie atsinaujinimą tesugeba tik “savus” pastatyti į numerius 5-15 be eilės, be įdirbio partijoje. Yra daug senųjų bebrų krokodilo ašarų, kaip čia netampa Seimo narių patarėjais ar kaip čia apskritai kokia tai Budbergytė gali pasisakyt už akcizus žemdirbių dyzelinui? Partija tapo nebe vienijanti žmonės aplink kairiąją idėją, o patarnaujanti joje esančių privatiems interesams. Vaido Navicko, kurio interesas nebuvo “patarnautas” - atvejis labai gerai iliustruoja, ką tokia partija, kaip magnetas, traukia į save konkrečiai, ir kuo baigiasi legionieriavimas bendrai. Šioje dalyje noriu žengti toliau ir garsiai pamąstyti, ką parodė praėję Seimo rinkimai, nes manau, jog pamokas turi daryti ir jaunieji kairieji, apie kuriuos ir rašysiu trečioje trilogijos dalyje.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lithuanian-economy.net/assets/2021/02/08/ban.jpeg" /><media:content medium="image" url="https://lithuanian-economy.net/assets/2021/02/08/ban.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kodėl LSDP pralaimėjimas yra Lietuvos kairės laimėjimas? Pirma dalis - akistata su LSDP</title><link href="https://lithuanian-economy.net/2021/01/28/1-dalis-akistata-su-lsdp" rel="alternate" type="text/html" title="Kodėl LSDP pralaimėjimas yra Lietuvos kairės laimėjimas? Pirma dalis - akistata su LSDP" /><published>2021-01-28T14:00:00+02:00</published><updated>2021-01-28T14:00:00+02:00</updated><id>https://lithuanian-economy.net/2021/01/28/1-dalis-akistata-su-lsdp</id><content type="html" xml:base="https://lithuanian-economy.net/2021/01/28/1-dalis-akistata-su-lsdp">&lt;p&gt;&lt;strong&gt;Šioje komentarų serijoje (“Kodėl LSDP pralaimėjimas yra Lietuvos kairės laimėjimas?”) noriu išdėstyti mintis ir pabūti velnio advokatu, argumentuodamas, jog LSDP prakišimas 2020m. Seimo rinkimuose, buvo į naudą ne tik pačiai LSDP bet ir visai kairei Lietuvoje. Iš karto noriu pabrėžti, nesu politologas, todėl nesiūlau vertinti mano nuomonės kaip teisingos, objektyvios ar panašiai. Esu kairių pažiūrų, tebūnie demokratinis socialistas, tebūnie liberalus Marxistas, galų gale tai etiketės, o ne turinys. Bet man rūpi, kas Lietuvoje vyksta su kairia politika, arba būkime nuoširdūs, su politika, kuri imituoja būti kairia. Šioje dalyje -  akistata su LSDP, kurioje pabandysiu glaustai išdėstyti, kas yra negerai su LSDP, nes tik suprantat ligos priežastis, galiu leistis į apmąstymus, kaip tą ligą gydyti.&lt;/strong&gt;&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;1-akistata-su-lsdp&quot;&gt;1. Akistata su LSDP&lt;/h1&gt;
-
-&lt;h2 id=&quot;11-kairė-nėra-kairė&quot;&gt;1.1. Kairė nėra kairė&lt;/h2&gt;
-
-&lt;p&gt;Lietuvoje kažkodėl yra įprasta “kairės” etiketę priklijuoti visiems, kurių politiniuose lozunguose atsiranda bent krislelis socialinės politikos apmatų. LSDP yra “kairė” ko gero vien dėl to, jog pas juos raudona rožė fone ir Sysas nepavargstamai kalba kažką apie progresinį apmokestinimą.
-Taip vertinant, gaunasi, jog žymusis aukštas ir gražus Daukanto aikštėje sėdintis bankinis PR’čikas irgi yra kairysis - na pasisako už kažkokias lygias galimybes, didesnį biudžetą (mokesčių ir BVP santykį). O Valstiečiai ‘žalieji’ - tai jau kairių kairė - didino pensijas, vaiko pinigus, va žiūrėk labiau apmokestinti bankus ir prekybos centrus pasinešę buvo.&lt;/p&gt;
-
-&lt;p&gt;Apmaudu. Apmaudu dėl žiniasklaidos, kuri kudakuoja kaip višta dedeklė, tik ko gero čia dabar ką tik įžeidžiau vištą, nes &lt;a href=&quot;https://www.sciencedaily.com/releases/2017/01/170103091955.htm&quot;&gt;mokslininkai nustatė&lt;/a&gt;, jog pasirodo šis gyvūnas dar ir ganėtinai protingas, emptaiškas ir t.t.
-Mūsų žiniasklaida - anaiptol, jai ir LSDP ir DP ir LVŽS - kairios partijos. Todėl nuolat buvo kalbama apie galimą šių partijų koaliciją, na juk visos “kairios”.&lt;/p&gt;
-
-&lt;p&gt;Viename savo video, labai aiškiai išdėsčiau, kas, remiantis “Mano Balsas LT” apklausos rezultatais, yra arti ko: nei DP, nei LVŽS nėra arti LSDP:&lt;/p&gt;
-
-&lt;div style=&quot;position: relative; overflow: hidden; padding-top: 50%;&quot;&gt;&lt;iframe style=&quot;position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;&quot; src=&quot;https://www.youtube.com/embed/27Fd8olfZ48&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Ko pas mus trūksta, tai bendro supratimo kas yra kairė, jog tai nėra vien tik lygios galimybės, terminas kurį iš kairės dienotvarkės pasivogė dabartinė Premjerė Šimonytė, tai yra kur kas daugiau - tai pagarba žmogui, tai lygiateisiškumas, tai įtrauki socialinė ir ekonominė šalies raida, kuri turi būti tvari ne sekančius 5 metus, bet sekančius 150 metų. Tai ne tik progresiniai mokesčiai, tai protingi mokesčiai, galų gale tai ne darbuotojų teisių lobizmas, o visų gyventojų atstovavimas. Suprantama, negalima tikėtis, kad kiekvienas kairės politikas bus šių idealų atvaizdas, tikrai ne, bet šių idealų išpažinimas, jų siekimas, turėtų būti kiekvieno kairės politiko kasdieninėje darbotvarkėje.&lt;/p&gt;
-
-&lt;h2 id=&quot;12-situacija-lsdp&quot;&gt;1.2. Situacija LSDP&lt;/h2&gt;
-
-&lt;p&gt;O kokia yra situacija iš tiesų?&lt;/p&gt;
-
-&lt;p&gt;LSDP garbės pirmininkas A.Sakalas varo tiradas apie tai, kaip partijos yra uzurpuotos neoliberalios ideologijos ir linki R.Dagiui sėkmingai “atkurti krikščionių-demokratų partiją”. Apie šią homofibinę tiradą 2019 metų liepos mėnesį rašiau &lt;a href=&quot;https://lithuanian-economy.net/2019/07/07/homofobai-lsdp-tarpe/&quot;&gt;čia&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Čia tik viena A.Sakalo citata iš delfi.lt&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ar jų dar yra TS-LKD gretose, jei jie nepasako savo pozicijos net, pvz., dėl homoseksualių šeimų. Neįvertina to, kad homoseksualizmo politika naikina pačią visuomenę ir kaip tokia negali būti laikoma norma, o ne anomalija. Nesigirdi krikdemų balsų vertinant gėjų demonstracijas – ar tai kova už savo teises, ar reklama jaunimui: žiūrėkite, kokie mes linksmi, energingi ir šiuolaikiški, ateikite pas mus greičiau. Galėtų krikdemai atsiklausti vaikų, ar jie nori turėti ir mamą ir tėtį, ar jiems tinka ir dvi mamos arba du tėčiai.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Homofobija nuo tokio “garbės” pirmininko dvokia kaip išvietė vidurvasaryje. LSDP pirmininko pasirinkta reakcija - jokios. Neva ir taip visiems aišku, už ką LSDP. Tikrai? Visiems aišku?
-Tokį garbės pirmininką į garbės tribunolą, o tada garbės kulkomis iš partijos išvaikyt reiktų ir tikėtis, kad ES Parlamento socdemų frakcija apie tai nieko nesužinos :D&lt;/p&gt;
-
-&lt;p&gt;Bet grįžkime prie naujesnių “partijos” naujienų.&lt;/p&gt;
-
-&lt;p&gt;Per paskutinį &lt;a href=&quot;https://www.facebook.com/socdemai/videos/909188926495160&quot;&gt;LSDP tarybos posėdį&lt;/a&gt;, du pasisakymai buvo superiniai, tad juos idedu video formatu.&lt;/p&gt;
-
-&lt;div style=&quot;position: relative; overflow: hidden; padding-top: 50%;&quot;&gt;&lt;iframe style=&quot;position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;&quot; src=&quot;https://www.youtube.com/embed/FkB3YPkNbus&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;div style=&quot;position: relative; overflow: hidden; padding-top: 50%;&quot;&gt;&lt;iframe style=&quot;position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;&quot; src=&quot;https://www.youtube.com/embed/boP4LjrwZBQ&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Apibendrinti galima būtų taip:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;LGBTQ teisės = vaivorykštinės kepuraitės&lt;/li&gt;
-  &lt;li&gt;Žolės dekriminalizavimas = blogis&lt;/li&gt;
-  &lt;li&gt;Lietuvos ir LSDP ateitis - kaimas&lt;/li&gt;
-  &lt;li&gt;Vertybinis stuburas blogai, nes atima balsus. Duoda, tylėkit!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ir taip, čia kalba ne kokie eiliniai LSDP Balbieriškio skyriaus veikėjai, ne, čia kalba LSDP tarybos nariai, netgi kandidatas į merus! Su kaire ideologija šie asmenys turi tiek pat, kiek Kepenis su medicina.&lt;/p&gt;
-
-&lt;p&gt;Prisimenat, kas yra kandidatavęs į LSDP pirmininkus? Mindaugas Sinkevičius. Gaila, jo pasisakymas pastringa labai nevietoje, nes įžvalgas, kaip atgaivinti LSDP, būtų buvę labai įdomu išgirsti. Bet politiko vertinimas, jog LSDP devalvuojasi iki politologų būrelio yra labai įdomus. O kuo partija turėtų būti? Šėrykla saviems? Na taip, kad šėrykla saviems, tai akcentuoja jau kiti, aiškindami, kaip Seimo nariai, turėjo padėjėjais įdarbinti ne “savus savus”, o “partijos savus”.&lt;/p&gt;
-
-&lt;div style=&quot;position: relative; overflow: hidden; padding-top: 50%;&quot;&gt;&lt;iframe style=&quot;position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;&quot; src=&quot;https://www.youtube.com/embed/p1EpKCgGIYs&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Tai Mindaugai, sakote, kad diskusijų partijai nebereikia? Nereikia, jog partija virstu politologų būreliu. O nemanote, kad jeigu LSDP pradžiai virstų politologų būreliu, būtų bent kažkokia pažanga? Ta prasme, būtų bent judama demokratijos link?&lt;/p&gt;
-
-&lt;p&gt;Nes pripažinkime, su Demokratija, dabar lsDp neturi labai ką bendro. Lazutka, vardan vardo t.y. geresnių šansų patalpinimas nr 5 į rinkiminį sąrašą. Jo vieta sąraše nejudinama. Vaidas Navickas, kuris parašiutu nusileido Lietuvoje, vienu metu flirtuodamas su TS-LKD, vienu metu planuodamas dešinės Think-Tank’o su Milda Dargužaite kūrimą - gauna iš LSDP 15 vietą, kuri irgi, nejudinama. “Prezidiumo sprendimas”? Dcimakracija kaip pas Uspaskicką :D&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/2021/01/28/vaidas_lsdp2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Norite pasakyti didžiausia narių skaičiumi partija neturi nei vieno “ekonomisto”. Vaidas nėra ekonomistas, todėl kabutės, panašių su kabutėmis ar be jų turėjote ir ko gero galėjote rasti savo tarpe. Apie kitus keistus nejudinamus numerius, aš geriau net patylėsiu. Kairė turėtų mums visiems asocijuotis su demokratija, su diskusijomis ir įtraukiu idėjų karu, na bet taip, kam tas &lt;strong&gt;politologų būrelis&lt;/strong&gt; ne prie širdies. Ir tik nesakykite, kad niekas apie Vaida jūsų neperspėjo… :D&lt;/p&gt;
-
-&lt;p&gt;Kaip ir kam, tos investicijos į jaunimą? Kai 2018 metais sutikau prisidėti prie LSDP gairių rašymo, sutikau su sąlyga, jog kai baigsiu savo dalis, noriu jas pristatyti LSDP jaunimui. Turėti susitikimą su jaunimu iš visos Lietuvos, jiems pristatyti kaip aš ką matau, ką siūlau ir apturėti išsamią diskusiją su jais apie tai, kaip jie tai mato, kur galbūt aš kažką ne taip matau, arba pamirštu ar praleidžiu. Toks buvo žodinis susitarimas. Parašyt parašiau, jaunimo nemačiau, diskusijų nebuvo.  Na ne man ateiti ir aiškinti kodėl tai yra svarbu. Kodėl reikia dirbti ir kodėl reikia klausytis jaunimo… čia jau nebe apie demokratiją, o apie įtraukią organizacijos raidą ir investavimą į žmogiškąjį kapitalą.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/2021/01/28/lsdp_gaires.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Iki pat Gintauto atsistatydinimo laukiau, kol Gintautas įvykdys ir kitą savo “pažadą” ir pradės mokymus partijos nariams. &lt;em&gt;Long story short&lt;/em&gt; - idėja buvo paprasta ir gimusi per 20 minučių kelionės kartu automobilyje: organizuoti partijos nariams, ne tik jaunimui, įvairius mokymus apie ekonomika, raštvedybą, finansus, istorija, filosofiją ir t.t. Nariai dalyvaudami užsidirbtų “medalius” ar kokius nors bonus punktus ir tokiems asmenims ateityje būtų teikiama pirmenybė sąrašuose, skyrimuose ir t.t. Iš vienos pusės, tai skatintų partijos narius aktyviai gilinti žinias, tobulintis, o tai gerintų partijos įvaizdį visuomenėje bei partijos veiklos efektyvumą, iš kitos pusės, ko gero, tai sudarytų daugiau sąlygų jaunimui prasikalti pro visus Sysus, Sinkevičius, Olekus ir Vėsaites.
-Idėjos buvo, žmonės, kurie padėtų tą planą paversti kūnu irgi buvo, dėl ko idėjos ir liko idėjomis -  nežinau. Tai buvo paskutinis kartas, kai su Gintautu kalbėjomės gyvai.&lt;/p&gt;
-
-&lt;p&gt;Ir kad jau prakalbom apie laisves, tai prisiminkime, kiek kartų LSDP yra argumentavusi, viešai pristačiusi ir gynusi kokį J.Assange, kaip dažnai LSDP yra kritikavusi JAV, kuri vykdo karo nusikaltimus? Nekalbu vien tik apie sąjungininkų Afganistano ar Irako kare padarytus karo nusikaltimus, bet kalbu ir apie tai, kad JAV svetimose teritorijose bombarduoja jai nepatinkančius asmenis.  Kur LSDP, kur LSDP narių sėdinčių ES Parlamente vieši pasisakymai šiomis temomis? Kur parlamentiniai tyrimai, ar Lietuvos kariai nevykdė karo nusikaltimų? O kiek ex karių, kurie šiuo metu turi PTSD ir kaip jie gydomi, Jums žinoma? Ai tiesa, sovietų laikais nebuvo sekso, mūsų laikais, kariai neturi psichologinių problemų…  Pasakysite viskas po 9 užraktais? Tai pirmyn, tam Seime ir sėdite, kad galėti daryti atitinkamus tyrimus, kelti diskusijas ir siūlyti sprendimus.&lt;/p&gt;
-
-&lt;p&gt;VSD pasiklauso visokių MG Baltic pletkalų metų metus. Jums tai nekelia klausimo, dėl legitimumo? Ar deramai vykdoma parlamentinė kontrolė? Kuo baigėsi skandaliukas, dėl Nausėdos aplinkos tikrinimo? Nebeįdomi tema? Suprantama, lengviau apie progresinius mokesčius pakalbėti…&lt;/p&gt;
-
-&lt;p&gt;Ir tik nesakykite, kad kapstausi štai per senienas… paimkime kelių dienų skandaliuką - “pašalpiniai neatidirba”, nes gauna dabar darbo paieškos išmoką, tai viešųjų darbų dirbt atsisako, skandalas. &lt;a href=&quot;https://www.delfi.lt/news/daily/lithuania/pasalpu-gavejams-karantinas-isejo-i-nauda-dziaugiasi-kad-gauna-pinigus-o-atidirbti-nereikia.d?id=86281305&quot;&gt;LNK  žurnalistės citata&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Per pandemiją pašalpų gavėjai nevargsta, jie gauna pašalpas, už kurias nereikia atidirbti – rojus kaip niekada.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Čia jums viskas gerai? Čia ne žmonių žeminimas, kai jie už 120 eurų, turi dirbti, darbo priemonių, aprangos negauna, o nelaimingi atsitikimai ar kiti darbo metu nutikę įvykiai būna ne darbo metu, nes juk, nedirba? Bet teisingai, didžiausia partija, neturi kas tuo užsiimtų, domėtųsi…. visai pamiršau…&lt;/p&gt;
-
-&lt;h2 id=&quot;baigiamais-žodis-akistatai&quot;&gt;Baigiamais žodis akistatai&lt;/h2&gt;
-
-&lt;p&gt;Pripažinkime: &lt;strong&gt;LSDP nėra kairės partija&lt;/strong&gt;, tai būrelis, savo siaurus interesus atstovaujamų individų, kurie dėjo skersą ant kairių vertybių, nes valgyt norisi šiandien, o ideologiniai apsektai, reikalingi tik tiek, kiek jie parūpina saugų darbą. Taip partijoje yra gerų, dorų, idealistų… bet dauguma, panašu, jog  va tokia:&lt;/p&gt;
-
-&lt;div style=&quot;position: relative; overflow: hidden; padding-top: 50%;&quot;&gt;&lt;iframe style=&quot;position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;&quot; src=&quot;https://www.youtube.com/embed/ZYyDf-UwEHQ&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Partijos atsinaujinimas, buvo bandymas viešaisiais ryšiais keisti šitą kloaką. Iš anksto pasmerktas reikalas. Spėju, kad kokiems 70-80 proc. partijos narių, žmogaus teisės, vertybės, sąžiningumas, įtrauktis bei klimato kaita yra labiau keiksmažodžiai arba “mada”, o ne jų darbinė agenda.&lt;/p&gt;
-
-&lt;p&gt;Man nuoširdžiai gaila Gintauto, kuris bandė keisti, gal net turėjo vilčių kad tai pavyks. Bet nepavyks. Nepavyks ne dėl to, kad Mr. Positive, daug kalba, mažai daro, o dėl to, kad visa bazė yra supuvusi kaip kelmas ir tikėtis, kad iš puvėsių išskobt Nojaus arką - naivu.&lt;/p&gt;
-
-&lt;p&gt;Todėl manau, jog yra labai gerai, jog ši partija nelaimėjo rinkimų, nes bebryno mums reikia mažiau. Bebrynas, kuris buvo, yra ir bus šios partijos “stuburas”, nėra progresyvus kairysis. Todėl jo egzistavimas de facto užkerta kelią ateities kairių partijų kūrimuisi. O jog mažos partijos gali būti efektyvios - pastarieji rinkimai parodė labai akivaizdžiai.&lt;/p&gt;
-
-&lt;p&gt;Bet apie 2020m. Seimo rinkimų pamokas kairei, kitame blogposte…&lt;/p&gt;</content><author><name>Justas Mundeikis</name></author><category term="Politika" /><category term="LSDP" /><category term="Kairioji politika" /><summary type="html">Šioje komentarų serijoje (“Kodėl LSDP pralaimėjimas yra Lietuvos kairės laimėjimas?”) noriu išdėstyti mintis ir pabūti velnio advokatu, argumentuodamas, jog LSDP prakišimas 2020m. Seimo rinkimuose, buvo į naudą ne tik pačiai LSDP bet ir visai kairei Lietuvoje. Iš karto noriu pabrėžti, nesu politologas, todėl nesiūlau vertinti mano nuomonės kaip teisingos, objektyvios ar panašiai. Esu kairių pažiūrų, tebūnie demokratinis socialistas, tebūnie liberalus Marxistas, galų gale tai etiketės, o ne turinys. Bet man rūpi, kas Lietuvoje vyksta su kairia politika, arba būkime nuoširdūs, su politika, kuri imituoja būti kairia. Šioje dalyje - akistata su LSDP, kurioje pabandysiu glaustai išdėstyti, kas yra negerai su LSDP, nes tik suprantat ligos priežastis, galiu leistis į apmąstymus, kaip tą ligą gydyti.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lithuanian-economy.net/assets/2021/01/28/lsdp.jpg" /><media:content medium="image" url="https://lithuanian-economy.net/assets/2021/01/28/lsdp.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/assets/2021/02/08/olek.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Justas Mundeikis</name></author><category term="Politika" /><category term="LSDP" /><category term="Kairioji politika" /><summary type="html">Prieš gerą savaitę parašiau pirmą trilogijos dalį “Kodėl LSDP pralaimėjimas yra Lietuvos kairės laimėjimas? Pirma dalis - akistata su LSDP”, kurios tikslas buvo iliustruoti, kad LSDP anei demokratijos, anei kairumo per daug nėra. Tiesiog nebėra idėjinės kovos už žmogų, už darbuotoją, už lygias galimybes. Tie, kurie kalba apie atsinaujinimą tesugeba tik “savus” pastatyti į numerius 5-15 be eilės, be įdirbio partijoje. Yra daug senųjų bebrų krokodilo ašarų, kaip čia netampa Seimo narių patarėjais ar kaip čia apskritai kokia tai Budbergytė gali pasisakyt už akcizus žemdirbių dyzelinui? Partija tapo nebe vienijanti žmonės aplink kairiąją idėją, o patarnaujanti joje esančių privatiems interesams. Vaido Navicko, kurio interesas nebuvo “patarnautas” - atvejis labai gerai iliustruoja, ką tokia partija, kaip magnetas, traukia į save konkrečiai, ir kuo baigiasi legionieriavimas bendrai. Šioje dalyje noriu žengti toliau ir garsiai pamąstyti, ką parodė praėję Seimo rinkimai, nes manau, jog pamokas turi daryti ir jaunieji kairieji, apie kuriuos ir rašysiu trečioje trilogijos dalyje.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lithuanian-economy.net/assets/2021/02/08/ban.jpeg" /><media:content medium="image" url="https://lithuanian-economy.net/assets/2021/02/08/ban.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
