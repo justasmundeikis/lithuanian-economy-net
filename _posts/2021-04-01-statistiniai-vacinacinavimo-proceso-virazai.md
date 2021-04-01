@@ -4,7 +4,7 @@ date: 2021-04-01 08:00:00 +03:00
 author: Justas Mundeikis
 layout: post
 comments: true
-citation: true
+citation: false
 image:  /assets/2021/04/01/ban.png
 thumbnail: /assets/2021/04/01/thumb.ban.png
 categories:
@@ -43,7 +43,7 @@ Jeigu tiek vakcinų iš tiesų laikoma šaldytuvuose, tada suprantama A.Veryga b
 
 Visgi "šaldytuvų" esama dviejų tipo. Vakcinos gali gulėti "ministerijos šaldytuvuose", tai tos vakcinos, kurios yra gautos, bet dar nepaskirstytos ir vakcinos gali gulėti "vakcinavimo centrų šaldytuvuose", tai tos vakcinos, kurios yra paskirstytos į vakcinavimo centrus, bet dar nepanaudotos skiepijant.
 
-Deja Statistikos departamentas (su visa pagarba po truputi jų atveriamiems duomenims), dar nėra atvėręs pakankamai duomenų. Tad tako rankutėmis suskaičiuoti duomenis, esančius stulpelinėse diagramose "Gauta vakcinų dozių" ir "Paskirstyta vakcinų dozių". Ir o šokas, **SKAIČIAI NEATITINKA**!!!
+Deja Statistikos departamentas (su visa pagarba po truputi jų atveriamiems duomenims), dar nėra atvėręs pakankamai duomenų. Tad teko rankutėmis suskaičiuoti duomenis, esančius stulpelinėse diagramose "Gauta vakcinų dozių" ir "Paskirstyta vakcinų dozių". Ir o šokas, **SKAIČIAI NEATITINKA**!!!
 
 Suskaičiavus rankutėmis "Paskirstyta vakcinų dozių" suma atitinka nurodytas, o  "Gauta vakcinų dozių" ne. "Gauta vakcinų dozių" iš stulpelinės diagramos suma siekia 577 565, o ne 642 365! Taigi nepaskirstytų vakcinų skaičius siekia ne 76 600 (642 365-565 795), o tik 11 800 (577 567-565 795) dozių.
 
@@ -51,7 +51,7 @@ Parašiau el. laišką į Statistikos departamentą, dėl galimo neatitikimo / k
 
 >...nėra jokios paslapties, panikos, dramos ar klaidos (bent jau aš to nevadinčiau klaida). Šįryt SAM keliom minutėm anksčiau nei reikėjo į sistemą suvedė naujų ką tik atvykusių vakcinų atvykimą į sandėlį. Kadangi suvedė prieš mums išpublikuojant vakarykščius duomenis – taip ir gavosi, kad atrodo, jog vakcinos atvyko jau vakar ryte, o ne šiandien ryte. SAM tiesiog turėjo mažiau uoliai suvedinėti skaičius. Jei būtų suvedę 09:30 – apie šias naujas dozes, atvykusias šįryt, švieslentė paskelbtų tinkamu metu - rytoj ryte.
 
-Kitaip tariant, SAM suvedinėja suminius skaičius, o Statistikos departamentas, duomenis stulpinėse diagramose. Tai jog publikuojami neatitinkantys skaičiai - mehhh... anokia čia problema...  Rimtai????
+Kitaip tariant, SAM suvedinėja suminius skaičius, o Statistikos departamentas, duomenis stulpelinėse diagramose. Tai jog publikuojami neatitinkantys skaičiai - mehhh... anokia čia problema...  Rimtai????
 
 Mieli statistikai, taip mes Jus labai mėgstame, BET, Statistikos departamentas yra padarytas COVID duomenų "Gate keeper'iu", po to, kai NVSC suskaičiavo/nesuskaičiavo ir t.t. Būkite malonūs, susitvarkykite savo duomenų valdymo procesus ir užtikrinkite duomenų integralumą. Negali būti jog tame pačiame puslapyje esančiuose dviejuose laukeliuose skiriasi duomenys. Ir niekam nesvarbu, SAM paskubėjo ar ne. Jūs esate atsakingi už duomenų kokybę. Kitaip Jūs prisidedate prie to, jog būtų pradėta manipuliuoti skaičių neatitikimais.
 
