@@ -86,6 +86,6 @@ Tačiau tuo pat metu turimi duomenys aiškiai parodo, kad mušti būgnais ir ai�
 # Palinkėjimai
 
 Palinkėjimas Statistikos departamentui - sureguliuoti duomenų pateikimo ir viešinimo procesus bei atverti kuo daugiau duomenų visuomenei.
-Palinkėjimas SAM - pradėti visuotinius, bet deja, renginius Lietuvos miesteliuose ir kaimeliuose tam, jog šviesti visuomenę. Nes bendras nepasitikėjimas ir nenoras vakcinuoti panašu, jog bus didesnis nei tikėtasi.
+Palinkėjimas SAM - pradėti visuotinius, bet deja, renginius Lietuvos miesteliuose ir kaimeliuose tam, jog šviesti visuomenę. Nes bendras nepasitikėjimas ir nenoras vakcinuotis panašu, jog bus didesnis nei tikėtasi.
 
 Ach, ir mažiau klausyt ekonomistų :D

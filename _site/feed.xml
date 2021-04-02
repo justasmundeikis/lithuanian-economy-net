@@ -1,5 +1,153 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://lithuanian-economy.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lithuanian-economy.net/" rel="alternate" type="text/html" /><updated>2021-04-01T16:04:03+03:00</updated><id>https://lithuanian-economy.net/feed.xml</id><title type="html">Lithuanian-Economy.net</title><subtitle>One or more sentences introducing this blog.
-</subtitle><author><name>Justas Mundeikis</name></author><entry><title type="html">Statistiniai vakcinavimo proceso viražai</title><link href="https://lithuanian-economy.net/2021/04/01/statistiniai-vacinacinavimo-proceso-virazai" rel="alternate" type="text/html" title="Statistiniai vakcinavimo proceso viražai" /><published>2021-04-01T08:00:00+03:00</published><updated>2021-04-01T08:00:00+03:00</updated><id>https://lithuanian-economy.net/2021/04/01/statistiniai-vacinacinavimo-proceso-virazai</id><content type="html" xml:base="https://lithuanian-economy.net/2021/04/01/statistiniai-vacinacinavimo-proceso-virazai">&lt;p&gt;&lt;strong&gt;Šiame blogpost’e apie mistines sukauptas ir šaldytuvuose laikomas vakcinas ir Statistikos departamento klaidinantį duomenų valdymo procesą.&lt;/strong&gt;&lt;!--more--&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://lithuanian-economy.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lithuanian-economy.net/" rel="alternate" type="text/html" /><updated>2021-04-02T16:34:30+03:00</updated><id>https://lithuanian-economy.net/feed.xml</id><title type="html">Lithuanian-Economy.net</title><subtitle>One or more sentences introducing this blog.
+</subtitle><author><name>Justas Mundeikis</name></author><entry><title type="html">Mea Culpa, arba viešas kreipimasis į Lietuvos Statistikos departamentą ir kitus duomenų mokslininkus</title><link href="https://lithuanian-economy.net/2021/04/02/mea-culpa" rel="alternate" type="text/html" title="Mea Culpa, arba viešas kreipimasis į Lietuvos Statistikos departamentą ir kitus duomenų mokslininkus" /><published>2021-04-02T15:00:00+03:00</published><updated>2021-04-02T15:00:00+03:00</updated><id>https://lithuanian-economy.net/2021/04/02/mea-culpa</id><content type="html" xml:base="https://lithuanian-economy.net/2021/04/02/mea-culpa">&lt;p&gt;&lt;strong&gt;Parašęs paskutinį blogpostą (kuriame demonstravau, kaip padaryta duomenų proceso valdymo klaida gali reikšti visuomenės manipuliavimą pasinaudojant klaidingą informacija ir renkantis politinius dividendus bei menkinant Vyriausybės darbą, nors paanalizavus duomenis pasirodo, jog tokie pareiškimai iš esmės yra be pagrindo), susilaukiau gausios reakcijos. Ir visai ne apie tai kiek šaldytuvuose yra vakcinos dozių ir visai ne apie tai ką kalba Veryga ar kiti politikai, ar ką skelbia žiniasklaida. Todėl šiuo blogpost’u noriu į tai sureaguoti, nes sureaguoti per visus kanalus - Facebook, Linkedin ir el. paštą  būtų neefektyvu.&lt;/strong&gt;&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
+
+&lt;p&gt;Mielas Statistikos departamente,&lt;/p&gt;
+
+&lt;p&gt;aš nuoširdžiai gailiuosi ir labai apgailestauju, kad paviešinau vieną nedidelę klaidelę, vienoje iš švieslenčių. Labai atsiprašau, kad mano vieša ir nekonstruktyvi kritika tapo tarsi &lt;em&gt;ad hominem&lt;/em&gt; trapiai LSD emocinei būklei, ne vietoje ir ne laiku čia aš pasireiškiau… Aš nedelsiant išimsiu minėtą blogpost’ą ir vietoj jo patalpinsiu ką nors mielo ir gražaus, va pvz., tokį pūkuotą kačiuką!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/kitty.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Juokauju!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/bad_kitty.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Su visa pagarba visiems komentatoriams: aš rašiau apie manipuliacija pilnais vakcinų šaldytuvais, bet ne… konstruktyvios kritikos priimti nemokame, viskas yra gerai, Mundeikis kabinėjasi prie detalių… Aš neketinau plėstis šioje tematikoje, nes man ji asmeniškai neįdomi, bet kad jau taip visi gausiai ir uoliai komentuojate, negaliu tylėti ir aš.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/alert.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Perspėjimas jautrių nervų žmonėms - toliau neskaitykite, nervinimasis yra nesveika. Geriau eikite pasivaikščioti gryname ore.&lt;/p&gt;
+
+&lt;h1 id=&quot;kritika-lsd-nebuvo-esmė&quot;&gt;Kritika LSD nebuvo esmė&lt;/h1&gt;
+
+&lt;p&gt;Visa blogpost’o esmė buvo, kad Verygos pasisakymas apie vakcinas šaldytuve ir kuriamas manipuliatyvus naratyvas apie neva prastai dirbančią SAM yra nepagrįstas.LSD blog’e nusipelnė mano dėmesio dėl to, kad per klaidą pateikiami duomenys įgalina politikus manipuliuoti skaičiais. Yra tokie duomenys kaip vidutinė temperatūra ir yra tokie duomenys kaip COVID, jų politinė ir emocinė įkrova yra skirtinga ir atitinkamai reikalaujanti kitokio dėmesio. Šabloninis pasakymas &lt;em&gt;à la&lt;/em&gt; “Kur obliuojama ten krenta drožlės” nelabai dera COVID kontekste. Kam COVID statistika yra eilinė laiko eilutė, tam patartina pažiūrėti, kokiomis nuotaikomis gyvename realybeje.&lt;/p&gt;
+
+&lt;p&gt;Šiaip man atrodo, turėtų pakati šito pararagrafo ir visiems viskas turėtų būti aišku… bet iš sulaukto dėmesio, abejoju kad bus…&lt;/p&gt;
+
+&lt;p&gt;Tad dabar papunkčiui…&lt;/p&gt;
+
+&lt;h2 id=&quot;linkedin-lsd-generalinei-direktorė-komentavo&quot;&gt;LinkedIn: &lt;a href=&quot;https://www.linkedin.com/posts/j%C5%ABrat%C4%97-petrauskien%C4%97-453972131_statistiniai-vakcinavimo-proceso-vira%C5%BEai-activity-6783436166386511872-n2XP&quot;&gt;LSD generalinei direktorė komentavo:&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/gen_dir_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Į ką aš atrašiau:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Priešingai, siūlau dar daugiau skelbti. Kartu šiandien parašytame laiške Laimai, kartu nurodžiau ir kaip būtų galima išvengti tokių klaidų.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nesuprantu, prie ko čia skelbti ar neskelbti? “Būti ar nebūti, štai kur klausimas” - gal mažiau Hamleto, daugiau konstruktyvumo?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/hamlet.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;linkedin-statistikos-sklaidos-ir-komunikacijos-skyriaus-dirketorė-komentavo&quot;&gt;LinkedIn: &lt;a href=&quot;https://www.linkedin.com/posts/gita-litersk%C4%97-1518b01b9_statistiniai-vakcinavimo-proceso-vira%C5%BEai-activity-6783430607881039872-Yrav&quot;&gt;Statistikos sklaidos ir komunikacijos skyriaus dirketorė komentavo:&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/statdep_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;į kurį atrašiau:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ego? &amp;lt;– nekomentuosiu…
+Ištaisytas bug duomenų valdymo procese? Super! Tam ir blogpost’as, jog Stat depas taisytų klaidas, o visuomenė taptų atsparesnė manipuliacijoms.
+O kad LSD pateikiamais skaičiais nebus bandoma manipuliuoti, eskaluojant politiniuose kuluaruose ir ne tik, apie tai kaip SAM nesusitvarko su vakcinavimu  („vakcina šaldytuve imuniteto niekam nesukurs“) … būtų naivu.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nežinau, man regis LSD nekaltinau skaičių manipuliavimu, o aiškiai &lt;a href=&quot;https://lithuanian-economy.net/2021/04/01/statistiniai-vacinacinavimo-proceso-virazai&quot;&gt;tekste parašiau&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Ir niekam nesvarbu, SAM paskubėjo ar ne. Jūs esate atsakingi už duomenų kokybę. Kitaip Jūs prisidedate prie to, jog būtų pradėta manipuliuoti skaičių neatitikimais”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dabar tai išversti į tai, kad aš kaltinu LSD skaičių manipuliavimu yra - įdomu. Įdomu, ar kas nors ramiai skaitė blogpost’ą, ar tiesiog LSD kilo emocinė bangą? Pradėjo visi pūsti vuvuzelomis? Nes atsirito ji ir per emailus.&lt;/p&gt;
+
+&lt;p&gt;Dabar prieš pradedant kam nors dėl ko nors piktintis, mano darbinis el pašto adresas yra justas.mundeikis@lithuanian-economy.net, mano susirašinėjimas, kurį cituoju, yra tik su adresatais, susirašinėjant oficialiais LSD el. pašto adresais, nėra jokių asmeninių emailų, asmeninių bendravimo kanalų ar panašiai.&lt;/p&gt;
+
+&lt;h2 id=&quot;lsd-darbuotojo-emailas&quot;&gt;LSD darbuotojo emailas&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/email_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nematau nieko neatsakingo, negarbingo ar neetiško.&lt;/p&gt;
+
+&lt;p&gt;Aš kreipiausi dėl galimos klaidos, Jūs klaidą patvirtinote, aš aprašiau kokia buvo klaida, bei KODĖL ji buvo kilusi. Neprikūriau jokių istorijų, neiškreipiau realybės, o pateikiau faktus.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dėl “asmeninio” rašymo&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;2020-03-29 dieną ar kreipiausi į LSD dviem emailais: covid@stat.gov.lt ir Jūsų (viename emaile), nes būtent Jūs anksčiau man atrašėte po kreipimosi į tą patį covid@ emailą ir kaip suprantau, esate atsakingas už COVID statistiką. Turint omenyje, kaip dažnai LSD el. pašto serveris klaidingai klasifikuoja mano emailus į SPAM, aš stengiuosi įtraukti kelis gavėjus, nes LSD neturi &lt;em&gt;autoresponse&lt;/em&gt; funkcijos, kad “Gavome, dėkui, atsakysime”.&lt;/p&gt;
+
+&lt;p&gt;Po 2021-03-29 laiško Jūs man atrašėte prisegant ir kitą darbuotoją, kuris atsakė kiek vėliau į kitą užklausos dalį. Tad susirašinėjimas COVID vakcinacijos tema ir vyko su Jumis abiem. Atitinkamai el. laiškas, parašytas 2021-03-31 dėl galimos LSD klaidos su prašymu &lt;em&gt;“Gal galite patikslinti, ar abu rodikliai (stulpelių diagramos ir suminis skaičiukas) yra iš to paties duomenų šaltinio, ar nėra švieslentėje įsivėlusi klaida?”&lt;/em&gt; buvo išsiųstas Jums abiems. Kadangi tematika tebebuvo ta pati, vakcinacijos skaičiai - nemačiau objetyvių priežasčių rašyti į covid@stat.gov.lt.&lt;/p&gt;
+
+&lt;p&gt;Kaip Jūs valdote žmonių užklausas aš nežinau ir man nuoširdžiai nerūpi. Galiu tik pasakyti, kad nuėjus į LSD duomenų bazę ir pasirinkus bet kurį rodiklį, jam “i”nfo paskyroje yra nurodytas konkretus darbuotojas, į kurį reikia kreiptis, kilus klausimams, pvz.,:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/info.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tokia metų metais turėta praktiką formuoja įpročius, kad kreiptis reikia tiesiogiai. Jeigu tai nebuvo LSD siekis, tada taisykite info skiltį ir nurodykite tik bendrinius kontaktinius duomenimis, nustokite atrašinėti į gyventojų užklausas tiesiogiai, įsidėkite duomenų / užklausų valdymo sistemą ar kad ir ką, ir valdykite informaciją, kaip Jums atrodo tinkama.&lt;/p&gt;
+
+&lt;p&gt;Aš kreipiuosi į LSD su užklausomis liečiančiomis LSD pavestą funkciją platinti statistinę informaciją. Jums asmeniškai į Jūsų privatų el. paštą niekad nieko nerašiau, jokios asmeninės pagalbos ar paslaugų irgi neprašiau, juo labiau Jūsų laisvu laiku!!! Jeigu gyventojų užklausų COVID statistikos tematika aptarnavimas nėra įtrauktos į Jūsų darbo aprašą, bet Jus jas vykdote, kreipkitės į vadovybę. Aš nesu teisingas adresatas lieti šias nuoskaudas.&lt;/p&gt;
+
+&lt;h1 id=&quot;kitas-lsd-darbuotojo-emailas&quot;&gt;Kitas LSD darbuotojo emailas&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/email_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aš aprašiau, kokia buvo klaida ir kaip ji atsirado. Politinių diskusijų ir manipuliacijų fone, paryškinau, jog tokios klaidos prisideda prie to, kad politikai gali dar labiau išnaudoti klaidingai pateiktus skaičius, ypač tokia svarbia tema, kaip COVID, kur emocijos jau tampa svarbesnės, nei faktai.&lt;/p&gt;
+
+&lt;p&gt;Susitvarkėte klaidą? Labai gerai, bet ar dingo pats faktas? Juo labiau, ar dingo politikų pasisakymai, apie vakcinas gulinčias šaldytuvuose, ar žmonių galvojimas, prisiklausius tokių pasisakymų, jog pas mus stringa vakcinavimo procesas? Man atrodo, kad ne.&lt;/p&gt;
+
+&lt;p&gt;Operatyvumas ir tikslumas… Aš nesuprantu, prie ko čia operatyvumas ir tikslumas? Yra duomenys, kuriuos galite teisiškai viešinti. Toliau yra paprasčiausias klausimas, ar yra padaromos kokios nors klaidos pačiame duomenų apdorojimo ir viešinimo procese (švieslentėje). Turint omenyje, kokia yra svarbi ir jautri COVID tema, tikiu, kad LSD kuo puikiausiai suvokia savo atsakomybę ir kelis kartus tikrina visus skaičiavimus. Ir taip, nepaisant to, klaidų pasitaiko. Bet ne apie tai buvo blogpost’o esmė, o apie tai, kaip pasitaikant tokioms klaidoms galima manipuliuoti kuriant realybę iškreipiančius naratyvus.&lt;/p&gt;
+
+&lt;p&gt;Na ir atsakant į klausimą, kam naudingas anas blogpost’as? Taip, aš manau, kad blogpost’as yra naudingas daug kam:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Politikams, kad jie matytų, kad kartais net LSD atsiranda klaidų, todėl visą statistiką reikia vertinti atsargiai ir neskubėti daryti išvadų iš vieno skaičiuko.&lt;/li&gt;
+  &lt;li&gt;Žmonėms, parodant, kad Verygos pasisakymai apie vakcinas šaldytuvuose iš esmės yra klaidingi.&lt;/li&gt;
+  &lt;li&gt;Studentams, kurie pamato, kokia yra svarbi politinio ir emocinio konteksto įkrova ir koks kartais turi būti atsakingas darbas.&lt;/li&gt;
+  &lt;li&gt;Man - mažiausiai naudinga. Aš sugaišau n-valandų laiko sužiūrėdamas duomenis, pateikdamas duomenis kitu rakursu, kuriuo šie duomenys nėra pateikiami LSD švieslentėje ir dar daugiau laiko, atrašinėdamas į LSD darbuotojų komentarus ir emocines iškrovas.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;atsakymas-vaidotui-zemliui-balevičiui&quot;&gt;Atsakymas Vaidotui Zemliui-Balevičiui&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/VZB.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Esmė klaidų dažnis&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ne Vaidotai, esmė ne klaidų dažnis, o klaidingų politinių išvadų darymas, remiantis klaidingais duomenimis.&lt;/p&gt;
+
+&lt;p&gt;Man toks jausmas, kad kai kuriems duomenų mokslininkams, duomenys ir jų aprodojimo procesas atrodo kaip savaiminis tikslas, &lt;em&gt;holy grail&lt;/em&gt;, nekritikuotinas, nekvestionuotinas, šventas… Fuck it, duomenis renkami ir publikuojami ne &lt;em&gt;per se&lt;/em&gt;, o tam, kad daryti išvadas. Man rūpi klaidos tik tiek, kokį jos turi poveikį politiniam turiniui.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Atsistot best į vieną klaidą ir šaukt, kad viskas blogai irgi nėra visiškai etiška.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nesakau, kad viskas blogai, aprašiau konkrečią problemą.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/VZB_L.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Būtų gražu iš jūsų pusės dabar porą savaičių stebėti situaciją ir paskelbti kiek klaidų pasitaikė per tas pora savaičių&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Gražu Jums? Gražų LSD? Gražu kam? Grožis yra skonio reikalas. Kam aš čia turėčiau įtikti? Išpirkti savo kritikavimo nuodėmes, ar ką?&lt;/p&gt;
+
+&lt;p&gt;Su visa pagarba, Jums viskas gerai? Ar Jūs įsivaizduojate, kad Verygos ir co irgi sėdės ir stebės LSD klaidingumą ir skaičiuos kokius tai afigienus išvestinius klaidingumo rodiklius ir paskui gamins gražius grafikus? Kokių priešvelykinių margučių Jūs čia užvalgėtė? :D&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Va kas dieną atnaujinamas failas su vakcinų pristatymais: https://github.com/mpiktas/covid19lt/blob/master/data/lt-covid19-vaccine-deliveries.csv.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vaidotai, su tavo pateikiamais agreguotais duomenimis viskas yra super, bet kaip pats rašai savo &lt;a href=&quot;https://github.com/mpiktas/covid19lt&quot;&gt;about.md&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/VZB_GH.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tai nėra oficialūs duomenys, kuriuos aš paimčiau iš LSD. Aš nežinau ar Jūs suvokiate skirtumą tarp šaltinių: “fainas bičas pasharino skaičius”  vs oficialūs LSD duomenys?&lt;/p&gt;
+
+&lt;p&gt;Jeigu naudočiau trečiųjų šalių duomenis, tada ir turėčiau arba verifikuoti visą duomenų parsiuntimo procesą, arba nurodyti, kad duomenys nėra LSD, o Vaido. Tam kad išvengti klaidų, aš remiuosi tik tais duomenis, kurie yra &lt;a href=&quot;https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_5/&quot;&gt;viešai skelbiami&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;epilogas&quot;&gt;Epilogas&lt;/h1&gt;
+
+&lt;p&gt;Gal apsieisiu be epilogo, nes visa diskusija ir taip gavosi emocinės iškrovos krūva. Neproduktyvi ir tiesiog eilinis “myliu-nemyliu”, na arba “būti ar nebūti”. Mano nuomone, aš sureagavau į pakankamą kiekį išsakytos viešos kritikos ir į tolimesnius visų išgyvenimus ir sielavartus reaguoti neketinu.&lt;/p&gt;
+
+&lt;p&gt;Smagių visiems švenčių.&lt;/p&gt;</content><author><name>Justas Mundeikis</name></author><category term="COVID19" /><category term="statistika" /><category term="LSD" /><summary type="html">Parašęs paskutinį blogpostą (kuriame demonstravau, kaip padaryta duomenų proceso valdymo klaida gali reikšti visuomenės manipuliavimą pasinaudojant klaidingą informacija ir renkantis politinius dividendus bei menkinant Vyriausybės darbą, nors paanalizavus duomenis pasirodo, jog tokie pareiškimai iš esmės yra be pagrindo), susilaukiau gausios reakcijos. Ir visai ne apie tai kiek šaldytuvuose yra vakcinos dozių ir visai ne apie tai ką kalba Veryga ar kiti politikai, ar ką skelbia žiniasklaida. Todėl šiuo blogpost’u noriu į tai sureaguoti, nes sureaguoti per visus kanalus - Facebook, Linkedin ir el. paštą būtų neefektyvu.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lithuanian-economy.net/assets/2021/04/02/ban.jpg" /><media:content medium="image" url="https://lithuanian-economy.net/assets/2021/04/02/ban.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Statistiniai vakcinavimo proceso viražai</title><link href="https://lithuanian-economy.net/2021/04/01/statistiniai-vacinacinavimo-proceso-virazai" rel="alternate" type="text/html" title="Statistiniai vakcinavimo proceso viražai" /><published>2021-04-01T08:00:00+03:00</published><updated>2021-04-01T08:00:00+03:00</updated><id>https://lithuanian-economy.net/2021/04/01/statistiniai-vacinacinavimo-proceso-virazai</id><content type="html" xml:base="https://lithuanian-economy.net/2021/04/01/statistiniai-vacinacinavimo-proceso-virazai">&lt;p&gt;&lt;strong&gt;Šiame blogpost’e apie mistines sukauptas ir šaldytuvuose laikomas vakcinas ir Statistikos departamento klaidinantį duomenų valdymo procesą.&lt;/strong&gt;&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
 
@@ -77,7 +225,7 @@ Labai gerai matosi, jog “ministerijos šaldytuvai” nėra pildomi ir gautos v
 &lt;h1 id=&quot;palinkėjimai&quot;&gt;Palinkėjimai&lt;/h1&gt;
 
 &lt;p&gt;Palinkėjimas Statistikos departamentui - sureguliuoti duomenų pateikimo ir viešinimo procesus bei atverti kuo daugiau duomenų visuomenei.
-Palinkėjimas SAM - pradėti visuotinius, bet deja, renginius Lietuvos miesteliuose ir kaimeliuose tam, jog šviesti visuomenę. Nes bendras nepasitikėjimas ir nenoras vakcinuoti panašu, jog bus didesnis nei tikėtasi.&lt;/p&gt;
+Palinkėjimas SAM - pradėti visuotinius, bet deja, renginius Lietuvos miesteliuose ir kaimeliuose tam, jog šviesti visuomenę. Nes bendras nepasitikėjimas ir nenoras vakcinuotis panašu, jog bus didesnis nei tikėtasi.&lt;/p&gt;
 
 &lt;p&gt;Ach, ir mažiau klausyt ekonomistų :D&lt;/p&gt;</content><author><name>Justas Mundeikis</name></author><category term="COVID19" /><category term="statistika" /><summary type="html">Šiame blogpost’e apie mistines sukauptas ir šaldytuvuose laikomas vakcinas ir Statistikos departamento klaidinantį duomenų valdymo procesą.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lithuanian-economy.net/assets/2021/04/01/ban.png" /><media:content medium="image" url="https://lithuanian-economy.net/assets/2021/04/01/ban.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Yannis Varoufakis “Another now” knygos recenzija</title><link href="https://lithuanian-economy.net/2021/03/14/another-now-recenzija" rel="alternate" type="text/html" title="Yannis Varoufakis “Another now” knygos recenzija" /><published>2021-03-14T17:00:00+02:00</published><updated>2021-03-14T17:00:00+02:00</updated><id>https://lithuanian-economy.net/2021/03/14/another-now-recenzija</id><content type="html" xml:base="https://lithuanian-economy.net/2021/03/14/another-now-recenzija">&lt;p&gt;&lt;strong&gt;Yannis Varoufakis knygą “Another now” ko gero reiktų versti “Kita dabartis”. Pirma paėmus į rankas galvojau, jog 235 puslapiu sci-fi veikaliukas susiskaitys per vieną vakarą. Klydau. Prireikė 3.  Tiesa pasakius, pabaigęs knygą pasijaučiau “damušęs” iki galo. Nes knygos smagumas buvo ribotas ir šiame blogposte pabandysiu paaiškinti, kodėl, kam verta, o kam neverta skaityti šią knygą.&lt;/strong&gt;&lt;!--more--&gt;&lt;/p&gt;
 
@@ -566,120 +714,4 @@ Ne, nes aš gyvenu šia tematika, nes man ji rūpi ir aš priimu su tuo kylanči
 
 &lt;p&gt;Jeigu jau kalbant apie išverstakūrinius (žali valgantys steikus ir t.t.), tai kiek reikia būti &lt;strong&gt;išverstaskūriu kairiuoju&lt;/strong&gt;, jog dirbtum privačioje mokykloje, kuri tapatinama su mūsų švietimo sistemos griovimu ir galimybių nelygybės skatinimu? Geros darbo sąlygos? Protingi (selektyviai atrinkti) mokiniai? Mhm… pasaka… ir nieko tame blogo, kaip kažkas pasakė “vsio zakono”…&lt;/p&gt;
 
-&lt;p&gt;Bet gal ir nestebina tada, naudojamas pro-versliškas argumentavimas, kurį nuolat girdime viešumoje: “nekritikiuokite verslo, kol patys nesukūrėte darbo vietų…” neprimena, tekste tos dalies, kad mus kritikuoja tie, kurie iš esmės nieko nepadarė?&lt;/p&gt;</content><author><name>Justas Mundeikis</name></author><category term="Politika" /><category term="LSDP" /><category term="Kairioji politika" /><summary type="html">Aš labai džiaugiuosi, kad mano 38 min tirada apie socialdemokrato kovą su vidiniais demonais susilaukė tokios gausos kritikos bei įžvalgų. Mielai į kritiką, kurią radau Facebook’e paskyroje atsakysiu, bet prieš tai norėčiau paaiškinti, kodėl pasirinkau tokį video-komentaro stilių.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lithuanian-economy.net/assets/2021/02/11/Rage_face.png" /><media:content medium="image" url="https://lithuanian-economy.net/assets/2021/02/11/Rage_face.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Kodėl LSDP pralaimėjimas yra Lietuvos kairės laimėjimas? Antra dalis - 2020m. Seimo rinkimai</title><link href="https://lithuanian-economy.net/2021/02/08/2-dalis-akistata-su-lsdp" rel="alternate" type="text/html" title="Kodėl LSDP pralaimėjimas yra Lietuvos kairės laimėjimas? Antra dalis - 2020m. Seimo rinkimai" /><published>2021-02-08T10:00:00+02:00</published><updated>2021-02-08T10:00:00+02:00</updated><id>https://lithuanian-economy.net/2021/02/08/2-dalis-akistata-su-lsdp</id><content type="html" xml:base="https://lithuanian-economy.net/2021/02/08/2-dalis-akistata-su-lsdp">&lt;p&gt;&lt;strong&gt;Prieš gerą savaitę parašiau pirmą trilogijos dalį “Kodėl LSDP pralaimėjimas yra Lietuvos kairės laimėjimas? Pirma dalis - akistata su LSDP”, kurios tikslas buvo iliustruoti, kad LSDP anei demokratijos, anei kairumo per daug nėra. Tiesiog nebėra idėjinės kovos už žmogų, už darbuotoją, už lygias galimybes. Tie, kurie kalba apie atsinaujinimą tesugeba tik “savus” pastatyti į numerius 5-15 be eilės, be įdirbio partijoje. Yra daug senųjų bebrų krokodilo ašarų, kaip čia netampa Seimo narių patarėjais ar kaip čia apskritai kokia tai Budbergytė gali pasisakyt už akcizus žemdirbių dyzelinui? Partija tapo nebe vienijanti žmonės aplink kairiąją idėją, o patarnaujanti joje esančių privatiems interesams. Vaido Navicko, kurio interesas nebuvo “patarnautas” - atvejis labai gerai iliustruoja, ką tokia partija, kaip magnetas, traukia į save konkrečiai, ir kuo baigiasi legionieriavimas bendrai. Šioje dalyje noriu žengti toliau ir garsiai pamąstyti, ką parodė praėję Seimo rinkimai, nes manau, jog pamokas turi daryti ir jaunieji kairieji, apie kuriuos ir rašysiu trečioje trilogijos dalyje.&lt;/strong&gt;&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Ach ir primenu, aš tik paprastas ekonomistas, ne politologas, tad vertinkite mano nuomonę kritiškai ir nepriimkite kaip absoliučios tiesos.&lt;/p&gt;
-
-&lt;h1 id=&quot;2-seimo-rinkimai-2020m&quot;&gt;2. Seimo rinkimai 2020m.&lt;/h1&gt;
-
-&lt;h2 id=&quot;21-švytuoklė-į-dešinę&quot;&gt;2.1. Švytuoklė į dešinę?&lt;/h2&gt;
-
-&lt;p&gt;Aš net neabejoju, jog politologai (pvz. M.Jastramskis) giliai išanalizuos ir pateiks savo įžvalgas, kodėl, kas ir kaip keitėsi Lietuvoje, paaiškins, jog per šiuos rinkimus svyruoklė grįžo į dešinės pusę. Tačiau, kad tai būtų tiesa, pirma švytuoklė apskritai turėjo būti kairioje pusėje. Dabar pažiūrėkite į šiuos veidus ir pasakykite, čia jums “kairieji”?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/2021/02/08/trio.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Baudžiakas už kasiaką&lt;/em&gt;, amžinas embrionų šaldymas bei jų skaičiaus ribojimas, donkichotinė kova su alkoholio prieinamumu… tik dalis draudimų ar suvaržymų, kurie liko mano atmintyje. Bet Jastramskis bus teisus, švytuoklė grįžo, tik ji grįžo iš ultra dešinės / konservatyvios į mažiau konservatyvią / liberalesnę, žmogaus teisių prasme, pusę. Tik deja, ji liko ekonominės politikos dešinėje.&lt;/p&gt;
-
-&lt;p&gt;Pabandykite užsimerkti ir pagalvoti, su kokiomis rinkiminėmis programomis į rinkimus ėjo Laisvės partija? Aš iškart atsimenu kanapių dekriminalizavimą ir homoseksualių porų teisių sutvarkymą. TS-LKD su “noru tartis” su visuomene. Su kuo ėjo LSDP? ¯\&lt;em&gt;(ツ)&lt;/em&gt;/¯. Turiu prisipažinti, kad ir kaip bandau, nieko reikšmingo neprisimenu. Man net nuoširdžiai labiau įstrigo LVŽS ėjimas “tęsime pradėtus darbus” :D. “Tyrimas” nereprezentatyvus, bet daug ką pasakantis apie tai, kaip rinkiminės žinutės / partijos identitetas išlieka atmintyje…&lt;/p&gt;
-
-&lt;p&gt;Ir kas sakysite, LSDP programa buvo išsami ir gerai parengta - galbūt, bet žmonės tų programų neskaito. Žmonėms (ne partiniams bebrams) rūpi ar bus pokyčių draudimų politikoje, ar bus geresnių galimybių šeimoms su mažais vaikais, kaip keisis žmonių su negalia integracija, galų gale jaunimui pradeda rūpėti kitų žmonių teisės ir manding - 40 proc. apklaustųjų &lt;strong&gt;labai rūpi&lt;/strong&gt; aplinkosauga.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/2021/02/08/aplinkosauga.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Mano nuomone, 2020m. Seimo rinkimuose žmonės balsavo &lt;strong&gt;prieš&lt;/strong&gt; konservatyvią socialinę politiką, o ne &lt;strong&gt;už&lt;/strong&gt; neoliberalią ekonominę politiką. Ypač tai liečia jaunimą, kuris iš esmės yra labiau socialiai kairysis (gal ir dėl mados) ir balsuoja už tuos, kurie atspindi jų socialinius įsitikinimus.
-Jau galiu įsivaizduoti, kaip jaunimo akyse pasirodytų LSDP, būdama valdančiojoje koalicijoje su LVŽS ir Uspaskicho antigėjiška ir neva kairei priskiriama - DP. Man atrodo, LSDP būtų tiesiog susinaikinusi po visam.&lt;/p&gt;
-
-&lt;h2 id=&quot;22-lsdp-ateitis-kaime&quot;&gt;2.2. LSDP ateitis kaime?&lt;/h2&gt;
-
-&lt;p&gt;Praeitame blogpost’e įkėliau iškarpą iš LSDP tarybos posėdžio, kurioje vienas iš tarybos narių kalba, jog LSDP reikia atsigręžti į kaimą, į žemdirbius. Suprask - KAIME LSDP (ir ko gero - Lietuvos) ateitis.&lt;/p&gt;
-
-&lt;div style=&quot;position: relative; overflow: hidden; padding-top: 50%;&quot;&gt;&lt;iframe style=&quot;position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;&quot; src=&quot;https://www.youtube.com/embed/FkB3YPkNbus&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Bet pažiūrėkime ką rodo labai primityvi rinkimų duomenų analizė, su kuria aš prasikankinau visą sekmadienį :D (taip, taip, net šventas mišias praleidau :D)&lt;/p&gt;
-
-&lt;p&gt;Žemiau analizuojamuose VRK duomenyse:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;pašalintos ne Lietuvoje esančios rinkimų apylinkės&lt;/li&gt;
-  &lt;li&gt;pašalintos rinkimų apylinkės, kurios nepersidengia 2016m. ir 2020m.&lt;/li&gt;
-  &lt;li&gt;LEFT = LSDP + LSDDP (siekiant išlaikyti palyginamumą)&lt;/li&gt;
-  &lt;li&gt;LIB = Liberalų Sąjūdis + Laisvės partija  (siekiant išlaikyti palyginamumą)&lt;/li&gt;
-  &lt;li&gt;“Didmiesčiai: Vilniaus, Kauno, Klaipėdos ir Šiaulių miesto ir rajonų savivaldybės&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Atsižvelgiant į tai, jog sujungti LSDP ir LSDDP duomenys, dalis Lietuvoje esančių rinkimų apylinkių pašalintos, o užsienyje gyvenantys rinkėjai visai neįtraukiami, rekomenduoju žiūrėti į žemiau pateiktą statistiką kritiškai. Tai tikrai nėra LSDP rinkimų vertinimas, tai individualiai gali pasidaryti kiekvienas LSDP skyrius kokybiškiau ir giliau. Mano tikslas iliustruoti, jog LSDP ateitis nėra vien tik “kaime”.&lt;/p&gt;
-
-&lt;h3 id=&quot;221-left-pablogino-savo-rezultatus&quot;&gt;2.2.1. LEFT pablogino savo rezultatus&lt;/h3&gt;
-
-&lt;p&gt;Pirmame grafike atvaizduojamas LSDP ir LSDDP balsų santykis su rinkimuose dalyvavusių asmenų skaičiumi. Raudona strichuota linija skiria diagramą į dvi dalis: viršutinis trikampis reiškia, jog LEFT pagerino gautų balsų santykį, žemutinis trikampis reiškia, jog pablogino gautų balsų skaičių, kai lyginami 2016m. su 2020m.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/2021/02/08/rinkimu_balsu_santykis.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kas krenta į akis:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Nors rezultatas daugumoje didmiesčių apylinkių prastesnis nei 2016m., visgi yra nemažai apylinkių, kur kairieji pagerino situaciją&lt;/li&gt;
-  &lt;li&gt;Būtent miestai, kurių apskritimai didesni (pagal rinkėjų skaičių), atrodo esantys labai svarbūs rezultatui ir panašu, jog pablogino šių rinkimų situaciją&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Tai, jog didmiesčiai bei jų rajonai tampa (reliatyviai) vis svarbesni, parodo ir žemiau esanti lentelė. 2016m. Didmiesčių rinkimuose dalyvavusių rinkėjų dalis sudarė 47.65 proc., o 2020m. jau 49.5 proc.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Skirstymas&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;VISO_DALYVAVO_2016&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;VISO_DALYVAVO_2020&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Didmiestis&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;571784&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;536714&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Ne&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;628099&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;546945&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Vyksta natūrali gyventojų migraciją iš mažesnių į didesnius miestus, rajono centrus, arba tiksliau ten, kur yra švietimas bei darbo vietos. Tad ateities rinkimuose vis didesnę įtaką turės  ne “kaimo” rinkėjas, o miesto rinkėjas.&lt;/p&gt;
-
-&lt;h3 id=&quot;222-liberalai-nenukanibalizavo-kairės&quot;&gt;2.2.2. Liberalai nenukanibalizavo kairės&lt;/h3&gt;
-
-&lt;p&gt;Kai sėdau rašyti šį blogpost’ą beveik buvau įsitikinęs, jog liberalai nukanibalizavo kairės rinkėjus. Mano galvoje sklandžiojo prielaida, jog kairės identitetą turintys rinkėjai, pasigedo kairės socialinės politikos ir rinkosi liberalus, kaip alternatyvą.&lt;/p&gt;
-
-&lt;p&gt;Žemiau esantis grafikas, parodo gautų balsų pokyti tarp 2016m. ir 2020m.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/2021/02/08/rinkimu_balsai_lib_left_sav.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Koreliacijos neskaičiavau, bet jau ir iš akies gerai matosi, kad asociacijos tarp to, kiek balsų daugiau gavo liberalai ir kiek neteko kairė, ko gero nebus stiprios. Tiesiog liberalai “šlavė” beveik visas savivaldybes, o LEFT rinkėjus panašu, jog nukanibalizavo kitos partijos, labiau tikėtina - LVŽS ir Uspaskicho komanduojama &lt;em&gt;Darbo parcija&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Man atrodo, tai, jog LEFT rinkėjų nenukanibalizavo liberalai, yra ganėtinai gera  žinia kairės partijos ateičiai. Tie kurie iš kairės rinkosi LVŽS ir DP - lai jie ir toliau juos renkasi. Tai žmonės be vertybių, be stuburo. Pavadinkime tai  būtinu ir skausmingu “apsivalymu”.  Bet štai dalis liberalų rinkėjų, tikėtina, juos rinkosi tik dėl socialinių vertybių, kritiškai nevertindami ir neanalizuodami jų rinkiminių programų ir nesueinančių pažadų didinti išlaidas iš  vis labiau mažinamos valstybės piniginės. Šie žmonės nemąstantys, bet iš vertybinės pusės gali būti integralesni nei “senieji bebrai”. Ir apie juos aš siūlyčiau pagalvoti.&lt;/p&gt;
-
-&lt;h3 id=&quot;223-kas-laimės-ateities-rinkimus&quot;&gt;2.2.3. Kas laimės ateities rinkimus?&lt;/h3&gt;
-
-&lt;p&gt;Žemiau esantys du grafikai iliustruoja sąsają tarp rinkiminėse apylinkėse balsavime dalyvavusio jaunimo (25-29 amžiaus kategorijoje) ir atitinkamose apylinkėse gautų balsų (proporcijos).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/2021/02/08/lib_aktyvumas_balsai.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/2021/02/08/left_aktyvumas_balsai.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Palyginkite šiuos du grafikus. Ką matote? Ne didmiesčių debesėliai yra ganėtinai panašūs, ganėtinai vienodai išsisklaidę. Tačiau vienur, kur jaunimo aktyvumas sietinas su didesne gautų balsų dalimi ir dalyvavimu valdančiojoje koalicijoje, kitur priešingai, kuo daugiau jaunimo, tuo mažesnė gautų balsų dalis rinkimų apylinkėje.&lt;/p&gt;
-
-&lt;p&gt;Šioje vietoje galima daryti dvejopas išvadas:&lt;/p&gt;
-
-&lt;p&gt;a. ignoruoti jaunimą ir tikrai koncentruotis į turimą / buvusį rinkėją, tai tikrai lengviau ir patogiau…&lt;/p&gt;
-
-&lt;p&gt;b. užduoti sau klausima ir 4 metus dirbti, jog pasiekti jaunimą, paaiškinti kodėl kairės ideologija yra tapati jaunimo ideologijai ir kodėl kairės ekonominė politika yra labiau įgalinanti pasiekti ilgalaikių rezultatų. Na bet čia reikia dirbti… ir juolab su miesto jaunimu.&lt;/p&gt;
-
-&lt;h2 id=&quot;23-baigiamasis-žodis-apie-rinkimus&quot;&gt;2.3. Baigiamasis žodis apie rinkimus&lt;/h2&gt;
-
-&lt;p&gt;Aš suprantu, jog LSDP “tipinis” rinkėjas vis dar ko gero yra “homo sovieticus”. Tačiau laikai keičiasi, senukai miršta, jaunimas suauga, vaikai gimsta. Galima suprantama sakyti, patogumo dėlei, “dirbsime” tik su turima klientūra, arba galima galvoti, kur partija turėtų būti už 4-8-12-20 metų.&lt;/p&gt;
-
-&lt;p&gt;Man atsakymas atrodo aiškus, tikros kairės partija turi galvoti apie jaunimą, kuris studijuoja nekokybiškose aukštosiose mokyklose, kuris netrukus turės vaikų, kuriam pradės rūpėti ne tik &lt;em&gt;kasiakai&lt;/em&gt;, bet ir vaikų darželiai, mokyklos. Bet tikros kairės partija turi nepamiršti ir jau dirbančiųjų, bei senyvo amžiaus žmonių. Bet klausimas lieka atviras, ar LSDP tai gali? Paklausius praėjusios tarybos posėdžio įrašo ir matant galimai būsimo LSDP pirmininko Oleko konferencijos programą, man kyla labai daug abejonių. Bet apie tai, kur matau Lietuvos kairiojo jaunimo ateitį - trečioje trilogijos dalyje (už savaitės ir dar trupučio).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/2021/02/08/olek.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Justas Mundeikis</name></author><category term="Politika" /><category term="LSDP" /><category term="Kairioji politika" /><summary type="html">Prieš gerą savaitę parašiau pirmą trilogijos dalį “Kodėl LSDP pralaimėjimas yra Lietuvos kairės laimėjimas? Pirma dalis - akistata su LSDP”, kurios tikslas buvo iliustruoti, kad LSDP anei demokratijos, anei kairumo per daug nėra. Tiesiog nebėra idėjinės kovos už žmogų, už darbuotoją, už lygias galimybes. Tie, kurie kalba apie atsinaujinimą tesugeba tik “savus” pastatyti į numerius 5-15 be eilės, be įdirbio partijoje. Yra daug senųjų bebrų krokodilo ašarų, kaip čia netampa Seimo narių patarėjais ar kaip čia apskritai kokia tai Budbergytė gali pasisakyt už akcizus žemdirbių dyzelinui? Partija tapo nebe vienijanti žmonės aplink kairiąją idėją, o patarnaujanti joje esančių privatiems interesams. Vaido Navicko, kurio interesas nebuvo “patarnautas” - atvejis labai gerai iliustruoja, ką tokia partija, kaip magnetas, traukia į save konkrečiai, ir kuo baigiasi legionieriavimas bendrai. Šioje dalyje noriu žengti toliau ir garsiai pamąstyti, ką parodė praėję Seimo rinkimai, nes manau, jog pamokas turi daryti ir jaunieji kairieji, apie kuriuos ir rašysiu trečioje trilogijos dalyje.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lithuanian-economy.net/assets/2021/02/08/ban.jpeg" /><media:content medium="image" url="https://lithuanian-economy.net/assets/2021/02/08/ban.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Bet gal ir nestebina tada, naudojamas pro-versliškas argumentavimas, kurį nuolat girdime viešumoje: “nekritikiuokite verslo, kol patys nesukūrėte darbo vietų…” neprimena, tekste tos dalies, kad mus kritikuoja tie, kurie iš esmės nieko nepadarė?&lt;/p&gt;</content><author><name>Justas Mundeikis</name></author><category term="Politika" /><category term="LSDP" /><category term="Kairioji politika" /><summary type="html">Aš labai džiaugiuosi, kad mano 38 min tirada apie socialdemokrato kovą su vidiniais demonais susilaukė tokios gausos kritikos bei įžvalgų. Mielai į kritiką, kurią radau Facebook’e paskyroje atsakysiu, bet prieš tai norėčiau paaiškinti, kodėl pasirinkau tokį video-komentaro stilių.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lithuanian-economy.net/assets/2021/02/11/Rage_face.png" /><media:content medium="image" url="https://lithuanian-economy.net/assets/2021/02/11/Rage_face.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
