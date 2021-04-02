@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://lithuanian-economy.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lithuanian-economy.net/" rel="alternate" type="text/html" /><updated>2021-04-02T16:47:58+03:00</updated><id>https://lithuanian-economy.net/feed.xml</id><title type="html">Lithuanian-Economy.net</title><subtitle>One or more sentences introducing this blog.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://lithuanian-economy.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lithuanian-economy.net/" rel="alternate" type="text/html" /><updated>2021-04-02T17:32:29+03:00</updated><id>https://lithuanian-economy.net/feed.xml</id><title type="html">Lithuanian-Economy.net</title><subtitle>One or more sentences introducing this blog.
 </subtitle><author><name>Justas Mundeikis</name></author><entry><title type="html">Mea Culpa, arba viešas kreipimasis į Lietuvos Statistikos departamentą ir kitus duomenų mokslininkus</title><link href="https://lithuanian-economy.net/2021/04/02/mea-culpa" rel="alternate" type="text/html" title="Mea Culpa, arba viešas kreipimasis į Lietuvos Statistikos departamentą ir kitus duomenų mokslininkus" /><published>2021-04-02T15:00:00+03:00</published><updated>2021-04-02T15:00:00+03:00</updated><id>https://lithuanian-economy.net/2021/04/02/mea-culpa</id><content type="html" xml:base="https://lithuanian-economy.net/2021/04/02/mea-culpa">&lt;p&gt;&lt;strong&gt;Parašęs paskutinį blogpostą (kuriame demonstravau, kaip padaryta duomenų proceso valdymo klaida gali reikšti visuomenės manipuliavimą pasinaudojant klaidingą informacija ir renkantis politinius dividendus bei menkinant Vyriausybės darbą, nors paanalizavus duomenis pasirodo, jog tokie pareiškimai iš esmės yra be pagrindo), susilaukiau gausios reakcijos. Ir visai ne apie tai kiek šaldytuvuose yra vakcinos dozių ir visai ne apie tai ką kalba Veryga ar kiti politikai, ar ką skelbia žiniasklaida. Todėl šiuo blogpost’u noriu į tai sureaguoti, nes sureaguoti per visus kanalus - Facebook, Linkedin ir el. paštą  būtų neefektyvu.&lt;/strong&gt;&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
@@ -27,7 +27,7 @@
 
 &lt;p&gt;Tad dabar papunkčiui…&lt;/p&gt;
 
-&lt;h2 id=&quot;linkedin-lsd-generalinei-direktorė-komentavo&quot;&gt;LinkedIn: &lt;a href=&quot;https://www.linkedin.com/posts/j%C5%ABrat%C4%97-petrauskien%C4%97-453972131_statistiniai-vakcinavimo-proceso-vira%C5%BEai-activity-6783436166386511872-n2XP&quot;&gt;LSD generalinei direktorė komentavo:&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;linkedin-lsd-generalinė-direktorė-komentavo&quot;&gt;LinkedIn: &lt;a href=&quot;https://www.linkedin.com/posts/j%C5%ABrat%C4%97-petrauskien%C4%97-453972131_statistiniai-vakcinavimo-proceso-vira%C5%BEai-activity-6783436166386511872-n2XP&quot;&gt;LSD generalinė direktorė komentavo:&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/gen_dir_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -121,6 +121,12 @@ O kad LSD pateikiamais skaičiais nebus bandoma manipuliuoti, eskaluojant politi
 
 &lt;p&gt;Nesakau, kad viskas blogai, aprašiau konkrečią problemą.&lt;/p&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;Turint omenyje, kad duomenys buvo prieinami ir buvo juos galima parsisiųsti o ne nusirašinėti&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Galbūt nepamačiau, bet kur &lt;a href=&quot;https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_5/&quot;&gt;LSD tinklapyje&lt;/a&gt; yra gautų / perskirstytų vakcinų srautų statistika?&lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/VZB_L.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -135,7 +141,7 @@ O kad LSD pateikiamais skaičiais nebus bandoma manipuliuoti, eskaluojant politi
   &lt;p&gt;Va kas dieną atnaujinamas failas su vakcinų pristatymais: https://github.com/mpiktas/covid19lt/blob/master/data/lt-covid19-vaccine-deliveries.csv.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Vaidotai, su tavo pateikiamais agreguotais duomenimis viskas yra super, bet kaip pats rašai savo &lt;a href=&quot;https://github.com/mpiktas/covid19lt&quot;&gt;about.md&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;Vaidotai, su Jūsų pateikiamais agreguotais duomenimis viskas yra super, bet kaip pats rašote savo &lt;a href=&quot;https://github.com/mpiktas/covid19lt&quot;&gt;about.md&lt;/a&gt;:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/2021/04/02/VZB_GH.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
