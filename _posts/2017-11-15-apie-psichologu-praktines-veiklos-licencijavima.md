@@ -1,39 +1,34 @@
 ---
-id: 482
 title: Apie psichologų praktinės veiklos licencijavimą
-date: 2017-11-15T20:02:00+03:00
+date: 2017-11-15 20:00:00 +03:00
 author: Justas Mundeikis
 layout: post
-guid: http://lithuanian-economy.net/?p=482
-permalink: /2017/11/15/apie-psichologu-praktines-veiklos-licencijavima/
-image: /wp-content/uploads/2017/11/thinker_0-1-e1518541059979.png
+comments: true
+citation: true
+image:  /assets/2017/11/15/ban.jpeg
+thumbnail: /assets/2017/11/15/thumb.ban.jpeg
 categories:
-  - Psichology
+  - Psichologų licencijavimas
 tags:
   - Psichologų praktinės veiklos licencijavimas
   - XIIIP-685
 ---
-Nusprendžiau parašyti apie psichologų praktinės veiklos licencijavimą po TTK posėdžio, kurio metu buvo uždegta žalia šviesa įstatymo projektui keliauti į plenarinę salę. Kadangi mano įrašus apie psichologų licencijavimą skaito ir psichologijos studentai, įrašas gal gausis kiek ilgokas, bet pateiksiu daugiau papildomos informacijos kas vyksta ir ko tikėtis ateityje.
-<h3><strong>1. Koks yra dabartinis įstatymo projektas?</strong></h3>
-<!--more-->
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li>Įstatymo projekto XIIIP-685 antroji redakcija prisegta čia: . <a href="http://www.psichologusajunga.lt/lps/admin/spaw2/uploads/files/Projektas%20XIIIP-685_2017-11-11%20po%20redaktoriu.pdf">http://www.psichologusajunga.lt/lps/admin/spaw2/uploads/files/Projektas%20XIIIP-685_2017-11-11%20po%20redaktoriu.pdf</a>.</li>
- 	<li>Mano komentarai papunkčiui čia: <a href="https://docs.google.com/document/d/13eMFC4I7zrueGT4tP1sHVmSt2DCfnf7ZrVR4hjKpRT0/edit?usp=sharing" target="_blank" rel="noopener">https://docs.google.com/document/d/13eMFC4I7zrueGT4tP1sHVmSt2DCfnf7ZrVR4hjKpRT0/edit?usp=sharing</a></li>
-</ul>
-</li>
-</ul>
-&nbsp;
+**Nusprendžiau parašyti apie psichologų praktinės veiklos licencijavimą po TTK posėdžio, kurio metu buvo uždegta žalia šviesa įstatymo projektui keliauti į plenarinę salę. Kadangi mano įrašus apie psichologų licencijavimą skaito ir psichologijos studentai, įrašas gal gausis kiek ilgokas, bet pateiksiu daugiau papildomos informacijos kas vyksta ir ko tikėtis ateityje.**<!--more-->
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRgs6DaKYJD-H1pfo6GhQp_tMEecwlJSGt1E9CS0qXjOtQJ3RFyUQqGnKqityK5zf10gUWaPqiakKKJ/pub?embedded=true" width="600" height="500"><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span></iframe>
+# 1. Koks yra dabartinis įstatymo projektas?
+* Įstatymo projekto XIIIP-685 antroji redakcija prisegta čia: . <a href="http://www.psichologusajunga.lt/lps/admin/spaw2/uploads/files/Projektas%20XIIIP-685_2017-11-11%20po%20redaktoriu.pdf">http://www.psichologusajunga.lt/lps/admin/spaw2/uploads/files/Projektas%20XIIIP-685_2017-11-11%20po%20redaktoriu.pdf</a>
+* Mano komentarai papunkčiui čia: <a href="https://docs.google.com/document/d/13eMFC4I7zrueGT4tP1sHVmSt2DCfnf7ZrVR4hjKpRT0/edit?usp=sharing" target="_blank" rel="noopener">https://docs.google.com/document/d/13eMFC4I7zrueGT4tP1sHVmSt2DCfnf7ZrVR4hjKpRT0/edit?usp=sharing</a>
 
 Visgi šiandien vykusiame Teisės ir teisėtvarkos komiteto (TTK) posėdyje, dar buvo padaryti keli nedideli pakeitimai. Galutinė įstatymo projekto versija netrukus turėtų atsirasti Seimo puslapyje čia: <a href="https://e-seimas.lrs.lt/portal/legalAct/lt/TAP/a0916ea034b511e79f4996496b137f39">https://e-seimas.lrs.lt/portal/legalAct/lt/TAP/a0916ea034b511e79f4996496b137f39</a>
-<h3><strong>2. TTK posėdis</strong></h3>
+
+# 2. TTK posėdis
+
 Šiandien TTK posėdžio metu komitetas turėjo balsuoti už ar prieš įstatymo projektą. Visgi, į posėdį kuris turėjo trukti tik 20 min, susirinko labai daug žmonių. Licencijavimo proponentais buvo Danutė Gailienė, Neringa Grigutytė ir Robertas Povilaitis. Oponentai buvo Šarūnas Mačiulis,  Gintautė Malinauskienė ir <span id="cch_f1de4e8558bf97a" class="_mh6 _wsc"><span class="_3oh- _58nk">Kristina Leščinskaitė</span></span>, atstovaujantys IPG (Iniciatyvinę Psichologų Grupę) na ir aišku aš, ekonomistas, atstovaujantis viešąjį interesą. Ne aš nepriklausau IPG, tačiau bendrauju bei padedu formuluojant argumentus.
 
 Įvyko pasisakymų maratonas, Šarūnas pasisakė prieš licencijavimą argumentuodamas, jog atliktoje apklausoje apie 30 proc. LPS ir virš 40 proc ne LPS narių pasisako prieš licencijavimą. Nuoroda į tyrimą <a href="http://lithuanian-economy.net/2017/10/24/kaip-lietuvoje-stengiamasi-apriboti-psichologu-teikiama-pagalba/">http://lithuanian-economy.net/2017/10/24/kaip-lietuvoje-stengiamasi-apriboti-psichologu-teikiama-pagalba/</a> (įrašo pačioje apačioje ! Tikrai verta pažiūrėti rezultatus)
-<h5>IPG pozicija</h5>
+
+## IPG pozicija
+
 Kristina Pavasaraitė perskaitė šią IPG poziciją:
 <blockquote>
 <p style="text-align: left; padding-left: 30px;"><span style="color: #808080;">1. Įstatymo autoriai psichologų licencijavimo poreikį grindžia Vyriausybės programos siekiais didinti psichologų paslaugų išvystymą ir jų prieinamumą, ypač kitų Seimo priimtų įstatymų susijusių su baudžiamojo proceso neigiamo poveikio vaikui mažinimu bei vaiko teisių apsaugos stiprinimu (abu įstatymai reikalauja daugiau psichologų etatų).
@@ -60,7 +55,9 @@ Mūsų atsakymas: LPS turi apie 600 formalių narių, tačiau nėra padariusi jo
 Proponentai nenuleido rankų ir stengėsi daugelį minėtų faktų atremti. Jiems sekėsi gana neblogai. Iš dalies dėl to, jog egzistuoja kelios įstatymo projekto redakcijos ir Rimantė Šalaševičiūtė pasakė, jog šie pasiūlymai buvo teikti anksčiau ir į juos, kaip ir į STT išvadas buvo atsižvelgta (kas galbūt nėra visai tiesa).
 
 Tada viską vainikavo emocionalus ir šiek tiek vietomis klaidingas IPG pasisakymas, kuris buvo ilgas, ultra emocionalus ir privedė iki to, jog komisijos nariai pradėjo tarpusavyje šnekučiuotis. Argumentas, jog išeinant motinystės/tėvystes atostogų nutrūksta periodas per kurį reikia surinkti 1500  praktikos valandų ir jos pradedamos skaičiuoti iš naujo, liko neišgirstas.
-<h5>Mano pozicija</h5>
+
+## Mano pozicija
+
 Tada pasisakiau aš, kaip nepriklausomas ekonomistas, lektorius:
 <blockquote>
 <p style="padding-left: 30px;"><span style="color: #808080;">Lietuva pirmauja Europoje pagal savižudybių skaičių, tai ypač opi problema Lietuvos regionuose, kur ekonominė ir socialinė atskirtis yra didžiausia.</span></p>
@@ -76,29 +73,39 @@ Tada pasisakiau aš, kaip nepriklausomas ekonomistas, lektorius:
 </span>
 
 Taip pat išreiškiau susirūpinimą dėl to, jog psichologų etikos kodeksas yra prilyginamas savo galia teisės aktams ir kvestionavau, ar jeigu dėl etikos komisijos klaidos bus panaikinta veiklą vykdančio psichologo licencija, ar teismui priteisus prarastas psichologo pajamas ir žalą jo reputacijai LPS bus finansiškai pajėgi padengti nustatytus nuostolius. Komiteto pirmininkas Julius Sabatauskas konstatavo jog turės padengti, antstoliai išieškos. Tačiau ką tai reiškia? Didesnės LPS narių įmokos. Sveikinu!
-<h5>GAME OVER</h5>
+
+## GAME OVER
+
 Tada visus oponenentų pasisakymus užmušė Gailinės pasakojimas kaip ji bendravo su psichologijos profesijos neįgijusia, bet psichologe dirbančia moterimi. Ši jai esą pasiskundė, kad nepaisant konsultavimo, jos konsultuojamas klientas visgi nusižudė. Taip Gailienė iliustravo tragiškai psibaigusį atvejį, kai dėl psichologo kvalifikacijos trūkumo, buvo prarasta žmogaus gyvybė. Tai buvo papasakota tokiu šaltu ir ramiu tonu, bet taip gerai įgėlė, kad buvo „GAME OVER“. Vėliausiai nuo šio momento medikės Irenos Degutienės širdis plakė (jeigu jau ne anksčiau) už licencijavimą.
 
 Tada dar kokias 20 minučių vyko marazmas už, prieš, už, prieš ir įvairiais pasitikslinimais. Visgi komisija nusprendė balsuoti, o nebe atidėti šį klausimą. Už licencijavimą balsavo
 
-Rimas Andrikis (TT), Irena Degutienė (TSLKD), <a href="http://www.lrs.lt/sip/portal.show?p_r=8801&amp;p_k=1&amp;p_a=seimo_narys_responsive&amp;p_asm_id=79137">Česlav Olševski</a> (LLRA), Lauras Stacevičius (LVŽS), Rimantė Šalaševičiūtė (LVŽS), Petras Valiūnas (LVŽS). Prieš balsų nebuvo, susilaikė Julius Sabatauskas (LSDP) ir Stasys Šedbaras (TSLKD), o Vitalijus Gailius (LS) dėl kilusio chaoso komitete išvis atsisakė balsuoti. Taigi 6 už, nubalsuota teikti įstatymo projektą Seimui.
-<h5>Kam reikia licencijavimo?</h5>
+Rimas Andrikis (TT), Irena Degutienė (TSLKD), Česlav Olševski (LLRA), Lauras Stacevičius (LVŽS), Rimantė Šalaševičiūtė (LVŽS), Petras Valiūnas (LVŽS). Prieš balsų nebuvo, susilaikė Julius Sabatauskas (LSDP) ir Stasys Šedbaras (TSLKD), o Vitalijus Gailius (LS) dėl kilusio chaoso komitete išvis atsisakė balsuoti. Taigi 6 už, nubalsuota teikti įstatymo projektą Seimui.
+
+## Kam reikia licencijavimo?
+
 Kam reikalingas licencijavimas, labai tiklsiai pasakė pati Danutė Gailienė, perfrazuojant:
 <blockquote>
 <p style="padding-left: 30px;"><span style="color: #999999;">Licencijavimas psichologams Lietuvoje reikalingas tam, kad psichologai taptų pripažintais Lietuvoje. Įgautų tam tikra prestižą / statusą. Tada, tapus pripažintais medicinos grandies specialistais, būtų bandoma eiti į SAM ir išmušinėti didesnes algas ir etatų skaičių.</span></p>
 </blockquote>
 Taigi, licencijavimas per se nesudarys prielaidos didinti atlyginimus psichologams, kaip ir etatų daugiau dėl licencijavimo neatsiras! Tiesiog tikimasi (!), jog tapus "prestižine" profesija, bus galima daugiau pasiekti ministerijų koridoriuose.
-<h5>Majauskas ir Landsbergis</h5>
+
+## Majauskas ir Landsbergis
+
 Išėjus iš kambario pavyko koridoriuje sutikti Mykolą Majauską. Bandėme trumpai pristatyti licencijavimo problematiką, visgi balsai atsimušė kaip žirniai į sieną. Mykolo supratimu licencijavimas gerai, nes jis tiki (!), jog didinant atlyginimus gydytojams atsiras pinigų susimokėti už supervizijas ir išaugusius LPS nario mokesčius. O tada pabėgo! (Tik pamiršo pagalvoti apie psichologus dirbančius ne medicinos strityje… kuriems bala žino kada padidės atlyginimai).
 
 Tada koridoriuje išdygo Gabrielius Landsbergis, pas kurį pavyko įsiprašyti 15 min pokalbiui. Kartu su IPG atstovais glaustai išdėstėme licencijavimo problematiką. Gabrielius labai protingai patarė sakydamas, jog tiesiog sustabdyti licencijavimo įstatymą tikėtina nebe pavyks. Tačiau ką galima daryti, tai teikti įstatymo pataisas ir jas įregistruoti per Seimo narius. Tada už tas pataisas turės būti balsuojama Seime (jeigu projektas būtų be pataisų, vyktų balsavimas vienu kartu už visą įstatymo projektą). Dabar IPG turi su teisininku susėsti ir surašyti savo siūlomas licencijavimo įstatymo pataisas. Pateikus tokias pataisas, galima bandyti dalyvauti frakcijų susikimuose, kur pasisakymui būtų skiriama 10-15 min.
 
 Gabrielius super! Padėjo daug paaiškindamas apie Seimo tvarką ir patardamas ką daryti toliau!
-<h5>Zenonas Streikus</h5>
+
+## Zenonas Streikus
+
 Su IPG atstovais atsisveikinus, aš dar susitikau su LVŽS partijos nariu, psichologu, Zenonu Streikum (taip jis  1992-1995 buvo LPS prezidentas). Padiskutavome apie licencijavimo naudą ir grėsmes. Seimo narys išreiškė savo mintys ir norus, jog LPS taptų stipria asociacija atstovaujančia Lietuvos psichologus (aka APA). Visgi Zenonas pripažino, jog iš tiesų yra tam tikrų niuansų, kurie įstatymo projekte nėra tobuli. Sutarėme, jog aš perduosiu visas žinias IPG ir kai IPG paruoš įstatymo projekto pataisas, bandysime suorganizuoti trumpą pataisų pristatymą LVŽS frakcijoje.
 
 Ačiū Zenonui už tai, jog nepaisant to, kad nėra pilnai įsigilinęs į įstatymo projektą, nes nepriklauso TTK, domisi šia tema ir yra pasirengęs skatinti diskusiją ir įstatymo tobulinimą!
-<h3><strong>3. Kas laukia toliau</strong></h3>
+
+# 3. Kas laukia toliau
+
 <ul>
  	<li>IPG turėtų parengti įstatymo projekto pataisas ir teikti jas Seimui bei pristatyti įvairioms frakcijoms. [Pristatyti frakcijoje nereiškia, jog visa frakcija dalyvaus susitikime, o tikėtina, tik saujelė tematika besidominčių Seimo narių, kurių nuomonės klausia ir klauso frakcijos bičiuliai]. Jeigu įstatymo projekto pataisos bus parengtos laiku ir bus kokybiškos bei bus labai kokybiškai pristatytos frakcijoms, tada egzistuoja tikimybė, jog įstatymo projektas bus priimtas su pataisomis ir bus mažiau žalingas psichologams nei yra dabar.</li>
  	<li>Mano asmeniniu supratimu, IPG taip pat turėtų save formalizuoti. T.y. dviejų savaičių bėgyje įkurti mini psichologų asociaciją ir taip įgauti didesnį svorį nelygioje kovoje.</li>
@@ -110,4 +117,5 @@ Ačiū Zenonui už tai, jog nepaisant to, kad nėra pilnai įsigilinęs į įsta
 <ul>
  	<li>Visi kurie pasisako prieš licencijavimą, turėtų pasirašyti čia <a href="http://www.peticijos.lt/visos/74540" target="_blank" rel="noopener">http://www.peticijos.lt/visos/74540</a>.  Labai svarbu nurodyti ar esate psichologas / psichologijos studentas. Kuo daugiau balsų, tuo svaresnis taps IPG balsas Seimo rūmuose.</li>
 </ul>
+
 p.S. Kai kurias detales bei vardus, argumentus  praleidau, neatsakau už tikslumą, bet kiek prisimenu, viskas buvo daugmaž taip :)
