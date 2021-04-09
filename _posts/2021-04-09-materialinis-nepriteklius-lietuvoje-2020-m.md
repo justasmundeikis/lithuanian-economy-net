@@ -91,3 +91,10 @@ Taip pensinio amžiaus gyventojų grupių materialinis ir didelis materialinis n
 {% include /2021/04/09/table_hard_durables_hh.html %}
 
 {% endcomment %}
+
+
+# Epilogas
+
+Materialinių nepriteklių statistika atspindi tik COVID19 pandemijos pradžios pasekmes. Visų praėjusių metų ir net šių metų pradžios pasekmės turės kur kas rimtesnių ir ilgesnių pasekmių, nei matosi šiandien publikuotoje statistikoje. Didžiausią neigiamą efektą pajaus socialiai jautriose šeimose gyvenantys vaikai. Kaip nurodo OECD atliktas tyrimas, būtent šių vaikų mokslo rezultatai, o kartu ir ateities galimybės prastės labiausiai. Todėl Vyriausybės sprendimą pirmumo teise skiepyti švietimo sektoriaus darbuotojus, o ne policijos pareigūnus, yra sveikintina. Gaila, jog pareigūnai, kurie protestuoja, to nesupranta.
+
+Tačiau šiandien paskelbta statistika brėžia ir parodo, jog dabartinė vyriausybė negali siekti likti *pop-grupele* ir įtikti visiems. Lietuvai reikia rimtų mokestinių reformų, didesnio ir progresyvaus perskirstymo būtent tam, jog užtikrinti gydytojų, slaugytojų, tų pačių pareigūnų, bet kartu ir pensininkų gyvenimo lygį, kuris atitiktų 21 amžiaus Europos Sąjungos šalies standartus. Vyriausybės nusiteikimas padalinti ES skiriamas atsigavimo lėšas, nėra ilgalaikis ir tvarus planas užtikrinti Lietuvos gyventojų gerovę.
