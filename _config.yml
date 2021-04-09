@@ -4,13 +4,13 @@ url: "https://lithuanian-economy.net"    # the protocol and hostname of your sit
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 timezone: Europe/Vilnius
 description: >
-  One or more sentences introducing this blog.
+  Personal blog about economic, social and political issues in Lithuania.
 
 # Your information
 email: justas.mundeikis@lithuanian-economy.net
 author: Justas Mundeikis
 avatar: "/assets/general/Justas_Mundeikis_square.jpg"
-profile: Ekonomistas, doktorantas, blogger'is
+profile: Ekonomistas, blogger'is ir duomenų mokslininkas
 phone: "Tel. / Signal: +370 619 68973"
 # twitter_username: twitter_username
 # github_username:  justasmundeikis
@@ -23,7 +23,6 @@ excerpt_separator: <!--more-->
 
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
-    2021m. Biudžetas: /2021-budget/
     Info: /info/
     Kategorijos: /category/
     Tags: /tag/

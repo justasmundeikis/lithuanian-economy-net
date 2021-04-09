@@ -2,13 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lithuanian-Economy.net</title>
-    <description>One or more sentences introducing this blog.
+    <description>Personal blog about economic, social and political issues in Lithuania.
 </description>
     <link>https://lithuanian-economy.net/</link>
     <atom:link href="https://lithuanian-economy.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Apr 2021 10:49:05 +0300</pubDate>
-    <lastBuildDate>Fri, 09 Apr 2021 10:49:05 +0300</lastBuildDate>
+    <pubDate>Fri, 09 Apr 2021 14:29:04 +0300</pubDate>
+    <lastBuildDate>Fri, 09 Apr 2021 14:29:04 +0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>2020 metų gyventojų materialinis nepriteklius Lietuvoje</title>
+        <description>&lt;p&gt;&lt;strong&gt;Lietuvos statistikos departamentas paskelbė naujausią Lietuvos gyventojų materialinio nepritekliaus statistiką. Paskelbta statistika remiasi 2020 metų pavasarį atliktu &lt;em&gt;Pajamų ir gyvenimo sąlygų&lt;/em&gt; tyrimu, todėl parodo pirmąsias COVID19 pandemijos pasekmes. Didelį materialinį nepriteklių aš linkęs vadinti tikruoju skurdo rodikliu. Statistika parodo - nors tendencijos yra gerėjančios, visgi ne visiems. Ypatingai neigiamai COVID19 pandemijos metu buvo paveikti namų ūkiai auginantys vaikus.&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 09 Apr 2021 11:00:05 +0300</pubDate>
+        <link>https://lithuanian-economy.net/2021/04/09/materialinis-nepriteklius-lietuvoje-2020-m</link>
+        <guid isPermaLink="true">https://lithuanian-economy.net/2021/04/09/materialinis-nepriteklius-lietuvoje-2020-m</guid>
+        
+        <category>Materialinis nepriteklius</category>
+        
+        <category>Skurdas</category>
+        
+        
+        <category>Socialinė politika</category>
+        
+      </item>
     
       <item>
         <title>Mea Culpa, arba viešas kreipimasis į Lietuvos Statistikos departamentą ir kitus duomenų mokslininkus</title>
@@ -158,24 +176,6 @@
         <category>Kairioji politika</category>
         
         <category>DIEM25</category>
-        
-        
-        <category>Politika</category>
-        
-      </item>
-    
-      <item>
-        <title>Atsakymas videokomentaro kritikams</title>
-        <description>&lt;p&gt;&lt;strong&gt;Aš labai džiaugiuosi, kad mano 38 min tirada apie socialdemokrato kovą su vidiniais demonais susilaukė tokios gausos kritikos bei įžvalgų. Mielai į kritiką, kurią radau Facebook’e paskyroje atsakysiu, bet prieš tai norėčiau paaiškinti, kodėl pasirinkau tokį video-komentaro stilių.&lt;/strong&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 11 Feb 2021 09:00:00 +0200</pubDate>
-        <link>https://lithuanian-economy.net/2021/02/11/astakymas-kritikams</link>
-        <guid isPermaLink="true">https://lithuanian-economy.net/2021/02/11/astakymas-kritikams</guid>
-        
-        <category>LSDP</category>
-        
-        <category>Kairioji politika</category>
         
         
         <category>Politika</category>

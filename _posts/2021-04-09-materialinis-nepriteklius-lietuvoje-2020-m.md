@@ -24,7 +24,7 @@ Kiekvieną pavasarį visoje ES yra atliekamas reprezentatyvus *Pajamų ir gyveni
 * namų ūkis neturi galimybės praleisti bent savaitės atostogų ne namuose
 * namų ūkis negali sau leisti pakankamai šildyti būsto
 * namų ūkis negali sau leisti bent kas antrą dieną valgyti mėsos, žuvies ar analogiško vegetariško maisto
-* namų ūkis negalėtų apmokėti nenumatytų išlaidų - **310 eurų** iš savo lėšų
+* namų ūkis negalėtų apmokėti nenumatytų išlaidų - **350 eurų** iš savo lėšų
 
 Taip pat klausiama, ar namų ūkis dėl lėšų stokos neturi automobilio.
 
@@ -62,9 +62,9 @@ Galimai krentančios vienišų mamų (žr. viršuje) pajamos bei išaugusios vai
 ![](/assets/2021/04/09/lsd_lietuva_mat_dep_hhtype_selgroup_ts.png)
 {% endcomment %}
 
-Žemiau esanti lentelė parodo opiausias skirtingų namų ūkių problemas. Akivaizdu, jog negebėjimas apmokėti nenumatytų išlaidų siekiančių 310 eurų iš savo lėšų - buvo opiausia problema vieno suaugusio su vienu ar daugiau vaikų, daugiavaikių šeimų bet ir vienišų asmenų namų ūkiuose.
+Žemiau esanti lentelė parodo opiausias skirtingų namų ūkių problemas. Akivaizdu, jog negebėjimas apmokėti nenumatytų išlaidų siekiančių 350 eurų iš savo lėšų - buvo opiausia problema vieno suaugusio su vienu ar daugiau vaikų, daugiavaikių šeimų bet ir vienišų asmenų namų ūkiuose.
 
-Kažkaip keistai skaitosi naujienos, kuriose bankų analitikai postringauja apie milijardus sukauptus banko sąskaitose, kai 2/3 daugiavaikių šeimų Lietuvvoje nesukrapštytų 310 eurų nenumatytoms išlaidoms ir ko gero turėtų kreiptis į greitųjų kreditų bendroves. Šioje vietoje palinkėjimas dabartinei vyriausybei - neatidėkit mokesčių reformos iki 2023m! Mokesčių didinimas kapitalui ir dideles bei labai dideles pajamas gaunantiems leistų įvesti tokių mokesčių SISTEMOS progresyvumą, kuris padėtų "kvėpuoti" ir išgyventi mažiausias pajamas gaunantiems namų ūkiams. Antraip nesistebėkite, kad pasibaigus pandemijai mes ir vėl sulauksime augančios Lietuvių gyventojų emigracijos.
+Kažkaip keistai skaitosi naujienos, kuriose bankų analitikai postringauja apie milijardus sukauptus banko sąskaitose, kai 2/3 daugiavaikių šeimų Lietuvvoje nesukrapštytų 350 eurų nenumatytoms išlaidoms ir ko gero turėtų kreiptis į greitųjų kreditų bendroves. Šioje vietoje palinkėjimas dabartinei vyriausybei - neatidėkit mokesčių reformos iki 2023m! Mokesčių didinimas kapitalui ir dideles bei labai dideles pajamas gaunantiems leistų įvesti tokių mokesčių SISTEMOS progresyvumą, kuris padėtų "kvėpuoti" ir išgyventi mažiausias pajamas gaunantiems namų ūkiams. Antraip nesistebėkite, kad pasibaigus pandemijai mes ir vėl sulauksime augančios Lietuvių gyventojų emigracijos.
 
 ![](/assets/2021/04/09/table.png)
 
