@@ -28,7 +28,7 @@ Atsižvelgiant į tai, jog man patiko dėstyti (nebūtinai kirvis dėstytojas pa
 
 Tačiau tai darydamas padariau primą klaidą - nurodžiau prof. R. Lazutką, kaip savo darbo vadovą. Nors žinojau, kad R.Lazutkos tyrimų specifika nėra darbo rinka, neradau jokio labiau tinkamo galimo darbo vadovo. Be to, vieši profesoriaus pasisakymai signalizavo, jog būsime ideologiškai artimi, o tai irgi labai svarbu.
 
-Šioje vietoje, manau, fakultetas padarė visgi didžiausią klaidą - priėmė mane į studijas. Vertinant iš dabarties pazocijos manau, jog Romas turėjo sakyti
+Šioje vietoje, manau, fakultetas padarė visgi didžiausią klaidą - priėmė mane į studijas. Vertinant iš dabarties pozicijos manau, jog Romas turėjo sakyti
 
 >"Justai, džiaugiuosi, kad nori studijuoti, bet aš nieko apie darbo rinkos tyrimus neišmanau, bet... mes turime naują prodekaną, kuris yra darbo rinkos tyrimų ekspertas, tegul jis būna tavo darbo vadovu, o aš pvz., konsultantu"
 
