@@ -1,6 +1,0 @@
-|Name     | Gross|
-|:--------|-----:|
-|Gintaras |    30|
-|Andrius  |    10|
-|Domas    |    10|
-|Simonas  |     2|
