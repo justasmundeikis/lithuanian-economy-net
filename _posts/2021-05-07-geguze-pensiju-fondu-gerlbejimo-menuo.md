@@ -15,7 +15,7 @@ tags:
   - Lobizmas
 ---
 
-**Kai iki birželio mėnesio nauja dirbančiųjų kohorta turi pasirinkti ar pradėti kaupti antroje pensijų pakopoje, nuolat suaktyvėja pensijių fondų valdytojai ir jų lobistai viešoje erdvėje. Didelėse Lietuvos įmonėse pradeda lankytis pingvinai: gražūs, kostiumuoti (nežinia ar visada aukšti, juk viskas per Zoom) ir skatinti rinktis net ne antrą, o trečią pakopą - taip daug naudingiau! Šiame blogpost'e apie tai, kodėl Lietuvoje veikiantys antros ir trečios pakopos pensijų kaupimo fondai nėra labai "naudingi", kodėl nereikia baimintis leisti kaupiantiems bet kada pasitraukti ir apie Seimo Socialinių reikalų komiteto pirmininko pasisakymą, kuris mano supratimu, labai aiškiai aprodo, jog komiteto pirmininkas TS-LKD narys yra fondų, o ne žmonių pusėje.**<!--more-->
+**Kai iki birželio mėnesio nauja dirbančiųjų kohorta turi pasirinkti ar pradėti kaupti antroje pensijų pakopoje, nuolat suaktyvėja pensijių fondų valdytojai ir jų lobistai viešoje erdvėje. Didelėse Lietuvos įmonėse pradeda lankytis pingvinai: gražūs, kostiumuoti (nežinia ar visada aukšti, juk viskas per Zoom) ir skatinti rinktis net ne antrą, o trečią pakopą - taip daug naudingiau! Šiame blogpost'e apie tai, kodėl Lietuvoje veikiantys antros ir trečios pakopos pensijų kaupimo fondai nėra labai "naudingi", kodėl nereikia baimintis leisti kaupiantiems bet kada pasitraukti ir apie Seimo Socialinių reikalų komiteto pirmininko pasisakymą, kuris mano supratimu, labai aiškiai parodo, jog komiteto pirmininkas TS-LKD narys gina fondų, o ne žmonių interesus.**<!--more-->
 
 # Apie kaupimą
 
