@@ -42,7 +42,7 @@ Nemaniau, kad šis pildomas popiergalis yra svarbus. Kai pildai pats, be jokio a
 
 ## 1.3. Studijų "niunasai"
 
-1 semestro metu prasidėjo "paskaitos". Kadangi doktorantų mažiau nei 5, tai dėstymas įvyko tik vieno dalyko, kitų dalykų paskaitos nebuvo numatytos. Ateini, gauni 30 klausių sąrašą, išmoksti į juos atsakyti, ateini po kelių mėnesių, gauni atsitiktinius klausimus, atsakai - atsiskaityta!
+1 semestro metu prasidėjo "paskaitos". Kadangi doktorantų mažiau nei 5, tai dėstymas įvyko tik vieno dalyko, kitų dalykų paskaitos nebuvo numatytos. Ateini, gauni 30 klausimų sąrašą, išmoksti į juos atsakyti, ateini po kelių mėnesių, gauni atsitiktinius klausimus, atsakai - atsiskaityta!
 
 Džiaugiuosi, jog užsispyrimo dėka, pavyko pramušti tai, kad doktorantai nuo šiol oficialiai galės lankyti tam tikras magistrantūros VYKSTANČIAS paskaitas, jose aktyviai dalyvauti ir taip gauti reikiamus kreditus. Manau čia didžiausias ir geriausias pasiekimas, kurį pavyko pasiekti VU EVAF'e.
 
