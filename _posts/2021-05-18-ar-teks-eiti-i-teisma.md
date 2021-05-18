@@ -4,7 +4,7 @@ date: 2021-05-18 10:00:00 +02:00
 author: Justas Mundeikis
 layout: post
 comments:   true
-citation:   true
+citation:   false
 image:      /assets/2021/05/18/ban.png
 thumbnail:  /assets/2021/05/18/thumb.ban.png
 categories:
@@ -23,7 +23,7 @@ Dėl bendro supratimo: Lietuvoje aibė viešojo sektoriaus darbuotų atlyginimai
 
 Darbdavys kaip visada - nenori mokėti daugiau. Čia pozicija kiekvienais metais yra aiški ir "suprantama". Suprantama tik tiek, kad atlyginimai viešajame sektoriuje iki šiol tokie tragiški, kad kvalifikuotų specialistų trūksta. Kaip sakė dabartinė premjerė - "pigi valdžia brangiai kainuoja". Kažkodėl abejoju, jog vien dėl to, jog šių žodžių autorei tapus premjere, jos imsis kas nors klausyti.
 
-Profesinės sąjungos irgi suinteresuotos dalyvauti derybose, nes be bazinio dydžio sulygsta ir papildomu garantijų profesinių sąjungų nariams: papildomas atostogines dienas ir t.t.  Profesinėms sąjungoms dalyvavimas derybose - kančia, nes aršiai kovojant už BD, jas pradedama kritikuoti: antai žiūrėk, didinant BD keliamas ir Seimo narių atlyginimas. 
+Profesinės sąjungos irgi suinteresuotos dalyvauti derybose, nes be bazinio dydžio sulygsta ir papildomu garantijų profesinių sąjungų nariams: papildomas atostogines dienas ir t.t.  Profesinėms sąjungoms dalyvavimas derybose - kančia, nes aršiai kovojant už BD, jas pradedama kritikuoti: antai žiūrėk, didinant BD keliamas ir Seimo narių atlyginimas.
 
 O varge, o kad keliamas **proporcingai visų** atlyginimas (valstybės tarnautojų, Seimo darbuotojų, net ir tų pačių mokytojų!!!) - pamirštama. Tam, kad gauti norimas lengvatas savo profsąjungų nariams, profsąjungų atstovai derybose per daug nesišakoja ir dėl BD net nesistengia kovoti. Nuo to kenčia visi viešojo sektoriaus darbuotojai ir galų gale - visa valstybė.
 
