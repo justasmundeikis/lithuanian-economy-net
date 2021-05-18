@@ -23,11 +23,11 @@ Dėl bendro supratimo: Lietuvoje aibė viešojo sektoriaus darbuotų atlyginimai
 
 Darbdavys kaip visada - nenori mokėti daugiau. Čia pozicija kiekvienais metais yra aiški ir "suprantama". Suprantama tik tiek, kad atlyginimai viešajame sektoriuje iki šiol tokie tragiški, kad kvalifikuotų specialistų trūksta. Kaip sakė dabartinė premjerė - "pigi valdžia brangiai kainuoja". Kažkodėl abejoju, jog vien dėl to, jog šių žodžių autorei tapus premjere, jos imsis kas nors klausyti.
 
-Profesinės sąjungos irgi suinteresuotos dalyvauti derybose, nes be bazinio dydžio sulygsta ir papildomu garantijų profesinių sąjungų nariams: papildomas atostogines dienas ir t.t.  Progresinėms sąjungoms dalyvavimas derybose - kančia, nes aršiai kovojant už BD, jas pradedama kritikuoti: antai žiūrėk, didinant BD keliamas ir Seimo narių atlyginimas. 
+Profesinės sąjungos irgi suinteresuotos dalyvauti derybose, nes be bazinio dydžio sulygsta ir papildomu garantijų profesinių sąjungų nariams: papildomas atostogines dienas ir t.t.  Profesinėms sąjungoms dalyvavimas derybose - kančia, nes aršiai kovojant už BD, jas pradedama kritikuoti: antai žiūrėk, didinant BD keliamas ir Seimo narių atlyginimas. 
 
 O varge, o kad keliamas **proporcingai visų** atlyginimas (valstybės tarnautojų, Seimo darbuotojų, net ir tų pačių mokytojų!!!) - pamirštama. Tam, kad gauti norimas lengvatas savo profsąjungų nariams, profsąjungų atstovai derybose per daug nesišakoja ir dėl BD net nesistengia kovoti. Nuo to kenčia visi viešojo sektoriaus darbuotojai ir galų gale - visa valstybė.
 
-Kaip ir kiekvienais metais, šias derybas bandoma įslaptinti. Juk gėda būtų visuomenei matyti tą farsą! Vėl BD bus padidintas 1-2%. Daugumai viešojo sektoriaus darbuotojų, tai net neatsvers kainų augimo. 
+Kaip ir kiekvienais metais, šias derybas bandoma įslaptinti. Juk gėda būtų visuomenei matyti tą farsą! Vėl BD bus padidintas 1-2%. Daugumai viešojo sektoriaus darbuotojų, tai net neatsvers kainų augimo.
 O gink dieve, dar žurnalistai sugalvos klausimus užduot. O transliuojant, tai gal net "aršias derybas" teks imituoti? Kam tiek vargo?
 
 # Raštas SADM
