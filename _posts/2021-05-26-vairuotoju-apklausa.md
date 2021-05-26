@@ -5,14 +5,13 @@ author: Justas Mundeikis
 layout: post
 comments:   true
 citation:   false
-image:      /assets/2021/05/26/ban.jpeg
-thumbnail:  /assets/2021/05/26/thumb.ban.jpeg
+image:      /assets/2021/05/26/ban.png
+thumbnail:  /assets/2021/05/26/thumb.ban.png
 categories:
-  - Bazinis dydis
+  - Transportas
+  - Apklausa
 tags:
-  - SADM
-  - BD
-  - Nacionalinės kolektyvinės derybos
+  - Apklausa
 ---
 **Lietuvos transporto sektoriuje šiuo metu vyksta konfliktas: vienoje pusėje yra darbuotojai bei žurnalistai pasakojantys apie praktiškai vergovines darbo sąlygas, kitoje – darbdaviai, pretenzijas laikantys nepagrįstomis ir neva nesuprantantys, kodėl yra „puolami“.**<!--more-->
 
