@@ -15,7 +15,7 @@ tags:
  - Statistika
 ---
 
-**Jau esu analizavęs [VLK skelbiamą gydytojų ir slaugytojų darbo užmokesčio statistiką](https://lithuanian-economy.net/2020/06/13/kodel-mirsta-viesasis-sektorius-lietuvoje/). Problema su šia statistika, jog jie taip apibendrinta, jog daryti išvadas iš jos neįmanoma. Daug kas nustebs sužinoję, jog VLK duomenis apie ASP įstaigų atlyginimus gauna kiekvieną mėnesį ir gauna ne tik gydytojų ir slaugytojų, bet it kitų ASP paslaugas teikiančių specialistų, administracijos ir kitų darbuotojų darbo užmokesčio fondo, darbuotojų skaičiaus ir etatų skaičiaus įverčius. Manote jie skelbiami? Kol kas dar ne....**<!--more-->
+**Jau esu analizavęs [VLK skelbiamą gydytojų ir slaugytojų darbo užmokesčio statistiką](https://lithuanian-economy.net/2020/06/13/kodel-mirsta-viesasis-sektorius-lietuvoje/). Problema su šia statistika, jog ji taip apibendrinta, kad daryti prasmingas išvadas iš jos neįmanoma. Daug kas nustebs sužinoję, jog VLK duomenis apie ASP įstaigų atlyginimus gauna kiekvieną mėnesį ir gauna ne tik gydytojų ir slaugytojų, bet it kitų ASP paslaugas teikiančių specialistų, administracijos ir kitų darbuotojų darbo užmokesčio fondo, darbuotojų skaičiaus ir etatų skaičiaus įverčius. Manote jie skelbiami? Kol kas dar ne....**<!--more-->
 
 # VLK direktoriaus įsakymas
 
