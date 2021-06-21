@@ -41,7 +41,7 @@ Remiantis išankstiniais duomenimis galima drąsiai teigti, jog absoliuti daugum
 * **90.9 proc.** kitų šalių piliečiai-vairuotojai pritaria arba visiškai pritaria, jog Lietuvoje atlyginimai būtų mokami **tik** pavedimu
 
 
-## 2. Darbuotojai mano, jog mokėjimas grynais galimai sumažins darbdavių piktnaudžiavimą
+## 2. Darbuotojai mano, jog mokėjimas pavedimu galimai sumažins darbdavių piktnaudžiavimą
 
 Apklausoje taip pat buvo klausiama: *"Ar pritariate, jog atlyginimo ir dienpinigių pervedimas į sąskaitą sumažintų darbdavių piktaundžiavimą (pvz., neišmokamas visas, arba laiku nemokamas atlyginimas)?"*, į kurį respondentai galėjo atsakyti skalėje nuo 1-visiškai nepritariu, iki 5-visiškai pritariu.
 
