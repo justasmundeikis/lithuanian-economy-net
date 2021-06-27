@@ -57,7 +57,9 @@ SADM su viceministru V.Šilinsku priešakyje, kuris kovoja už darbuotojus, tik 
 
 ![](/assets/2021/06/27/sadm.png)
 
-Viešasis interesas, skaidrumas, demokratinės vertybės TS-LKD vyriausybėje - ![](/assets/2021/06/27/fy.jpeg).
+Viešasis interesas, skaidrumas, demokratinės vertybės TS-LKD vyriausybėje:
+
+![](/assets/2021/06/27/linus.gif)
 
 ## 1.3. Dirbančiųjų reakcija
 
