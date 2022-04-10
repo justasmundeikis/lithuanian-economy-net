@@ -142,11 +142,11 @@ Tačiau Ukrainai, norint jog kuo greičiau būtų nutrauktas karas, reikės ieš
 
 >"Statyk savo priešo atsitraukimui auksinius tiltus" - Sun Tzu
 
-Rizikinga dėl to, jog net atsitraukdami Rusijos kariais paliks milžiniškus nuostolius. Būtent taip vertinčiau civilių žudynes Butscha mieste. Tai buvo akivaizdus derybinių pozicijų ir Rusijos pusės pasiryžimo parodymas. Kad ir kaip skausmingai tai beskambėtų - derybinės taktikos dalis, turinti parodyti alternatyvius kaštus Kijevui, to "kautis iki galo".
+Rizikinga dėl to, jog net atsitraukdami Rusijos kariais paliks milžiniškus nuostolius. Būtent taip vertinčiau civilių žudynes Bucha mieste. Tai buvo akivaizdus derybinių pozicijų ir Rusijos pusės pasiryžimo parodymas. Kad ir kaip skausmingai tai beskambėtų - derybinės taktikos dalis, turinti parodyti alternatyvius kaštus Kijevui, to "kautis iki galo".
 
 ## Ukraina tarp blefo, paguodos ir kompromisų paieškos
 
-Netrukus Ukrainos prezidentas bus statomas į ganą keblią padėti - kiek galima aukoti Ukrainos žemės ir ekonominių interesų (pvz., narystė ES), siekiant išsaugoti Ukrainiečių gyvybes?  Ar šimtai, tūkstančiai žūstančių žmonių yra verti Krymo, Donbaso, kuriuos Ukraina ir taip jau de facto buvo praradusi? Kur yra Ukrainos „raudonoji linija“? Ar vilkinti derybas, tikintis įgauti pranašumą karo lauke ir atitinkamai stipresnes derybines galias? Tačiau vilkinimas yra brangus, tai jau parodė Butscha skerdynės.
+Netrukus Ukrainos prezidentas bus statomas į ganą keblią padėti - kiek galima aukoti Ukrainos žemės ir ekonominių interesų (pvz., narystė ES), siekiant išsaugoti Ukrainiečių gyvybes?  Ar šimtai, tūkstančiai žūstančių žmonių yra verti Krymo, Donbaso, kuriuos Ukraina ir taip jau de facto buvo praradusi? Kur yra Ukrainos „raudonoji linija“? Ar vilkinti derybas, tikintis įgauti pranašumą karo lauke ir atitinkamai stipresnes derybines galias? Tačiau vilkinimas yra brangus, tai jau parodė Bucha skerdynės.
 
 Be to, karui trunkant ilgai, su laiku dalis vakarų žmonių pripras prie konflikto, tai mažins spaudimą politikams, kurie gali pradėti patyliukais kreivai šnairuoti... skatinti Ukrainos prezidentą ieškoti kompromisų. Jeigu taip nutiktų, tai dabartinė gausi parama - Stinger,  NLAW granatsvaidžiai ir kita pagalba, kažkada gali pradėti sekti. Todėl vienas svarbiausiu Ukrainos valdžios prioritetų bus balansuoti tarp gerų žinių, kurios užtikrins vakarų palaikymą ir tarp blogų žinių, kurios padėtų sutelkti vakarus naujoms sankcijoms Rusijai.
 
@@ -166,7 +166,7 @@ Ukrainos prezidentas reikalavo lėktuvų bei tankų. Panašu, kad anksčiau ar v
 
 Gavo niuksą Kijevas ir dėl energetinių išteklių importo ribojimo. Vakarai panašu jog nėra nusteikę čia ir dabar griauti savo ekonomikas. Todėl taikomi nedideli, santykinai neskausmingi ribojimai.
 
-Gavęs šiuos niuksus, Zelenskis  pradėjo labiau laviruoti ir užsiminti apie galimą ne-narystę NATO bloke, bei galimybes atvirai diskutuoti ir spręsti rytų Ukrainos žemių gyventojų klausimus. Vienu metu jau skambėjo viskas taip, tarsi Kijevas buvo pasiryžęs daryti reikšmingas nuolaidas.  Bet privertus rusų kariuomenę trauktis, panašu kad [pasijautė įgavę daugiau derybinių galių](https://www.bbc.com/russian/news-61025548). Tai matydama Maskva iškart pasistengė grąžinti Kijevą į realybę (Butscha skerdynės).
+Gavęs šiuos niuksus, Zelenskis  pradėjo labiau laviruoti ir užsiminti apie galimą ne-narystę NATO bloke, bei galimybes atvirai diskutuoti ir spręsti rytų Ukrainos žemių gyventojų klausimus. Vienu metu jau skambėjo viskas taip, tarsi Kijevas buvo pasiryžęs daryti reikšmingas nuolaidas.  Bet privertus rusų kariuomenę trauktis, panašu kad [pasijautė įgavę daugiau derybinių galių](https://www.bbc.com/russian/news-61025548). Tai matydama Maskva iškart pasistengė grąžinti Kijevą į realybę (Bucha skerdynės).
 
 Kaip Kijevas laviruos per šitą minų lauką - nežinau. Tai tikrai be galo sudėtinga situacija.
 
