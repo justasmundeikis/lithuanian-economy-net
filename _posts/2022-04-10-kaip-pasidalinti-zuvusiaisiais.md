@@ -142,7 +142,7 @@ Tačiau Ukrainai, norint jog kuo greičiau būtų nutrauktas karas, reikės ieš
 
 >"Statyk savo priešo atsitraukimui auksinius tiltus" - Sun Tzu
 
-Rizikinga dėl to, jog net atsitraukdami Rusijos kariais paliks milžiniškus nuostolius. Būtent taip vertinčiau civilių žudynes Bucha mieste. Tai buvo akivaizdus derybinių pozicijų ir Rusijos pusės pasiryžimo parodymas. Kad ir kaip skausmingai tai beskambėtų - derybinės taktikos dalis, turinti parodyti alternatyvius kaštus Kijevui, to "kautis iki galo".
+Rizikinga dėl to, jog net atsitraukdami Rusijos kariai paliks milžiniškus nuostolius. Būtent taip vertinčiau civilių žudynes Bucha mieste. Tai buvo akivaizdus derybinių pozicijų ir Rusijos pusės pasiryžimo parodymas. Kad ir kaip skausmingai tai beskambėtų - derybinės taktikos dalis, turinti parodyti alternatyvius kaštus Kijevui, to "kautis iki galo".
 
 ## Ukraina tarp blefo, paguodos ir kompromisų paieškos
 
