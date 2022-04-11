@@ -130,9 +130,9 @@ Faktinė situacija privertė Putiną manevruoti, jeigu jau ne Kijevas, tai bent 
 
 Dar svarbiau nei teritorijos - kažkoks faktinis dokumentas, kuriame bus parašyta, jog Ukraina niekada nestos į NATO, na bent per sekančius kelis šimtus metų, arba kol Rusija pati netaps NATO nare...
 
-Juokas juokais, bet...
+Juokas juokais, bet 2000 metais...
 
-> “Putin said: ‘When are you going to invite us to join Nato?’ - [Putinas 2000-aisiais](https://www.theguardian.com/world/2021/nov/04/ex-nato-head-says-putin-wanted-to-join-alliance-early-on-in-his-rule)
+> “Putin said: ‘When are you going to invite us to join Nato?’ - [Šaltinis: Putinas theguardian.com](https://www.theguardian.com/world/2021/nov/04/ex-nato-head-says-putin-wanted-to-join-alliance-early-on-in-his-rule)
 
 Manau daug kas laiko šį punktą menkaverčiu, bet manau, jis Putinui bus vertas atiduoti ir truputi dabar paimtos teritorijos. Bet kad nebūtų gaila kažko atiduoti, pirma bus bandoma kuo galima daugiau pagrobti.
 
@@ -178,7 +178,7 @@ Kinijai taip pat svarbu matyti, kaip vakarai elgsis su atomine Rusija - siųs sa
 
 Rusijos - Ukrainos karo išvados aiškios: "Ukraina nepriklauso NATO, todėl NATO savo karių į Ukrainą nesiųs.
 
->But putting troops on the ground in Ukraine, which is not a member of NATO, is a line that the US and other Western allies have not been willing to cross. US Ambassador to the United Nations Linda Thomas-Greenfield told CNN's Dana Bash on "State of the Union" on Sunday that the Biden administration "has made clear" the US will not "put boots on the ground.". "We're not going to put American troops in danger," she said. [CNN](https://edition.cnn.com/2022/02/27/politics/us-troops-ukraine-russia-what-matters/index.html)
+>But putting troops on the ground in Ukraine, which is not a member of NATO, is a line that the US and other Western allies have not been willing to cross. US Ambassador to the United Nations Linda Thomas-Greenfield told CNN's Dana Bash on "State of the Union" on Sunday that the Biden administration "has made clear" the US will not "put boots on the ground.". "We're not going to put American troops in danger," she said. [Šaltinis: cnn.com](https://edition.cnn.com/2022/02/27/politics/us-troops-ukraine-russia-what-matters/index.html)
 
 NATO, t.y. JAV,  niekada neskelbs karo dėl svetimos šalies atominei supergalybei.  Matant NATO baimes tiekti naikintuvus ir gauti atsakomuosius smūgius ir galimai turėti ginti NATO rytų flangą ne žodžiais o veiksmais - irgi gana aiški indikacija, jog dabar išlaikoma [dviprasmybė dėl to, kaip JAV elgtųsi dėl Taivano](https://www.hoover.org/research/strategic-ambiguity-and-defense-taiwan), nebėra tokia jau dviprasmiška.
 
@@ -251,7 +251,7 @@ AfD pradės irgi dainuoti "Bundestag here I come..."
 
 AfD Vokietijoje, Le Penne Prancūzijoje?
 
->The National Rally’s Marine Le Pen, who faced off against Macron in the second round in 2017, is likely headed for another runoff. She has hinted that this presidential campaign will be her last — and it looks like she will make it count. Her campaign, centered around the cost of living and economic hardship, struck a chord amid rocketing energy prices caused by the Ukraine war.[politico.eu](https://www.politico.eu/article/watch-french-presidential-election-2022-like-a-pro/)
+>The National Rally’s Marine Le Pen, who faced off against Macron in the second round in 2017, is likely headed for another runoff. She has hinted that this presidential campaign will be her last — and it looks like she will make it count. Her campaign, centered around the cost of living and economic hardship, struck a chord amid rocketing energy prices caused by the Ukraine war. [Šaltinis: politico.eu](https://www.politico.eu/article/watch-french-presidential-election-2022-like-a-pro/)
 
 Kremliaus  rėžimas bandė remti šiuos judėjimus - bet nepasiekė reikšmingos pergalės. Dabar patys Vokietijos ir Prancūzijos politikai turi padėti savo rankomis į valdžią patekti Putino statytinius?
 
