@@ -293,7 +293,7 @@ Kalbant apie karo nusikaltimus... Nelabai mūsų visuomenei terūpėjo, kai prad
 
 Ką dabar žudo mūsų kariai Malije? Kaip ten "gina" Lietuvos interesus, vargu ar iš tiesų žinome ir suprantame.
 
-"Putiną reikia į Hagos tribunolą čia ir dabar", tik kas taip rėkia, nepagalvoja, kad G.W.Bush, T.Blair ir V.Adamkų reiktų kartu ten siųst. Pirmas lietuvis prezientas baudžiamas už prisidėjimą prie karo nusikaltimų Irake. Na bet juk visad yra pirmas kartas. Taip kad ne, gal visgi nepaisant didelių pareiškimų, vakarų politikai realiai nebandys pagauti ir teisti Putino. Nes jeigu galingų valstybių politikų kastoje nebeliks neliečiamųjų, tai niekada negali žinoti, kada išauš ir tavo rytas... (arba nebe išauš...).
+"Putiną reikia į Hagos tribunolą čia ir dabar", tik kas taip rėkia, nepagalvoja, kad G.W.Bush, T.Blair ir V.Adamkų reiktų kartu ten siųst. Pirmas lietuvis prezientas baudžiamas už prisidėjimą prie [karo nusikaltimų Irake](https://en.wikipedia.org/wiki/Iraq_War#War_crimes). Na bet juk visad yra pirmas kartas. Taip kad ne, gal visgi nepaisant didelių pareiškimų, vakarų politikai realiai nebandys pagauti ir teisti Putino. Nes jeigu galingų valstybių politikų kastoje nebeliks neliečiamųjų, tai niekada negali žinoti, kada išauš ir tavo rytas... (arba nebe išauš...).
 
 ![](/assets/2022/04/10/sadam.jpeg)
 
