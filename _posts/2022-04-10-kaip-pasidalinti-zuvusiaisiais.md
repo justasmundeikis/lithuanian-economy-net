@@ -195,7 +195,6 @@ Išvada, manau pagal šią Fugees dainą:
 
 >"Ready Or Not, Here I Come, You Can't Hide, Gonna Find You and Take it Slowly". [Fugees daina youtube](https://youtu.be/aIXyKmElvv8)
 
-
 Na ir pabaigai, Kinija tik to ir tenori, kad ES ir JAV skelbtų embargus ir sankcijas Rusijai. Kuo jų daugiau, tuo labiau Rusija taps priklausoma nuo prekybos su Kinija, tuo labiau Kinijos juanis pradės perimti pasaulinės atsiskaitymo valiutos statusą. Jau dabar [Kinijos išplėtotas atsiskaitymo mechanizmas CIPS](https://en.wikipedia.org/wiki/Cross-Border_Interbank_Payment_System) sąlygojo, kad Kinai už energetinius išteklius Rusijai pradeda atsiskaityti nebe doleriais. Kuo stipresni embargai Rusijai, Iranui ir t.t., tuo labiau stiprėja Kinijos, kaip centrinės Azijos finansų rinkų ir ekonomikos galios centro, vaidmuo. Kartu tai reikš ir dvipolinės sistemos pasaulyje  susidarymą. Juokingiausia, jog tada nacionalinių interesų vedama ES, išvis liks už borto.
 
 ![](/assets/2022/04/10/intro.png)
@@ -280,7 +279,7 @@ Pamirštame ir viena detalę, rusiška urals nafta, pigesnė, atitinkamai, Orlen
 
 Tai jog dabartinė Vyriausybė ir juo labiau patys Seimo nariai nesiūlo didinti progresinių mokesčių tarifų daugiausiai uždirbantiems, ar bendrai didinti pelno mokesčio - tai arba skolinsimės, arba eilinį kartą atimsime iš medikų, mokytojų ir pensininkų. Įdomu, ką kariuomenė ilguoju periodu gins? Lietuvoje dirbančius ukrainiečių gydytojus, baltarusių mokytojus ir kazachstaniečių tolimųjų  reisų sunkvežimių vairuotojus?
 
-Dar geriau pigų populizmą demonstruoja tai pačiai TS-LKD priklausantis politikas [J.Razma, siūlydamas baudžiamojo kodekso ribose persekioti ir de facto „sodinti“ tuos, kurie pasisako UŽ Rusijos karą Ukrainoje](https://www.15min.lt/naujiena/aktualu/lietuva/seimo-vicepirmininkas-j-razma-siulo-kriminalizuoti-karo-propaganda-56-1650688). Rusijoje sodins, jeigu karą vadini karu, o Lietuvoje, jeigu tą karą palaikai. Tiesiog mūsų ideologija yra „teisinga“ o jų ne?
+Dar geriau pigų populizmą demonstruoja tai pačiai TS-LKD priklausantis politikas [J.Razma, siūlydamas baudžiamojo kodekso ribose persekioti ir de facto „sodinti“ tuos, kurie pasisako UŽ Rusijos karą Ukrainoje](https://www.15min.lt/naujiena/aktualu/lietuva/seimo-vicepirmininkas-j-razma-siulo-kriminalizuoti-karo-propaganda-56-1650688). Rusijoje sodins, jeigu esi PRIEŠ karą, o Lietuvoje, jeigu esu UŽ. Tiesiog mūsų ideologija yra „teisinga“ o jų ne?
 
 Taip, aš sutinku, neskoninga yra neigti holokaustą, garbinti ir šlovinti Hitlerį. Bet taip galvojantys žmonės yra mūsų kapitalistinės (ne)sistemos pasekmė. Pasekmė to, jog žmonės jaučia milžinišką atotrūkį tarp tų kurie turi viską ir tų, kurie neturi nieko. Kai žmonės prarandą viltį, jie atsigręžia į religiją, dieviška, arba politinę. Kaltinti juos už tai, kad TU 30 metų esi politikoje ir tau valdant šalį atsiranda žmonių palaikančių karą, man atrodo mažų mažiausia koktu. Dar kokčiau darosi, žinant kiek metų Lietuvos politikai ignoravo nevalstybinių organizacijų  šaukimus, jog Lietuvos kalėjimo sistemai reikalinga reforma, jog mes tiesiog uždarome žmones, o ne sudarome jiems galimybę keistis ir grįžti į visuomenę. Bet taip, sodinkime dar daugiau. Pirma už suktinę, dabar už Z raidę, o rytoj jau už kritišką mintį? Orweliški 1984 ieji...
 
