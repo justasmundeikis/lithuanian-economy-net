@@ -213,7 +213,7 @@ Dabartinis karas Ukrainoje ir vis plaučiau skelbiamos sankcijos Rusijos energet
 
 Dabar JAV skelbia atsisakiusi naftos ir dujų importo iš Rusijos, kas sudaro apie 6-7 proc. viso JAV importo. Atitinkamai JAV planuoja didinti importą iš kitų šalių. Bet ažiotažas geras - žmonės visur pradeda kvestionuoti, ar neturėtų ir ES kolektyviai daryti to paties. JAV prezidentas net pažada didinti JAV skalūnų dujų gavybą ir tiekimą į ES. Skalūnų dujų naudojimas brangintų produkciją ES, o tai mažintų ES produkcijos tarptautinį konkurencingumą. Skalūnų dujų gavybos žala aplinkai - kam rūpi aplinka, kai akyse tau doleriai žaliuoja?
 
-Taigi: JAV tampa konkurencingesnė, JAV uždirba iš dujų eksporto į ES, JAV uždirba iš karo pramonės (NATO šalių planuojami gynybų biudžetų didinimai, vien 700 mln iš LT?) ir JAV vėl perima lyderystę pasaulinėje politikoje. Win-win-win-win... $-$-$-$-$. Kad Europos politikai tokiu savo "partnerių" gerumu nėra pernelyg sužavėti, manau nestebina :D
+Taigi: JAV tampa konkurencingesnė, JAV uždirba iš dujų eksporto į ES, JAV uždirba iš karo pramonės (NATO šalių planuojami gynybų biudžetų didinimai, vien 800 mln iš LT? Iš kur gi mes Stinger raketas pirksime?) ir JAV vėl perima lyderystę pasaulinėje politikoje. Win-win-win-win... $-$-$-$-$. Kad Europos politikai tokiu savo "partnerių" gerumu nėra pernelyg sužavėti, manau nestebina :D
 
 Na ir suprantama, JAV kariškių interesas... Per paskutinius 20 metų, JAV vykdė karo veiksmus - Afganistane, Irake... visur iš esmės prieš sau nelygius, su sandalais lakstančius religinius fanatikus. Pašaudai į jų pusę, užsisakai kad B52 pristatytų metro tikslumu krentančias bombas ir valio, „sandalinių“ nebėra. Dar geriau, be jokio teismo, be įrodimų iš dronų sprogdini menamus "teroristus" ginančius savo šalį nuo okupantų...  
 Per paskutinius 20 metų  susiformavusi JAV karo patirtis akivaizdžiai yra pasenusi ir [nebetinkama karui su „lygiaverčiu“ priešu](https://www.military.com/daily-news/2019/04/22/most-army-squads-falling-short-infantry-skills-reports-find.html), tad dabartinis karas, yra tiesiog nuostabus informacijos šaltinis apie potencialaus priešo faktinius gebėjimus, naujausią taktiką ir t.t.
@@ -289,7 +289,7 @@ Taip, aš sutinku, neskoninga yra neigti holokaustą, garbinti ir šlovinti Hitl
 
 <div style="position: relative; overflow: hidden; padding-top: 50%;"><iframe style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0;" src="https://www.youtube.com/embed/CwwP3SiBIC8"  frameborder='0' scrolling='no' allowfullscreen></iframe></div>
 
-Kalbant apie karo nusikaltimus... Nelabai mūsų visuomenei terūpėjo, kai pradėjome karą Afganistane ir Irake, kur prisidengdami diktatoriaus nuvertimu, atsiprašau, "specialia operacija išlaisvinti Irako tautą", masinio naikinimo ginklų paieška ir t.t. aneksavome de facto suverenią valstybę, nužudėme politinius lyderius ir taip netyčiukais - tarp pusės ir vieno milijono irakiečių civilių... Uuuuppssss...
+Kalbant apie karo nusikaltimus... Nelabai mūsų visuomenei terūpėjo, kai pradėjome karą Afganistane ir Irake, kur prisidengdami diktatoriaus nuvertimu, atsiprašau, "specialia operacija išlaisvinti Irako tautą", masinio naikinimo ginklų paieška ir t.t. aneksavome de facto suverenią valstybę, nužudėme politinius lyderius ir taip netyčiukais - [tarp kelių šimtų tūkstančių ir vieno milijono irakiečių civilių](https://en.wikipedia.org/wiki/Casualties_of_the_Iraq_War)... Uuuuppssss...
 
 Ką dabar žudo mūsų kariai Malije? Kaip ten "gina" Lietuvos interesus, vargu ar iš tiesų žinome ir suprantame.
 
