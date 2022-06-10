@@ -1,5 +1,5 @@
 ﻿---
-title: "Bilkšytė vs Mundeikis @LRT Ringas"
+title: "Bilkštytė vs Mundeikis @LRT Ringas"
 date: 2021-12-31 10:00:00 +03:00
 author: Justas Mundeikis
 layout: post
@@ -18,7 +18,7 @@ tags:
   -
 ---
 
-**Marius Jokūbaitis pakvietė paskutinę šių metų dieną pasirungti su Finansų ministerijos viceministre Rūta Bilkšyte. Iškelta tezė - ar šie metai tikrai buvo geriausi. Nors tikrai turiu sutikti, jog žiūrint globaliai arba makroekonomikos kampu viskas tik gerėja, problema kaip visada, jog gėrėjimas yra netolygus ir labiausiai netolygus jis mūsų visuomenės gerovės stuburui - viešajam sektoriui. Tad šioje laidoje kalbėjome apie MMA, bazinio dydžio didinimą, valstybės negebėjimą mokėti atlyginimus, mažą mokestinį perskirstymą bei mokesčių reformas 2022m. Labai tikiuosi, jog viceministrė užtikrins, kad nuo sekančių metų FinMin pradės nurodyti mokesčių ir BVP santykį savo ekonominės prognozėse ir taip ištęsės ex ministro V.Šapokos pažadą.**<!--more-->
+**Marius Jokūbaitis pakvietė paskutinę šių metų dieną pasirungti su Finansų ministerijos viceministre Rūta Bilkštyte. Iškelta tezė - ar šie metai tikrai buvo geriausi. Nors tikrai turiu sutikti, jog žiūrint globaliai arba makroekonomikos kampu viskas tik gerėja, problema kaip visada, jog gėrėjimas yra netolygus ir labiausiai netolygus jis mūsų visuomenės gerovės stuburui - viešajam sektoriui. Tad šioje laidoje kalbėjome apie MMA, bazinio dydžio didinimą, valstybės negebėjimą mokėti atlyginimus, mažą mokestinį perskirstymą bei mokesčių reformas 2022m. Labai tikiuosi, jog viceministrė užtikrins, kad nuo sekančių metų FinMin pradės nurodyti mokesčių ir BVP santykį savo ekonominės prognozėse ir taip ištęsės ex ministro V.Šapokos pažadą.**<!--more-->
 
 # Laidos įrašas
 
